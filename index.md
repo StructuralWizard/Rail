@@ -5,9 +5,9 @@ nav_order: 1
 ---
 
 
-# 👋 ¡Bienvenido al Desafío **10 Días de Código**!
+# 👋 Welcome to Rail Aprentice to Expert**
 
-🌐 **Entiende la Web. Domina Python. Construye con IA.**
+🌐 **Learn from Zero, Refresh your knowledge and get up the latest Industry advancements**
 
 ![play](play.png) Míralo en el Canal de Youtube [10 Días de Python con IA] 🎬
 
