@@ -4,12 +4,12 @@ The goal of this wiki repository is to contain an open source knowledge base of 
 
 It is intended to be structured, concise, practical, community reviewed and open source. This way it will add the value off being a refference for newcommers who want direction as a start, proffessionals who need refreshment and practical refferences, and those looking for the latest updates. Contributions in this direction are welcolme.  
 
-To see this Wiki you don't need to install anything, simply visit the web [Rail Apprentice to Expert]
+To see this Wiki you don't need to install anything, simply visit the web [Rail Apprentice to Expert Website]
 
 If you would like to contribute please see [CONTRIBUTING.md]. 
 
 
 ----
-[Rail Apprentice to Expert]: https://structuralwizard.github.io/Rail/
+[Rail Apprentice to Expert Website]: https://structuralwizard.github.io/Rail/
 [CONTRIBUTING.md]: https://github.com/StructuralWizard/Rail/blob/main/CONTRIBUTING.md
 

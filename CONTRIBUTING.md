@@ -22,6 +22,14 @@ You can edit files using any text editor or IDE.
 - **Simple**: Notepad (Windows), TextEdit (Mac).
 - **Recommended**: [Visual Studio Code (VS Code)](https://code.visualstudio.com/). It has great integration with Git and GitHub.
 
+**Recommended VS Code Extensions:**
+- **[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)**: AI-powered code completion and suggestions.
+- **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)**: Work with Jupyter Notebooks directly in VS Code.
+- **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)**: Enhanced markdown preview with support for LaTeX, diagrams, and more.
+- **[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)**: Essential for Python development, debugging, and linting.
+- **[LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)**: Full LaTeX support for editing and compiling `.tex` files.
+
+
 **Learn More:**
 - [Video: How to use GitHub with VS Code](https://www.youtube.com/watch?v=i_23KUAEtUM)
 

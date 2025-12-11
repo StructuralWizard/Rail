@@ -3,71 +3,32 @@ title: Inicio
 layout: home
 nav_order: 1
 ---
+# 👋 Welcome to *Rail Apprentice to Expert*
 
-
-# 👋 Welcome to Rail Aprentice to Expert**
-
-🌐 **Learn from Zero, Refresh your knowledge and get up the latest Industry advancements**
-
-![play](play.png) Míralo en el Canal de Youtube [10 Días de Python con IA] 🎬
+🌐 Learn from scratch, refresh your experience, and stay up to date with the latest advances in railway engineering.
 
 ---
 
-## 🚀 ¿De Qué se Trata Todo Esto?
+## 🚄 What will you find here?
 
-**¿Te sientes perdido en tu código? ¿Cansado de copiar y pegar soluciones que no entiendes?**
-No estás solo — y acabas de llegar al lugar correcto.
-
-**10 Días de Código** *no* es solo otro tutorial. Es una hoja de ruta para mentes curiosas que quieren:
-
-- ⚙️ Entender cómo funciona realmente **internet**
-- 🐍 Escribir código limpio y seguro en **Python**
-- 🌍 Construir aplicaciones modernas con **frameworks web** como Django y Flask
-- 🤖 Aprovechar el poder de las herramientas y APIs de **Inteligencia Artificial**
-- 🧠 Aprender a **depurar, editar y hacer crecer** tus proyectos como un profesional
-
-Esto es para los **programadores de la nueva era** — creativos, pensadores, ingenieros y exploradores — que quieren construir cosas inteligentes y divertirse haciéndolo.
+- **Guided course**: structured content in levels from fundamentals to operations optimization and predictive maintenance.
+- **Technical blog**: fresh articles on innovation in signaling, electrification, and railway sustainability.
+- **Active community**: practical exercises, GitHub challenges, and discussions with experienced professionals.
 
 ---
 
-## 🧑‍💻 ¿Para Quién es Esto?
+## 🚀 Ready to move forward?
 
-Este desafío es perfecto si:
+1. Review the module index and choose your starting point.
+2. Download roadmaps and templates from the resources section.
+3. Share your progress in the community and request technical feedback.
 
-- Has empezado a programar pero te sientes abrumado por todo
-- Quieres dejar de depender de tutoriales y empezar a entender
-- Estás entusiasmado con la IA pero no sabes por dónde empezar
-- Aprendes mejor **haciendo**, no solo mirando
-
----
-
-## 💡 ¿Qué te Llevarás?
-
-- ✅ Un proyecto funcional que podrás mostrar con orgullo
-- ✅ Un sólido entendimiento de Python, aplicaciones web y los fundamentos de la IA
-- ✅ Confianza para depurar, construir y seguir aprendiendo
-- ✅ Una nueva forma de pensar como un desarrollador moderno
+💬 Want to [contribute] to this repository? Comment on [issues], edit, and submit a pull request.
 
 ---
-
-## 👇 ¿Listo para Empezar?
-
-Dirígete a [**Día 1: Entiende tu código. Aventura en Python: 🧟‍♂️ Laberinto de Monstruos**] o suscríbete a los [10 Días de Python con IA] y empecemos.
-
-No necesitas ser perfecto. Solo necesitas empezar.
-Programemos con propósito. Construyamos con alma.
-
----
-
-**✨ Bienvenido a la tribu, mago.**
-Hagámoslo.
-
-> Hecho con ❤️ por [Structural Wizard] usando el tema [Just the Docs] en [Jekyll].
-
-----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [Jekyll]: https://jekyllrb.com
-[10 Días de Python con IA]: https://youtube.com/@10diasdepythonconia?si=WBjCQ5O0CzIxm8Mg
-[Structural Wizard]: https://github.com/StructuralWizard/ 
-[**Día 1: Entiende tu código. Aventura en Python: 🧟‍♂️ Laberinto de Monstruos**]: https://structuralwizard.github.io/10DiasDePython_es.github.io/docs/Day1/
+[issues]: (https://github.com/StructuralWizard/Rail/issues) 
+[contribute]:  https://github.com/StructuralWizard/Rail/blob/main/CONTRIBUTING.md
+
