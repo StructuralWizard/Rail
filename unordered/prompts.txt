@@ -1,0 +1,93 @@
+using all your references could you create a lesson explaining how the geometry of the railway track is designed. Please, provide an introduction, explain the general concepts of centrifugal force and acceleration, cant, cant deficiency and excess. Explain the design parameters (speed, safety and comfort) as per ADIF, Network Rail and HS2 as per their standards.
+Explain plan alignment design, the different math formula and minimum, maximum and preferred parameters for the different standards, speeds, etc,
+Explain vertical alignment design, inclination and acceleration limits, sudden changes of vertical acceleration, etc
+Explains the limits for interoperability of all these parameters.
+
+using all your references could you create a lesson explaining the following topics from the perspective of ADIF, Network Rail and HS2 standards:
+- Definition of track, track types functions and parts
+- Static/Dynamic forces
+- Calculation considering dynamic effects
+- Track resistance
+- Track deformation
+- Rails: requirements, production, types, composition, mechanical properties, rail forms, lenghts, noise, ultrasonic rail testing, rail calculation, wear behaviour, welding, rail defects, treatment
+- Rail fastenings: CEN standards, effective forces, rigid vs elastic fastenings, rail pads, fastenings design, 
+- Sleepers: wooden vs steel vs concrete sleepers, purpose, calculation, lateral and longitudinal resistance
+- Ballast and ballast bed: requirements, properties, cleaning, dimensions, restoration, 
+- Track formation: bearing capacity, drainage, 
+
+Ballasted track:
+- properties
+- track quality
+- deformation
+- vibration speed and dynamic settlement behaviour
+- bearing capacity of ballast bed
+- lateral displacement resistance
+- critical speed of permanent way
+- development of fines
+- distribution of fines in ballast bed
+- ballasted track with cross sleepers
+- ballasted track for high speed lines
+
+Ballasted track:
+- Thicknesses of ballast and subballast layer layer
+- Ballast sections and its parts
+- Ballast properties:
+	* material
+	* properties
+	* requirements
+	* tests
+	* cleaning
+- Sleepers:
+	* wooden vs steel vs composite vs concrete sleepers, 
+	* purpose, 
+	* calculation, 
+	* lateral and longitudinal resistance
+- Fasteners:
+	* Functions
+	* Types (rigid and ellastic ) and models
+	* Elements
+
+
+- Joints:
+	* reason
+	* position
+	* types clasification
+	* working mechanisim and fishplates
+
+- Continuous Welded Rail:
+	* restrained expansion
+	* breaking
+	* anchoring
+	* welding
+	* stress free temperature
+	* CWR failures
+
+- ballasted track behaviour:
+	* deformation
+	* vibration speed and dynamic settlement behaviour
+	* noise
+	* bearing capacity of ballast bed
+	* lateral displacement resistance
+	* critical speed of permanent way
+	* development of fines
+	* distribution of fines in ballast bed
+
+Slab track
+- properties
+- requirements
+- slabtrack in tunnel
+- slabtrack on earth structures
+- slabtrack over viaducts
+- comparison between ballasted track and slab track
+- design types
+
+
+Wheel rail interaction
+- dynamics of vehicle movement
+- contact between wheel and rail
+- vehicle defects
+- rail vehicle noise
+- tilting trains
+- vehicle monitoring
+
+

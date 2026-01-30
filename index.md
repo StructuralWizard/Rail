@@ -29,6 +29,6 @@ nav_order: 1
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [Jekyll]: https://jekyllrb.com
-[issues]: (https://github.com/StructuralWizard/Rail/issues) 
+[issues]: https://github.com/StructuralWizard/Rail/issues 
 [contribute]:  https://github.com/StructuralWizard/Rail/blob/main/CONTRIBUTING.md
 

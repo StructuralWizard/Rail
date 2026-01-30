@@ -25,6 +25,9 @@ docs/Day0/
 # Ignore any slides folders
 slides/
 
+# Ignore bibliography files
+biblio/
+
 # Environment files
 .venv
 .env
