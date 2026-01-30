@@ -3,13 +3,19 @@ description: Una guía de inicio rápido para programadores de Vibe sin experien
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+# baseurl: "/Rail"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "English": "/en/"
+  "Español": "/es/"
+
+permalink: pretty
 
 # External navigation links
 nav_external_links:
-  - title: "🐍 EJEMPLOS DE CÓDIGO EN PYTHON"
+  - title: "🐍 PYTHON CODE EXAMPLES"
+    translation_key: python_code_examples  # Key from _data/translations.yml
     url: https://github.com/StructuralWizard/10DiasDePython_es.github.io/tree/main/_python_code
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false

@@ -1,0 +1,11 @@
+{%- comment -%}
+  Custom title.html with multilingual support.
+  Uses translations from _data/translations.yml based on page.lang
+{%- endcomment -%}
+{%- assign current_lang = page.lang | default: "en" -%}
+{%- assign t = site.data.translations[current_lang] -%}
+{% if site.logo %}
+  <div class="site-logo" role="img" aria-label="{{ t.site_title | default: site.title }}"></div>
+{% else %}
+  {{ t.site_title | default: site.title }}
+{% endif %}

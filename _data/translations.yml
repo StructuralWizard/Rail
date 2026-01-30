@@ -1,0 +1,58 @@
+# Multilingual translations for Just the Docs
+# Usage: site.data.translations[page.lang].key
+
+en:
+  # Site
+  site_title: "Rail Apprentice to Expert"
+  site_description: "A quick start guide for Vibe programmers with no coding experience"
+  
+  # Search
+  search_placeholder: "Search"
+  
+  # Navigation
+  skip_to_main: "Skip to main content"
+  toggle_menu: "Toggle menu"
+  
+  # Footer
+  back_to_top: "Back to top"
+  footer_text: "This site uses"
+  footer_link_text: "Just the Docs"
+  footer_suffix: ", a documentation theme for Jekyll."
+  
+  # External links
+  external_link: "(external link)"
+  python_code_examples: "🐍 PYTHON CODE EXAMPLES"
+  
+  # Table of contents
+  toc_heading: "Table of contents"
+  
+  # Children navigation
+  on_this_page: "On this page"
+
+es:
+  # Site
+  site_title: "10 Días De Python con IA"
+  site_description: "Una guía de inicio rápido para programadores de Vibe sin experiencia en codificación"
+  
+  # Search
+  search_placeholder: "Buscar"
+  
+  # Navigation
+  skip_to_main: "Ir al contenido principal"
+  toggle_menu: "Alternar menú"
+  
+  # Footer
+  back_to_top: "Volver arriba"
+  footer_text: "Este sitio usa"
+  footer_link_text: "Just the Docs"
+  footer_suffix: ", un tema de documentación para Jekyll."
+  
+  # External links
+  external_link: "(enlace externo)"
+  python_code_examples: "🐍 EJEMPLOS DE CÓDIGO EN PYTHON"
+  
+  # Table of contents
+  toc_heading: "Tabla de contenidos"
+  
+  # Children navigation
+  on_this_page: "En esta página"
