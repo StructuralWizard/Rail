@@ -7,8 +7,8 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-  "English": "/en/"
-  "Español": "/es/"
+  "English": "/Rail/en/" # /en/ to work in local and /Rail/en/ to work in GitHub Pages
+  "Español": "/Rail/es/" # /es/ to work in local and /Rail/es/ to work in GitHub Pages
 
 permalink: pretty
 
