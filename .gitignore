@@ -16,8 +16,6 @@ package.json
 .bundle/
 vendor/
 
-# Ignore folders for mermaid diagrams
-assets/
 
 # Ignore template folder
 docs/Day0/

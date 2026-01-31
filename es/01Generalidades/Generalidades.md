@@ -8,7 +8,7 @@ parent: Inicio
 ---
 
 ## Contenidos del tema
-![screenshot](/assets/images/Screenshot 2026-01-31 084633.png)
+
 Este material académico aborda de forma integral los aspectos fundamentales del transporte ferroviario contemporáneo, estructurándose en torno a los siguientes ejes temáticos:
 
 - Historia del Ferrocarril
