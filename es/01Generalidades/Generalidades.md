@@ -8,7 +8,7 @@ parent: Inicio
 ---
 
 ## Contenidos del tema
-![screenshot](Screenshot 2026-01-31 084633.png)
+![screenshot](/assets/images/Screenshot 2026-01-31 084633.png)
 Este material académico aborda de forma integral los aspectos fundamentales del transporte ferroviario contemporáneo, estructurándose en torno a los siguientes ejes temáticos:
 
 - Historia del Ferrocarril
@@ -43,30 +43,30 @@ Los antecedentes tecnológicos revelan que:
 - **Rueda y eje montado**: la rueda más antigua encontrada datan del año 3,100-3,350 a.C., encontrados en  **Ljubljana Marshes Wheel** en Slovenia en 2002.  
 - **Ancho de vía inicial**: su definición original respondía al espacio requerido para el tiro de parejas de animales de tiro, que posteriormente estandarizó el ancho de vía mediante surcos naturales en antiguos caminos
 
-![e8d78e43094116a9c4ea84e305310d1d_MD5](e8d78e43094116a9c4ea84e305310d1d_MD5.webp)
- **Ljubljana Marshes Wheel**
- 
+![e8d78e43094116a9c4ea84e305310d1d_MD5](/assets/images/e8d78e43094116a9c4ea84e305310d1d_MD5.webp)
+ **Ljubljana Marshes Wheel**
+ 
 ### Tipologías de sistemas de guiado
 
 A través de la historia del transporte sobre vías, se han desarrollado diferentes soluciones técnicas para garantizar el guiado adecuado de los vehículos:
 
-![adff9cbd24e9b33d3a3681a575601cb9_MD5](adff9cbd24e9b33d3a3681a575601cb9_MD5.webp)
+![adff9cbd24e9b33d3a3681a575601cb9_MD5](/assets/images/adff9cbd24e9b33d3a3681a575601cb9_MD5.webp)
 [Guiado por ranura](https://tecnica-vialibre.es/documentos/Libros/PrehistoriaFerrocarril.pdf)
 
-![69f974241927ebb03c9d35b07a32520a_MD5](69f974241927ebb03c9d35b07a32520a_MD5.webp)
+![69f974241927ebb03c9d35b07a32520a_MD5](/assets/images/69f974241927ebb03c9d35b07a32520a_MD5.webp)
 [Guiado por carril](https://tecnica-vialibre.es/documentos/Libros/PrehistoriaFerrocarril.pdf)
 
 
-![60c3be0eb84ced833144d437385d1c62_MD5](60c3be0eb84ced833144d437385d1c62_MD5.webp|700x416)
+![60c3be0eb84ced833144d437385d1c62_MD5](/assets/images/60c3be0eb84ced833144d437385d1c62_MD5.webp)
 Monorrail
 
-![a309de23941790c3a315ad87100f2da4_MD5](a309de23941790c3a315ad87100f2da4_MD5.webp)
+![a309de23941790c3a315ad87100f2da4_MD5](/assets/images/a309de23941790c3a315ad87100f2da4_MD5.webp)
 Guiado por pestaña
 
-![7b3eb95271b41f0e89605319208bb4cb_MD5](7b3eb95271b41f0e89605319208bb4cb_MD5.webp)
+![7b3eb95271b41f0e89605319208bb4cb_MD5](/assets/images/7b3eb95271b41f0e89605319208bb4cb_MD5.webp)
 Guiado por rueda
 
-![73db3fb37d81f6304f0b6e87043eca03_MD5](73db3fb37d81f6304f0b6e87043eca03_MD5.webp|700x548)
+![73db3fb37d81f6304f0b6e87043eca03_MD5](/assets/images/73db3fb37d81f6304f0b6e87043eca03_MD5.webp)
 Guiado magnético
 
 ### Primeros sistemas de guiado por pestaña
@@ -77,9 +77,9 @@ El guiado por pestaña, que emerge durante el siglo XVII, representa uno de los 
 
 La primera evidencia histórica de un sistema de transporte sobre carriles proviene de la Antigua Grecia y data del siglo VI a.C. Se trata de la línea Diolkos, un camino de transporte situado en el istmo de Corinto que se extendía por aproximadamente 6 kilómetros. Este sistema primitivo fue utilizado para transportar embarcaciones completas sobre plataformas móviles a lo largo del istmo. La característica técnica más notable de este sistema es que empleaba surcos excavados directamente en la piedra, constituyendo quizás el primer ejemplo documentado de guiado mediante vía fija.
 
-![4b544f072c4bc467a35d18c90dd47a1f_MD5](4b544f072c4bc467a35d18c90dd47a1f_MD5.webp)
+![4b544f072c4bc467a35d18c90dd47a1f_MD5](/assets/images/4b544f072c4bc467a35d18c90dd47a1f_MD5.webp)
 
-![8cfe703a5a095600051f6d988451b451_MD5](8cfe703a5a095600051f6d988451b451_MD5.webp)
+![8cfe703a5a095600051f6d988451b451_MD5](/assets/images/8cfe703a5a095600051f6d988451b451_MD5.webp)
 
 ### Desarrollo medieval y renacentista del ferrocarril en Europa
 
@@ -88,33 +88,33 @@ La aparición de ferrocarriles en el territorio europeo se remonta a la época m
 Una aportación técnica significativa ocurre en el año 1515, cuando el cardenal Matthäus Lang redactó la descripción de un funicular de considerable importancia técnica ubicado en el castillo de Hohensalzburg (Austria), denominado «Reisszug». Este sistema revolucionario utilizaba carriles de madera y operaba mediante una cuerda de cáñamo accionada por fuerza humana o animal. De forma notable, esta línea continúa operativa en la actualidad, habiendo sido completamente modernizada con material contemporáneo, lo que la convierte en una de las líneas ferroviarias más antiguas aún en servicio.
 
 
-![5d427b211ee1f2bc09a9bfcf776490de_MD5](5d427b211ee1f2bc09a9bfcf776490de_MD5.webp)
+![5d427b211ee1f2bc09a9bfcf776490de_MD5](/assets/images/5d427b211ee1f2bc09a9bfcf776490de_MD5.webp)
 
 
-![a4ede4bbf61597cfaa2c5b884c516de7_MD5](a4ede4bbf61597cfaa2c5b884c516de7_MD5.webp)
+![a4ede4bbf61597cfaa2c5b884c516de7_MD5](/assets/images/a4ede4bbf61597cfaa2c5b884c516de7_MD5.webp)
 Funicular en el castillo de Hohensalzburg «Reisszug» (1515)
 
 
-![eb20250a30e9f9a129014d4b8707ebb8_MD5](eb20250a30e9f9a129014d4b8707ebb8_MD5.webp)
+![eb20250a30e9f9a129014d4b8707ebb8_MD5](/assets/images/eb20250a30e9f9a129014d4b8707ebb8_MD5.webp)
 
 ### Evolución de los sistemas de vías desde la Edad Moderna
 
 Desde el año 1550 en adelante, se produce una expansión significativa de líneas de vía estrecha con raíles de madera en las operaciones mineras europeas. Durante todo el siglo XVII, estos primitivos sistemas ferroviarios evolucionaron considerablemente, permitiendo que los vagones de madera transportaran minerales desde el interior de las explotaciones hasta canales conectados, donde se realizaba el trasbordamiento del mineral hacia sistemas de transporte fluvial. Esta evolución técnica gradual condujo finalmente a la inauguración del primer tranvía permanente documentado en 1810, el denominado «Leiper Railroad» ubicado en Pensilvania.
 
-![3e18b9bec6dca7d1f8ba5a5b5523523e_MD5](3e18b9bec6dca7d1f8ba5a5b5523523e_MD5.webp)
+![3e18b9bec6dca7d1f8ba5a5b5523523e_MD5](/assets/images/3e18b9bec6dca7d1f8ba5a5b5523523e_MD5.webp)
 Un hito tecnológico crucial ocurre en 1768 con la fabricación del primer carril de hierro, que consistía en un cuerpo de madera revestido con una chapa de hierro. 
-![1260352383ad6780dbacc204237beb49_MD5](1260352383ad6780dbacc204237beb49_MD5.webp|700x451)
+![1260352383ad6780dbacc204237beb49_MD5](/assets/images/1260352383ad6780dbacc204237beb49_MD5.webp)
 
 Esta innovación permitió la elaboración de aparatos de vía considerablemente más complejos y resistentes. En los primeros sistemas, la inversión de composiciones se realizaba mediante simples lazos de final de línea, aunque pronto surgieron los cambios de aguja, que revolucionaron la flexibilidad operativa de las redes ferroviarias.
 
-![2a09226481216391f02834b17b1513a3_MD5](2a09226481216391f02834b17b1513a3_MD5.webp)
+![2a09226481216391f02834b17b1513a3_MD5](/assets/images/2a09226481216391f02834b17b1513a3_MD5.webp)
 
 A partir del año 1790 se introduce el uso de los primeros carriles de acero completo en Reino Unido, eliminando la necesidad de revestimiento y mejorando drásticamente la durabilidad. En 1803, el ingeniero William Jessop marca un hito histórico al inaugurar la línea «Surrey Iron Railway» al sur de Londres, constituyéndose como el primer ferrocarril público tirado por caballos, demostrando la viabilidad comercial de este sistema de transporte.
 
-![07e5443012e71a2123a16045cf2f45e4_MD5](07e5443012e71a2123a16045cf2f45e4_MD5.webp|700x486)
+![07e5443012e71a2123a16045cf2f45e4_MD5](/assets/images/07e5443012e71a2123a16045cf2f45e4_MD5.webp)
 The Swansea and Mumbles Railway ran the world's first passenger tram service in 1807
 
-![7798138a021df166dc0cefbaceb32aaa_MD5](7798138a021df166dc0cefbaceb32aaa_MD5.webp)
+![7798138a021df166dc0cefbaceb32aaa_MD5](/assets/images/7798138a021df166dc0cefbaceb32aaa_MD5.webp)
 
 ### La era del vapor: Revolución de la tracción mecanizada
 
@@ -126,16 +126,16 @@ Siete años más tarde, en 1811, John Blenkinsop diseña la primera locomotora f
 
 Un avance de capital importancia ocurre en 1825, cuando George Stephenson construye la Locomotion, una máquina de vapor de especificaciones superiores que es utilizada en la línea ferroviaria entre Stockton y Darlington, ubicada en el noreste de Inglaterra. Esta locomotora reviste una importancia histórica fundamental, pues constituye la primera máquina de vapor que ha remolcado efectivamente servicios de transporte público de viajeros y mercancías.
 
-![42f1c36c7c2898c4acb790ad343c483f_MD5](42f1c36c7c2898c4acb790ad343c483f_MD5.webp)
+![42f1c36c7c2898c4acb790ad343c483f_MD5](/assets/images/42f1c36c7c2898c4acb790ad343c483f_MD5.webp)
 Máquina de vapor de tipo Watt, construida por D. Napier and Son (Londres, 1859)
 
-![2beeeaf25137bbc602c6cf378665ce69_MD5](2beeeaf25137bbc602c6cf378665ce69_MD5.webp)
+![2beeeaf25137bbc602c6cf378665ce69_MD5](/assets/images/2beeeaf25137bbc602c6cf378665ce69_MD5.webp)
 Locomotora de Trevithick (1804)
 
-![d07d957bd8689419a920c2466d6f6d0c_MD5](d07d957bd8689419a920c2466d6f6d0c_MD5.webp)
+![d07d957bd8689419a920c2466d6f6d0c_MD5](/assets/images/d07d957bd8689419a920c2466d6f6d0c_MD5.webp)
 Salamanca: Primera locomotora de cremallera de John Blenkinsop
 
-![5e52d87901ec9d34839c5d1184776978_MD5](5e52d87901ec9d34839c5d1184776978_MD5.webp)
+![5e52d87901ec9d34839c5d1184776978_MD5](/assets/images/5e52d87901ec9d34839c5d1184776978_MD5.webp)
 Locomotion de George Stephenson (1825)
 
 
@@ -153,19 +153,19 @@ Casi cinco décadas después, en 1883, se inaugura el primer ferrocarril con sum
 
 Todas las iniciales instalaciones eléctricas utilizaban corriente continua para su funcionamiento, hasta que en 1904 se introduce en Austria la primera línea que implementa corriente alterna, mejorando significativamente la eficiencia de transmisión energética.
 
-![2dfe7db4842e7ffa4fb136de35d53637_MD5](2dfe7db4842e7ffa4fb136de35d53637_MD5.webp)
+![2dfe7db4842e7ffa4fb136de35d53637_MD5](/assets/images/2dfe7db4842e7ffa4fb136de35d53637_MD5.webp)
 
 ### Transición del vapor al diésel y transformación del sector
 
 Las locomotoras de vapor, a pesar de su importancia histórica, requieren procedimientos de mantenimiento considerable para mantener su operatividad. El desarrollo tecnológico de motores de combustión interna, impulsado significativamente por demandas derivadas de conflictos bélicos, permitió la creación de locomotoras diésel más económicas en operación y potencialmente más potentes. Esta situación motivó que múltiples operadores ferroviarios iniciaran programas sistemáticos de conversión de sus flotas, reemplazando progresivamente las máquinas de vapor por unidades diésel en las líneas no electrificadas.
 
 Paralelamente, otros factores tecnológicos y económicos impactaron negativamente en el ferrocarril. La construcción acelerada de redes de autopistas, el fortalecimiento del transporte por carretera mediante autobuses y camiones, y el surgimiento del transporte aéreo comercial provocaron una reducción considerable en los volúmenes de tráfico ferroviario durante los decenios de 1950 a 1970.
-![94af864f5923509d6e66ea8d342051c2_MD5](94af864f5923509d6e66ea8d342051c2_MD5.webp)
+![94af864f5923509d6e66ea8d342051c2_MD5](/assets/images/94af864f5923509d6e66ea8d342051c2_MD5.webp)
 
 No obstante, la crisis del petróleo de 1973 revierte significativamente esta tendencia descendente. La escasez de combustibles fósiles y el encarecimiento del petróleo restauran la competitividad económica de los tranvías y sistemas ferroviarios que no habían sido desmantelados, permitiendo que muchos de estos servicios continúen operando en los días contemporáneos con rentabilidad comercial renovada.
 
 La invención del tren de alta velocidad en Japón en el año 1964 constituye un cambio fundamental en la modalidad, permitiendo recuperar la demanda de transporte interurbano de viajeros. Este avance tecnológico consolida la vigencia del ferrocarril como alternativa competitiva de transporte.
-![5a8b426009723493f37958d9fd418154_MD5](5a8b426009723493f37958d9fd418154_MD5.webp)
+![5a8b426009723493f37958d9fd418154_MD5](/assets/images/5a8b426009723493f37958d9fd418154_MD5.webp)
 
 ### La era contemporánea (2020 – 2025)
 
@@ -179,7 +179,7 @@ Durante este período, se han alcanzado hitos tecnológicos relevantes que demue
 
 **Expansión masiva de redes de alta velocidad**: Hacia diciembre de 2025, China ha consolidado una red de líneas de alta velocidad dedicadas que supera significativamente la capacidad combinada del resto del mundo. Esta red ferroviaria de alta velocidad cubre conexiones entre todas las capitales provinciales desde Pekín, transformando completamente los patrones de movilidad interurbana en Asia.
 
-![e1c55e7b4c4c1e3557634c872594cb5b_MD5](e1c55e7b4c4c1e3557634c872594cb5b_MD5.webp)
+![e1c55e7b4c4c1e3557634c872594cb5b_MD5](/assets/images/e1c55e7b4c4c1e3557634c872594cb5b_MD5.webp)
 
 #### Comparación de tecnologías ferroviarias de velocidad extrema (2025)
 
@@ -239,7 +239,7 @@ Como consecuencia operativa de la Directiva 91/440, surgen dos directivas comple
 4. Creación de organismos reguladores nacionales en cada país miembro, responsables de supervisar el desarrollo del sistema ferroviario y arbitrar conflictos, particularmente aquellos relacionados con acceso y tarificación de la red
 
 
-![b5486bcfa5f741aa7e23f2ae2699718f_MD5](b5486bcfa5f741aa7e23f2ae2699718f_MD5.webp)
+![b5486bcfa5f741aa7e23f2ae2699718f_MD5](/assets/images/b5486bcfa5f741aa7e23f2ae2699718f_MD5.webp)
 
 EU Statistical Pocketbook 2017; UIC. [Source](https://op.europa.eu/webpub/eca/special-reports/high-speed-rail-19-2018/es/)
 
@@ -297,7 +297,7 @@ Instrumentos normativos componentes:
 - **Reglamento (CE) n° 1371/2007** (23 de octubre de 2007): Derechos y obligaciones de viajeros
 
 
-![b86d5777d9f6598112c864b9b7f35579_MD5](b86d5777d9f6598112c864b9b7f35579_MD5.webp)
+![b86d5777d9f6598112c864b9b7f35579_MD5](/assets/images/b86d5777d9f6598112c864b9b7f35579_MD5.webp)
 
  Mapa de la red europea de alta velocidad. UIC 2018
 ### Cuarto Paquete Ferroviario
@@ -310,7 +310,7 @@ Compuesto por seis propuestas legislativas articuladas en cuatro ámbitos fundam
 - **Mano de obra cualificada**: Fortalecimiento mediante formación continua y motivación del personal
 
 
-![ba88bb27d5ca79649690a5e38c84bccb_MD5](ba88bb27d5ca79649690a5e38c84bccb_MD5.webp)
+![ba88bb27d5ca79649690a5e38c84bccb_MD5](/assets/images/ba88bb27d5ca79649690a5e38c84bccb_MD5.webp)
 
 Sinopsis de la cofinanciación destinada al ferrocarril de alta velocidad por Estado miembro (2000-2017 _Fuente:_ Comisión Europea.
 
@@ -323,7 +323,7 @@ Sinopsis de la cofinanciación destinada al ferrocarril de alta velocidad por Es
 La Ley del Sector Ferroviario, que surge de la transposición de Directivas Europeas en la legislación española, obliga a que las grandes ferroviarias nacionales europeas gestionen de forma independiente la infraestructura y los trenes que circulan por ella. El objetivo final de esta legislación es permitir a cualquier operadora ferroviaria circular por la red en condiciones de igualdad, promoviendo la libre competencia y mejorando la eficiencia del sistema.
 
 Según la normativa española derivada de la Ley del Sector Ferroviario, los servicios de pasajeros internos en la red de ADIF podían ser realizados exclusivamente por RENFE OPERADORA hasta la liberalización completa que se produjo en 2017. Actualmente, cualquier operadora que obtenga los permisos pertinentes puede operar servicios de viajeros internacionales o de mercancías de cualquier tipo. Aproximadamente 40 empresas ferroviarias poseen licencia para operar en la red de ADIF, incluyendo 3 con licencia europea y 2 habilitadas pero sin licencia activa.
-![70d04e63bf842595a7ff191e08785c01_MD5](70d04e63bf842595a7ff191e08785c01_MD5.webp)
+![70d04e63bf842595a7ff191e08785c01_MD5](/assets/images/70d04e63bf842595a7ff191e08785c01_MD5.webp)
 [Source](https://www.transportes.gob.es/ferrocarriles/estructura-del-sector-ferroviario-en-espana/principales-agentes-del-sector-ferroviario)
 ### Acceso a la infraestructura ferroviaria
 
@@ -377,15 +377,14 @@ Con excepciones en ciertos ámbitos regionales:
 
 Existen 190 km de vía de ancho mixto, válida para ambos anchos mediante el uso del triple carril. En varios puntos donde las redes de ancho ibérico y UIC se encuentran existen cambiadores de ancho que permiten pasar de una a otra configuración.
 
-![a5d0009c7c7e0b23d8516d6e0b7e99e9_MD5](a5d0009c7c7e0b23d8516d6e0b7e99e9_MD5.webp)
+![a5d0009c7c7e0b23d8516d6e0b7e99e9_MD5](/assets/images/a5d0009c7c7e0b23d8516d6e0b7e99e9_MD5.webp)
 [Source](https://ruedaycarril.wordpress.com/2013/05/29/tercer-carril-tres-mejor-que-dos/)
-![7938e7f490593f3aad88671d930ae2e9_MD5](7938e7f490593f3aad88671d930ae2e9_MD5.webp)
+![7938e7f490593f3aad88671d930ae2e9_MD5](/assets/images/7938e7f490593f3aad88671d930ae2e9_MD5.webp)
 [Cambiador de ancho](https://www.adif.es/w/adif-licita-el-servicio-de-mantenimiento-de-los-cambiadores-de-ancho-en-las-l%C3%ADneas-de-alta-velocidad)
 
 
 
-[[cde211950facfaf64fd70932a3f22cb4_MD5.webp|Open: Pasted image 20260131082551.png]]
-![cde211950facfaf64fd70932a3f22cb4_MD5](cde211950facfaf64fd70932a3f22cb4_MD5.webp)
+![cde211950facfaf64fd70932a3f22cb4_MD5](/assets/images/cde211950facfaf64fd70932a3f22cb4_MD5.webp)
 Mapa de red ferroviaria española de interes general. [RFIG](https://www.adif.es/sobre-adif/declaracion-red). 
 
 ### Actividades principales de ADIF
@@ -404,19 +403,19 @@ ADIF desarrolla cuatro actividades operacionales principales:
 
 Con la reestructuración de RENFE se creó la Red Ferroviaria de Interés General, que aglutina aquellas líneas que son esenciales para mantener el servicio de ferrocarril en España. Las líneas pertenecientes a la RFIG tienen que ser administradas por el estado central y no pueden ser transferidas a entidades menores. La inclusión y exclusión de líneas en la RFIG la decide el Ministerio de Fomento, previo informe de las comunidades autónomas afectadas. Actualmente, la RFIG se compone de todas las líneas de ADIF y las administradas por la Autoridad Portuaria.
 
-![87d9be3d627c3bb87e4da3531f16ba2c_MD5](87d9be3d627c3bb87e4da3531f16ba2c_MD5.webp)
+![87d9be3d627c3bb87e4da3531f16ba2c_MD5](/assets/images/87d9be3d627c3bb87e4da3531f16ba2c_MD5.webp)
 Mapa de red ferroviaria española. [RFIG](https://www.adif.es/sobre-adif/declaracion-red). 
 ### Material rodante de ADIF
 
 El material rodante que circula por la red de ADIF pertenece a cada uno de los operadores ferroviarios que lo explotan. Además, ADIF dispone de varios vehículos propios necesarios para las labores de mantenimiento y testeo de sus líneas. Entre los trenes de ADIF se encuentran todo tipo de dressinas, trenes herbicidas, trenes taller, etc. Los más destacados son los trenes laboratorio Seneca y Talgo XXI, que realizan tareas de auscultación dinámica y geométrica de vía y catenaria, así como la comprobación y supervisión de los sistemas de señalización y comunicación de todo tipo de líneas, incluyendo las líneas de alta velocidad.
 
-![59c366998998823f789278859a7799c5_MD5](59c366998998823f789278859a7799c5_MD5.webp)
-![6e42ff407e623cd61405c60b9d6d56fb_MD5](6e42ff407e623cd61405c60b9d6d56fb_MD5.webp|694x524)
+![59c366998998823f789278859a7799c5_MD5](/assets/images/59c366998998823f789278859a7799c5_MD5.webp)
+![6e42ff407e623cd61405c60b9d6d56fb_MD5](/assets/images/6e42ff407e623cd61405c60b9d6d56fb_MD5.webp)
 
 Dressinas de inspección de vía. [Source1](https://geismar.com/productos/dresina-de-inspeccion-de-las-obras-de-arte-vmt-vmb-sky-dragon/?lang=es), [Source2](https://archivo.docutren.com/index.php/dresina-o-vehiculo-de-inspeccion-de-ctc?sf_culture=en)
 
-![9c3cc2cc9279774389c7f0550a1c3087_MD5](9c3cc2cc9279774389c7f0550a1c3087_MD5.webp)
-![05266d73127b0fa09ad26eb03f749351_MD5](05266d73127b0fa09ad26eb03f749351_MD5.webp)
+![9c3cc2cc9279774389c7f0550a1c3087_MD5](/assets/images/9c3cc2cc9279774389c7f0550a1c3087_MD5.webp)
+![05266d73127b0fa09ad26eb03f749351_MD5](/assets/images/05266d73127b0fa09ad26eb03f749351_MD5.webp)
 
 Trenes laboratorio Seneca y Talgo XXI
 
@@ -463,7 +462,7 @@ Servicios incluidos:
 
 **4. Vía estrecha**: Renfe también opera una importante red de servicios de vía estrecha, que recibió de FEVE. Los servicios de vía estrecha más habituales son los de proximidad (cercanías y regionales) y los de mercancías.
 
-![1ea5e57f4bc3763d9b3ed853434116b6_MD5](1ea5e57f4bc3763d9b3ed853434116b6_MD5.webp)
+![1ea5e57f4bc3763d9b3ed853434116b6_MD5](/assets/images/1ea5e57f4bc3763d9b3ed853434116b6_MD5.webp)
 #### Estructura tarifaria
 
 Renfe Operadora, del mismo modo que la mayoría de las compañías ferroviarias, utiliza un sistema de tarifas generales en el que cada recorrido entre dos estaciones en un determinado tipo de tren tiene establecida una tarifa general fija, sobre la cual se proporcionan varios descuentos.
@@ -525,7 +524,7 @@ La estructura de GBR se ha diseñado bajo ocho objetivos fundamentales estableci
 
 Este modelo se asemeja al éxito operativo de Transport for London (TfL), donde el sector privado compite por contratos para operar servicios según horarios y estándares de calidad estrictamente definidos por la autoridad pública.2 Los operadores privados ya no asumirán el riesgo de ingresos —que ahora recae en el Estado— sino que se centrarán exclusivamente en la excelencia operativa, la puntualidad y la satisfacción del cliente, recibiendo pagos basados en su rendimiento.1
 
-![44f1a9f7b5161fea6e74126711c62721_MD5](44f1a9f7b5161fea6e74126711c62721_MD5.webp)
+![44f1a9f7b5161fea6e74126711c62721_MD5](/assets/images/44f1a9f7b5161fea6e74126711c62721_MD5.webp)
 
 #### Descentralización y estructura regional
 
@@ -543,7 +542,7 @@ Para asegurar que las decisiones se tomen cerca de las comunidades atendidas, GB
 La transición hacia la propiedad pública no es un evento único, sino una serie de transferencias programadas que se espera concluyan en 2027\.11 El Gobierno utiliza la entidad DfT Operator Limited (DFTO) como paraguas para gestionar estos servicios antes de la plena operatividad de GBR.4
 
 
-![d9453120828b3570e3867c662312da0a_MD5](d9453120828b3570e3867c662312da0a_MD5.webp)
+![d9453120828b3570e3867c662312da0a_MD5](/assets/images/d9453120828b3570e3867c662312da0a_MD5.webp)
 #### Transferencia de operadores (2025-2027)
 
 El proceso comenzó formalmente en mayo de 2025\. Los operadores son transferidos a medida que sus contratos expiran o alcanzan puntos de ruptura contractual, minimizando el impacto financiero para el contribuyente.11
@@ -558,7 +557,7 @@ A pesar de esta tendencia hacia la nacionalización, los operadores de "acceso a
 
 Network Rail sigue siendo, hasta su absorción por GBR, el gestor de infraestructuras responsable de 20.000 millas de vías y miles de estaciones, puentes y túneles.14 Como entidad pública no departamental, su enfoque es la seguridad y la eficiencia en la operación diaria de la red.14
 
-![386c200ac3730fd027e2778eb4dd8362_MD5](386c200ac3730fd027e2778eb4dd8362_MD5.webp)
+![386c200ac3730fd027e2778eb4dd8362_MD5](/assets/images/386c200ac3730fd027e2778eb4dd8362_MD5.webp)
 
 #### Flota de monitoreo de infraestructura
 
@@ -593,10 +592,10 @@ El Gobierno aportó 11.900 millones de libras para la operación diaria de los f
 | Inversión en HS2 | 7.1 | \-5%.10 |
 | Inversión Privada | 0.756 | \+27%.10 |
 
-![e3a57b4acf6503f10e869e3b4fa4ba35_MD5](e3a57b4acf6503f10e869e3b4fa4ba35_MD5.webp)
+![e3a57b4acf6503f10e869e3b4fa4ba35_MD5](/assets/images/e3a57b4acf6503f10e869e3b4fa4ba35_MD5.webp)
 La disparidad regional en el subsidio es notable. Los pasajeros en Escocia reciben un apoyo de 34 peniques por pasajero-kilómetro, y en Gales la cifra alcanza los 45 peniques, comparado con los 16 peniques en el sur y este de Inglaterra, donde la mayor densidad de población permite una mayor recuperación de costes mediante tarifas.10
 
-![3b7bb3c6976c5089a9522543d30b9252_MD5](3b7bb3c6976c5089a9522543d30b9252_MD5.webp)
+![3b7bb3c6976c5089a9522543d30b9252_MD5](/assets/images/3b7bb3c6976c5089a9522543d30b9252_MD5.webp)
 #### Regulación de tarifas e inflación
 
 El sistema de tarifas en el Reino Unido se divide en reguladas y no reguladas. Las tarifas reguladas (que incluyen abonos de temporada y billetes de hora valle en rutas principales) representan aproximadamente el 45% del total y su incremento está limitado por el Gobierno.18 Tradicionalmente, este límite se ha vinculado al Índice de Precios Minoristas (RPI) de julio del año anterior.18
@@ -629,7 +628,7 @@ La infraestructura de alta velocidad representa la apuesta de crecimiento a larg
 
 HS1 conecta Londres St Pancras con el Túnel del Canal. Es una infraestructura madura operada por HS1 Ltd bajo una concesión que se extiende hasta 2040\.42 Recientemente, la empresa se ha renombrado comercialmente como "London St. Pancras Highspeed" para potenciar el cambio modal del avión al tren en rutas internacionales.44 Sin embargo, la madurez del activo implica que los costes de renovación están empezando a subir, lo que requiere una gestión cuidadosa de los cargos de acceso que pagan operadores como Eurostar y Southeastern.
 
- ![368668ecfd3a50c87d7f5fcc1f5c26bb_MD5](368668ecfd3a50c87d7f5fcc1f5c26bb_MD5.webp)
+ ![368668ecfd3a50c87d7f5fcc1f5c26bb_MD5](/assets/images/368668ecfd3a50c87d7f5fcc1f5c26bb_MD5.webp)
 [Source](https://www.hicl.com/portfolio/project/high-speed-1/)
 #### High Speed 2 (HS2)
 
@@ -643,7 +642,7 @@ HS2 es el mayor proyecto de infraestructura ferroviaria de Europa, diseñado par
 | Área de Pruebas | Priorización de 50 millas.47 | Entre Washwood Heath y Wendover.47 |
 
 La estrategia actual de HS2 prioriza un área de pruebas de 50 millas para instalar vías, potencia y señalización antes que en el resto de la ruta, permitiendo probar los nuevos trenes de alta velocidad mientras continúa la construcción pesada en los tramos más complejos.47 El beneficio principal de HS2 no es solo la velocidad (360 km/h), sino la liberación de capacidad en la red convencional para más trenes de carga y cercanías.20 Se estima que HS2 sustituirá la mayoría de los servicios de larga distancia sin paradas en la WCML, permitiendo hasta 10 nuevos servicios de cercanías por hora en Londres Euston.46
-![0174fe7fa8a8635c7f67e226231eb65d_MD5](0174fe7fa8a8635c7f67e226231eb65d_MD5.webp)
+![0174fe7fa8a8635c7f67e226231eb65d_MD5](/assets/images/0174fe7fa8a8635c7f67e226231eb65d_MD5.webp)
 [Source](https://www.newcivilengineer.com/latest/hs2-the-technical-method-of-building-the-chiltern-tunnels-porous-portals-28-01-2026/)
 ### Gobernanza territorial y descentralización
 
@@ -665,7 +664,7 @@ En Inglaterra, el proyecto de ley de GBR prevé asociaciones flexibles con las A
 
 La Office of Rail and Road (ORR) actúa como el regulador independiente de seguridad y economía.50 Su función es garantizar que los operadores cumplan con la legislación de salud y seguridad y que el mercado sea competitivo y justo.52
 [[73e8925bad54ea539dac57f172d6ec92_MD5.webp|Open: Pasted image 20260131085729.png]]
-![73e8925bad54ea539dac57f172d6ec92_MD5](73e8925bad54ea539dac57f172d6ec92_MD5.webp)
+![73e8925bad54ea539dac57f172d6ec92_MD5](/assets/images/73e8925bad54ea539dac57f172d6ec92_MD5.webp)
 #### Evolución de las funciones de regulación con GBR
 
 Con la creación de GBR, el papel de la ORR cambiará significativamente. En lugar de regular un mercado fragmentado de múltiples franquicias, la ORR pasará a supervisar una entidad pública monolítica.51 Sus nuevas responsabilidades incluirán:
@@ -760,7 +759,7 @@ Desde el punto de vista de la infraestructura de vía:
 
 La comodidad se culmina con la modernización de estaciones dotadas de todo tipo de servicios, venta electrónica de billetes y sistemas de información en tiempo real.
 [[0be48888ef709b8d5203ea370c5a107b_MD5.webp|Open: Pasted image 20260131085942.png]]
-![0be48888ef709b8d5203ea370c5a107b_MD5](0be48888ef709b8d5203ea370c5a107b_MD5.webp)
+![0be48888ef709b8d5203ea370c5a107b_MD5](/assets/images/0be48888ef709b8d5203ea370c5a107b_MD5.webp)
 ### Nuevas tecnologías en ferrocarril
 
 El hecho de que el ferrocarril constituya un sistema cinemático guiado por un elemento conductor con un único grado de libertad, lo hace especialmente capaz de beneficiarse de las técnicas cibernéticas de mando y control.
@@ -773,12 +772,12 @@ Además de poder aplicar computadoras a su administración y gestión, el ferroc
 - La gestión centralizada del tráfico de mercancías
 - La monitorización de infraestructura
 [[c91e129706b3e0294577b6deee5a295d_MD5.webp|Open: Pasted image 20260131091756.png]]
-![c91e129706b3e0294577b6deee5a295d_MD5](c91e129706b3e0294577b6deee5a295d_MD5.webp)
+![c91e129706b3e0294577b6deee5a295d_MD5](/assets/images/c91e129706b3e0294577b6deee5a295d_MD5.webp)
 ### Impacto ambiental del ferrocarril
 
 El ferrocarril presenta ventajas ambientales significativas comparadas con otros modos de transporte, incluyendo menor consumo energético por pasajero-kilómetro y reducción de emisiones contaminantes.
 
-![bf91d6c458efc4339959dfc919469f57_MD5](bf91d6c458efc4339959dfc919469f57_MD5.webp)
+![bf91d6c458efc4339959dfc919469f57_MD5](/assets/images/bf91d6c458efc4339959dfc919469f57_MD5.webp)
 
 [Carbon calculator](https://www.raildeliverygroup.com/our-services/building-a-better-railway/sustainability.html)
 ### Influencia en la ordenación del territorio
@@ -788,7 +787,7 @@ El ferrocarril tiene capacidad de transporte superior a la carretera en espacios
 En contraste, un ferrocarril con frecuencia de 3 minutos entre trenes y capacidad de 500 personas por tren, alcanza 10.000 viajeros/hora por vía. Con modernos sistemas de señalización, comunicación y automatismos reduciendo el intervalo a 90 segundos y utilizando unidades de cercanías de gran capacidad (doble piso), se llegan a obtener valores de 40.000 a 60.000 viajeros/hora.
 
 
-![0d2781313db4fef14c007c1ddb012176_MD5](0d2781313db4fef14c007c1ddb012176_MD5.webp)
+![0d2781313db4fef14c007c1ddb012176_MD5](/assets/images/0d2781313db4fef14c007c1ddb012176_MD5.webp)
 [Source](https://op.europa.eu/webpub/eca/special-reports/high-speed-rail-19-2018/es/)
 
 ---
