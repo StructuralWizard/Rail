@@ -7,8 +7,8 @@ baseurl: "/Rail" # Use this for production
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-  "English": "/Rail/en/" # /en/ to work in local and /Rail/en/ to work in GitHub Pages
-  "Español": "/Rail/es/" # /es/ to work in local and /Rail/es/ to work in GitHub Pages
+  #"English": "/Rail/en/" # /en/ to work in local and /Rail/en/ to work in GitHub Pages
+  #"Español": "/Rail/es/" # /es/ to work in local and /Rail/es/ to work in GitHub Pages
 
 permalink: pretty
 
@@ -19,6 +19,10 @@ nav_external_links:
     url: https://github.com/StructuralWizard/10DiasDePython_es.github.io/tree/main/_python_code
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+markdown: kramdown
+kramdown:
+    toc_levels: 2..2
 
 
 # collections:

@@ -1,7 +1,13 @@
 <div class="lang-switcher">
-  {% for lang in site.languages %}
-    <a href="{{ site.baseurl }}/{{ lang }}{{ page.url }}" class="{% if lang == site.active_lang %}active{% endif %}">
-      {{ lang | upcase }}
-    </a>
-  {% endfor %}
+  <a href="{{ '/en/' | relative_url }}" class="{% if page.lang == 'en' %}active{% endif %}">
+    EN
+  </a>
+  <a href="{{ '/es/' | relative_url }}" class="{% if page.lang == 'es' %}active{% endif %}">
+    ES
+  </a>
 </div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body);"></script>
