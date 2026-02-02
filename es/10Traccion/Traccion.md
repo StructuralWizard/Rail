@@ -1235,7 +1235,133 @@ Los análisis de consumo y emisiones energéticas presentan una variabilidad sig
 
 Un aspecto fundamental en estos análisis es que el peso relativo de cada componente del consumo total (resistencia mecánica, resistencia aerodinámica, energía disipada en frenado, auxiliares técnicos y comerciales) varía considerablemente en función del tipo de tren y del servicio específico. Por ejemplo, un tren de alta velocidad en línea plana presenta un perfil de consumo muy diferente al de un tren convencional en línea montañosa, o al de un tren de carga en recorrido mixto. Esta diferencia de composición del consumo total requiere análisis individualizado para cada servicio y permite identificar oportunidades específicas de mejora operacional y eficiencia energética.
 
-## Capítulo IV Bibliografía
+## Capítulo IV. Electrificación
+### IV.1. Partes
+
+Para comprender adecuadamente el funcionamiento de los sistemas de electrificación ferroviaria, es fundamental analizar su estructura fundamental a través del concepto del circuito de tracción. Este circuito representa el camino físico y eléctrico por el cual circula la energía desde su generación hasta su utilización en la locomotora.
+
+El circuito de tracción está constituido por cuatro componentes esenciales que trabajan de manera integrada:
+
+- **Fuente de energía**: La subestación actúa como elemento generador o transformador de energía eléctrica.
+- **Conductor de alimentación**: La línea de contacto, comúnmente denominada catenaria, transmite la corriente hacia el material rodante.
+- **Elemento consumidor**: La locomotora o unidades motrices utilizan la corriente suministrada para generar el esfuerzo de tracción.
+- **Conductor de retorno**: El carril cierra el circuito eléctrico, permitiendo que la corriente regrese hacia la subestación.
+
+Una característica peculiar de este sistema radica en que, a diferencia de los circuitos eléctricos convencionales, el circuito de tracción ferroviaria experimenta deformaciones continuas en su geometría. La longitud y la configuración del circuito varían constantemente según la posición del tren a lo largo de la línea, puesto que el pantógrafo se desplaza bajo la catenaria modificando continuamente la distancia entre la fuente de energía y el punto de consumo.
+
+Respecto a la fuente de energía, conviene precisar que la subestación no constituye necesariamente el origen primario de la energía. En realidad, funciona como elemento intermedio en la cadena integral de transporte de energía eléctrica, conectando las centrales generadoras o transformadoras de alta tensión con la infraestructura de la vía. La subestación realiza una transformación crítica de la corriente, adaptando sus características de tensión e intensidad a los requerimientos específicos de la línea ferroviaria. A su vez, la subestación recibe alimentación de las líneas de alta tensión procedentes de los centros de generación o transformación de energía.
+
+Debido a que la zona de cobertura de una única subestación posee límites geográficos determinados por consideraciones técnicas y económicas, es necesario distribuir múltiples subestaciones a lo largo de las líneas electrificadas. Estas subestaciones se disponen de manera escalonada, garantizando una cobertura continua y uniforme de la infraestructura ferroviaria.
+
+**Línea de contacto**
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-02.jpg?height=515&width=1179&top_left_y=833&top_left_x=2297)
+
+### IV.2. Subestaciones
+
+La distribución espacial de las subestaciones a lo largo de la línea ferroviaria constituye una decisión de diseño crítica que se encuentra condicionada principalmente por las caídas de tensión que ocurren en los conductores. A mayor distancia entre subestaciones, mayores serán las pérdidas de tensión en la catenaria y en el carril de retorno, lo cual puede comprometer la entrega eficiente de energía a los trenes situados lejos de la subestación más cercana.
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-03.jpg?height=891&width=1212&top_left_y=90&top_left_x=2196)
+
+La estrategia de mitigación de caídas de tensión depende fundamentalmente del tipo de corriente utilizado en la electrificación. En sistemas de corriente continua, las caídas de tensión son más severas debido a la relación lineal entre la resistencia del conductor y la pérdida de tensión. Consecuentemente, para mantener parámetros de funcionamiento aceptables, es necesario reducir considerablemente la distancia entre subestaciones consecutivas y emplear conductores de sección transversal significativamente más grande. En sistemas de corriente alterna, por el contrario, los efectos inductivos permiten mayores distancias sin sacrificar la eficiencia, aunque esto requiere transformadores sofisticados en las subestaciones.
+
+Los espaciamientos típicos de subestaciones en sistemas ferroviarios establecen las siguientes pautas:
+- Corriente Continua: 20 Km
+- Corriente Alterna: 50 Km
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-03.jpg?height=773&width=1141&top_left_y=1027&top_left_x=2207)
+
+Para sistemas de transporte urbano como metros, donde la infraestructura es más compacta y los requisitos de entrega de energía son mayores, los espaciamientos se reducen significativamente hasta valores que oscilan entre $2-7 \mathrm{Km}$.
+
+La siguiente tabla presenta una compilación normalizada de los niveles de tensión característicos de los principales sistemas de electrificación ferroviaria a nivel mundial, estableciendo los rangos mínimos y máximos operacionales permitidos:
+
+| Sistema de electrificación | Tensión no permanente minima Umńn.2(V) | Tensión permanente minima Umin. 1 (V) | Tensión nominal Un (V) | Tensión no permanente máxima Umáx1 (V) | Tensión no permanente máxima U máx. 2 (V) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Corriente continua (valores medios) |  | 400 | $600{ }^{1)}$ | 720 | $770{ }^{2)}$ |
+|  |  | 500 | 750 | 900 | $950{ }^{3)}$ |
+|  |  | 1000 | 1500 | 1800 | 1950 |
+|  |  | 2000 | 3000 | 3600 | 3900 |
+| Corriente alterna (valores eficaces) | 11000 | 12000 | 15000 | 17250 | $18000{ }^{\text {4) }}$ |
+|  | 17500 | 19000 | 25000 | 27500 | 29000 |
+
+
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-04.jpg?height=1315&width=3499&top_left_y=722&top_left_x=55)
+
+### IV.3. Sistemas de alimentación
+
+La configuración específica mediante la cual la energía eléctrica se transmite desde la subestación al vehículo ferroviario constituye un aspecto fundamental de cualquier sistema de electrificación. El término "catenaria" se utiliza habitualmente en el ámbito ferroviario para designar la infraestructura aérea que actúa como conductor de alimentación, permitiendo la transferencia de energía eléctrica tanto a locomotoras como a unidades de material motor diverso.
+
+En la literatura técnica especializada, existe una terminología alternativa que algunos ingenieros prefieren emplear. La expresión "Línea Aérea de Contacto" (L.A.C.) proporciona una designación más genérica que abarca diversos tipos de configuraciones de alimentación aérea, todas ellas caracterizadas por la presencia de un conductor o elemento de contacto suspendido sobre la vía. Esta nomenclatura integra múltiples variantes de sistemas que comparten principios fundamentales similares:
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-05.jpg?height=1014&width=1362&top_left_y=596&top_left_x=2120)
+
+- Configuraciones de línea tranviaria, típicamente empleadas en sistemas de transporte urbano
+- Catenarias flexibles, caracterizadas por su elasticidad y adaptabilidad
+- Catenarias rígidas, que proporcionan mayor estabilidad estructural
+
+Paralelamente a estos sistemas aéreos de alimentación, existen soluciones tecnológicas alternativas para la distribución de energía en ferrocarriles que, aunque funcionan bajo principios similares, no pueden clasificarse estrictamente como catenarias. Entre estas alternativas, la más significativa es el denominado "tercer carril", que representa una solución fundamentalmente diferente para la entrega de corriente al material rodante.
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-05.jpg?height=1009&width=1338&top_left_y=1633&top_left_x=2130)
+
+#### IV.3.1. Catenaria
+
+La catenaria constituye el sistema más ampliamente utilizado en las instalaciones de electrificación ferroviaria moderna, especialmente en ferrocarriles de larga distancia y sistemas de tránsito rápido. Este sistema de alimentación aérea se fundamenta en el principio de transmisión directa de energía a través de un contacto mecánico entre un pantógrafo montado en el techo del vehículo y un conductor o hilo de contacto suspendido sobre la vía.
+
+La catenaria experimenta variaciones significativas en su diseño y capacidad según los requisitos de tensión del sistema específico. Las configuraciones constructivas se adaptan a los diferentes niveles de voltaje empleados, desde sistemas de baja tensión en corriente continua hasta sistemas de alta tensión en corriente alterna. Las imágenes que se presentan a continuación ilustran dos ejemplos representativos de configuraciones de catenaria:
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-06.jpg?height=1724&width=762&top_left_y=702&top_left_x=655)
+Figura 3. Catenaria para 1.500 V.c.c.
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-06.jpg?height=1712&width=785&top_left_y=700&top_left_x=1991)
+Figura 4. Catenaria para 25.000 V.c.a.
+
+#### IV.3.2. Catenaria rígida
+
+La catenaria rígida representa una variante tecnológica de importancia considerable que se diferencia fundamentalmente de la catenaria flexible convencional en su composición estructural. En lugar de emplear un conductor cable de características flexibles, la catenaria rígida utiliza un carril metálico rígido como elemento transmisor de la corriente eléctrica. Este carril posee propiedades mecánicas completamente diferentes a las de un cable convencional, presentando una rigidez bending significativa.
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-07.jpg?height=626&width=780&top_left_y=315&top_left_x=2454)
+
+Desde la perspectiva de la ingeniería estructural, mantener un carril rígido en posición paralela respecto a la vía ferroviaria presenta desafíos técnicos considerables. El peso inherente a esta estructura es sustancialmente mayor que el de un cable convencional, lo cual implica que los métodos convencionales de tensionamiento o suspensión por medio de cables de tracción resultan insuficientes. Para garantizar la estabilidad estructural y evitar deformaciones excesivas, es imprescindible incrementar significativamente la densidad de puntos de apoyo estructural, reduciendo en consecuencia las distancias entre apoyos sucesivos.
+
+Esta consideración ingenieril genera una diferencia muy significativa en los espaciamientos utilizados. Mientras que una catenaria rígida requiere vanos (distancias entre apoyos consecutivos) de aproximadamente 10 a 12 metros, las catenarias flexibles convencionales pueden alcanzar vanos en el rango de 50 a 60 metros, lo que representa una reducción de hasta 80% en la distancia entre soportes. Esta limitación estructural restringe drásticamente los contextos en los que la catenaria rígida resulta prácticamente viable. Su implementación se concentra principalmente en entornos especiales como túneles ferroviarios, estructuras con limitaciones geométricas severas o trazados con espacios libres muy reducidos, donde la utilización de sistemas alternativos se torna técnicamente imposible o económicamente prohibitiva.
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-07.jpg?height=1506&width=1133&top_left_y=1007&top_left_x=2273)
+
+
+#### IV.3.3. Tercer carril
+
+En ciertos contextos históricos y particulares de la ingeniería ferroviaria, se ha desarrollado e implementado un sistema de alimentación completamente diferente conocido como "tercer carril". Esta configuración tecnológica representa una solución alternativa fundamental que invierte el paradigma convencional de la alimentación aérea. En lugar de situar el conductor de energía suspendido sobre la vía, el tercer carril consiste en la instalación de un carril de alimentación metálico adicional, dispuesto longitudinalmente de manera paralela a los dos carriles principales de rodadura y ubicado a una altura aproximada al nivel del terreno o ligeramente elevado. La transmisión de energía se produce mediante contacto directo entre elementos denominados rozadores, montados en la parte inferior del vehículo ferroviario, y la superficie del carril de alimentación.
+
+La génesis histórica de este sistema se remonta al desarrollo del transporte ferroviario electrificado en el metro de Londres. Cuando se comenzó a implementar la electrificación de estos ferrocarriles urbanos, las restricciones geométricas de los túneles subterráneos eran extremadamente severas, dejando poco espacio libre en la zona superior para instalar catenarias convencionales. Esta limitación de gálibo obligó a los ingenieros a buscar soluciones alternativas, resultando en la idea innovadora de ubicar el sistema de alimentación en la parte inferior del túnel, creando así el concepto del tercer carril.
+
+Múltiples variaciones constructivas de contacto han sido desarrolladas a lo largo de los años para optimizar diferentes aspectos del rendimiento de este sistema. Sin embargo, la experiencia operacional ha demostrado que el tercer carril presenta significativas limitaciones y riesgos que desaconsejan ampliamente su uso. Entre las principales preocupaciones se encuentran: en primer lugar, la creación de un riesgo grave y potencialmente letal de electrocución para usuarios y personal que pudieran caer accidentalmente en la vía, puesto que el conductor de alimentación se encuentra expuesto a nivel del terreno; en segundo lugar, una vulnerabilidad incrementada ante fenómenos de inundación y acumulación de agua, que pueden comprometer la integridad del sistema eléctrico; y en tercer lugar, una incompatibilidad funcional fundamental con sistemas de alimentación aérea que pudieran existir en otros segmentos de la línea, dificultando la integración operacional. Por estos motivos, el uso del tercer carril se encuentra actualmente restringido a aquellas situaciones muy específicas donde la implementación de sistemas de alimentación superiores resulta técnicamente imposible o económicamente inviable.
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-08.jpg?height=1895&width=1068&top_left_y=568&top_left_x=2280)
+
+
+#### IV.3.4. Pantógrafo
+
+El pantógrafo constituye el componente mecánico e eléctrico crítico que realiza la captura y recepción de corriente desde la línea de alimentación hacia el vehículo ferroviario. Este dispositivo se encuentra firmemente asegurado a la estructura superior de la locomotora o del coche motor, extendiéndose verticalmente hacia arriba en dirección a la catenaria. Un aspecto ingenieril fundamental en el diseño del pantógrafo radica en su aislamiento eléctrico respecto al resto de la estructura metálica del vehículo, lo cual se logra mediante la incorporación de aisladores de porcelana de alta especificación que impiden el flujo no controlado de corriente hacia el chasis del tren.
+
+Desde la perspectiva de la dinámica de contacto, la interacción entre el pantógrafo y el hilo de contacto de la catenaria genera fuerzas mecánicas de considerable magnitud. El pantógrafo ejerce una presión normal sobre la catenaria en el rango de $300-400 \mathrm{~N}$, lo que es necesario para garantizar un contacto eléctrico confiable y de baja resistencia, pero que simultáneamente genera efectos de desgaste en ambas superficies en contacto.
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-09.jpg?height=586&width=1218&top_left_y=693&top_left_x=2190)
+
+Para mitigar los efectos perjudiciales del desgaste localizado excesivo en los elementos de contacto conocidos como pletinas (superficies de contacto del pantógrafo), se ha adoptado una estrategia de distribución lateral de cargas mediante la implantación de la catenaria según un patrón de zig-zag perpendicular al eje longitudinal de la vía. Esta configuración alternante produce que el pantógrafo, durante su movimiento a lo largo de la línea, realice un contacto secuencial con diferentes posiciones laterales del hilo de contacto, distribuyendo de esta manera el desgaste sobre una superficie más extensa y prolongando significativamente la vida útil de ambos componentes.
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-09.jpg?height=147&width=1257&top_left_y=1664&top_left_x=488)
+EN RECTA
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-09.jpg?height=511&width=1251&top_left_y=1988&top_left_x=509)
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-09.jpg?height=974&width=1294&top_left_y=1533&top_left_x=2192)
+
+EN CURVA
+
+
+![](https://cdn.mathpix.com/cropped/7cafea98-00be-4dab-8aa6-747981e8991e-10.jpg?height=1783&width=3161&top_left_y=738&top_left_x=197)
+
+
+## Bibliografía
 
 - Díaz de Villegas, J.M. (2003) Ferrocarriles. Apuntes de clase. E.T.S. Ing. Caminos, Canales y Puertos Santander.
 - García Álvarez, A. (2022) Manual de ferrocarriles. El sistema ferroviario español. Ed. Garceta.
