@@ -316,7 +316,8 @@ Instrumentos normativos componentes:
 
 ![b86d5777d9f6598112c864b9b7f35579_MD5]({{ site.baseurl }}/assets/images/b86d5777d9f6598112c864b9b7f35579_MD5.webp)
 
- Mapa de la red europea de alta velocidad. UIC 2018
+[Mapa de la red europea de alta velocidad. UIC 2018](https://commons.wikimedia.org/wiki/File:High_Speed_Railroad_Map_Europe_2011.png)
+
 ### Cuarto Paquete Ferroviario
 
 Compuesto por seis propuestas legislativas articuladas en cuatro ámbitos fundamentales de reforma:
@@ -329,7 +330,7 @@ Compuesto por seis propuestas legislativas articuladas en cuatro ámbitos fundam
 
 ![ba88bb27d5ca79649690a5e38c84bccb_MD5]({{ site.baseurl }}/assets/images/ba88bb27d5ca79649690a5e38c84bccb_MD5.webp)
 
-Sinopsis de la cofinanciación destinada al ferrocarril de alta velocidad por Estado miembro (2000-2017 _Fuente:_ Comisión Europea.
+[Sinopsis de la cofinanciación destinada al ferrocarril de alta velocidad por Estado miembro (2000-2017 _Fuente:_ Comisión Europea.](https://op.europa.eu/webpub/eca/special-reports/high-speed-rail-19-2018/es/)
 
 ---
 
@@ -341,7 +342,7 @@ La Ley del Sector Ferroviario, que surge de la transposición de Directivas Euro
 
 Según la normativa española derivada de la Ley del Sector Ferroviario, los servicios de pasajeros internos en la red de ADIF podían ser realizados exclusivamente por RENFE OPERADORA hasta la liberalización completa que se produjo en 2017. Actualmente, cualquier operadora que obtenga los permisos pertinentes puede operar servicios de viajeros internacionales o de mercancías de cualquier tipo. Aproximadamente 40 empresas ferroviarias poseen licencia para operar en la red de ADIF, incluyendo 3 con licencia europea y 2 habilitadas pero sin licencia activa.
 ![70d04e63bf842595a7ff191e08785c01_MD5]({{ site.baseurl }}/assets/images/70d04e63bf842595a7ff191e08785c01_MD5.webp)
-[Source](https://www.transportes.gob.es/ferrocarriles/estructura-del-sector-ferroviario-en-espana/principales-agentes-del-sector-ferroviario)
+[link](https://www.transportes.gob.es/ferrocarriles/estructura-del-sector-ferroviario-en-espana/principales-agentes-del-sector-ferroviario)
 ### Acceso a la infraestructura ferroviaria
 
 A partir del 1 de enero de 2006, las empresas ferroviarias con licencia europea tienen libre acceso a toda la Red de Interés General del Estado para realizar transporte ferroviario de mercancías internacional o nacional. Para ejercer este derecho, deben solicitar la correspondiente capacidad (surco) a ADIF, siguiendo procedimientos establecidos. En el momento de la adjudicación de esta capacidad, las empresas deben estar en posesión del certificado de seguridad necesario para poder circular con su material rodante y personal de conducción por el itinerario solicitado.
@@ -395,7 +396,7 @@ Con excepciones en ciertos ámbitos regionales:
 Existen 190 km de vía de ancho mixto, válida para ambos anchos mediante el uso del triple carril. En varios puntos donde las redes de ancho ibérico y UIC se encuentran existen cambiadores de ancho que permiten pasar de una a otra configuración.
 
 ![a5d0009c7c7e0b23d8516d6e0b7e99e9_MD5]({{ site.baseurl }}/assets/images/a5d0009c7c7e0b23d8516d6e0b7e99e9_MD5.webp)
-[Source](https://ruedaycarril.wordpress.com/2013/05/29/tercer-carril-tres-mejor-que-dos/)
+[link](https://ruedaycarril.wordpress.com/2013/05/29/tercer-carril-tres-mejor-que-dos/)
 ![7938e7f490593f3aad88671d930ae2e9_MD5]({{ site.baseurl }}/assets/images/7938e7f490593f3aad88671d930ae2e9_MD5.webp)
 [Cambiador de ancho](https://www.adif.es/w/adif-licita-el-servicio-de-mantenimiento-de-los-cambiadores-de-ancho-en-las-l%C3%ADneas-de-alta-velocidad)
 
@@ -429,12 +430,12 @@ El material rodante que circula por la red de ADIF pertenece a cada uno de los o
 ![59c366998998823f789278859a7799c5_MD5]({{ site.baseurl }}/assets/images/59c366998998823f789278859a7799c5_MD5.webp)
 ![6e42ff407e623cd61405c60b9d6d56fb_MD5]({{ site.baseurl }}/assets/images/6e42ff407e623cd61405c60b9d6d56fb_MD5.webp)
 
-Dressinas de inspección de vía. [Source1](https://geismar.com/productos/dresina-de-inspeccion-de-las-obras-de-arte-vmt-vmb-sky-dragon/?lang=es), [Source2](https://archivo.docutren.com/index.php/dresina-o-vehiculo-de-inspeccion-de-ctc?sf_culture=en)
+Dressinas de inspección de vía. [link1](https://geismar.com/productos/dresina-de-inspeccion-de-las-obras-de-arte-vmt-vmb-sky-dragon/?lang=es), [link2](https://archivo.docutren.com/index.php/dresina-o-vehiculo-de-inspeccion-de-ctc?sf_culture=en)
 
 ![9c3cc2cc9279774389c7f0550a1c3087_MD5]({{ site.baseurl }}/assets/images/9c3cc2cc9279774389c7f0550a1c3087_MD5.webp)
 ![05266d73127b0fa09ad26eb03f749351_MD5]({{ site.baseurl }}/assets/images/05266d73127b0fa09ad26eb03f749351_MD5.webp)
 
-Trenes laboratorio Seneca y Talgo XXI
+[Trenes laboratorio Seneca y Talgo XXI](https://www.listadotren.es/talgo/series.php?id=59)
 
 ### Renfe Operadora
 
@@ -511,131 +512,131 @@ La red ferroviaria de Gran Bretaña, reconocida históricamente como la cuna del
 
 ### Evolución histórica y el declive del modelo de franquicias
 
-El sistema ferroviario británico se rige fundamentalmente por la Ley de Ferrocarriles de 1993, la cual desmanteló la integración vertical de British Rail para introducir competencia en el mercado.5 Bajo este esquema, la infraestructura fue separada de la operación de los trenes, delegando esta última a empresas privadas (Train Operating Companies o TOCs) mediante un complejo sistema de franquicias.7 Si bien este modelo coincidió con un crecimiento significativo en el número de pasajeros en las dos décadas anteriores a la pandemia, la estructura resultó ser excesivamente rígida y propensa a la fragmentación.6
+El sistema ferroviario británico se rige fundamentalmente por la Ley de Ferrocarriles de 1993, la cual desmanteló la integración vertical de British Rail para introducir competencia en el mercado. Bajo este esquema, la infraestructura fue separada de la operación de los trenes, delegando esta última a empresas privadas (Train Operating Companies o TOCs) mediante un complejo sistema de franquicias. Si bien este modelo coincidió con un crecimiento significativo en el número de pasajeros en las dos décadas anteriores a la pandemia, la estructura resultó ser excesivamente rígida y propensa a la fragmentación.
 
-La crisis de las franquicias se hizo evidente en mayo de 2018, cuando el colapso de la implementación de nuevos horarios en gran parte del norte de Inglaterra y en las rutas del Támesis reveló una falta total de coordinación centralizada.2 Este evento, sumado a la quiebra financiera de la franquicia de la Costa Este, motivó la creación de la Revisión Ferroviaria de Williams, liderada por Keith Williams, cuyo objetivo fue recomendar un nuevo marco organizativo que priorizara las necesidades de los pasajeros y los usuarios de carga sobre las disputas contractuales.9
+La crisis de las franquicias se hizo evidente en mayo de 2018, cuando el colapso de la implementación de nuevos horarios en gran parte del norte de Inglaterra y en las rutas del Támesis reveló una falta total de coordinación centralizada. Este evento, sumado a la quiebra financiera de la franquicia de la Costa Este, motivó la creación de la Revisión Ferroviaria de Williams, liderada por Keith Williams, cuyo objetivo fue recomendar un nuevo marco organizativo que priorizara las necesidades de los pasajeros y los usuarios de carga sobre las disputas contractuales.
 
-La pandemia de COVID-19 aceleró este proceso de reforma de manera terminal para el sistema de franquicias. En marzo de 2020, la demanda de pasajeros colapsó casi por completo, obligando al Gobierno a intervenir con contratos de emergencia para evitar la parálisis del sistema, con un coste aproximado de 12.000 millones de libras.2 Antes de la crisis sanitaria, los viajeros diarios representaban el 47% de los pasajeros y los viajes de negocios el 10%, perfiles que han experimentado cambios permanentes debido a la consolidación del teletrabajo.2 En 2024 y 2025, aunque el número de viajes ha recuperado niveles cercanos a los de 2019 (1.728 millones de viajes), los ingresos por tarifas se mantienen un 12% por debajo de los niveles prepandémicos, lo que subraya la necesidad de una gestión más eficiente y centralizada.6
+La pandemia de COVID-19 aceleró este proceso de reforma de manera terminal para el sistema de franquicias. En marzo de 2020, la demanda de pasajeros colapsó casi por completo, obligando al Gobierno a intervenir con contratos de emergencia para evitar la parálisis del sistema, con un coste aproximado de 12.000 millones de libras. Antes de la crisis sanitaria, los viajeros diarios representaban el 47% de los pasajeros y los viajes de negocios el 10%, perfiles que han experimentado cambios permanentes debido a la consolidación del teletrabajo. En 2024 y 2025, aunque el número de viajes ha recuperado niveles cercanos a los de 2019 (1.728 millones de viajes), los ingresos por tarifas se mantienen un 12% por debajo de los niveles prepandémicos, lo que subraya la necesidad de una gestión más eficiente y centralizada.
 
 ### Marco legal: evolución legislativa del sistema ferroviario británico
 
-La transición hacia el nuevo modelo se apoya en una arquitectura legislativa que busca revertir la fragmentación sin caer en una nacionalización burocrática al estilo de mediados del siglo XX. El Plan Williams-Shapps establece que GBR no es simplemente una versión ampliada de Network Rail, sino una organización completamente nueva con una cultura orientada al cliente.1
+La transición hacia el nuevo modelo se apoya en una arquitectura legislativa que busca revertir la fragmentación sin caer en una nacionalización burocrática al estilo de mediados del siglo XX. El Plan Williams-Shapps establece que GBR no es simplemente una versión ampliada de Network Rail, sino una organización completamente nueva con una cultura orientada al cliente.
 
-La Ley de Servicios Ferroviarios de Pasajeros (Propiedad Pública) de 2024, que recibió el dictamen real en noviembre de ese año, permite al Gobierno traer de vuelta la mayoría de los servicios de pasajeros a la propiedad pública a medida que expiren los contratos existentes.11 Este proceso se realiza de forma gradual para evitar el pago de compensaciones excesivas a los operadores privados.13
+La Ley de Servicios Ferroviarios de Pasajeros (Propiedad Pública) de 2024, que recibió el dictamen real en noviembre de ese año, permite al Gobierno traer de vuelta la mayoría de los servicios de pasajeros a la propiedad pública a medida que expiren los contratos existentes. Este proceso se realiza de forma gradual para evitar el pago de compensaciones excesivas a los operadores privados.
 
 | Hito Legislativo / Operativo | Fecha | Impacto Estratégico |
 | :---- | :---- | :---- |
-| Ley de Ferrocarriles 1993 | Noviembre 1993 | Creación del sistema de franquicias y separación de infraestructura.5 |
-| Revisión de Williams | Septiembre 2018 | Inicio del proceso de reforma tras el colapso de horarios de 2018\.9 |
-| Plan Williams-Shapps | Mayo 2021 | Publicación del Libro Blanco para la creación de GBR.2 |
-| Ley de Propiedad Pública | Noviembre 2024 | Base legal para la renacionalización de operadores.11 |
-| Proyecto de Ley de Ferrocarriles | Noviembre 2025 | Introducción del marco legislativo para establecer formalmente GBR.4 |
+| Ley de Ferrocarriles 1993 | Noviembre 1993 | Creación del sistema de franquicias y separación de infraestructura. |
+| Revisión de Williams | Septiembre 2018 | Inicio del proceso de reforma tras el colapso de horarios de 2018. |
+| Plan Williams-Shapps | Mayo 2021 | Publicación del Libro Blanco para la creación de GBR. |
+| Ley de Propiedad Pública | Noviembre 2024 | Base legal para la renacionalización de operadores. |
+| Proyecto de Ley de Ferrocarriles | Noviembre 2025 | Introducción del marco legislativo para establecer formalmente GBR. |
 
 ### Arquitectura de Great British Railways
 
-Great British Railways (GBR) nace con el mandato de ser el único organismo responsable de la planificación, la infraestructura, la recaudación de ingresos y la fijación de tarifas.1 Al reunir estas funciones, se busca eliminar la cultura del "reparto de culpas" entre las empresas de trenes y el gestor de infraestructuras, incentivando una visión compartida del éxito del sistema.1
+Great British Railways (GBR) nace con el mandato de ser el único organismo responsable de la planificación, la infraestructura, la recaudación de ingresos y la fijación de tarifas. Al reunir estas funciones, se busca eliminar la cultura del "reparto de culpas" entre las empresas de trenes y el gestor de infraestructuras, incentivando una visión compartida del éxito del sistema.
 
 #### Funciones y objetivos de GBR
 
-La estructura de GBR se ha diseñado bajo ocho objetivos fundamentales establecidos por el equipo de transición: cambiar la cultura del sector, priorizar a los clientes, hacer el sistema más fácil de usar, simplificar el sector para reducir costes y crecer en demanda de pasajeros y carga.1 Una innovación clave es que GBR será propietaria de la infraestructura, pero también recibirá directamente los ingresos por tarifas, subcontratando a empresas privadas la operación de los trenes mediante "Contratos de Servicio de Pasajeros" (Passenger Service Contracts) en lugar de las antiguas franquicias.1
+La estructura de GBR se ha diseñado bajo ocho objetivos fundamentales establecidos por el equipo de transición: cambiar la cultura del sector, priorizar a los clientes, hacer el sistema más fácil de usar, simplificar el sector para reducir costes y crecer en demanda de pasajeros y carga. Una innovación clave es que GBR será propietaria de la infraestructura, pero también recibirá directamente los ingresos por tarifas, subcontratando a empresas privadas la operación de los trenes mediante "Contratos de Servicio de Pasajeros" (Passenger Service Contracts) en lugar de las antiguas franquicias.
 
-Este modelo se asemeja al éxito operativo de Transport for London (TfL), donde el sector privado compite por contratos para operar servicios según horarios y estándares de calidad estrictamente definidos por la autoridad pública.2 Los operadores privados ya no asumirán el riesgo de ingresos —que ahora recae en el Estado— sino que se centrarán exclusivamente en la excelencia operativa, la puntualidad y la satisfacción del cliente, recibiendo pagos basados en su rendimiento.1
+Este modelo se asemeja al éxito operativo de Transport for London (TfL), donde el sector privado compite por contratos para operar servicios según horarios y estándares de calidad estrictamente definidos por la autoridad pública. Los operadores privados ya no asumirán el riesgo de ingresos —que ahora recae en el Estado— sino que se centrarán exclusivamente en la excelencia operativa, la puntualidad y la satisfacción del cliente, recibiendo pagos basados en su rendimiento.
 
 ![44f1a9f7b5161fea6e74126711c62721_MD5]({{ site.baseurl }}/assets/images/44f1a9f7b5161fea6e74126711c62721_MD5.webp)
 
 #### Descentralización y estructura regional
 
-Para asegurar que las decisiones se tomen cerca de las comunidades atendidas, GBR se organizará en divisiones regionales.1 Esto permitirá nuevas asociaciones con gobiernos locales y autoridades regionales, otorgando a los líderes locales una mayor voz en la definición de servicios en sus áreas.1 En el caso de Escocia y Gales, el proyecto de ley busca formalizar un papel estatutario para sus gobiernos, asegurando que las estrategias nacionales se integren en la planificación de GBR.15
+Para asegurar que las decisiones se tomen cerca de las comunidades atendidas, GBR se organizará en divisiones regionales. Esto permitirá nuevas asociaciones con gobiernos locales y autoridades regionales, otorgando a los líderes locales una mayor voz en la definición de servicios en sus áreas. En el caso de Escocia y Gales, el proyecto de ley busca formalizar un papel estatutario para sus gobiernos, asegurando que las estrategias nacionales se integren en la planificación de GBR.
 
 | Región Operativa (Network Rail / GBR) | Enfoque Estratégico | Citación |
 | :---- | :---- | :---- |
-| Escocia | Gestión integrada con Transport Scotland y servicios nacionalizados (ScotRail).15 |  |
-| Gales | Colaboración en rutas de frontera y gestión de las Core Valley Lines.15 |  |
-| Londres y Sudeste | Integración con TfL y gestión de alta densidad de pasajeros.18 |  |
-| Norte y Midlands | Enfoque en conectividad regional y apoyo a proyectos como HS2.2 |  |
+| Escocia | Gestión integrada con Transport Scotland y servicios nacionalizados (ScotRail). |  |
+| Gales | Colaboración en rutas de frontera y gestión de las Core Valley Lines. |  |
+| Londres y Sudeste | Integración con TfL y gestión de alta densidad de pasajeros. |  |
+| Norte y Midlands | Enfoque en conectividad regional y apoyo a proyectos como HS2. |  |
 
 ### Cronología del programa de nacionalización
 
-La transición hacia la propiedad pública no es un evento único, sino una serie de transferencias programadas que se espera concluyan en 2027\.11 El Gobierno utiliza la entidad DfT Operator Limited (DFTO) como paraguas para gestionar estos servicios antes de la plena operatividad de GBR.4
+La transición hacia la propiedad pública no es un evento único, sino una serie de transferencias programadas que se espera concluyan en 2027. El Gobierno utiliza la entidad DfT Operator Limited (DFTO) como paraguas para gestionar estos servicios antes de la plena operatividad de GBR.
 
 
 ![d9453120828b3570e3867c662312da0a_MD5]({{ site.baseurl }}/assets/images/d9453120828b3570e3867c662312da0a_MD5.webp)
 #### Transferencia de operadores (2025-2027)
 
-El proceso comenzó formalmente en mayo de 2025\. Los operadores son transferidos a medida que sus contratos expiran o alcanzan puntos de ruptura contractual, minimizando el impacto financiero para el contribuyente.11
+El proceso comenzó formalmente en mayo de 2025. Los operadores son transferidos a medida que sus contratos expiran o alcanzan puntos de ruptura contractual, minimizando el impacto financiero para el contribuyente.
 
-* **South Western Railway (SWR):** Fue el primer operador en transferirse bajo la nueva legislación el 25 de mayo de 2025\.4  
-* **c2c:** Los servicios que conectan Londres con Essex pasaron a control público el 20 de julio de 2025\.4 En su nueva etapa, se han anunciado mejoras en la capacidad de la plataforma en Basildon para permitir trenes de 12 coches.21  
-* **Greater Anglia:** Transferido el 12 de octubre de 2025\.4 Bajo control público, se planea la introducción masiva de pagos sin contacto (contactless) y la construcción de estaciones modulares innovadoras en Wickford.21  
-* **Próximas Transferencias:** West Midlands Trains está programado para el 1 de febrero de 2026, seguido de Govia Thameslink Railway el 31 de mayo de 2026\.4 Se prevé que operadores de larga distancia como Avanti West Coast y CrossCountry se integren hacia 2027\.13
+* **South Western Railway (SWR):** Fue el primer operador en transferirse bajo la nueva legislación el 25 de mayo de 2025.  
+* **c2c:** Los servicios que conectan Londres con Essex pasaron a control público el 20 de julio de 2025. En su nueva etapa, se han anunciado mejoras en la capacidad de la plataforma en Basildon para permitir trenes de 12 coches.  
+* **Greater Anglia:** Transferido el 12 de octubre de 2025. Bajo control público, se planea la introducción masiva de pagos sin contacto (contactless) y la construcción de estaciones modulares innovadoras en Wickford.  
+* **Próximas Transferencias:** West Midlands Trains está programado para el 1 de febrero de 2026, seguido de Govia Thameslink Railway el 31 de mayo de 2026. Se prevé que operadores de larga distancia como Avanti West Coast y CrossCountry se integren hacia 2027.
 
-A pesar de esta tendencia hacia la nacionalización, los operadores de "acceso abierto" (Open Access) como Lumo, Grand Central y Hull Trains mantienen su rol comercial.11 El Gobierno ha expresado que estos operadores añaden valor y capacidad donde los servicios públicos no llegan, fomentando la innovación y la competencia en rutas específicas.22 Sin embargo, la Oficina de Ferrocarriles y Carreteras (ORR) aplica pruebas estrictas de "no abstracción de ingresos" para asegurar que estos servicios privados no perjudiquen financieramente al operador público principal.
+A pesar de esta tendencia hacia la nacionalización, los operadores de "acceso abierto" (Open Access) como Lumo, Grand Central y Hull Trains mantienen su rol comercial. El Gobierno ha expresado que estos operadores añaden valor y capacidad donde los servicios públicos no llegan, fomentando la innovación y la competencia en rutas específicas. Sin embargo, la Oficina de Ferrocarriles y Carreteras (ORR) aplica pruebas estrictas de "no abstracción de ingresos" para asegurar que estos servicios privados no perjudiquen financieramente al operador público principal.
 ### Gestión de la infraestructura: Network Rail
 
-Network Rail sigue siendo, hasta su absorción por GBR, el gestor de infraestructuras responsable de 20.000 millas de vías y miles de estaciones, puentes y túneles.14 Como entidad pública no departamental, su enfoque es la seguridad y la eficiencia en la operación diaria de la red.14
+Network Rail sigue siendo, hasta su absorción por GBR, el gestor de infraestructuras responsable de 20.000 millas de vías y miles de estaciones, puentes y túneles. Como entidad pública no departamental, su enfoque es la seguridad y la eficiencia en la operación diaria de la red.
 
 ![386c200ac3730fd027e2778eb4dd8362_MD5]({{ site.baseurl }}/assets/images/386c200ac3730fd027e2778eb4dd8362_MD5.webp)
 
 #### Flota de monitoreo de infraestructura
 
-Un componente crítico para la fiabilidad del servicio es la capacidad de monitoreo proactivo de los activos. Network Rail opera una flota especializada conocida como la "Flota Amarilla".25 El buque insignia de esta flota es el Tren de Medición Nuevo (New Measurement Train \- NMT), apodado el "Plátano Volador" por su distintiva librea amarilla.27
+Un componente crítico para la fiabilidad del servicio es la capacidad de monitoreo proactivo de los activos. Network Rail opera una flota especializada conocida como la "Flota Amarilla". El buque insignia de esta flota es el Tren de Medición Nuevo (New Measurement Train - NMT), apodado el "Plátano Volador" por su distintiva librea amarilla.
 
 | Máquina / Vehículo | Función Principal | Especificaciones Técnicas |
 | :---- | :---- | :---- |
-| NMT (Tren de Medición) | Monitoreo de vía a alta velocidad | Sensores láser y cámaras de alta resolución a 125 mph.27 |
-| Stoneblower (Soplador de Piedra) | Nivelación y alineación de vía | Inyección neumática de piedra de 20mm bajo las traviesas.29 |
-| Tamper (Bateadora) | Consolidación de balasto | Herramientas mecánicas para posicionar el balasto y nivelar la vía.29 |
-| Ballast Cleaning System (BCS) | Renovación de balasto | Tren de 800 metros que limpia o reemplaza balasto de noche.31 |
-| Milling Train (Tren de Fresado) | Suavizado de rieles | Eliminación de defectos superficiales para extender la vida del riel.26 |
+| NMT (Tren de Medición) | Monitoreo de vía a alta velocidad | Sensores láser y cámaras de alta resolución a 125 mph. |
+| Stoneblower (Soplador de Piedra) | Nivelación y alineación de vía | Inyección neumática de piedra de 20mm bajo las traviesas. |
+| Tamper (Bateadora) | Consolidación de balasto | Herramientas mecánicas para posicionar el balasto y nivelar la vía. |
+| Ballast Cleaning System (BCS) | Renovación de balasto | Tren de 800 metros que limpia o reemplaza balasto de noche. |
+| Milling Train (Tren de Fresado) | Suavizado de rieles | Eliminación de defectos superficiales para extender la vida del riel. |
 
-El NMT es un Intercity 125 convertido que recorre 115.000 millas al año, capturando 10TB de datos de imagen cada 440 millas mediante sistemas de reconocimiento de patrones de vía (PLPR).27 Esta tecnología permite identificar defectos antes de que se conviertan en fallos de seguridad o causen retrasos operativos.27 No obstante, Network Rail ha iniciado un programa para reemplazar esta flota envejecida hacia 2027 con métodos híbridos que incluyan drones, robots y satélites, buscando una mayor predictibilidad y menores costes de mantenimiento.25
+El NMT es un Intercity 125 convertido que recorre 115.000 millas al año, capturando 10TB de datos de imagen cada 440 millas mediante sistemas de reconocimiento de patrones de vía (PLPR). Esta tecnología permite identificar defectos antes de que se conviertan en fallos de seguridad o causen retrasos operativos. No obstante, Network Rail ha iniciado un programa para reemplazar esta flota envejecida hacia 2027 con métodos híbridos que incluyan drones, robots y satélites, buscando una mayor predictibilidad y menores costes de mantenimiento.
 
 #### Métodos de mantenimiento de vía
 
-La ingeniería ferroviaria británica ha desarrollado métodos específicos para mantener la geometría de la vía. Mientras que el "tamping" tradicional mueve el balasto existente, el "stoneblowing" restaura el nivel inyectando piedra adicional de tamaño pequeño, lo que minimiza la perturbación de la base ya compactada.30 Los estudios indican que el "stoneblowing" ofrece resultados más duraderos, reduciendo la frecuencia necesaria de intervenciones y, por tanto, el coste total de propiedad de la infraestructura.29 Sin embargo, el "tamping" sigue siendo esencial para consolidar el balasto después de trabajos de renovación completa.29
+La ingeniería ferroviaria británica ha desarrollado métodos específicos para mantener la geometría de la vía. Mientras que el "tamping" tradicional mueve el balasto existente, el "stoneblowing" restaura el nivel inyectando piedra adicional de tamaño pequeño, lo que minimiza la perturbación de la base ya compactada. Los estudios indican que el "stoneblowing" ofrece resultados más duraderos, reduciendo la frecuencia necesaria de intervenciones y, por tanto, el coste total de propiedad de la infraestructura. Sin embargo, el "tamping" sigue siendo esencial para consolidar el balasto después de trabajos de renovación completa.
 
 ### Economía del sector ferroviario británico
 
-La sostenibilidad financiera es el mayor desafío de la reforma. En el ejercicio financiero 2024-2025, los ingresos totales de la industria fueron de 25.900 millones de libras, pero los gastos operativos ascendieron a 26.000 millones.10 La diferencia, junto con las inversiones de capital, es cubierta por el Estado.
+La sostenibilidad financiera es el mayor desafío de la reforma. En el ejercicio financiero 2024-2025, los ingresos totales de la industria fueron de 25.900 millones de libras, pero los gastos operativos ascendieron a 26.000 millones. La diferencia, junto con las inversiones de capital, es cubierta por el Estado.
 
 #### Estructura de ingresos y subsidios
 
-El Gobierno aportó 11.900 millones de libras para la operación diaria de los ferrocarriles en 2024/25, lo que representa el 46% de los ingresos operativos totales.10 Aunque los ingresos por tarifas crecieron un 8% hasta los 11.500 millones, el sistema sigue siendo fuertemente dependiente del contribuyente debido al aumento de los costes de personal y mantenimiento.10
+El Gobierno aportó 11.900 millones de libras para la operación diaria de los ferrocarriles en 2024/25, lo que representa el 46% de los ingresos operativos totales. Aunque los ingresos por tarifas crecieron un 8% hasta los 11.500 millones, el sistema sigue siendo fuertemente dependiente del contribuyente debido al aumento de los costes de personal y mantenimiento.
 
 | Fuente de Ingresos (2024-2025) | Monto (Miliardos £) | Variación Interanual |
 | :---- | :---- | :---- |
-| Ingresos por Tarifas | 11.5 | \+8%.10 |
-| Subsidio Operativo del Gobierno | 11.9 | \-7%.10 |
-| Inversión en HS2 | 7.1 | \-5%.10 |
-| Inversión Privada | 0.756 | \+27%.10 |
+| Ingresos por Tarifas | 11.5 | +8% |
+| Subsidio Operativo del Gobierno | 11.9 | -7% |
+| Inversión en HS2 | 7.1 | -5% |
+| Inversión Privada | 0.756 | +27% |
 
 ![e3a57b4acf6503f10e869e3b4fa4ba35_MD5]({{ site.baseurl }}/assets/images/e3a57b4acf6503f10e869e3b4fa4ba35_MD5.webp)
-La disparidad regional en el subsidio es notable. Los pasajeros en Escocia reciben un apoyo de 34 peniques por pasajero-kilómetro, y en Gales la cifra alcanza los 45 peniques, comparado con los 16 peniques en el sur y este de Inglaterra, donde la mayor densidad de población permite una mayor recuperación de costes mediante tarifas.10
+La disparidad regional en el subsidio es notable. Los pasajeros en Escocia reciben un apoyo de 34 peniques por pasajero-kilómetro, y en Gales la cifra alcanza los 45 peniques, comparado con los 16 peniques en el sur y este de Inglaterra, donde la mayor densidad de población permite una mayor recuperación de costes mediante tarifas.
 
 ![3b7bb3c6976c5089a9522543d30b9252_MD5]({{ site.baseurl }}/assets/images/3b7bb3c6976c5089a9522543d30b9252_MD5.webp)
 #### Regulación de tarifas e inflación
 
-El sistema de tarifas en el Reino Unido se divide en reguladas y no reguladas. Las tarifas reguladas (que incluyen abonos de temporada y billetes de hora valle en rutas principales) representan aproximadamente el 45% del total y su incremento está limitado por el Gobierno.18 Tradicionalmente, este límite se ha vinculado al Índice de Precios Minoristas (RPI) de julio del año anterior.18
+El sistema de tarifas en el Reino Unido se divide en reguladas y no reguladas. Las tarifas reguladas (que incluyen abonos de temporada y billetes de hora valle en rutas principales) representan aproximadamente el 45% del total y su incremento está limitado por el Gobierno. Tradicionalmente, este límite se ha vinculado al Índice de Precios Minoristas (RPI) de julio del año anterior.
 
-Para 2025, el Gobierno fijó un límite de aumento del 4,6%, basado en el RPI de julio de 2024 (3,6%) más un punto porcentual adicional.18 Sin embargo, para 2026, con un RPI de julio de 2025 registrado en 4,8%, las proyecciones indican aumentos de hasta el 5,8%, lo que presiona el poder adquisitivo de los usuarios y complica la estrategia de GBR de atraer a más pasajeros tras la pandemia.36
+Para 2025, el Gobierno fijó un límite de aumento del 4,6%, basado en el RPI de julio de 2024 (3,6%) más un punto porcentual adicional. Sin embargo, para 2026, con un RPI de julio de 2025 registrado en 4,8%, las proyecciones indican aumentos de hasta el 5,8%, lo que presiona el poder adquisitivo de los usuarios y complica la estrategia de GBR de atraer a más pasajeros tras la pandemia.
 
 ### Material rodante y arrendamiento operativo
 
-A diferencia de muchos sistemas nacionales, los operadores de trenes en Gran Bretaña no suelen ser propietarios de sus vehículos. El 87% de los trenes pertenecen a tres grandes empresas de arrendamiento de material rodante (ROSCOs): Angel Trains, Eversholt Rail y Porterbrook.39
+A diferencia de muchos sistemas nacionales, los operadores de trenes en Gran Bretaña no suelen ser propietarios de sus vehículos. El 87% de los trenes pertenecen a tres grandes empresas de arrendamiento de material rodante (ROSCOs): Angel Trains, Eversholt Rail y Porterbrook.
 
 #### El modelo ROSCO
 
-Estas empresas fueron creadas durante la privatización de 1994 y han mantenido una posición dominante. Los operadores alquilan los trenes mediante contratos de arrendamiento que representan el 26% de sus gastos totales.41 El modelo ha sido criticado por sus altos márgenes de beneficio y el pago de dividendos a inversores internacionales, mientras que el riesgo de inversión a largo plazo suele ser asumido indirectamente por el Estado.40 En 2020, las tres principales ROSCOs pagaron dividendos por valor de 950 millones de libras.41
+Estas empresas fueron creadas durante la privatización de 1994 y han mantenido una posición dominante. Los operadores alquilan los trenes mediante contratos de arrendamiento que representan el 26% de sus gastos totales. El modelo ha sido criticado por sus altos márgenes de beneficio y el pago de dividendos a inversores internacionales, mientras que el riesgo de inversión a largo plazo suele ser asumido indirectamente por el Estado. En 2020, las tres principales ROSCOs pagaron dividendos por valor de 950 millones de libras.
 
 | ROSCO Principal | Propietario / Contexto Reciente | Desempeño Financiero |
 | :---- | :---- | :---- |
-| Angel Trains | Fondos de inversión internacionales.39 | Históricamente altos dividendos.40 |
-| Eversholt Rail | Adquirida por Beacon Rail en 2025\.34 | Enfoque en leasing de largo plazo.39 |
-| Porterbrook | Inversores institucionales; adquirió 404 trenes de Corelink.34 | Margen de beneficio neto \~19%.10 |
+| Angel Trains | Fondos de inversión internacionales. | Históricamente altos dividendos. |
+| Eversholt Rail | Adquirida por Beacon Rail en 2025. | Enfoque en leasing de largo plazo. |
+| Porterbrook | Inversores institucionales; adquirió 404 trenes de Corelink. | Margen de beneficio neto ~19%. |
 
 #### Alternativas de financiación para material rodante
 
-Dada la carga fiscal que supondría para el Estado comprar la flota nacional (valorada en más de 10.000 millones de libras), el Gobierno está explorando la adhesión a Eurofima, una entidad financiera supranacional sin fines de lucro.41 Eurofima ofrece financiación un 5-7% más barata que las fuentes privadas, lo que podría permitir a GBR adquirir nuevos trenes a un coste significativamente menor sin aumentar la deuda pública directa.41 Las negociaciones con Eurofima han sido una prioridad para el Departamento de Transporte durante 2024 y 2025\.
+Dada la carga fiscal que supondría para el Estado comprar la flota nacional (valorada en más de 10.000 millones de libras), el Gobierno está explorando la adhesión a Eurofima, una entidad financiera supranacional sin fines de lucro. Eurofima ofrece financiación un 5-7% más barata que las fuentes privadas, lo que podría permitir a GBR adquirir nuevos trenes a un coste significativamente menor sin aumentar la deuda pública directa. Las negociaciones con Eurofima han sido una prioridad para el Departamento de Transporte durante 2024 y 2025.
 
 ### Proyectos de alta velocidad en el Reino Unido
 
@@ -643,60 +644,60 @@ La infraestructura de alta velocidad representa la apuesta de crecimiento a larg
 
 #### High Speed 1 (HS1)
 
-HS1 conecta Londres St Pancras con el Túnel del Canal. Es una infraestructura madura operada por HS1 Ltd bajo una concesión que se extiende hasta 2040\.42 Recientemente, la empresa se ha renombrado comercialmente como "London St. Pancras Highspeed" para potenciar el cambio modal del avión al tren en rutas internacionales.44 Sin embargo, la madurez del activo implica que los costes de renovación están empezando a subir, lo que requiere una gestión cuidadosa de los cargos de acceso que pagan operadores como Eurostar y Southeastern.
+HS1 conecta Londres St Pancras con el Túnel del Canal. Es una infraestructura madura operada por HS1 Ltd bajo una concesión que se extiende hasta 2040. Recientemente, la empresa se ha renombrado comercialmente como "London St. Pancras Highspeed" para potenciar el cambio modal del avión al tren en rutas internacionales. Sin embargo, la madurez del activo implica que los costes de renovación están empezando a subir, lo que requiere una gestión cuidadosa de los cargos de acceso que pagan operadores como Eurostar y Southeastern.
 
  ![368668ecfd3a50c87d7f5fcc1f5c26bb_MD5]({{ site.baseurl }}/assets/images/368668ecfd3a50c87d7f5fcc1f5c26bb_MD5.webp)
-[Source](https://www.hicl.com/portfolio/project/high-speed-1/)
+[link](https://www.hicl.com/portfolio/project/high-speed-1/)
 #### High Speed 2 (HS2)
 
-HS2 es el mayor proyecto de infraestructura ferroviaria de Europa, diseñado para aliviar la congestión en la West Coast Main Line (WCML).20 Tras años de aumentos de costes y cambios de alcance, el proyecto fue redimensionado en 2023 para centrarse en la ruta entre Londres Euston y Birmingham.20 En 2025, el proyecto entró en una fase de "reinicio" bajo la dirección de Mark Wild para sincronizar la ingeniería civil y el montaje de sistemas.47
+HS2 es el mayor proyecto de infraestructura ferroviaria de Europa, diseñado para aliviar la congestión en la West Coast Main Line (WCML). Tras años de aumentos de costes y cambios de alcance, el proyecto fue redimensionado en 2023 para centrarse en la ruta entre Londres Euston y Birmingham. En 2025, el proyecto entró en una fase de "reinicio" bajo la dirección de Mark Wild para sincronizar la ingeniería civil y el montaje de sistemas.
 
-| Componente de HS2 | Estado de Avance (Enero 2026\) | Detalles Técnicos |
+| Componente de HS2 | Estado de Avance (Enero 2026) | Detalles Técnicos |
 | :---- | :---- | :---- |
-| Túneles | 85% de excavación completada.47 | Túnel más largo ya terminado.47 |
-| Viaductos | 4% terminados (2 de 52).47 | Conexión paisajística en 9 millas.47 |
-| Puentes | 11% terminados (19 de 169).47 | Construcción secuenciada.47 |
-| Área de Pruebas | Priorización de 50 millas.47 | Entre Washwood Heath y Wendover.47 |
+| Túneles | 85% de excavación completada. | Túnel más largo ya terminado. |
+| Viaductos | 4% terminados (2 de 52). | Conexión paisajística en 9 millas. |
+| Puentes | 11% terminados (19 de 169). | Construcción secuenciada. |
+| Área de Pruebas | Priorización de 50 millas. | Entre Washwood Heath y Wendover. |
 
-La estrategia actual de HS2 prioriza un área de pruebas de 50 millas para instalar vías, potencia y señalización antes que en el resto de la ruta, permitiendo probar los nuevos trenes de alta velocidad mientras continúa la construcción pesada en los tramos más complejos.47 El beneficio principal de HS2 no es solo la velocidad (360 km/h), sino la liberación de capacidad en la red convencional para más trenes de carga y cercanías.20 Se estima que HS2 sustituirá la mayoría de los servicios de larga distancia sin paradas en la WCML, permitiendo hasta 10 nuevos servicios de cercanías por hora en Londres Euston.46
+La estrategia actual de HS2 prioriza un área de pruebas de 50 millas para instalar vías, potencia y señalización antes que en el resto de la ruta, permitiendo probar los nuevos trenes de alta velocidad mientras continúa la construcción pesada en los tramos más complejos. El beneficio principal de HS2 no es solo la velocidad (360 km/h), sino la liberación de capacidad en la red convencional para más trenes de carga y cercanías. Se estima que HS2 sustituirá la mayoría de los servicios de larga distancia sin paradas en la WCML, permitiendo hasta 10 nuevos servicios de cercanías por hora en Londres Euston.
 ![0174fe7fa8a8635c7f67e226231eb65d_MD5]({{ site.baseurl }}/assets/images/0174fe7fa8a8635c7f67e226231eb65d_MD5.webp)
-[Source](https://www.newcivilengineer.com/latest/hs2-the-technical-method-of-building-the-chiltern-tunnels-porous-portals-28-01-2026/)
+[link](https://www.newcivilengineer.com/latest/hs2-the-technical-method-of-building-the-chiltern-tunnels-porous-portals-28-01-2026/)
 ### Gobernanza territorial y descentralización
 
 La reforma ferroviaria busca equilibrar la dirección nacional con las necesidades regionales. El sistema actual presenta niveles de autonomía muy desiguales entre las naciones que componen Gran Bretaña.
 
 #### Escocia: modelo de integración nacional
 
-Escocia posee la gestión más avanzada de sus ferrocarriles. Transport Scotland tiene plena responsabilidad sobre ScotRail y Caledonian Sleeper, financiando directamente la infraestructura dentro de sus fronteras.15 Este modelo ha servido de inspiración para algunos aspectos de GBR, demostrando los beneficios de una alineación estratégica entre los objetivos de transporte del gobierno nacional y la operación ferroviaria.15
+Escocia posee la gestión más avanzada de sus ferrocarriles. Transport Scotland tiene plena responsabilidad sobre ScotRail y Caledonian Sleeper, financiando directamente la infraestructura dentro de sus fronteras. Este modelo ha servido de inspiración para algunos aspectos de GBR, demostrando los beneficios de una alineación estratégica entre los objetivos de transporte del gobierno nacional y la operación ferroviaria.
 
 #### Gales: tensiones sobre gobernanza infraestructural
 
-En Gales, la situación es más compleja. Mientras que el Gobierno Galés gestiona Transport for Wales Rail y es propietario de las Core Valley Lines, el resto de la infraestructura sigue siendo propiedad de Network Rail y depende de la financiación de Westminster.17 Esto ha generado tensiones políticas, con líderes galeses reclamando una devolución completa del control y de la financiación, argumentando que Gales recibe una inversión proporcionalmente menor que Inglaterra o Escocia.48
+En Gales, la situación es más compleja. Mientras que el Gobierno Galés gestiona Transport for Wales Rail y es propietario de las Core Valley Lines, el resto de la infraestructura sigue siendo propiedad de Network Rail y depende de la financiación de Westminster. Esto ha generado tensiones políticas, con líderes galeses reclamando una devolución completa del control y de la financiación, argumentando que Gales recibe una inversión proporcionalmente menor que Inglaterra o Escocia.
 
 #### Regiones de Inglaterra y autoridades locales
 
-En Inglaterra, el proyecto de ley de GBR prevé asociaciones flexibles con las Autoridades Estratégicas Mayores (MSAs), como las de Manchester, West Midlands o Londres (GLA).15 Estas asociaciones permitirán una mayor integración de las tarifas (como el sistema Oyster/contactless) y de los horarios entre el tren y otros modos de transporte local, siguiendo el exitoso precedente de TfL.15
+En Inglaterra, el proyecto de ley de GBR prevé asociaciones flexibles con las Autoridades Estratégicas Mayores (MSAs), como las de Manchester, West Midlands o Londres (GLA). Estas asociaciones permitirán una mayor integración de las tarifas (como el sistema Oyster/contactless) y de los horarios entre el tren y otros modos de transporte local, siguiendo el exitoso precedente de TfL.
 
 ### Regulación independiente: la Office of Rail and Road
 
-La Office of Rail and Road (ORR) actúa como el regulador independiente de seguridad y economía.50 Su función es garantizar que los operadores cumplan con la legislación de salud y seguridad y que el mercado sea competitivo y justo.52
+La Office of Rail and Road (ORR) actúa como el regulador independiente de seguridad y economía. Su función es garantizar que los operadores cumplan con la legislación de salud y seguridad y que el mercado sea competitivo y justo.
 [[73e8925bad54ea539dac57f172d6ec92_MD5.webp|Open: Pasted image 20260131085729.png]]
 ![73e8925bad54ea539dac57f172d6ec92_MD5]({{ site.baseurl }}/assets/images/73e8925bad54ea539dac57f172d6ec92_MD5.webp)
 #### Evolución de las funciones de regulación con GBR
 
-Con la creación de GBR, el papel de la ORR cambiará significativamente. En lugar de regular un mercado fragmentado de múltiples franquicias, la ORR pasará a supervisar una entidad pública monolítica.51 Sus nuevas responsabilidades incluirán:
+Con la creación de GBR, el papel de la ORR cambiará significativamente. En lugar de regular un mercado fragmentado de múltiples franquicias, la ORR pasará a supervisar una entidad pública monolítica. Sus nuevas responsabilidades incluirán:
 
-* **Monitoreo del Plan de Negocios de GBR:** Evaluación de los planes quinquenales para asegurar que los fondos se utilicen de manera eficiente.51  
-* **Resolución de Disputas:** Actuar como organismo de apelación para operadores de carga y de acceso abierto que compiten por espacio en las vías gestionadas por GBR.51  
-* **Supervisión de la Seguridad:** Esta función se mantiene inalterada, siendo la autoridad que autoriza la entrada en servicio de nuevos trenes y mejoras de estaciones.54
+* **Monitoreo del Plan de Negocios de GBR:** Evaluación de los planes quinquenales para asegurar que los fondos se utilicen de manera eficiente.  
+* **Resolución de Disputas:** Actuar como organismo de apelación para operadores de carga y de acceso abierto que compiten por espacio en las vías gestionadas por GBR.  
+* **Supervisión de la Seguridad:** Esta función se mantiene inalterada, siendo la autoridad que autoriza la entrada en servicio de nuevos trenes y mejoras de estaciones.
 
-En el ciclo de control actual (CP7), la ORR ha destacado que Network Rail ha logrado ahorros por eficiencia superiores a los previstos, lo que posiciona bien a la organización para la transición a GBR.54 Sin embargo, la ORR ha advertido sobre la falta de una dirección clara sobre dónde se incentivará el capital privado en el futuro, un factor crucial para modernizar la red sin depender exclusivamente del tesoro público.54
+En el ciclo de control actual (CP7), la ORR ha destacado que Network Rail ha logrado ahorros por eficiencia superiores a los previstos, lo que posiciona bien a la organización para la transición a GBR. Sin embargo, la ORR ha advertido sobre la falta de una dirección clara sobre dónde se incentivará el capital privado en el futuro, un factor crucial para modernizar la red sin depender exclusivamente del tesoro público.
 
 ### Perspectivas futuras de la reforma ferroviaria británica
 
 La reforma del sector ferroviario en el Reino Unido representa una apuesta por la simplificación y la integración frente a la fragmentación competitiva del pasado. La creación de Great British Railways como una mente rectora única promete poner fin a la ineficiencia estructural de las franquicias, permitiendo una gestión más ágil y orientada al pasajero.
 
-Sin embargo, el éxito de este nuevo modelo dependerá de la capacidad del Estado para gestionar los riesgos financieros asociados a la caída de los ingresos post-pandemia y la presión inflacionaria sobre las tarifas.10 La coexistencia de un operador público dominante con operadores privados de acceso abierto y de carga requerirá una regulación sofisticada y justa por parte de la ORR para evitar el estancamiento de la innovación.
+Sin embargo, el éxito de este nuevo modelo dependerá de la capacidad del Estado para gestionar los riesgos financieros asociados a la caída de los ingresos post-pandemia y la presión inflacionaria sobre las tarifas. La coexistencia de un operador público dominante con operadores privados de acceso abierto y de carga requerirá una regulación sofisticada y justa por parte de la ORR para evitar el estancamiento de la innovación.
 
 A nivel técnico, la modernización de la flota de mantenimiento y la finalización de proyectos clave como HS2 serán fundamentales para ofrecer la fiabilidad que los usuarios demandan. Si se logra una integración efectiva entre la infraestructura y la operación, el ferrocarril británico podría no solo recuperar su papel central en la movilidad nacional, sino también liderar la transición hacia una economía de transporte más verde y eficiente para el siglo XXI.
 
@@ -805,7 +806,7 @@ En contraste, un ferrocarril con frecuencia de 3 minutos entre trenes y capacida
 
 
 ![0d2781313db4fef14c007c1ddb012176_MD5]({{ site.baseurl }}/assets/images/0d2781313db4fef14c007c1ddb012176_MD5.webp)
-[Source](https://op.europa.eu/webpub/eca/special-reports/high-speed-rail-19-2018/es/)
+[link](https://op.europa.eu/webpub/eca/special-reports/high-speed-rail-19-2018/es/)
 
 ---
 
