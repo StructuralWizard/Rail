@@ -125,15 +125,7 @@ A partir del año 1790 se introduce el uso de los primeros carriles de acero com
 
 La industrialización del transporte ferroviario se fundamenta en el desarrollo de la máquina de vapor. Entre 1769 y 1782, el inventor James Watt patenta la máquina de vapor con mejoras significativas, aunque inicialmente estas unidades resultaban demasiado pesadas y operaban a presiones insuficientes para su aplicación directa en locomotoras.
 
-<iframe width="560" height="315"
-  src="https://youtube.com/embed/0jNAWD-Yk1U?si=4Cj7IDGZlWu67Cfl?autoplay=1&mute=1&loop=1&playlist=UPS9KPiNFrc"
-  title="YouTube video player"
-  frameborder="0"
-  allow="autoplay; encrypted-media; accelerometer; clipboard-write;  gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
-<iframe width="560" height="315" src="https://youtube.com/embed/0jNAWD-Yk1U?si=PLfNTtbWjiL1AH8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/0jNAWD-Yk1U?si=PLfNTtbWjiL1AH8w?autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media; accelerometer; clipboard-write;  gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://youtube.com/shorts/0jNAWD-Yk1U?si=PLfNTtbWjiL1AH8w
 
@@ -195,7 +187,7 @@ Durante este período, se han alcanzado hitos tecnológicos relevantes que demue
 
 **Propulsión con hidrógeno**: En septiembre de 2024, Estados Unidos inaugura su primer tren de pasajeros impulsado por hidrógeno, el **ZEMU** (Zero Emission Multiple Unit), en San Bernardino, California. Este desarrollo representa un avance crucial hacia sistemas de transporte ferroviario completamente descarbonizados, especialmente en regiones donde la electrificación de vías presenta dificultades técnicas o económicas.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_KbPrJaAefQ?si=uWg2l2S0XvTbcBIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_KbPrJaAefQ?si=uWg2l2S0XvTbcBIv?autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Velocidades extremas en ferrocarriles convencionales**: En julio de 2025, China completó las pruebas de funcionamiento del modelo **CR450** (China Railways 450), que establece nuevos récords de velocidad para ferrocarriles convencionales. Este tren representa la evolución de la tecnología de alta velocidad con mejoras significativas en eficiencia energética, comodidad de pasajeros y capacidad operativa.
 
