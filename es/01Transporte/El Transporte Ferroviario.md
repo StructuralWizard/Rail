@@ -133,24 +133,23 @@ La industrialización del transporte ferroviario se fundamenta en el desarrollo 
   allowfullscreen>
 </iframe>
 
-El primer hito en la tracción mecánica ferroviaria se alcanza en 1804, cuando Richard Trevithick presenta la primera locomotora capaz de arrastrar efectivamente un tren completo en Reino Unido. Realizada en colaboración con Andrew Vivian, esta máquina revolucionaria obtuvo un éxito relativo, si bien su peso excesivo provocó la rotura de los frágiles carriles de chapa de hierro disponibles en ese momento.
-
-Siete años más tarde, en 1811, John Blenkinsop diseña la primera locomotora funcionalmente viable, que se presentó públicamente en la línea ferroviaria que conectaba Middleton con Leeds. La locomotora, denominada Salamanca, fue construida en 1812 y representó un avance significativo al incorporar un sistema de cremallera que le permitía superar pendientes más pronunciadas que los sistemas de adherencia convencionales.
-
-Un avance de capital importancia ocurre en 1825, cuando George Stephenson construye la Locomotion, una máquina de vapor de especificaciones superiores que es utilizada en la línea ferroviaria entre Stockton y Darlington, ubicada en el noreste de Inglaterra. Esta locomotora reviste una importancia histórica fundamental, pues constituye la primera máquina de vapor que ha remolcado efectivamente servicios de transporte público de viajeros y mercancías.
-
 ![42f1c36c7c2898c4acb790ad343c483f_MD5]({{ site.baseurl }}/assets/images/42f1c36c7c2898c4acb790ad343c483f_MD5.webp)
 Máquina de vapor de tipo Watt, construida por D. Napier and Son (Londres, 1859)
+
+El primer hito en la tracción mecánica ferroviaria se alcanza en 1804, cuando Richard Trevithick presenta la primera locomotora capaz de arrastrar efectivamente un tren completo en Reino Unido. Realizada en colaboración con Andrew Vivian, esta máquina revolucionaria obtuvo un éxito relativo, si bien su peso excesivo provocó la rotura de los frágiles carriles de chapa de hierro disponibles en ese momento.
 
 ![2beeeaf25137bbc602c6cf378665ce69_MD5]({{ site.baseurl }}/assets/images/2beeeaf25137bbc602c6cf378665ce69_MD5.webp)
 Locomotora de Trevithick (1804)
 
+Siete años más tarde, en 1811, John Blenkinsop diseña la primera locomotora funcionalmente viable, que se presentó públicamente en la línea ferroviaria que conectaba Middleton con Leeds. La locomotora, denominada Salamanca, fue construida en 1812 y representó un avance significativo al incorporar un sistema de cremallera que le permitía superar pendientes más pronunciadas que los sistemas de adherencia convencionales.
+
 ![d07d957bd8689419a920c2466d6f6d0c_MD5]({{ site.baseurl }}/assets/images/d07d957bd8689419a920c2466d6f6d0c_MD5.webp)
 Salamanca: Primera locomotora de cremallera de John Blenkinsop
 
+Un avance de capital importancia ocurre en 1825, cuando George Stephenson construye la Locomotion, una máquina de vapor de especificaciones superiores que es utilizada en la línea ferroviaria entre Stockton y Darlington, ubicada en el noreste de Inglaterra. Esta locomotora reviste una importancia histórica fundamental, pues constituye la primera máquina de vapor que ha remolcado efectivamente servicios de transporte público de viajeros y mercancías.
+
 ![5e52d87901ec9d34839c5d1184776978_MD5]({{ site.baseurl }}/assets/images/5e52d87901ec9d34839c5d1184776978_MD5.webp)
 Locomotion de George Stephenson (1825)
-
 
 ### Expansión global del ferrocarril de vapor
 
@@ -167,6 +166,7 @@ Casi cinco décadas después, en 1883, se inaugura el primer ferrocarril con sum
 Todas las iniciales instalaciones eléctricas utilizaban corriente continua para su funcionamiento, hasta que en 1904 se introduce en Austria la primera línea que implementa corriente alterna, mejorando significativamente la eficiencia de transmisión energética.
 
 ![2dfe7db4842e7ffa4fb136de35d53637_MD5]({{ site.baseurl }}/assets/images/2dfe7db4842e7ffa4fb136de35d53637_MD5.webp)
+[Siemens electrical locomotive](https://commons.wikimedia.org/wiki/File:Siemens_mining_locomotive_001.jpg)
 
 ### Transición del vapor al diésel y transformación del sector
 
@@ -174,11 +174,14 @@ Las locomotoras de vapor, a pesar de su importancia histórica, requieren proced
 
 Paralelamente, otros factores tecnológicos y económicos impactaron negativamente en el ferrocarril. La construcción acelerada de redes de autopistas, el fortalecimiento del transporte por carretera mediante autobuses y camiones, y el surgimiento del transporte aéreo comercial provocaron una reducción considerable en los volúmenes de tráfico ferroviario durante los decenios de 1950 a 1970.
 ![94af864f5923509d6e66ea8d342051c2_MD5]({{ site.baseurl }}/assets/images/94af864f5923509d6e66ea8d342051c2_MD5.webp)
+[Tren electrico de Renfe en Leon](https://mylifeplanet.com/viajes/el-tren-que-vigilaba-el-rio-eresma)
+
 
 No obstante, la crisis del petróleo de 1973 revierte significativamente esta tendencia descendente. La escasez de combustibles fósiles y el encarecimiento del petróleo restauran la competitividad económica de los tranvías y sistemas ferroviarios que no habían sido desmantelados, permitiendo que muchos de estos servicios continúen operando en los días contemporáneos con rentabilidad comercial renovada.
 
 La invención del tren de alta velocidad en Japón en el año 1964 constituye un cambio fundamental en la modalidad, permitiendo recuperar la demanda de transporte interurbano de viajeros. Este avance tecnológico consolida la vigencia del ferrocarril como alternativa competitiva de transporte.
 ![5a8b426009723493f37958d9fd418154_MD5]({{ site.baseurl }}/assets/images/5a8b426009723493f37958d9fd418154_MD5.webp)
+[Shinkansen 0 en Japon](https://en.wikipedia.org/wiki/0_Series_Shinkansen)
 
 ### La era contemporánea (2020 – 2025)
 
@@ -187,6 +190,16 @@ La década actual marca un cambio significativo hacia la sostenibilidad ambienta
 Durante este período, se han alcanzado hitos tecnológicos relevantes que demuestran el compromiso global con la modernización ferroviaria:
 
 **Propulsión con hidrógeno**: En septiembre de 2024, Estados Unidos inaugura su primer tren de pasajeros impulsado por hidrógeno, el **ZEMU** (Zero Emission Multiple Unit), en San Bernardino, California. Este desarrollo representa un avance crucial hacia sistemas de transporte ferroviario completamente descarbonizados, especialmente en regiones donde la electrificación de vías presenta dificultades técnicas o económicas.
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/wYJU0--i69M?si=3_ZNhOq6HHrh48YZ?autoplay=1&mute=1&loop=1&playlist=UPS9KPiNFrc"
+  title="YouTube video player"
+  frameborder="0"
+  allow="autoplay; encrypted-media; accelerometer; clipboard-write;  gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+https://www.youtube.com/watch?v=wYJU0--i69M
 
 **Velocidades extremas en ferrocarriles convencionales**: En julio de 2025, China completó las pruebas de funcionamiento del modelo **CR450** (China Railways 450), que establece nuevos récords de velocidad para ferrocarriles convencionales. Este tren representa la evolución de la tecnología de alta velocidad con mejoras significativas en eficiencia energética, comodidad de pasajeros y capacidad operativa.
 
