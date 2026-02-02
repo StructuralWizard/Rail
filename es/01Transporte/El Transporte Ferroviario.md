@@ -59,16 +59,16 @@ A través de la historia del transporte sobre vías, se han desarrollado diferen
 
 
 ![60c3be0eb84ced833144d437385d1c62_MD5]({{ site.baseurl }}/assets/images/60c3be0eb84ced833144d437385d1c62_MD5.webp)
-Monorrail
+[Monorrail](researchgate.net/publication/326448938_Pre-load_on_the_guidingstabilizing_wheels_and_the_critical_lateral_force_of_a_straddle-type_monorail_vehicle/figures?lo=1&utm_source=google&utm_medium=organic)
 
 ![a309de23941790c3a315ad87100f2da4_MD5]({{ site.baseurl }}/assets/images/a309de23941790c3a315ad87100f2da4_MD5.webp)
-Guiado por pestaña
+[Guiado por pestaña](https://en.wikipedia.org/wiki/Minecart)
 
 ![7b3eb95271b41f0e89605319208bb4cb_MD5]({{ site.baseurl }}/assets/images/7b3eb95271b41f0e89605319208bb4cb_MD5.webp)
-Guiado por rueda
+[Guiado por rueda](https://commons.wikimedia.org/wiki/File:M%C3%A9tro_de_Paris,_station_Bastille,_ligne_1_02.jpg)
 
 ![73db3fb37d81f6304f0b6e87043eca03_MD5]({{ site.baseurl }}/assets/images/73db3fb37d81f6304f0b6e87043eca03_MD5.webp)
-Guiado magnético
+[Guiado magnético](https://ieeexplore.ieee.org/document/1222045/)
 
 ### Primeros sistemas de guiado por pestaña
 
@@ -79,8 +79,10 @@ El guiado por pestaña, que emerge durante el siglo XVII, representa uno de los 
 La primera evidencia histórica de un sistema de transporte sobre carriles proviene de la Antigua Grecia y data del siglo VI a.C. Se trata de la línea Diolkos, un camino de transporte situado en el istmo de Corinto que se extendía por aproximadamente 6 kilómetros. Este sistema primitivo fue utilizado para transportar embarcaciones completas sobre plataformas móviles a lo largo del istmo. La característica técnica más notable de este sistema es que empleaba surcos excavados directamente en la piedra, constituyendo quizás el primer ejemplo documentado de guiado mediante vía fija.
 
 ![4b544f072c4bc467a35d18c90dd47a1f_MD5]({{ site.baseurl }}/assets/images/4b544f072c4bc467a35d18c90dd47a1f_MD5.webp)
+[Estrecho de Corintio](https://es.wikipedia.org/wiki/Istmia)
 
 ![8cfe703a5a095600051f6d988451b451_MD5]({{ site.baseurl }}/assets/images/8cfe703a5a095600051f6d988451b451_MD5.webp)
+[Transporte de barcos estrecho de corinto](https://historiasdelahistoria.com/2016/06/01/transporte-terrestre-los-barcos)
 
 ### Desarrollo medieval y renacentista del ferrocarril en Europa
 
@@ -90,36 +92,46 @@ Una aportación técnica significativa ocurre en el año 1515, cuando el cardena
 
 
 ![5d427b211ee1f2bc09a9bfcf776490de_MD5]({{ site.baseurl }}/assets/images/5d427b211ee1f2bc09a9bfcf776490de_MD5.webp)
-
+[Catedral de Friburgo](https://es.wikipedia.org/wiki/Archivo:Cathedral_Fribourg_vitrail_Dreik%C3%B6nig_01.jpg)
 
 ![a4ede4bbf61597cfaa2c5b884c516de7_MD5]({{ site.baseurl }}/assets/images/a4ede4bbf61597cfaa2c5b884c516de7_MD5.webp)
-Funicular en el castillo de Hohensalzburg «Reisszug» (1515)
-
-
 ![eb20250a30e9f9a129014d4b8707ebb8_MD5]({{ site.baseurl }}/assets/images/eb20250a30e9f9a129014d4b8707ebb8_MD5.webp)
+[Funicular en el castillo de Hohensalzburg «Reisszug» (1515)](https://commons.wikimedia.org/wiki/File:Rei%C3%9Fzug-Wagen.jpg)
 
 ### Evolución de los sistemas de vías desde la Edad Moderna
 
 Desde el año 1550 en adelante, se produce una expansión significativa de líneas de vía estrecha con raíles de madera en las operaciones mineras europeas. Durante todo el siglo XVII, estos primitivos sistemas ferroviarios evolucionaron considerablemente, permitiendo que los vagones de madera transportaran minerales desde el interior de las explotaciones hasta canales conectados, donde se realizaba el trasbordamiento del mineral hacia sistemas de transporte fluvial. Esta evolución técnica gradual condujo finalmente a la inauguración del primer tranvía permanente documentado en 1810, el denominado «Leiper Railroad» ubicado en Pensilvania.
 
 ![3e18b9bec6dca7d1f8ba5a5b5523523e_MD5]({{ site.baseurl }}/assets/images/3e18b9bec6dca7d1f8ba5a5b5523523e_MD5.webp)
+[B&O's first steam locomotives](http://www.nealjconway.com/bando/bando.html)
 Un hito tecnológico crucial ocurre en 1768 con la fabricación del primer carril de hierro, que consistía en un cuerpo de madera revestido con una chapa de hierro. 
 ![1260352383ad6780dbacc204237beb49_MD5]({{ site.baseurl }}/assets/images/1260352383ad6780dbacc204237beb49_MD5.webp)
+[Derby Canal Railway](https://tringlocalhistory.org.uk/Railway/c03_track.htm)
 
 Esta innovación permitió la elaboración de aparatos de vía considerablemente más complejos y resistentes. En los primeros sistemas, la inversión de composiciones se realizaba mediante simples lazos de final de línea, aunque pronto surgieron los cambios de aguja, que revolucionaron la flexibilidad operativa de las redes ferroviarias.
 
 ![2a09226481216391f02834b17b1513a3_MD5]({{ site.baseurl }}/assets/images/2a09226481216391f02834b17b1513a3_MD5.webp)
+[Cornish Miners Working at Dolcoath](https://victorianweb.org/art/stainedglass/clayton/16.html)
 
 A partir del año 1790 se introduce el uso de los primeros carriles de acero completo en Reino Unido, eliminando la necesidad de revestimiento y mejorando drásticamente la durabilidad. En 1803, el ingeniero William Jessop marca un hito histórico al inaugurar la línea «Surrey Iron Railway» al sur de Londres, constituyéndose como el primer ferrocarril público tirado por caballos, demostrando la viabilidad comercial de este sistema de transporte.
 
 ![07e5443012e71a2123a16045cf2f45e4_MD5]({{ site.baseurl }}/assets/images/07e5443012e71a2123a16045cf2f45e4_MD5.webp)
-The Swansea and Mumbles Railway ran the world's first passenger tram service in 1807
+[The Swansea and Mumbles Railway ran the world's first passenger tram service in 1807](https://en.wikipedia.org/wiki/Swansea_and_Mumbles_Railway)
 
 ![7798138a021df166dc0cefbaceb32aaa_MD5]({{ site.baseurl }}/assets/images/7798138a021df166dc0cefbaceb32aaa_MD5.webp)
+[London tramways](https://ast.wikipedia.org/wiki/Ficheru:London_Tramways_Horse_tram.jpg)
 
 ### La era del vapor: Revolución de la tracción mecanizada
 
 La industrialización del transporte ferroviario se fundamenta en el desarrollo de la máquina de vapor. Entre 1769 y 1782, el inventor James Watt patenta la máquina de vapor con mejoras significativas, aunque inicialmente estas unidades resultaban demasiado pesadas y operaban a presiones insuficientes para su aplicación directa en locomotoras.
+
+<iframe width="560" height="315"
+  src="https://youtube.com/embed/0jNAWD-Yk1U?si=4Cj7IDGZlWu67Cfl?autoplay=1&mute=1&loop=1&playlist=UPS9KPiNFrc"
+  title="YouTube video player"
+  frameborder="0"
+  allow="autoplay; encrypted-media; accelerometer; clipboard-write;  gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 El primer hito en la tracción mecánica ferroviaria se alcanza en 1804, cuando Richard Trevithick presenta la primera locomotora capaz de arrastrar efectivamente un tren completo en Reino Unido. Realizada en colaboración con Andrew Vivian, esta máquina revolucionaria obtuvo un éxito relativo, si bien su peso excesivo provocó la rotura de los frágiles carriles de chapa de hierro disponibles en ese momento.
 
