@@ -203,6 +203,9 @@ https://www.youtube.com/watch?v=wYJU0--i69M
 
 **Velocidades extremas en ferrocarriles convencionales**: En julio de 2025, China completó las pruebas de funcionamiento del modelo **CR450** (China Railways 450), que establece nuevos récords de velocidad para ferrocarriles convencionales. Este tren representa la evolución de la tecnología de alta velocidad con mejoras significativas en eficiencia energética, comodidad de pasajeros y capacidad operativa.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CcOWkxnuEo?si=_COTvWHQ50_uRYKz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Expansión masiva de redes de alta velocidad**: Hacia diciembre de 2025, China ha consolidado una red de líneas de alta velocidad dedicadas que supera significativamente la capacidad combinada del resto del mundo. Esta red ferroviaria de alta velocidad cubre conexiones entre todas las capitales provinciales desde Pekín, transformando completamente los patrones de movilidad interurbana en Asia.
 
 ![e1c55e7b4c4c1e3557634c872594cb5b_MD5]({{ site.baseurl }}/assets/images/e1c55e7b4c4c1e3557634c872594cb5b_MD5.webp)
