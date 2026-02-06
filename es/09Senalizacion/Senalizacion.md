@@ -51,12 +51,12 @@ Desde los orígenes del transporte ferroviario, el sistema de seguridad para la 
 |  | - Tren Automático |
 
 - Gestión de Riesgos no Controlados
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-05.jpg?height=1014&width=1527&top_left_y=773&top_left_x=2029)
+![[705c3917cb82a018fe924a7ffd6d3135_MD5.webp]]
 
 Concomitantemente al aumento progresivo de las velocidades operacionales, ha sido necesario mejorar continuamente y adaptar las instalaciones existentes con el propósito de reducir significativamente los riesgos difíciles de controlar y minimizar la participación y el factor humano en los procesos críticos de seguridad.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-06.jpg?height=1224&width=2924&top_left_y=1001&top_left_x=246)
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-07.jpg?height=1553&width=3148&top_left_y=807&top_left_x=200)
+
+![[80b11f6cf14a770b77cce5e40f4ac90f_MD5.webp]]
 
 De manera general, el grado de seguridad alcanzado en los sistemas de transporte ferroviario de la Unión Europea se sitúa en niveles elevados. Aunque los sucesos accidentales en ferrocarril ocurren con escasa frecuencia, cuando efectivamente se materializan generan una importante cobertura y atención por parte de los medios de comunicación.
 
@@ -74,75 +74,73 @@ También existen sistemas de vigilancia y supervisión encargados de verificar e
 
 Paralelamente, se han desarrollado sistemas adicionales conocidos como ATO ("Automatic Train Operation" u Operación Automática del Tren) que posibilitan la conducción completamente automática de los trenes. Sin embargo, todos estos sistemas de operación automática están siempre supervisados y controlados por los sistemas ATP para asegurar la máxima seguridad.
 
+|**Término**|**Definición**|
+|---|---|
+|**Accidente Grave**|Cualquier colisión o descarrilamiento que cause al menos una víctima mortal o 5 heridos graves, o daños por valor superior a 2 millones de euros.|
+|**Accidente**|Suceso repentino no deseado (colisión, descarrilamiento, incendio) que produce daños, aunque sean menores.|
+|**Incidente**|Suceso que **compromete la seguridad** pero no llega a materializarse en daños físicos o materiales de consideración.|
 ### I.2. Accidente
 
 Entendemos por accidente aquel suceso que se produce de forma súbita, no prevista ni buscada intencionalmente, o bien una serie concatenada de sucesos de estas características, que genera consecuencias perjudiciales para las personas y los bienes. Los accidentes ferroviarios pueden clasificarse en diversas categorías según su naturaleza y origen:
 
 - Colisiones entre trenes <br> Descarrilamientos <br> Accidentes en pasos a nivel <br> Daños causados a personas por material rodante en movimiento <br> Incendios en material rodante <br> Otros tipos de siniestros
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-11.jpg?height=1459&width=2805&top_left_y=789&top_left_x=393)
+Fallo de la infraestructura
+![[e0df207911691cd7564815ed8cf4c9a6_MD5.webp]]
 Descarrilamiento de TGV Dúplex en Francia por deslizamiento de un talud en la línea de alta velocidad París-Estrasburgo (2020)
 
-«Accidente»
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-12.jpg?height=1466&width=3407&top_left_y=770&top_left_x=81)
+Terremotos
+![[f69cda94b4fb739d4d3ccf9b7e8f58e7_MD5.webp]]
 
 «Accidente
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-13.jpg?height=1491&width=2695&top_left_y=754&top_left_x=434)
+![[28fbeb111c147ce572bb58bc810c8251_MD5.webp]]
 Incendio de ICE 3 en Alemania por fallo de un equipo técnico embarcado. Línea de alta velocidad Colonia-Frankfurt (2018)
 
 «Accidente»
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-14.jpg?height=1491&width=2155&top_left_y=770&top_left_x=701)
-Descarrilamiento de UT 446 por caída de talud a la vía. Línea R4 de Barcelona, zona de Manresa (2011)
+![[aafffb8347588d15924c426d5049ee14_MD5.webp]]
+**Descarrilamiento en Stonehaven** (Carmont): El siniestro fue provocado por el colapso de un sistema de drenaje mal diseñado, que resultó incapaz de canalizar el flujo de escombros tras las lluvias extremas de agosto de 2020, desplazando el material hacia la vía
 
 ### I.3. Sabotaje
 
 En los casos más excepcionales, los accidentes no son consecuencia de fallos técnicos u operacionales, sino de acciones deliberadas y malintencionadas. La siguiente imagen documental presenta un ejemplo real de este tipo de circunstancias:
 
 INFRAESTRUCTURAS
-Adif confirma de forma oficial que el descarrilamiento del tren en Torrijos fue de forma "intencionada"
+![[387b92775c386d78fec11f78cb1fc0cf_MD5.webp]]
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-15.jpg?height=645&width=875&top_left_y=1333&top_left_x=2458)
-Imagen de la pieza utilizada para sabotear la línea. CANAL EXTREMADURA
 
-El organismo gestor Adif confirmó de manera oficial que el evento de descarrilamiento sufrido por el tren que conecta Madrid y Zafra, ocurrido días atrás en proximidades de la estación de Torrijos, fue ocasionado de forma intencional mediante la colocación premeditada de un fragmento de carril en la vía. Este acto constituye claramente un sabotaje de la infraestructura ferroviaria.
+El descarrilamiento de Matsukawa ocurrió la madrugada del 17 de agosto de 1949 en la prefectura de Fukushima, Japón, cuando un tren de pasajeros de la línea principal Tōhoku se salió de las vías, provocando la muerte de tres miembros de la tripulación. Las investigaciones iniciales revelaron que el accidente fue un acto de sabotaje deliberado, ya que se encontraron pernos y tuercas aflojados, así como clavos de fijación removidos en una sección de la vía. Este suceso se enmarcó en un periodo de gran tensión social tras la Segunda Guerra Mundial, siendo uno de los tres grandes incidentes ferroviarios (junto con los de Shimoyama y Mitaka) que marcaron la ocupación estadounidense en Japón.
 
-Descarrilamiento de automotor s/599 por existencia de pieza en vía. Línea Madrid-Caceres, estación de Torrijos (2019)
+Tras el incidente, las autoridades arrestaron a veinte personas, en su mayoría miembros del sindicato de ferrocarriles y del Partido Comunista de Japón, acusándolos de conspiración política. Aunque inicialmente varios fueron condenados a muerte o a largas penas de prisión, el caso se convirtió en uno de los errores judiciales más célebres del país; años de apelaciones y movilizaciones sociales revelaron que las confesiones habían sido forzadas y las pruebas manipuladas por la policía. Finalmente, en 1963, el Tribunal Supremo absolvió a todos los acusados por falta de pruebas, y el caso prescribió en 1970 sin que se lograra identificar a los verdaderos responsables.
 
 ### I.4. Accidente grave
 
 Se define como accidente grave cualquier evento que incluya una colisión o un descarrilamiento de trenes que resulte en al menos una víctima mortal o más de cinco personas con lesiones graves, o que provoque daños sustanciales al material rodante, a la infraestructura o al medio ambiente. Igualmente, se consideran accidentes graves otros eventos similares que tengan un impacto evidente en la normativa de seguridad ferroviaria o en los sistemas de gestión de la seguridad. Para efectos de esta clasificación, se entiende por "daños sustanciales" aquellos daños cuya evaluación económica, realizada de forma inmediata por el organismo de investigación competente, alcance un mínimo de 2 millones de euros.
 
-«Accidente grave»
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-17.jpg?height=1535&width=2186&top_left_y=745&top_left_x=707)
-
-«Accidente grave»
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-18.jpg?height=1233&width=1114&top_left_y=902&top_left_x=114)
-
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-18.jpg?height=1290&width=2246&top_left_y=850&top_left_x=1241)
-
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-19.jpg?height=1443&width=2163&top_left_y=805&top_left_x=680)
+Fallo humano Accidente de Tempi en Grecia (2023)
+![[63fceda08c85670e5ccb9a5390d6f7aa_MD5.webp]]
 
 ### I.5. Fallo de material (rodadura)
 
 Los sistemas de seguridad actúan principalmente en la detección y prevención de fallos técnicos en el material rodante, que constituyen una fuente importante de riesgo operacional.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-20.jpg?height=1963&width=2603&top_left_y=591&top_left_x=476)
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-21.jpg?height=268&width=330&top_left_y=931&top_left_x=425)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ob6mQM6Ul7M?si=-WisI_1R6SI_xDim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Denominamos **incidente** a cualquier evento o situación anómala, que aunque no constituye un accidente ni un accidente grave en sentido formal, sí está relacionado con la operación de los trenes y puede afectar de manera significativa a las condiciones de seguridad y funcionamiento seguro del sistema.
 
 ### I.6. Incidente
+Se denomina **incidente** a cualquier suceso, distinto de un accidente o un accidente grave, que afecte o pueda afectar a la **seguridad de las operaciones ferroviarias**.
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-22.jpg?height=1469&width=1236&top_left_y=772&top_left_x=1143)
+A diferencia del accidente, el incidente no suele conllevar daños personales graves o daños materiales masivos de forma inmediata, pero revela un fallo en el sistema que podría haber terminado en tragedia.
+![[9320e7885f399027e5ab06b8e587904a_MD5.webp]]
 Desprendimiento de pantógrafo en UT 465, Madrid (2021)
 
 ### I.7. La seguridad en el FFCC
 
 El análisis integral de la seguridad ferroviaria debe considerar múltiples dimensiones de protección que van más allá de los aspectos técnicos operacionales tradicionales:
-
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-23.jpg?height=1376&width=503&top_left_y=869&top_left_x=711)
 
 Seguridad preventiva contra actos malintencionados y vandálicos (denominada "Security")
 
@@ -152,36 +150,39 @@ Protección contra amenazas cibernéticas y ataques a sistemas digitales
 
 De conformidad con el UIC Safety Report 2020, se establece que actores y terceros ajenos a la operación directa son responsables de más del 90% de los accidentes ferroviarios registrados (lo que se clasifica como causas externas). La causa más frecuentemente identificada en estos eventos es el acceso no autorizado a zonas de la infraestructura ferroviaria. En cambio, las causas internas se originan tanto en la administración de la infraestructura como en las empresas operadoras de trenes. Dentro de esta categoría de causas internas, el factor humano y los errores de personal constituyen el porcentaje más significativo de responsabilidad.
 
-| 2019 | Causes at first level | Causes at second level |  |
-| :--- | :--- | :--- | :--- |
-| 91,9\% | THIRD PARTIES <br> 90,4\% | Trespassing | 75,3\% |
-|  |  | vehicle (LC accident) | 7,8\% |
-|  |  | Pedestrian (LC accident) | 5,1\% |
-|  |  | Pedestrian on public railway area | 1,6\% |
-|  |  | Other or not specified | 0,6\% |
-|  | WEATHER \& ENVIRONMENT <br> 1,5\% | Environment | 0.4\% |
-|  | INFRASTRUCTURES <br> 1,9\% | Tracks and structures | 1,0\% |
-|  |  | Energy system | 0,5\% |
-|  |  | other or not specified | 0.4\% |
-|  | ROLLING STOCK <br> 1,3\% | Running gear | 0,7\% |
-|  |  | Other or not specified | 0.6\% |
-|  | HUMAN FACTORS (Railway staff \& subcontractors) <br> 3,7\% | Track and switch maintenance staff | 0,5\% |
-|  |  | Traffic operating and signalling staff | 0,6\% |
-|  |  | Train drivers | 1,1\% |
-|  |  | Other or not specified | 1,6\% |
-| 7,7\% | RAILWAY USERS <br> 0,7\% | Passengers | 0,7\% |
-|  |  | Other or not specified | 0.0\% |
-| CAUSES NOT IDENTIFIED |  |  | 0,5\% |
+| **2019**   | **Causas de primer nivel**         | **Causas de segundo nivel**          |        |
+| ---------- | ---------------------------------- | ------------------------------------ | ------ |
+| **91,9\%** | **TERCEROS** 90,4\%                | Invasión de vía (Trespassing)        | 75,3\% |
+|            |                                    | Vehículo (accidente en paso a nivel) | 7,8\%  |
+|            |                                    | Peatón (accidente en paso a nivel)   | 5,1\%  |
+|            |                                    | Peatón en zona pública de la vía     | 1,6\%  |
+|            |                                    | Otros o no especificados             | 0,6\%  |
+|            | **CLIMA Y ENTORNO** 1,5\%          | Medio ambiente                       | 0,4\%  |
+|            | **INFRAESTRUCTURAS** 1,9\%         | Vías y estructuras                   | 1,0\%  |
+|            |                                    | Sistema de energía                   | 0,5\%  |
+|            |                                    | Otros o no especificados             | 0,4\%  |
+|            | **MATERIAL RODANTE** 1,3\%         | Tren de rodaje                       | 0,7\%  |
+|            |                                    | Otros o no especificados             | 0,6\%  |
+|            | **FACTORES HUMANOS** 3,7\%         | Personal de mantenimiento            | 0,5\%  |
+|            |                                    | Operación de tráfico                 | 0,6\%  |
+|            |                                    | Maquinistas                          | 1,1\%  |
+|            |                                    | Otros o no especificados             | 1,6\%  |
+| **7,7%**   | **USUARIOS DEL FERROCARRIL** 0,7\% | Pasajeros                            | 0,7\%  |
+|            |                                    | Otros o no especificados             | 0,0\%  |
+| **0,5\%**  | **CAUSAS NO IDENTIFICADAS**        |                                      |        |
+
+
+
 
 ### I.8. Tipos de accidentes (2019)
 
 Analizando estadísticamente los datos de accidentes registrados en el año 2019, se observa una distribución clara de las modalidades de siniestros. La inmensa mayoría de los accidentes ocurridos, representando el 81% del total, corresponden a impactos o golpes individuales causados cuando el tren entra en contacto con objetos o personas en la vía. En segundo lugar, con un 11% de frecuencia, aparecen las colisiones del tren con obstáculos diversos presentes en el recorrido. Los descarrilamientos constituyen el 3% de los accidentes totales, mientras que las colisiones entre dos o más trenes en movimiento representan solamente el 1% de los siniestros.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-25.jpg?height=1337&width=1748&top_left_y=855&top_left_x=1572)
+![[252b8150526e39f1c6ee314788c0d42b_MD5.webp]]
 
 ### I.9. Lugar de producción de accidentes (2019)
 
 La ubicación geográfica donde ocurren los accidentes en la red ferroviaria muestra patrones muy definidos. Aproximadamente la mitad de todos los accidentes registrados suceden en zonas de trayecto abierto y exterior, lejos de infraestructuras específicas. Las áreas identificadas como puntos críticos posteriores incluyen las estaciones operativas y los pasos a nivel, que concentran una proporción significativa de siniestros. Por el contrario, los accidentes ocurridos en zonas de aparatos de vía y desvíos representan apenas un porcentaje menor, inferior al 3% del total de accidentes.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-26.jpg?height=1196&width=2103&top_left_y=950&top_left_x=1216)
+![[6451dd8fa4dd6567ff57bd2fc95299ca_MD5.webp]]
 
 ### I.10. Fases del proceso: La evaluación del riesgo
 
@@ -215,8 +216,6 @@ La función de los sistemas de señalización en ferrocarriles persigue el cumpl
 - Alcanzar la máxima eficiencia posible del tráfico ferroviario, logrando regularidad operativa y asegurando la capacidad de transporte suficiente para responder a las demandas de la línea correspondiente
 
 Estos dos objetivos presentan una relación que con frecuencia resulta antagónica. Aumentar las medidas de seguridad tiende a reducir la capacidad de transporte, y viceversa. El diseño de los sistemas debe buscar un equilibrio óptimo entre ambas exigencias.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-29.jpg?height=978&width=1291&top_left_y=632&top_left_x=2141)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-29.jpg?height=733&width=1310&top_left_y=1753&top_left_x=2128)
 
 ### II.2. Funciones Básicas
 
@@ -236,7 +235,7 @@ Durante los primeros períodos de desarrollo del transporte ferroviario, las lí
 Para remediar esta deficiencia, en los puntos considerados como peligrosos o críticos, se ubicaban personas dedicadas (guardavías y guardagujas) que mediante señales ejecutadas con las manos o con banderas de colores comunicaban al maquinista instrucciones esenciales sobre cómo proceder. Los **guardavías** constituían el personal encargado de coordinar los movimientos, ya que disponían de información sobre la posición de los trenes y autorizaban su circulación. Los **guardagujas**, por su parte, tenían a su cargo la operación de los aparatos de vía y señales, así como las tareas de mantenimiento de estos dispositivos.
 
 Con el transcurso del tiempo y el incremento sustancial del tráfico ferroviario y las velocidades de operación, estas medidas rudimentarias resultaron claramente insuficientes. Fue entonces necesario implementar refuerzos tecnológicos progresivos: primero se introdujeron señales mecánicas fijas, posteriormente se pasó a sistemas de señales eléctricas, y finalmente se desarrollaron sistemas de señalización luminosa que representan la base de la señalización moderna.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-31.jpg?height=1123&width=1037&top_left_y=1499&top_left_x=2378)
+![[82aae52ccdf3f1ed0db72de22c957a9e_MD5.webp]]
 
 **Definición y Clasificación de Señales**
 
@@ -259,7 +258,7 @@ Las señales ferroviarias pueden clasificarse alternativamente según el tipo de
 - Verde destellante → indica vía libre condicional, con restricciones especiales
 - Amarillo → constituye un anuncio de parada, indicando que se aproxima una señal restrictiva
 - Rojo → orden de parada imperativa
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-33.jpg?height=1056&width=708&top_left_y=592&top_left_x=2717)
+![[76364d01327bbbf956e476b82a040d15_MD5.webp]]
 
 **Señales Indicadoras**: estas señales proporcionan información complementaria sobre características específicas del itinerario y condiciones de operación. Su función es informar al maquinista sobre:
 - La vía que debe utilizarse (vía directa o desviada)
@@ -267,8 +266,10 @@ Las señales ferroviarias pueden clasificarse alternativamente según el tipo de
 - Ubicación de postes kilométricos o hectométricos para referencia de localización
 - Aproximación a pasos a nivel y otras situaciones especiales
 - Limitaciones de velocidad aplicables en el tramo específico
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-33.jpg?height=927&width=698&top_left_y=1700&top_left_x=2722)
-
+![[de8dc681e1dbeefe526902dd0eb23e65_MD5.webp]]
+El número de arriva afecta a los trenes de Tipo normal. 
+El número del centro afecta a los trenes de Tipo A.
+El número de abajo afecta a los trenes de Tipo B. 
 ## Capítulo III El Bloqueo
 
 El sistema de bloqueo representa uno de los mecanismos fundamentales que garantiza la seguridad operativa en los ferrocarriles. Este concepto es esencial para entender cómo se gestiona el tráfico ferroviario de manera segura.
@@ -277,26 +278,6 @@ El sistema de bloqueo representa uno de los mecanismos fundamentales que garanti
 
 Se denomina **Bloqueo** al conjunto de procedimientos y mecanismos que establecen una relación de dependencia y coordinación entre dos estaciones colaterales (adyacentes) con el propósito de permitir que ambas expidan circulaciones (autorizaciones de movimiento) desde cada una hacia la otra, mediante el establecimiento controlado de la reserva exclusiva de un tramo de vía para una circulación específica. Este sistema asegura que en un momento dado, solamente un tren puede ocupar el segmento de vía entre estaciones.
 
-LANZADERA
-A
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-35.jpg?height=63&width=445&top_left_y=1585&top_left_x=1795)
-B
-Un solo tren en circulación
-
-BASTON PILOTO
-A
-⟶
-|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+
-B Para circular se requiere bastón
-
-BASTONES PILOTO
-III A
-Permite movimientos en el mismo sentido
-
-BLOQUEO TELEF. ENCLAV
-ELECTRIC
-A
-
 ### III.1. Bloqueo telefónico
 
 El bloqueo telefónico constituye el sistema más intuitivo y conceptualmente accesible de los procedimientos de bloqueo disponibles. A su vez, es el que implica la menor inversión en instalaciones fijas especializadas, dado que el cantón operativo abarca la totalidad de la extensión de vía entre las estaciones colaterales que operan y disponen de personal de circulación permanentemente presente.
@@ -304,7 +285,7 @@ El bloqueo telefónico constituye el sistema más intuitivo y conceptualmente ac
 Para establecer un bloqueo telefónico entre dos estaciones colaterales, es absolutamente obligatorio que exista un acuerdo explícito entre los jefes de circulación de ambas estaciones. Este acuerdo se realiza típicamente mediante comunicación telefónica a través de las líneas dedicadas del operador ferroviario, y debe ser debidamente documentado en un registro denominado **telefonema**. En este documento se consignan los datos identificatorios del tren que va a circular, la hora prevista de salida desde la estación expedidora, y los nombres completos de los agentes de circulación que han intervenido en la negociación y acuerdo.
 
 El sistema de bloqueo telefónico es el que mayor carga de trabajo y personal requiere para su operación continua. Por esta razón, actualmente no se instala en ninguna línea como sistema principal de bloqueo.
-
+![[154462fead68ef18dae7d01576a5114f_MD5.webp]]
 ### III.2. Bloqueo eléctrico-manual
 
 En este sistema, la función de control y coordinación del bloqueo de vía se realiza por parte de los jefes de circulación de cada estación utilizando dispositivos eléctricos especializados. Esta tecnología representa un avance significativo respecto al bloqueo telefónico puro.
@@ -312,18 +293,16 @@ En este sistema, la función de control y coordinación del bloqueo de vía se r
 En cada una de las estaciones operativas, el jefe de circulación dispone de un cuadro de mando centralizado. Este cuadro contiene una representación esquemática y sinóptica de las vías que componen la estación, incluyendo también las vías de aproximación y salida hacia las estaciones adyacentes. En el cuadro están integrados todos los elementos y dispositivos necesarios para establecer el bloqueo de manera controlada.
 
 Aunque el accionamiento de los comandos es manual (el operario debe ejecutar físicamente la acción), la comunicación eléctrica entre las señales de salida de las estaciones colaterales es automática. Esta característica híbrida combina control manual con transmisión automática de información.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-37.jpg?height=1357&width=1811&top_left_y=1222&top_left_x=1633)
+
+![[386728eb8f9111e5d52d9504f7619649_MD5.webp]]
 
 **ESTACION**
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-38.jpg?height=787&width=2776&top_left_y=722&top_left_x=383)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-38.jpg?height=1068&width=1868&top_left_y=1519&top_left_x=661)
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-39.jpg?height=1961&width=1364&top_left_y=589&top_left_x=202)
+![[5ac05293974e2f7d27dadd5731a69221_MD5.webp]]
 Petición y concesión de vía
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-39.jpg?height=1670&width=1801&top_left_y=736&top_left_x=1566)
-
+![[43a27322651b6ff7e3d15f181a2fffa0_MD5.webp]]
 Toma de vía
 
 ### III.3. El Bloqueo automático
@@ -331,7 +310,8 @@ Toma de vía
 El concepto fundamental que subyace al bloqueo automático es que la distancia de seguridad requerida entre dos trenes que circulan en el mismo sentido debe ser suficientemente amplia para que el tren que sigue al primero pueda detener completamente su movimiento dentro de ese espacio de separación. Esto debe ser válido incluso en el escenario más desfavorable, donde el tren circula a velocidad máxima, rebasa inadecuadamente una señal de parada, y simultáneamente entra en funcionamiento automáticamente el sistema de freno de emergencia del vehículo.
 
 Esta función del sistema de señalización proporciona un nivel de protección muy elevado, permitiendo asegurar prácticamente la imposibilidad de que ocurra una colisión con el tren precedente por alcance, incluso ante un hipotético fallo del sistema de conducción o conducta inadecuada del maquinista.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-40.jpg?height=481&width=1666&top_left_y=1253&top_left_x=1886)
+![[cfe3bf1ce5f95ef02ce6ae574eb16d9b_MD5.webp]]
+![[2173407c75a680075de010fea9466e2b_MD5.webp]]
 
 **Señalización basada en cantones**
 
@@ -343,7 +323,10 @@ En sistemas operativos basados en la operación mediante cantones fijos, estos s
 - El tren precedente debe haber pasado completamente la zona de solapamiento que existe después de la siguiente señal, asegurando un margen de seguridad adicional
 - El tren precedente debe estar correctamente protegido de trenes que lo sigan por medio de una señal en aspecto de parada
 - El tren que solicita la entrada al cantón debe estar debidamente protegido contra movimientos opuestos o conflictivos
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-41.jpg?height=154&width=101&top_left_y=2206&top_left_x=2378)
+![[72627cad6b784d7ddc29b315b54de524_MD5.webp]]
+Cantón único
+![[6ba256a497984d60b2d0d5540a885ad4_MD5.webp]]
+Varios cantones
 
 **Optimización de la Capacidad de Tráfico**
 
@@ -359,13 +342,15 @@ La longitud mínima permisible del cantón está determinada por dos factores pr
 Los circuitos de vía constituyen componentes esenciales de los sistemas de detección de ocupación de la vía. Se define un **circuito de vía** como un circuito eléctrico especializado que se instala a lo largo de un tramo específico de infraestructura ferroviaria. En este circuito, los propios carriles que componen la vía se utilizan como conductores eléctricos, formando parte integral del circuito.
 
 El propósito fundamental de un circuito de vía es detectar con precisión la presencia de vehículos ferroviarios en el tramo de vía donde ha sido instalado. Este mecanismo de detección aprovecha el hecho de que los ejes metálicos de los vehículos ferroviarios crean una derivación conductora (un cortocircuito parcial) en el circuito eléctrico cuando las ruedas entran en contacto con los carriles. Esta derivación provoca cambios mensurables en los parámetros eléctricos del circuito que pueden ser detectados y procesados por equipos especializados de control.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-43.jpg?height=615&width=1537&top_left_y=594&top_left_x=1900)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-43.jpg?height=526&width=692&top_left_y=1194&top_left_x=1075)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-43.jpg?height=429&width=1340&top_left_y=1733&top_left_x=55)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-43.jpg?height=418&width=582&top_left_y=2172&top_left_x=69)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-43.jpg?height=415&width=632&top_left_y=2183&top_left_x=766)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-43.jpg?height=676&width=2009&top_left_y=1936&top_left_x=1489)
 
+![[5f75ca6b68490feeb33de8a16dbc960b_MD5.webp]]
+![[a7e0da56ce8006ac6c0d55a542c94b27_MD5.webp]]
+![[e8a35419026ba4ff90bfd5ddccf8a646_MD5.webp]]
+
+
+![[ae0cc702b2aa9e0fad13ac509fd88e77_MD5.webp]]
+![[a35c3ad26ad6db941dd9255a9e7536b0_MD5.webp]]
+Cuadro de mandos con circuitos de via
 ### III.5. El Bloqueo automático: BAU
 
 El Bloqueo Automático Unidireccional (BAU) es uno de los modelos de operación más utilizados en ferrocarriles. En este sistema, el establecimiento del bloqueo se realiza de manera completamente automática sin intervención humana directa, utilizando los circuitos de vía para la detección de ocupación y los sistemas de control para gestionar la liberación y ocupación de cantones.
@@ -377,29 +362,29 @@ El Bloqueo Automático Bidireccional (BAB) representa una extensión del concept
 **Fases operativas del BAB:**
 
 Cuando el tren sale de la estación A, el sistema marca automáticamente la ocupación del primer cantón. Conforme el tren avanza a través de los cantones sucesivos, el sistema va liberando progresivamente los cantones abandonados y bloqueando los nuevos cantones ocupados, manteniéndose siempre una zona de protección alrededor del tren.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-45.jpg?height=1276&width=2358&top_left_y=597&top_left_x=1012)
+![[965bc2bfe86b61753fb91701a04ee2a8_MD5.webp]]
 
 Cuando el tren entra completamente en la estación B, el sistema finaliza el bloqueo del trayecto. Una vez que el tren ha cesado completamente su movimiento dentro de la estación B, el trayecto entre A y B queda completamente desbloqueado, permitiendo que un nuevo tren pueda ser autorizado para circular desde A hacia B o desde B hacia otra estación.
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-45.jpg?height=369&width=2088&top_left_y=1850&top_left_x=1114)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-45.jpg?height=402&width=2143&top_left_y=2196&top_left_x=1059)
+![[06abf1d547b0cde7b548e101a6e9daa5_MD5.webp]]
+![[5e019415a504f29d2c6fcac3ccb5b277_MD5.webp]]
 
 ### III.7. Bloqueo y sistemas de seguridad de las Líneas de Ancho Métrico
 
 En el caso específico de las líneas españolas de ferrocarril de ancho métrico (1000 mm), la red ferroviaria dispone de diversos sistemas de bloqueo según la línea específica y su nivel de modernización. Este documento presenta un resumen actualizado de la situación a octubre de 2022.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-46.jpg?height=1179&width=2918&top_left_y=802&top_left_x=322)
+![[4444e94e18f94c1d58ff6325e2410487_MD5.webp]]
 
 Octubre 2022
 
 La tabla siguiente resume los sistemas de bloqueo instalados en diferentes líneas de ancho métrico y los sistemas de protección automática de trenes asociados:
 
-| Sistema de Bloqueo | Líneas de Ancho Métrico (excepto línea 116 Cotos-Cercedilla) |
-| :--- | :--- |
-| B.T. - Bloqueo Telefónico | Aplicado en ciertos tramos |
-| B.A.U./B.A.D/B.A.B - Bloqueo Automático + CTC | ◯ ASFA (analógico) |
-| B.A.U. - Bloqueo Automático Unidireccional | - ASFA (digital) |
-| B.E.M. - Bloqueo Eléctrico Manual | ◯ ESTACIONES |
-| Otros procedimientos (regulados por consigna operacional) | Casos especiales |
+| Sistema de Bloqueo                                        | Líneas de Ancho Métrico (excepto línea 116 Cotos-Cercedilla) |
+| :-------------------------------------------------------- | :----------------------------------------------------------- |
+| B.T. - Bloqueo Telefónico                                 | Aplicado en ciertos tramos                                   |
+| B.A.U./B.A.D/B.A.B - Bloqueo Automático + CTC             | ASFA (analógico)                                             |
+| B.A.U. - Bloqueo Automático Unidireccional                | - ASFA (digital)                                             |
+| B.E.M. - Bloqueo Eléctrico Manual                         | ESTACIONES                                                   |
+| Otros procedimientos (regulados por consigna operacional) | Casos especiales                                             |
 
 ### III.8. Bloqueo y sistemas de seguridad de las Líneas de Ancho Ibérico e Internacional
 
@@ -424,11 +409,11 @@ Los principios básicos que rigen todo sistema de enclavamiento son los siguient
 Durante la evolución histórica del transporte ferroviario, con el desarrollo progresivo de la infraestructura ferroviaria y el crecimiento exponencial del tamaño de las estaciones, surgió un problema operativo importante. A medida que las estaciones se hacían más complejas, la distancia que debía recorrer el personal para acceder a los diversos puntos donde se encontraban instaladas las cerraduras y dispositivos de accionamiento se hacía cada vez mayor, generando ineficiencias operativas significativas.
 
 Para solucionar este problema, se desarrolló un sistema innovador que permitía realizar todas estas maniobras de accionamiento a distancia, desde un puesto de control centralizado donde se concentraban todos los mandos operacionales. En este sistema centralizado, se materializaban las relaciones de dependencia funcionales (que son relaciones mecánicas) entre las palancas de maniobra de los aparatos de vía y las señales, y la posición física real de estos elementos en el terreno, a través de sistemas de transmisiones mecánicas especializadas que los enlazaban.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-50.jpg?height=1109&width=1563&top_left_y=596&top_left_x=1900)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-50.jpg?height=737&width=1085&top_left_y=1795&top_left_x=1872)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-50.jpg?height=866&width=576&top_left_y=1728&top_left_x=2980)
+![[8596a4d1509610ef373e22cd74c60b2a_MD5.webp]]
+![[c043e27e3fa0565c9db9a18c951b14c9_MD5.webp]]
+![[bcd35b89994930489401ba98cc65511a_MD5.webp]]
 
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-51.jpg?height=1865&width=3307&top_left_y=661&top_left_x=122)
+![[e0899d1830cadf4fcae2a0ca9e12338e_MD5.webp]]
 
 ### IV.1. Enclavamientos eléctricos
 
@@ -444,7 +429,7 @@ Las ventajas principales de los sistemas eléctricos respecto a los puramente me
 - Considerable aumento en la velocidad de transmisión de órdenes y en la ejecución de comprobaciones de seguridad
 - Ausencia de limitaciones físicas de distancia o alineación entre componentes
 - Agilización notable en el establecimiento de las rutas de movimiento autorizadas
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-52.jpg?height=719&width=1068&top_left_y=1930&top_left_x=2389)
+![[72c3a304bb878e603726548500e2eace_MD5.webp]]
 
 ### IV.2. Enclavamientos electrónicos
 
@@ -462,7 +447,7 @@ Los sistemas de protección automática de trenes (ATP) representan la evolució
 
 En los siguientes capítulos se abordarán los principales sistemas ATP en operación en infraestructuras españolas y europeas, incluyendo sus características técnicas, funcionalidades y niveles de implementación.
 
-## Capítulo VI Sistemas ATP: ASFA
+### V.1. ASFA
 
 El **ASFA** (sigla que significa "Anuncio de Señales y Frenado Automático") constituye el sistema de señalización en cabina y protección automática de trenes más ampliamente implementado en las líneas operadas por RENFE (incluyendo la red convencional), FEVE (Ferrocarriles de Vía Estrecha), y también en la red de alta velocidad (AVE). Para el maquinista, el sistema ASFA actúa como un recordatorio permanente de las condiciones actuales de señalización del trayecto, y lo obliga a responder activamente a todas las indicaciones restrictivas que aparecen.
 
@@ -474,34 +459,36 @@ El sistema está compuesto por dos conjuntos funcionales principales:
 
 - **Equipo instalado en vía**: balizas inductivas especializadas y armarios de conexión y conversión de señales
 - **Equipo instalado en tren**: detector o captador inductivo de señal, armario de control computerizado, y panel indicador visual. Este equipo está conectado funcionalmente con los sistemas de frenado del tren, el tacógrafo, el registrador de eventos de seguridad, y otros sistemas embarcados
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-56.jpg?height=927&width=1221&top_left_y=1631&top_left_x=2280)
+![[93d759c22355837e0b226bf1e8574ee2_MD5.webp]]
 
-## Capítulo VII Sistemas ATP: ASFA Digital
+### V.2. ASFA Digital
 
 La evolución tecnológica ha permitido el desarrollo de una versión mejorada del sistema ASFA, denominada ASFA Digital, que incorpora capacidades avanzadas de procesamiento de información. Este sistema modernizado utiliza comunicaciones digitales en lugar de analógicas, mejorando significativamente la precisión, la velocidad de transmisión de datos, y la capacidad de supervisión del sistema.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-57.jpg?height=1381&width=2981&top_left_y=1089&top_left_x=276)
+![[17d86aa1d0d292ce7d5170081e58f056_MD5.webp]]
 
 Sistemas ATP: ASFA
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-58.jpg?height=1889&width=3359&top_left_y=665&top_left_x=98)
 
-## Capítulo VIII Sistemas ATP
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kRIGFyZJw-4?si=BeOJv7pWMX44481-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 La protección automática de trenes puede implementarse mediante diversos enfoques técnicos, cada uno con sus características específicas de funcionamiento:
 
 **Sistema por Códigos de Velocidad**
 
 Este enfoque se basa en la transmisión de códigos que especifican una velocidad máxima permitida en cada segmento de vía. El equipo a bordo compara continuamente la velocidad real del tren con la velocidad máxima autorizada por el código recibido. Si se detecta que el tren circula a una velocidad superior a la permitida, el sistema activa automáticamente los frenos de emergencia para reducir la velocidad a niveles seguros.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-59.jpg?height=481&width=2713&top_left_y=922&top_left_x=541)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-59.jpg?height=473&width=2910&top_left_y=1433&top_left_x=344)
+
+![[3a5fef1803d0fa1d8065490d8fc143d8_MD5.webp]]
+![[4356d0db01b2c66a0425185d7e30bd0d_MD5.webp]]
 
 **Sistema de Cantón Móvil**
 
 Alternativamente, existe el enfoque del cantón móvil, donde la zona de protección se desplaza dinámicamente junto con el tren. En lugar de cantones fijos predeterminados en la infraestructura, el sistema calcula continuamente la distancia de frenado requerida en función de la velocidad actual del tren y las características de este, creando un "cantón de protección" que se mueve con el tren. Esto optimiza significativamente la capacidad de la línea al permitir distancias de separación más cortas y adaptables dinámicamente.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-59.jpg?height=420&width=1918&top_left_y=1900&top_left_x=1369)
+![[5bb27227d29280c413aeb50286a8b817_MD5.webp]]
 
-## Capítulo IX Sistemas ATP: ERTMS
+### V.3. ERTMS
 
 El **ERTMS** (European Rail Traffic Management System - Sistema Europeo de Gestión del Tráfico Ferroviario) constituye el sistema integral europeo de control, comando y señalización de trenes. Fue concebido y desarrollado a comienzos de los años 1990 con el objetivo de crear un sistema estándar europeo que pudiera ser aplicado en toda la red ferroviaria continental, facilitando la interoperabilidad transfronteriza y la modernización tecnológica general.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Imi60yo6k7A?si=Wkg7J-VrlIAUViyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Composición del Sistema ERTMS**
 
@@ -510,8 +497,9 @@ El ERTMS está estructurado en torno a dos subsistemas principales que funcionan
 - **GSM-R** (Global System for Mobile communication - Rail): se basa en tecnología GSM estándar pero adaptada específicamente para aplicaciones ferroviarias, utilizando frecuencias especializadas del sector ferroviario e incorporando funciones avanzadas de seguridad y confiabilidad. GSM-R constituye el sistema de telecomunicaciones fundamental que permite el intercambio bidireccional de información de voz y datos entre los equipos situados en la infraestructura terrestre y los equipos embarcados en los trenes.
 
 - **ETCS** (European Train Control System - Sistema Europeo de Control de Trenes): es el subsistema mediante el cual se transmite información reguladora desde la infraestructura al tren. Un ordenador de abordo especializado, denominado Eurocab, recibe continuamente información sobre la velocidad máxima autorizada en cada tramo del itinerario. Este ordenador compara constantemente la velocidad real del tren con la velocidad máxima permitida, y en caso de detectar una violación de este límite, ordena automáticamente el frenado del tren para restablecer la conformidad.
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-61.jpg?height=1032&width=1499&top_left_y=597&top_left_x=2017)
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-61.jpg?height=980&width=1472&top_left_y=1639&top_left_x=2036)
+![[e1604c66ab437e7ab7c2cccaf864c497_MD5.webp]]
+![[bd8070ff4b9dffa1638c3b415a0c5d37_MD5.webp]]
+Eurobaliza
 
 **Niveles de Implementación del ERTMS**
 
@@ -520,21 +508,215 @@ El grado de implementación funcional del ERTMS en una línea específica depend
 - **Nivel 0**: ETCS en configuración limitada, restringido únicamente a la vigilancia de la velocidad máxima puntual en ubicaciones específicas críticas
 
 - **Nivel 1**: Transmisión puntual de información de velocidad mediante dispositivos denominados Eurobalizas. El equipo ETCS a bordo calcula continuamente y supervisa la velocidad autorizada basándose en la información recibida de estas balizas
-
+![[349f3caa5e7339a663703d3f1ccc252b_MD5.webp]]
 - **Nivel 2**: Supervisión continua de la velocidad mediante comunicación permanente. El posicionamiento del tren se transmite continuamente a través del sistema de comunicaciones GSM-R, permitiendo que la infraestructura conozca en todo momento la posición exacta del tren y pueda enviar autorizaciones de velocidad dinámicas
-
+![[2292371460c56241e70ae71d36f37274_MD5.webp]]
 - **Nivel 3**: Evolución del Nivel 2 pero con eliminación de los circuitos de vía fijos en la infraestructura, reemplazándolos completamente por cantones móviles controlados mediante información de posición. Este nivel representa la tecnología más avanzada y se encuentra aún en fase de desarrollo y pruebas piloto en varios países europeos
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-62.jpg?height=2030&width=1606&top_left_y=616&top_left_x=1895)
+![[998aacb2f8e410e13fc099cbbd905944_MD5.webp]]
+
+![[2625c0b6e48c9e1371533dae984f6627_MD5.webp]]
 
 Sistemas ATP: ERTMS
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-63.jpg?height=1832&width=3227&top_left_y=640&top_left_x=164)
+![[a73f0c7ab21794843c74a14dc604d6b1_MD5.webp]]
 
 Sistemas ATP: ERTMS
-![](https://cdn.mathpix.com/cropped/8286abc0-f59c-443a-a179-6ab0306a2cd9-64.jpg?height=1972&width=3482&top_left_y=574&top_left_x=41)
+![[bbcfda3faecf4de229df052477cc098c_MD5.webp]]
 
----
 
-## Conclusión
+## Capítulo VI Centros de control
+
+La gestión del tráfico ferroviario en España ha experimentado una transformación radical desde los métodos manuales de mediados del siglo XX hasta la implementación de ecosistemas digitales de control integrado que sitúan al país a la vanguardia tecnológica mundial. El Control de Tráfico Centralizado (CTC) se define como la solución tecnológica fundamental que permite el mando a distancia de los enclavamientos, dispositivos que gestionan en tiempo real y de forma remota la señalización y los desvíos de la red, estableciendo itinerarios seguros para la circulación de trenes las 24 horas del día.1 Esta arquitectura técnica no solo garantiza la seguridad operativa, sino que actúa como el multiplicador de capacidad necesario para absorber el crecimiento del tráfico derivado de la liberalización del sector y la expansión de la red de alta velocidad.3
+![[46f036e6f866ba5f950e0a52850e50ac_MD5.webp]]
+### VI.1. Evolución histórica y madurez del sistema de control
+
+La trayectoria del CTC en España es el reflejo de la evolución industrial del país. El hito fundacional se sitúa en abril de 1954, con la entrada en servicio del primer tramo controlado mediante esta tecnología en el trayecto de vía única entre Brañuelas y Ponferrada.5 Aquella instalación inicial, que utilizaba tecnología GRS de origen estadounidense, marcó el inicio de la superación de los gabinetes de circulación locales como único método de gestión.5 A partir de esta experiencia, la red inició un proceso de modernización que se aceleró significativamente en las décadas posteriores.
+
+Durante los años 70, se introdujeron los primeros enclavamientos geográficos y, en 1976, el primer CTC basado en ordenadores, lo que permitió transitar de una lógica electromecánica a una basada en el procesamiento de datos.6 La década de los 90 supuso el salto definitivo con la inauguración de la primera línea de alta velocidad Madrid-Sevilla en 1992, que incorporó sistemas de protección avanzada como el LZB y sentó las bases para el desarrollo de los Centros de Regulación y Control (CRC) modernos.6
+
+  
+
+|   |   |   |
+|---|---|---|
+|Etapa Histórica|Período / Año|Hito Tecnológico Principal|
+|Origen del CTC|1954|Inauguración del tramo Brañuelas-Ponferrada (Tecnología GRS).5|
+|Transición Electrónica|1970 - 1980|Primer CTC basado en ordenador (1976) y enclavamientos geográficos.6|
+|Revolución de la AV|1992|Señalización LZB y protección automática en la LAV Madrid-Sevilla.6|
+|Digitalización Integral|2000 - Actualidad|Desarrollo e implantación del sistema Da Vinci y centros multirred.8|
+
+La historia del ferrocarril en España también está marcada por la complejidad de su orografía y la evolución de sus compañías operadoras. Antes de la unificación en RENFE en 1941, grandes compañías como Norte, MZA y Andaluces gestionaban la red bajo marcos legislativos que databan de 1855 y 1877.10 El lento desarrollo inicial, condicionado por la escasa densidad de población y turbulencias políticas, fue superado mediante planes estratégicos como el Plan Preferente de Urgente Construcción de 1926, que buscó mejorar las comunicaciones con Portugal y las transversales peninsulares.10 Esta herencia de líneas dispersas y tecnologías heterogéneas es la que el CTC moderno ha logrado unificar bajo un mando operativo cohesionado.
+
+### VI.2. Estructura operativa y jerarquía de la gestión de red
+
+La administración de la infraestructura ferroviaria española, bajo la responsabilidad de Adif y Adif Alta Velocidad, se organiza mediante una estructura jerárquica diseñada para maximizar la resiliencia y la eficiencia. El peldaño superior de esta pirámide lo ocupa la Gestión de Red H24, una unidad de supervisión permanente que monitoriza el estado global de la infraestructura y el desarrollo de la circulación en todo el territorio nacional.12
+
+#### VI.2.1. Los Centros de Regulación y Control (CRC) y Puestos de Mando (PM)
+
+La red se gestiona físicamente a través de 20 centros operativos principales. Existe una distinción técnica fundamental entre los denominados Centros de Regulación y Control (CRC), dedicados exclusivamente a la Red de Alta Velocidad, y los Puestos de Mando (PM), que gestionan la Red Convencional y la Red de Ancho Métrico (RAM).12 Estos centros actúan como el cerebro del sistema ferroviario, recopilando toda la información necesaria para garantizar el flujo de los servicios programados, incluyendo horarios, paradas y asignación de vías.3
+
+  
+
+|   |   |   |   |
+|---|---|---|---|
+|Tipo de Centro|Número|Red Gestionada|Kilómetros (aprox.)|
+|CRC Alta Velocidad|4|Red de Ancho Estándar (LAV)|> 4.000 km.4|
+|PM Convencional / RAM|16|Ancho Ibérico y Ancho Métrico|> 11.500 km.4|
+
+La distribución geográfica de estos centros responde a criterios de optimización regional y cobertura técnica. Entre los centros más destacados se encuentran Madrid-Puerta de Atocha y Albacete para la alta velocidad, y centros como Madrid-Chamartín, Barcelona, Valencia, Sevilla, León y El Berrón para la red convencional y métrica.4 Cada uno de estos centros supervisa tramos específicos; por ejemplo, el PM de Manzanares regula desde Aranjuez hasta Alcázar de San Juan y las líneas hacia Extremadura, mientras que el CRC de Albacete gestiona el corredor hacia Levante.13
+
+#### VI.2.2. Gabinetes de Circulación y servicios de apoyo
+
+A pesar del alto grado de centralización que permite el CTC, la infraestructura mantiene Gabinetes de Circulación en estaciones clave. Estas dependencias son atendidas por personal que gestiona el tráfico localmente a través de enclavamientos, actuando como puntos de control de proximidad.12 Complementariamente, los Servicios Itinerantes de Circulación (SIC) proporcionan la flexibilidad necesaria para abrir gabinetes adicionales cuando la demanda del tráfico o situaciones excepcionales lo requieren.12
+
+En situaciones de normalidad operativa, la interacción entre el regulador del PM y el personal de estación es constante. El Puesto de Mando monitoriza la malla de circulación, una representación gráfica donde cada tren es una línea diagonal; cualquier desviación sobre el horario teórico es comunicada y gestionada para minimizar el impacto en el resto de la red.15 Este diálogo técnico permite ajustar los cruces y las prioridades de paso, especialmente en líneas de vía única donde la precisión es crítica para evitar demoras en cadena.15
+
+### VI.3. El sistema Da Vinci: Innovación y soberanía tecnológica
+
+El sistema Da Vinci representa el mayor logro tecnológico de Adif en el ámbito de la gestión del tráfico. Desarrollado íntegramente en España en colaboración con Indra, Da Vinci es una plataforma de gestión integrada que aglutina todos los subsistemas necesarios para el control ferroviario en una única interfaz.16 Su arquitectura se basa en un bus de servicios ferroviarios que actúa como software de interconexión, permitiendo una escalabilidad real desde líneas individuales hasta redes nacionales complejas.18
+
+#### VI.3.1 Módulos funcionales y arquitectura de software
+
+La potencia del sistema reside en su división modular, que abarca el ciclo de vida completo del negocio ferroviario, desde la planificación hasta el análisis histórico de la explotación.17 Los componentes clave de Da Vinci incluyen:
+
+1. iTracker: El corazón del sistema, un servicio de seguimiento inteligente de trenes que integra información de múltiples subsistemas para realizar una monitorización continua y real de cada composición en la red.18
+    
+2. iRouter: El cerebro lógico, un módulo avanzado de previsión y detección inteligente de conflictos que automatiza el enrutamiento de trenes, reduciendo la carga de trabajo manual del operador.18
+    
+3. Sistema de Gestión de la Regulación (SGR): Proporciona las herramientas visuales esenciales, como las mallas de seguimiento, visores de ocupación de vía y herramientas de replanificación en tiempo real.17
+    
+4. Integración DICOM: Unifica las comunicaciones de telefonía fija y móvil (GSM-R) dentro del entorno operativo, garantizando que el regulador tenga contacto inmediato con maquinistas y personal de infraestructura.16
+    
+
+  
+
+|   |   |   |
+|---|---|---|
+|Módulo Da Vinci|Función Principal|Beneficio Operativo|
+|iTracker|Seguimiento en tiempo real|Precisión absoluta en la ubicación del material rodante.18|
+|iRouter|Enrutamiento automático|Minimización de errores humanos y optimización de surcos.18|
+|SGR|Interfaz de regulación|Visualización intuitiva de la explotación y gestión de incidencias.17|
+|DICOM|Comunicaciones integradas|Agilidad en la coordinación operativa voz/datos.16|
+
+Da Vinci no es solo un estándar nacional, utilizado en todas las líneas de alta velocidad españolas y en la red de ancho métrico, sino que ha sido exportado con éxito a redes internacionales como las de Marruecos, Lituania y el Metro de Medellín en Colombia.16 Su capacidad para adaptarse a diferentes entornos hardware y su cumplimiento de normativas europeas como EIRENE (para GSM-R) lo convierten en uno de los sistemas más avanzados del mundo.17
+
+### VI.4 El paradigma de los Centros Multirred: Eficiencia e integración
+
+Adif está impulsando un nuevo modelo operativo denominado "CRC Multirred", cuyo objetivo es concentrar la gestión de líneas con diferentes anchos de vía y características técnicas en una sola ubicación física.9 Este enfoque permite aprovechar sinergias, optimizar recursos humanos y mejorar la fiabilidad del control al disponer de todas las herramientas de gestión en un entorno unificado.19
+
+#### VI.4.1 El Centro de El Berrón y la modernización de la RAM
+
+El CRC de El Berrón, en Asturias, constituye un ejemplo paradigmático de este modelo. Este centro integra la gestión de los 222 km de red de ancho convencional de la región (anteriormente controlados desde Oviedo) con los más de 750 km de la Red de Ancho Métrico (RAM).14 En total, cerca de 80 profesionales gestionan desde este punto una red de 976 km por la que circulan casi 600 trenes diarios.14
+
+La creación de estos centros va acompañada de una renovación tecnológica profunda. En El Berrón, así como en Santander y Bilbao, se ha completado la renovación de los sistemas de CTC para la red de ancho métrico, integrándolos en plataformas modernas que sustituyen sistemas obsoletos como el STAC Rail.2 Estos nuevos centros están equipados con videowalls de última generación, financiados en parte por fondos europeos NextGenerationEU, que ofrecen una visión panorámica y detallada de toda la red supervisada.4
+
+  
+
+|   |   |   |
+|---|---|---|
+|Centro Multirred|Redes Integradas|Ámbito de Gestión|
+|León|Alta Velocidad, Ibérico y RAM|Más de 1.200 km de red ferroviaria.9|
+|El Berrón|Ibérico y Ancho Métrico (RAM)|Red ferroviaria de Asturias (976 km).14|
+|Bilbao|Ibérico y RAM|544 km de líneas en el País Vasco.4|
+|Santander|Ibérico y RAM|258 km de líneas en Cantabria.4|
+
+Este modelo multirred se extenderá próximamente a Ourense, con un nuevo centro proyectado para 2025 que duplicará la superficie actual y permitirá gestionar simultáneamente las redes de alta velocidad, convencional y métrica de Galicia.9
+
+### VI.5 Telemando de Energía y sistemas auxiliares de seguridad
+
+La explotación segura de una red ferroviaria no depende únicamente del control de los trenes, sino también del estado crítico de la infraestructura eléctrica y los elementos de detección de seguridad. El Telemando de Energía es el sistema SCADA que permite supervisar y accionar de forma remota las subestaciones eléctricas y la catenaria.23
+
+#### VI.5.1. Arquitectura del Telemando de Energía
+
+Históricamente gestionado de forma independiente, el Telemando de Energía se integra cada vez más en el entorno de los CRC y PM para facilitar la coordinación ante incidencias eléctricas.23 Su arquitectura se compone de:
+
+- Puestos Centrales: Ubicados en los CRC, desde donde los operadores de energía supervisan el estado de la red de 2.200 V y las subestaciones de tracción.23
+    
+- Puestos Locales de Operación (PLO): Situados junto a la vía para maniobras de mantenimiento local con visualización limitada.26
+    
+- Redes VPN Dedicadas: La conectividad se garantiza mediante redes privadas virtuales sobre fibra óptica, asegurando que las órdenes de mando viajen de forma segura y segregada del tráfico de datos general.26
+    
+
+#### VI.5.2. Sistemas de detección y protección adicionales
+
+El CTC moderno recibe y procesa alarmas procedentes de una multitud de sensores desplegados en la vía. El sistema TISEF (Telemando Integral de Sensorización Ferroviaria) es el producto encargado de aglutinar esta información heterogénea.27 Entre los dispositivos integrados destacan:
+
+- Detectores de ejes calientes: Sensores infrarrojos que miden la temperatura de las cajas de grasa para prevenir incendios o descarrilamientos.27
+    
+- Detectores de objetos arrastrados y caídos: Alertan si un tren lleva elementos desprendidos o si han caído obstáculos a la vía, especialmente en túneles y pasos superiores.27
+    
+- Detectores de viento y nieve: Críticos en la red de alta velocidad para ajustar las velocidades máximas ante condiciones meteorológicas adversas.12
+    
+
+La integración de estos sistemas en una "capa de visualización" única permite que, ante una alarma de eje caliente, el regulador de tráfico reciba la alerta de forma simultánea a la detección física, pudiendo detener el tren de inmediato mediante una orden directa o a través de la señalización telemandada.24
+
+### VI.6. Modernización de la red: El Plan de Supresión de Bloqueos Telefónicos
+
+Uno de los pilares de la estrategia de seguridad de Adif es la eliminación progresiva de los bloqueos telefónicos en la red convencional. El bloqueo telefónico es un método manual de gestión donde la seguridad de la circulación entre dos estaciones depende de telefonemas intercambiados entre los agentes de circulación.29 Aunque seguro bajo cumplimiento estricto de normas, su automatización elimina el factor del error humano y aumenta drásticamente la capacidad de las líneas.4
+
+#### VI.6.1. Inversión y despliegue tecnológico
+
+Adif está ejecutando un plan de inversión masivo para sustituir estos bloqueos manuales por sistemas de Bloqueo Automático (como el BLAU o el BLAD) telemandados desde el CTC.31 Estas actuaciones incluyen:
+
+- Instalación de enclavamientos electrónicos: Que permiten la lógica de seguridad digital en lugar de la mecánica o eléctrica antigua.23
+    
+- Despliegue de fibra óptica y GSM-R: Para garantizar comunicaciones robustas entre la vía y el centro de control.31
+    
+- Uso de tecnología satelital: En tramos específicos de baja densidad de tráfico, como el trayecto Cáceres-Valencia de Alcántara, se están implementando sistemas de comunicación vía satélite para conectar el tren con el CRC de forma eficiente.33
+    
+
+  
+
+|   |   |   |
+|---|---|---|
+|Tramos en Modernización (Ejemplos)|Inversión Estimada|Objetivo del Proyecto|
+|Líneas de Badajoz y Huelva|> 38,6 M€|Supresión de bloqueo telefónico y despliegue de GSM-R.31|
+|Villanueva de la Serena - Brazatortas|> 34 M€|Renovación integral de señalización y seguridad.32|
+|Cáceres - Valencia de Alcántara|> 9 M€|Sustitución por sistema automático telemandado y satelital.33|
+|Bobadilla - Ronda|Parte de 470 M€|Mejora plataforma, electrificación y supresión de bloqueos.34|
+
+Este proceso de actualización no solo mejora la fiabilidad de las instalaciones, sino que contribuye a los Objetivos de Desarrollo Sostenible (ODS), concretamente al ODS 9, al fomentar infraestructuras resilientes y de calidad.35
+
+### VI.7. Impacto en la capacidad, seguridad y liberalización
+
+La existencia de un sistema de control centralizado potente y flexible es la condición "sine qua non" para la liberalización del transporte ferroviario de viajeros en España. Al automatizar las operaciones repetitivas (como el telemando de señales), los reguladores pueden concentrarse en la replanificación y la gestión de la capacidad en un mercado donde ahora conviven múltiples operadores.9
+
+#### VI.7.1. Estadísticas de explotación y seguridad 2024-2025
+
+Los datos operativos de 2024 reflejan una red en máxima actividad, supervisada con éxito desde los centros de control. La red ferroviaria de interés general (RFIG) cuenta con más de 15.600 km de líneas, de los cuales más de 11.600 km están bajo regulación directa de los centros de gestión.4
+
+|   |   |   |
+|---|---|---|
+|Indicador Operativo|Dato 2024|Observaciones|
+|Trenes en circulación supervisados|1.800.563 trenes|Cifra récord que refleja la alta intensidad de uso.12|
+|Inversión en obras y mantenimiento|> 5.600 M€|Incluye renovación de líneas convencionales y nuevas líneas.38|
+|Sucesos notificados (CIAF)|123 sucesos|Monitorización estricta de la seguridad operacional.39|
+|Trenes-kilómetro de mercancías|24,7 millones|A pesar de una ligera bajada del 1,77% anual.40|
+|Crecimiento de pasajeros (2025 est.)|44 millones|Un 13% más respecto a 2024, impulsado por la liberalización.42|
+
+La seguridad se garantiza mediante sistemas de protección automatizados como el ASFA Digital y el ERTMS, cuya implantación es monitorizada continuamente desde los CRC.43 En 2024, se registró un número sensiblemente menor de "precursores" de accidentes (como rebases de señales o roturas de carril) en comparación con ejercicios previos a 2022, lo que valida la estrategia de inversión en tecnología de control.38
+
+#### VI.7.2. Resiliencia y sistemas de respaldo remotos
+
+Una de las innovaciones más críticas integradas en la renovación de los CTC (con un presupuesto de 72 M€) es el sistema de respaldo. Este diseño permite que, ante una incidencia grave en el sistema principal o en el edificio físico de un CRC, otro centro pueda "suplantar" sus funciones de forma remota.4 Esta capacidad de gestión descentralizada garantiza que la circulación ferroviaria no se detenga por fallos técnicos o territoriales, permitiendo incluso regular tramos desde el extremo opuesto de la Península en casos de emergencia extrema.4
+
+### VI.8. El futuro de los Centros de Control: IA, SITRA+ y BIM
+
+Adif se encuentra inmerso en su Plan Estratégico 2030, donde la digitalización y la automatización inteligente son los vectores dominantes. La evolución de los centros de control no se limita a actualizar hardware, sino a cambiar el modelo de explotación hacia sistemas proactivos.9
+
+#### VI.8.1. El sistema SITRA+ y la Inteligencia Artificial
+
+Desarrollado internamente desde 2018, el sistema SITRA+ representa un salto generacional en la regulación del tráfico. Esta herramienta integra múltiples aplicaciones anteriores en una sola plataforma e incorpora algoritmos de Inteligencia Artificial para determinar automáticamente las mejores rutas de entrada y salida de los trenes en estaciones complejas.9 SITRA+ permite una visualización en tiempo real de la ocupación de vías y un enrutador/numerador automático que reduce drásticamente la latencia en la toma de decisiones.9
+
+#### VI.8.2. Metodología BIM y Gemelos Digitales
+
+La implementación de la metodología BIM (Building Information Modeling) en la infraestructura ferroviaria permite una gestión optimizada de los activos durante todo su ciclo de vida.36 Para los centros de control, esto se traduce en la capacidad de disponer de "gemelos digitales" de la infraestructura, facilitando que el regulador conozca no solo la posición del tren, sino el estado de salud de cada componente físico de la vía, optimizando las campañas de mantenimiento y reduciendo las averías imprevistas.43
+
+#### VI.9. Nuevos horizontes en la Red de Ancho Métrico y líneas rurales
+
+El futuro también contempla soluciones tecnológicas específicas para líneas de baja densidad. Se están desarrollando estándares de ERTMS (Nivel 3 con soporte satelital) que requieren menos equipamiento físico en la vía y menores costes de mantenimiento, manteniendo los estándares de seguridad de las líneas de alta velocidad.16 Estos sistemas serán gestionados íntegramente desde los CRC existentes, permitiendo una democratización de la seguridad avanzada en toda la geografía ferroviaria.16
+
+
+
+## Capítulo VII. Conclusión
 
 El conjunto de sistemas, dispositivos y metodologías de seguridad descritos en los capítulos anteriores constituyen los pilares fundamentales sobre los que se sustenta la operación segura, eficiente y confiable de las infraestructuras ferroviarias modernas. Desde los mecanismos clásicos de señalización y bloqueo, hasta los sistemas más avanzados de protección automática de trenes, cada componente juega un papel esencial en la prevención de accidentes y en la optimización de la capacidad de transporte.
 
@@ -550,4 +732,11 @@ La evolución tecnológica continua, evidenciada en el desarrollo de sistemas co
 - Losada, C.A. (2009) Señalización Ferroviaria: La interoperabilidad y el sistema ERTMS. I Jornadas de Tecnología Ferroviaria, Noviembre 2009.
 - Melis, M \& Gonzalez, F.J. (2008) Ferrocarriles Metropolitanos. Tranvías, metros ligeros y metros convencionales. Colegio de Ingenieros de Caminos Canales y Puertos. Madrid.
 - Montes Ponce de León, F. (2011) Los sistemas de control de tráfico y señalización en el ferrocarril. Publicaciones de la Universidad Pontificia de Comillas
+- https://www.comofuncionanlostrenes.es/instalaciones-de-seguridad-enclavamientos/
+- https://www.sindicatoferroviario.com/DOCUMENTACION/CIRCULACION/RGC/mci/mci11_6.htm
+- **[La transformación de los Centros de Regulación de Circulación (CRC)](https://www.transportes.gob.es/recursos_mfom/comodin/recursos/02_preparando_el_futuro.pdf)**
+- **[Sistema DaVinci - Oposiciones Técnicos Ferroviarios](https://oposicionestecnicoferroviario.com/sistema-davinci/)**
+- **[Adif invierte 72 M€ en reforzar la gestión del tráfico ferroviario convencional y de Cercanías](https://www.adif.es/-/adif-invierte-72-m%E2%82%AC-en-reforzar-la-gesti%C3%B3n-del-tr%C3%A1fico-ferroviario-convencional-y-de-cercan%C3%ADas-con-la-tecnolog%C3%ADa-m%C3%A1s-avanzada)**
+- **[El Centro de Control como punto neurálgico del tráfico ferroviario](https://www.coit.es/sites/default/files/archivobit/pdf/josemiguelrubiosanchez.pdf)**
+- **[Informe Anual 2025 Agencia Estatal de Seguridad Ferroviaria](https://www.seguridadferroviaria.es/recursos_aesf/ias_nsa_espana_2025.pdf)**
 

@@ -33,8 +33,8 @@ En el contexto internacional, es práctica común que los diversos estados imple
 
 En el caso específico de España, esta protección se materializa a través de dos instrumentos legislativos fundamentales: la Ley de Ordenación del Transporte Terrestre (LOTT) promulgada el 30 de julio de 1987, complementada posteriormente por su Reglamento de desarrollo (RLOTT) de fecha 28 de septiembre de 1990. Estos marcos normativos establecen criterios técnicos y administrativos que permiten una regulación ordenada del dominio ferroviario. La legislación vigente define conceptualmente la explanación en los siguientes términos, según lo establecido en el artículo 280 del RLOTT:
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-04.jpg?height=851&width=1572&top_left_y=1012&top_left_x=1843)
-Figura 1. Zonas de protección de la explanación (según LOTT y RLOTT).
+![[8c863605b1ad407effe9f269b26a5a3a_MD5.webp]]
+Zonas de protección de la explanación (según LOTT y RLOTT). [Ministerio de Transportes, movilidad y agenda urbana, 2022](https://www.vitoria-gasteiz.org/docs/wb021/contenidosEstaticos/adjuntos/es/06/40/100640.pdf)
 
 > "Se considera explanación la franja de terreno en la que se ha modificado la topografía natural del suelo y sobre la que se construye la línea férrea, se disponen sus elementos funcionales y se ubican sus instalaciones ".
 
@@ -52,7 +52,7 @@ El marco regulatorio para la protección de la explanación ferroviaria se suste
 
 - REAL DECRETO 1211/1990, de 28 de septiembre, REGLAMENTO DE LA LEY DE ORDENACIÓN DE LOS TRANSPORTES TERRESTRES. (BOE, número 241 , de 8 de oct. de 1990): Este instrumento reglamentario desarrolla en detalle los principios contenidos en la ley de ordenación, proporcionando especificaciones técnicas y procedimentales para su aplicación práctica en la gestión del espacio ferroviario.
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-06.jpg?height=1651&width=3318&top_left_y=769&top_left_x=122)
+![[eeef5182fb725aac03d2335033c5ad48_MD5.webp]]
 
 Dentro de estas normativas se establecen definiciones precisas de los elementos constitutivos del dominio ferroviario: La EXPLANACIÓN se define como aquella franja de terreno sobre la cual se ha modificado la topografía natural del suelo y que sirve de base para la construcción de la línea férrea, la disposición de sus elementos funcionales y la ubicación de sus instalaciones complementarias. La ARISTA EXTERIOR DE LA EXPLANACIÓN, por su parte, representa la línea imaginaria que marca la intersección entre el pie del talud del terraplén, o alternativamente la línea de coronación de trinchera o desmonte, o en su caso, los muros de sostenimiento con el terreno natural circundante.
 
@@ -68,8 +68,8 @@ La Zona de Afección constituye un área territorial complementaria formada por 
 
 Para una comprensión integral de la infraestructura ferroviaria y sus requerimientos espaciales, es fundamental analizar en detalle las distintas dimensiones que componen la explanación. A continuación se presenta un esquema que desglosa cada uno de estos componentes:
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-08.jpg?height=846&width=1753&top_left_y=575&top_left_x=21)
-Fig. 2. Dimensiones de la explanación. Esquema.
+![[0aabbc67146738de1cfe64be665b26ad_MD5.webp]]
+Dimensiones de la explanación. Esquema. [NAP 1-2-1.0 Diseño del trazado ferroviario](https://normativatecnica.adif.es/)
 
 Dentro de esta configuración, los distintos parámetros dimensionales se definen según los siguientes criterios técnicos:
 
@@ -97,50 +97,10 @@ Desde una perspectiva de clasificación constructiva, es posible categorizar la 
 - **Plataformas artificiales**: Aquellas constituidas sobre obras de fábrica y estructuras ingenieriles específicamente diseñadas, como pilotes, vigas de atado y sistemas de cimentación profunda.
 
 Estas tres categorías representan distintos niveles de complejidad constructiva y responden a diferentes condiciones geotécnicas y topográficas del terreno en cuestión.
+![[c8422b63fa008141d15f1cd10ac2ea48_MD5.webp]]
 
-Plataforma
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-13.jpg?height=1421&width=2076&top_left_y=605&top_left_x=322)
-
-Vigas de atado (jan las zenan que llavan vigas prefabricadas secciones $\mathrm{D}_{\mathrm{Fe}} \mathrm{E}$ )
-
-### II.1. Ejecución de plataformas sobre obras de fábrica
-
-En aquellos casos donde es necesario construir la plataforma ferroviaria sobre elementos estructurales artificiales, particularmente mediante sistemas de pilotes y vigas prefabricadas, se desarrolla un proceso constructivo complejo que requiere una secuencia ordenada de operaciones. La presentación mediante imágenes incluye elementos de viga de atado que suministran la trabazón necesaria, especialmente cuando se emplean vigas prefabricadas con secciones tipo.
-
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-13.jpg?height=1421&width=2076&top_left_y=605&top_left_x=322)
-
-El proceso de ejecución se articula en las siguientes etapas secuenciadas:
-
-**1. Construcción de la viga de atado**: Previamente a la instalación de las traviesas prefabricadas, es fundamental ejecutar una viga de atado que garantice la conexión rígida y solidaria de la cabeza de todos los pilotes. Esta viga de atado no solamente proporciona una trabazón que asegura el trabajo conjunto de los pilotes, sino que además actúa como elemento corrector de asentamientos diferenciales, absorbiendo las tensiones de tracción que pudieran generarse y evitando que los extremos de la losa trabajen como voladizos.
-
-**2. Hormigonado y vibrado de la viga cargadero**: Todos los pilotes deben trabajar de manera solidaria durante el hormigonado, particularmente en aquellas secciones del piso inferior donde las máquinas inyectoras deben soportar el peso de las vigas. En esta fase se ejecuta la viga cargadero, que posee una resistencia superior a la de la viga de atado y recibe directamente las cargas transmitidas por las vigas prefabricadas.
-
-**3. Ejecución de morteros de nivelación**: Tras los trabajos previos de ferrallado y encofrado de la viga, y asegurando previamente la limpieza de la viga de cualquier suciedad, suero o residuos, se procede al hormigonado de la misma. El hormigonado de estas vigas se realiza mediante bomba hidráulica, controlando correctamente el vibrado para asegurar la compacidad del hormigón e impedir la formación de coqueras o oquedades que comprometerían su integridad estructural.
-
-**4. Neoprenos colocados sobre mortero de nivelación**: Una vez desencofrada la viga cargadero, se distribuyen los neoprenos. Estos son dispositivos elastómeros de acero cuya función es asumir y distribuir las cargas de las vigas prefabricadas hacia la viga cargadero y desde ella a los pilotes. Para asegurar la horizontalidad correcta, estos neoprenos se asientan sobre capas de mortero de nivelación. Los morteros se ejecutan con un pequeño espesor para garantizar la adecuada distribución de cargas.
-
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-13.jpg?height=359&width=524&top_left_y=2061&top_left_x=338)
-Ferrallado de viga de atado
-
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-13.jpg?height=443&width=357&top_left_y=2033&top_left_x=880)
-
-Hormigonado y vibrado de viga cargadero
-
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-13.jpg?height=373&width=551&top_left_y=2058&top_left_x=1247)
-Ejecución de morteros de nivelación
-
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-13.jpg?height=387&width=560&top_left_y=2044&top_left_x=1816)
-Neoprenos colocados sobre mortero de nivelación
-
-CONSTRUCCIÓN DE PLATAFORMA DEL NUEVO ACCESO FERROVIARIO DE ALTA VELOCIDAD DE LEVANTE. MADRID - CASTILLA LA MANCHA - COMUNIDAD VALENCIANA - REGIÓN DE MURCIA. TRAMO: ALMOZORA - CASTELLÓN
-FASE 3 - EJECUCIÓN DE LA VIGA DE ATADO
-
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-16.jpg?height=1670&width=2893&top_left_y=611&top_left_x=325)
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-16.jpg?height=282&width=782&top_left_y=2272&top_left_x=327)
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-16.jpg?height=256&width=1279&top_left_y=2278&top_left_x=1116)
-
-### II.2. Misiones de la Plataforma
+### II.1. Misiones de la Plataforma
 
 La plataforma ferroviaria cumple con una serie de funciones técnicas críticas que son esenciales para el correcto desempeño del sistema completo de vía. Su misión principal consiste en proporcionar capacidad de carga y resistencia mecánica suficiente para soportar tanto los esfuerzos estáticos originados por el peso propio de la superestructura y su contenido, como los esfuerzos dinámicos derivados de la circulación de los trenes, con sus correspondientes cargas impulsivas y vibratorias.
 
@@ -150,7 +110,7 @@ Adicionalmente, la plataforma debe cumplir una función hidráulica fundamental:
 - **Efecto de heladas**: El agua acumulada experimenta ciclos de congelación y descongelación, disgregando progresivamente el material de la plataforma mediante la acción cicloidal del hielo.
 - **Colapso de terraplenes**: En configuraciones de terraplenes y medias laderas, la infiltración de agua llega a interrumpir completamente la continuidad de la plataforma, generando hundimientos catastróficos y cortes de vía que paralizan la operación ferroviaria.
 
-### II.3. La Plataforma en Líneas Antiguas
+### II.2. La Plataforma en Líneas Antiguas
 
 La herencia constructiva de las líneas ferroviarias contemporáneas presenta un desafío importante que requiere comprensión histórica. Los ingenieros ferroviarios de mediados del siglo diecinueve (período de construcción de prácticamente todas las líneas actuales de la red española) se conformaban con diseñar y ejecutar las plataformas según los requisitos mínimos impuestos por la nivelación longitudinal de las vías, sin considerar otros parámetros fundamentales.
 
@@ -158,13 +118,13 @@ Consecuentemente, realizaban los desmontes y terraplenes necesarios únicamente 
 
 En el contexto actual, la realidad operacional ha cambiado drásticamente. Ahora, con cargas por eje que alcanzan **22 toneladas**, velocidades máximas cercanas a los **200 km/h** en líneas de alta velocidad, e intensidades de tráfico que oscilan entre **100.000 y 200.000 toneladas diarias**, estas plataformas antiguas presentan problemas estructurales muy numerosos y de solución técnicamente incierta. Las reparaciones y refuerzos requeridos constituyen obras civiles complejas, costosas y difíciles de ejecutar, particularmente porque deben realizarse sin suprimir el tráfico de trenes en circulación y respetando las rasantes primitivas de diseño de la vía, lo que restringe significativamente las opciones constructivas disponibles.
 
-#### II.3.1. Problemas Plataformas Antiguas
+#### II.2.1. Problemas Plataformas Antiguas
 
 En la representación gráfica que se presenta a continuación se ilustran los patologías y problemas más recurrentes que se manifiestan en las plataformas ferroviarias de antigüedad considerable. Estos problemas constituyen manifestaciones concretas de los procesos de deterioro derivados de los cambios en los parámetros operacionales mencionados anteriormente.
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-19.jpg?height=1359&width=2335&top_left_y=1078&top_left_x=601)
+![[519cd99da0d451b238c4eb444ef45992_MD5.webp]]
 
-#### II.3.2. Soluciones Problemas Plataformas Antiguas
+#### II.2.2. Soluciones Problemas Plataformas Antiguas
 
 Para hacer frente a la diversidad de patologías que afectan a estas plataformas antiguas, se han desarrollado y aplicado estrategias ingenieriles específicas que se adaptan a cada tipo de problema identificado. A continuación se detallan los procedimientos técnicos habitualmente empleados:
 
@@ -204,7 +164,7 @@ La solución de estos problemas críticos requiere:
 4. Sistemas de saneamiento mediante pantallas-dren longitudinales o transversales
 5. Recomposición completa del terraplén mediante aportación de áridos mejorados y eliminación de tierras primitivas
 
-### II.4. Plataformas de Nueva Construcción
+### II.3. Plataformas de Nueva Construcción
 
 En el proceso de diseño y especificación de la plataforma más apropiada para una nueva línea férrea, es imprescindible recopilar y analizar un conjunto de datos técnicos fundamentales que determinarán las características de la solución constructiva:
 
@@ -264,11 +224,12 @@ Conforme a la capacidad portante que se desea obtener en el suelo tratado, se cl
 
 En la matriz de decisión presentada a continuación se desarrolla el proceso de diseño para obtener la plataforma deseada (P1, P2 o P3) mediante la construcción de la capa de forma (estrato superior de la plataforma) a partir de un suelo sin tratar o ya mejorado previamente (categorías QS0, QS1, QS2 o QS3).
 
-### II.5. Espesor de la capa de forma (UIC 719 R)
+### II.4. Espesor de la capa de forma (UIC 719 R)
 
 El dimensionamiento de la capa de forma que constituye el estrato superior de la plataforma requiere consultar matrices de diseño normalizadas que relacionan la calidad del suelo inicial con el espesor y características de los materiales a utilizar. La siguiente tabla UIC 719 R especifica los espesores mínimos requeridos para obtener distintos niveles de capacidad portante:
 
 **CAPACIDAD PORTANTE DE UNA PLATAFORMA**
+
 | Calidad del suelo soporte | Capa de forma a constituir para obtener una plataforma con capacidad portante determinada |  | Capacidad portante obtenida en la plataforma |
 | :--- | :--- | :--- | :--- |
 |  | Calidad del suelo | Espesor mínimo en m |  |
@@ -282,7 +243,7 @@ El dimensionamiento de la capa de forma que constituye el estrato superior de la
 
 Esta tabla debe interpretarse de la siguiente manera: Si el suelo natural existente pertenece a la categoría QS1 (malo) y se desea obtener una plataforma de clase P3 (buena), es necesario construir una capa de forma con material de calidad QS3 con un espesor mínimo de 50 centímetros.
 
-### II.6. Espesor de la capa de forma (NRV 3-4-1.0)
+### II.5. Espesor de la capa de forma (NRV 3-4-1.0)
 
 La normativa española vigente establecida por la administración ferroviaria (Norma de Renfe-Vía NRV 3-4-1.0) proporciona especificaciones complementarias para el dimensionamiento de la capa de forma, con criterios técnicos que pueden resultar más exigentes que los estándares UIC en algunos casos:
 
@@ -308,7 +269,7 @@ Donde las clasificaciones de capacidad portante se definen como:
 
 Observando ambas normas, se aprecia que la especificación NRV española introduce el concepto de "suelo fino tratado con ligantes" como alternativa economizadora de espesor cuando se trabaja con suelos deficientes, permitiendo reducir espesores mediante estabilización con cemento o cal.
 
-### II.7. Espesor de la capa de Balasto
+### II.6. Espesor de la capa de Balasto
 
 La determinación del espesor óptimo que debe presentar la capa de balasto constituye una cuestión central en el diseño estructural de la vía ferroviaria. Existen numerosos estudios científicos y técnicos desarrollados a lo largo de décadas que abordan la cuantificación del espesor apropiado para la capa de balasto o para el conjunto combinado de balasto más sub-balasto cuando éste último se posiciona directamente bajo las traviesas. Notablemente, los resultados cuantitativos obtenidos mediante investigaciones teóricas rigurosas coinciden sustancialmente con los criterios empíricos que la experiencia acumulada ha sedimentado a través de los años.
 
@@ -333,8 +294,8 @@ El valor de los espesores de balasto y de la capa sub-balasto se establece respe
 
 Para determinar estos espesores óptimos en renovaciones de vía existente, es imperativo conocer previamente la capacidad portante de la plataforma vigente y mejorarla cuando sea técnicamente factible, ya que se obtienen mejores resultados mejorando esta capacidad portante que simplemente disponiendo mayor espesor en la capa de balasto.
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-31.jpg?height=1001&width=1463&top_left_y=572&top_left_x=2055)
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-31.jpg?height=479&width=1268&top_left_y=1600&top_left_x=2180)
+![[a66cd8b1e7faf33c68111d224638fbc7_MD5.webp]]
+![[a6d30c9e859c0fae9f14e6042b8956e0_MD5.webp]]
 
 Leyenda:
 - TRAVIESA DE MADERA
@@ -342,23 +303,15 @@ Leyenda:
 - TRAVIESA DE HORMIGÓN DE $2,20 \leq \ell<2,40 \mathrm{~m}$
 
 (1) $T_{f_{2}}=$ Tráfico ficticio diario
+[NRV 3-4-1.0 para cálculo de espesor de balasto](https://normativatecnica.adif.es/)
 
-### II.8. Secciones de la Banqueta
+
+### II.7. Secciones de la Banqueta
 
 Para asegurar que la vía ferroviaria desarrolle sus funciones de manera óptima y que mantenga la durabilidad en el servicio, es necesario dimensionar adecuadamente todas las capas que constituyen la banqueta en función de los parámetros operacionales de cada línea. La normativa N.R.V. 3-4-1.0 proporciona especificaciones detalladas para los espesores de las capas de asiento:
 
-**ESPESOR DE LAS CAPAS DE ASIENTO EN FUNCIÓN DEL TRÁFICO FICTICIO DIARIO**
-
-|  | CLASE DE CALIDAD DEL SUELO SOPORTE |  |  |
-| :--- | :--- | :--- | :--- |
-| CLASE DE CAPACIDAD DE CARGA DE LA PLATAFORMA | Q S 1 SUELO MALO | QS 2 SUELO MEDIO | Q S 3(2) SUELO BUENO |
-| P 1 PLATAFORMA MALA $C B R \leq 5$ | GRUPOS 4y3B $5 \leqslant$ CBR |  |  |
-| P 2 <br> PLATAFORMA MEDIA $5 \angle C B R \leqslant 20$ | GRUPOS 3By3A $5<$ CBR \& 10 | GRUPOS 3Ay 2 <br> 10 $\angle \mathrm{CBR}^{6} 20$ |  |
-| P 3 PLATAFORMA BUENA $20<\mathrm{CBR}$ | GRUPOS 2 y lC $20 \angle \mathrm{CBR} \leqslant 22$ | GRUPOS ICy IB | GRUPOS IB y 1 A |
-
+![[4961e64e23622a23bd2b44fc34aa30d4_MD5.webp]]
 Esta matriz permite determinar, en función de la clase de capacidad de carga alcanzada en la plataforma y de la calidad del suelo soporte, qué grupos de categoría ferroviaria son compatibles con cada combinación.
-
-Fig. 5.1.b.
 
 ## Capítulo III La Banqueta
 
@@ -382,7 +335,7 @@ Históricamente, los primeros ferrocarriles carecían completamente de banqueta,
 
 El dimensionamiento y la configuración técnica de la banqueta requiere la identificación clara de cada uno de sus componentes constructivos. La figura siguiente ilustra los elementos constitutivos fundamentales:
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-35.jpg?height=769&width=2390&top_left_y=761&top_left_x=448)
+![[542176725f512177be9b71a94ac4ebee_MD5.webp]]
 
 Cada uno de estos elementos se define técnicamente conforme a:
 
@@ -397,7 +350,7 @@ Según las especificaciones técnicas requeridas por la administración ferrovia
 
 **Dimensiones de la banqueta exigidas por ADIF (Vía Simple)**
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-36.jpg?height=621&width=3182&top_left_y=941&top_left_x=188)
+![[fdf452bc44adfbad536d27ab1dc11128_MD5.webp]]
 
 | Dimensiones | Grupos.1AyIB | Grupos.IBylC | Grupos.ICy 2 | Grupos 2y 3 A | Grupos 3 Ay 3 B | Grupos 3 By 4 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -408,7 +361,7 @@ Según las especificaciones técnicas requeridas por la administración ferrovia
 
 **VIA DOBLE**
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-37.jpg?height=729&width=3547&top_left_y=1069&top_left_x=7)
+![[eccdf324ee0dcaab5a88cb53a9307407_MD5.webp]]
 
 | Dimensiones | Grupos IAyIB | Grupos IBylC | Grupos ICy 2 | Grupos 2 y 3 A | Grupos 3Ay3B | Grupos 3 By 4 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -545,7 +498,8 @@ En cada uno de estos tamices debe retenerse una cantidad variable de piedra que 
 
 La representación gráfica de estas tolerancias en un diagrama cartesiano donde en el eje de abscisas se representan los tamaños de tamiz en escala logarítmica, y en el eje de ordenadas se representan los porcentajes acumulados de material que pasa (retenido), da lugar a los denominados **husos granulométricos**, que definen la envolvente aceptable para la distribución de tamaños:
 
-![](https://cdn.mathpix.com/cropped/e4ca33ed-ad67-4088-9af4-60be6ce213fc-50.jpg?height=1185&width=2110&top_left_y=1341&top_left_x=52)
+![[8a221378849243b1a66fa34e69bff8c9_MD5.webp]]
+[Huso Granulometrico ET 03.360.004.0 Adif Especificación técnica balasto](https://normativatecnica.adif.es/)
 
 | Curva granulométrica del balasto |  |
 | :--- | :--- |
@@ -597,7 +551,52 @@ El material que pasa a través del tamiz de 0,063 mm no debe constituir más del
 
 #### IV.11.6. RESISTENCIA A LA ACCIÓN DE LA HELADA
 
+El ensayo de resistencia mide la capacidad de la piedra para soportar ciclos repetidos de congelación y descongelación sin desintegrarse ni perder sus propiedades mecánicas. El balasto es un material granular que, aunque parezca sólido, tiene cierta porosidad. El proceso de deterioro sigue esta lógica:
+
+1. **Absorción:** El agua de lluvia o la humedad ambiental penetran en los micro-poros o fisuras de la roca.
+    
+2. **Congelación:** Cuando la temperatura baja de **0°C**, el agua se convierte en hielo, aumentando su volumen aproximadamente un **9%**.
+    
+3. **Presión Interna:** Ese aumento de volumen genera tensiones internas masivas dentro de la piedra.
+    
+4. **Fractura:** Si la roca no es lo suficientemente resistente, se fisura, se descama o se rompe en trozos más pequeños.
+Si el balasto no resiste bien las heladas, ocurren los siguientes problemas en la vía:
+
+- **Colmatación:** Las piedras se rompen creando "finos" (polvo y fragmentos pequeños) que rellenan los huecos entre las piedras grandes.
+    
+- **Pérdida de Drenaje:** Al llenarse de finos, el agua ya no evacúa correctamente, lo que empeora el ciclo de congelación (más agua retenida = más daño).
+    
+- **Inestabilidad:** La vía pierde su capacidad de repartir las cargas del tren, lo que puede causar deformaciones peligrosas.
+Para asegurar que una cantera es apta, se realizan pruebas normativas (como la **UNE-EN 1367-1**). Los métodos más comunes son:
+
+- **Ciclos de Hielo-Deshielo:** Se someten muestras de balasto a un número determinado de ciclos (frecuentemente 10 o más) de congelación en aire y descongelación en agua.
+    
+- **Ensayo de Sulfato de Magnesio:** Es un método acelerado. Se sumerge la piedra en una solución saturada de esta sal. Al cristalizar dentro de los poros, la sal ejerce una presión similar a la del hielo. Si la pérdida de masa tras el ensayo es superior a un porcentaje pequeño (habitualmente **1% o 2%**), el material se rechaza.
+
 #### IV.11.7. ENSAYO DE EBULLICIÓN
+El **Ensayo de Ebullición** es una prueba de "envejecimiento acelerado" que se aplica específicamente a ciertas rocas de origen volcánico (como el basalto o la mofeta) para detectar un fenómeno conocido como **"mal de la piedra"** o meteorización latente.
+
+A diferencia de otros ensayos que miden la fuerza física, este busca debilidades químicas que podrían hacer que el balasto se deshaga en cuestión de meses al estar expuesto a la intemperie.
+
+Algunas rocas volcánicas contienen minerales inestables (como ciertas zeolitas o arcillas expansivas). Estos minerales parecen sólidos y resistentes en la cantera, pero cuando entran en contacto con la humedad y el aire, se hidratan y expanden, provocando que la piedra se agriete o se convierta en arena.
+
+El ensayo de ebullición **acelera este proceso natural**, que tardaría años, para que ocurra en solo unas horas en el laboratorio.
+
+El procedimiento del Ensayo (Norma UNE-EN 1367-3) es riguroso y busca estresar la estructura interna de la roca:
+
+1. **Selección:** Se toma una muestra representativa de piedras de balasto.
+    
+2. **Inmersión y Ebullición:** Las piedras se sumergen en agua destilada que se mantiene en **ebullición continua durante 4 horas**.
+    
+3. **Observación:** Tras el "cocinado", se dejan enfriar en el agua y se examinan visualmente.
+    
+4. **Pesaje y Pérdida de Masa:** Se mide cuánta masa ha perdido la piedra (cuántos trozos se han desprendido).
+
+Tras el ensayo, el balasto se clasifica según los daños visibles:
+
+- **Sin daños:** La piedra permanece intacta. Es apta para su uso ferroviario.
+- **Fisuras superficiales:** Aparecen pequeñas grietas, pero la estructura se mantiene.
+- **Desintegración (Estallido):** La piedra se rompe en pedazos o aparecen fisuras profundas ("puntos de sol"). Si la pérdida de masa es superior al valor permitido por la normativa (generalmente el **1%**), el material es rechazado de inmediato.
 
 ## Capítulo V Subbalasto
 

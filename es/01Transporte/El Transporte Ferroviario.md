@@ -681,7 +681,7 @@ En Inglaterra, el proyecto de ley de GBR prevé asociaciones flexibles con las A
 ### Regulación independiente: la Office of Rail and Road
 
 La Office of Rail and Road (ORR) actúa como el regulador independiente de seguridad y economía. Su función es garantizar que los operadores cumplan con la legislación de salud y seguridad y que el mercado sea competitivo y justo.
-[[73e8925bad54ea539dac57f172d6ec92_MD5.webp|Open: Pasted image 20260131085729.png]]
+
 ![73e8925bad54ea539dac57f172d6ec92_MD5]({{ site.baseurl }}/assets/images/73e8925bad54ea539dac57f172d6ec92_MD5.webp)
 #### Evolución de las funciones de regulación con GBR
 
@@ -712,7 +712,7 @@ Para ejemplificar esta ventaja, consideremos un tren de 900 toneladas que deseam
 
 $$ W = F \cdot v = 900 t \times \frac{3 \text{ kp}}{t} \times \frac{72.000 \text{ m}}{3.600 \text{ s}} = 54.000 \text{ Kpm/s} $$
 
-Siendo que 1 C.V. = 75 kpm/s, obtenemos: $W = 720 \text{ C.V.}$
+Siendo que 1 C.V. = 75 kpm/s, obtenemos: W = 720 C.V.
 
 Si el mismo transporte se realizara por carretera en 90 camiones de 10 t, cada camión requeriría solo 8 C.V., cifra absurda habida cuenta que un automóvil típico posee 70 C.V.
 
@@ -736,7 +736,7 @@ Si medimos la inclinación de la rampa en milésimas (i), tenemos:
 
 $$\tan \alpha = \frac{i}{1000} \quad \text{por lo que} \quad R_i = \frac{P \cdot i}{1000}$$
 
-El esfuerzo $R_i$ en kp, por unidad de peso $P$ (en toneladas) en rampas es igual a i en milésimas. Una rampa de 2 milésimas supone 2 kp de esfuerzo tractor más que en horizontal, lo que significa doblar el esfuerzo.
+El esfuerzo $$ R_i $$ en kp, por unidad de peso P (en toneladas) en rampas es igual a i en milésimas. Una rampa de 2 milésimas supone 2 kp de esfuerzo tractor más que en horizontal, lo que significa doblar el esfuerzo.
 
 En España, por su orografía montañosa, son numerosas las rampas de 20 milésimas, circunstancia que exige locomotoras muy potentes en los trenes rápidos. Este factor contrasta significativamente con la geografía francesa, donde las rampas máximas son de 7 milésimas. La travesía del puerto de Pajares, sobre la vertiente cantábrica, en el trayecto de Ujo a Busdongo, ejemplifica estas dificultades: de sus 62 km de recorrido, 28 km están en túnel y la mayor parte restante en rampa de 20 milésimas.
 
@@ -776,7 +776,7 @@ Desde el punto de vista de la infraestructura de vía:
 - Supresión de pasos a nivel (puntos duros por ausencia de balasto)
 
 La comodidad se culmina con la modernización de estaciones dotadas de todo tipo de servicios, venta electrónica de billetes y sistemas de información en tiempo real.
-[[0be48888ef709b8d5203ea370c5a107b_MD5.webp|Open: Pasted image 20260131085942.png]]
+
 ![0be48888ef709b8d5203ea370c5a107b_MD5]({{ site.baseurl }}/assets/images/0be48888ef709b8d5203ea370c5a107b_MD5.webp)
 ### Nuevas tecnologías en ferrocarril
 
@@ -789,7 +789,7 @@ Además de poder aplicar computadoras a su administración y gestión, el ferroc
 - La venta de billetes y reserva de plazas
 - La gestión centralizada del tráfico de mercancías
 - La monitorización de infraestructura
-[[c91e129706b3e0294577b6deee5a295d_MD5.webp|Open: Pasted image 20260131091756.png]]
+
 ![c91e129706b3e0294577b6deee5a295d_MD5]({{ site.baseurl }}/assets/images/c91e129706b3e0294577b6deee5a295d_MD5.webp)
 ### Impacto ambiental del ferrocarril
 

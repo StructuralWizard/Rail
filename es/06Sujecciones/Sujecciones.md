@@ -26,9 +26,12 @@ parent: Inicio
 Los sistemas de sujeción constituyen los componentes fundamentales encargados de mantener los carriles en una posición óptima y estable respecto a las traviesas. Cuando se trabaja con traviesas de hormigón armado, que están diseñadas para períodos de servicio extendidos que oscilan entre 40 y 50 años aproximadamente, el propósito fundamental es lograr una fijación de larga duración que garantice la integridad del sistema. 
 
 Las funciones principales de estas sujeciones son variadas e interdependientes. En primer lugar, es esencial mantener unidos de forma solidaria el carril y la traviesa, evitando cualquier separación que comprometería la continuidad estructural. Además, estos elementos deben ser capaces de absorber las cargas dinámicas generadas por el material rodante y transmitirlas eficientemente hacia la infraestructura inferior. Simultáneamente, las sujeciones tienen la responsabilidad de preservar la geometría correcta de la vía, manteniendo el ancho estipulado entre ambos carriles. Otro aspecto crítico es prevenir el vuelco o desplazamiento lateral del carril bajo solicitaciones transversales. Finalmente, en sistemas de tracción eléctrica, estas sujeciones deben proporcionar el aislamiento eléctrico necesario para los circuitos de señalización y retorno de corriente.
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-04.jpg?height=903&width=808&top_left_y=616&top_left_x=2607)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-04.jpg?height=1038&width=1567&top_left_y=1580&top_left_x=1853)
+![[dc160195f05200efd588d240900936f0_MD5.webp]]
+![[01769568677be3d61a76538ea7256df5_MD5.webp]]
+![[7537271557bb933c8976e5883a6dff25_MD5.webp]]
+![[4d667e25ea9d49f82d8fcc218db55937_MD5.webp]]
+![[d8368a5e236ae065d91d3570adbed21f_MD5.webp]]
+[Pandrol products](https://www.pandrol.com/product-lines/rail-fastenings-systems/)
 
 Desde el punto de vista del comportamiento estructural, en los tramos rectos de la infraestructura ferroviaria, el carril experimenta no sólo las cargas verticales resultantes del peso del material rodante, sino también esfuerzos laterales horizontales originados por el movimiento sinusoidal de los ejes, fenómeno conocido como movimiento de lazo. En las secciones curvas, la situación se ve modificada significativamente por la introducción de esfuerzos adicionales generados por el contacto entre las pestañas de las ruedas y el hilo exterior del carril. 
 
@@ -52,16 +55,16 @@ Estructura General de una Sujeción
 
 Desde una perspectiva constructiva, toda sujeción puede descomponerse en una serie de elementos funcionales específicos. Los elementos de anclaje a la traviesa proporcionan la conexión mecánica fundamental con la estructura base. La placa de asiento constituye la interfaz de contacto entre el carril y la traviesa. Los elementos de anclaje de la placa aseguran su posición respecto a la traviesa. Los elementos elásticos, aislantes y de guía del carril son los responsables de proporcionar la elasticidad, aislamiento y control posicional del sistema.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-09.jpg?height=651&width=837&top_left_y=1869&top_left_x=222)
+![[9cbe227eede620f40c0d245bb55c99d0_MD5.webp]]
 
 Sujeción directa
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-09.jpg?height=654&width=971&top_left_y=1872&top_left_x=1258)
+![[7ce6bd8a0396201eb8b470c826ded67c_MD5.webp]]
 Sujeción indirecta
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-09.jpg?height=1249&width=1118&top_left_y=605&top_left_x=2291)
+![[a44b4f8ce3600684646815863e3fd4d3_MD5.webp]]
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-09.jpg?height=638&width=987&top_left_y=1891&top_left_x=2444)
+![[4f86ed5bcbb5fe3f930fbf389cc7a859_MD5.webp]]
 Sujeción mixta
 
 ### I.1. Elementos: placa de asiento
@@ -70,9 +73,9 @@ La placa de asiento constituye el elemento de transición fundamental que canali
 
 La clasificación de placas de asiento se establece fundamentalmente según la naturaleza del material empleado en su fabricación. Las placas metálicas, típicamente de acero, tienen como función principal repartir la carga que transmite el carril a través del patín hacia la traviesa sobre una superficie de contacto considerablemente mayor. Estos elementos simplemente incrementan la superficie de apoyo disponible sin experimentar deformación significativa bajo carga normal. Por el contrario, las placas elásticas, fabricadas con caucho, materiales sintéticos o madera, proporcionan elasticidad al sistema de vía, amortiguan las vibraciones transmitidas desde el carril hacia la traviesa y contribuyen a impedir el desplazamiento longitudinal de los carriles bajo esfuerzos de tracción-compresión.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-10.jpg?height=799&width=1072&top_left_y=1223&top_left_x=2378)
+![[d6c3f02cdb8e8a46b63c75b20c94bd20_MD5.webp]]
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-10.jpg?height=529&width=1076&top_left_y=2072&top_left_x=2374)
+![[47b2de271479ac7b21d8e850f4ef4dfb_MD5.webp]]
 
 De acuerdo con criterios operacionales y tecnológicos, las sujeciones pueden clasificarse en varios tipos principales: sujeciones rígidas clásicas, clavos elásticos, sujeciones elásticas de lámina o grapa, sujeciones elásticas de clip, y sujeciones de apoyo con carril flotante, cada una con características y aplicaciones particulares.
 
@@ -84,8 +87,8 @@ Los clavos especiales denominados escarpias representan una de las soluciones m�
 
 El mecanismo de sujeción de estos elementos se basa fundamentalmente en la fricción generada entre la parte clavada y la madera de la traviesa. Sin embargo, con el paso del tiempo y bajo la acción repetida de las cargas del material rodante, la fuerza de sujeción experimentada disminuye progresivamente, llegando incluso a desaparecer completamente en algunos casos. Este fenómeno de aflojamiento tiene múltiples causas. Una de ellas es la presencia de esfuerzos transversales actuando sobre la cabeza del carril, que generan tendencias de vuelco soportadas por las escarpias interiores. Adicionalmente, bajo el peso concentrado de la rueda, la traviesa experimenta una deformación vertical temporal (efecto conocido como bateo), de modo que cuando la carga se retira, el carril tiende a levantarse, traccionando la traviesa hacia arriba, lo que provoca un aflojamiento paulatino de la sujeción.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-12.jpg?height=1393&width=685&top_left_y=1216&top_left_x=2331)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-12.jpg?height=1225&width=482&top_left_y=1289&top_left_x=3030)
+![[df3022bed04b63043dae130505f66f2f_MD5.webp|149x303]]
+![[b4c61e11e4b52af9a7e89c77b7a6a3dc_MD5.webp|131x333]]
 
 **Tirafondo:**
 
@@ -93,15 +96,15 @@ Los tirafondos son elementos de fijación roscados, fabricados en acero galvaniz
 
 El filete del tornillo presenta una geometría especial, consistente típicamente en un triángulo escaleno cuyo lado superior es prácticamente perpendicular al eje del tirafondo, una configuración que proporciona mayor resistencia al arrancamiento. El diámetro del taladro practicado previamente en la traviesa tiene una influencia determinante en la resistencia al arrancamiento del tirafondo. Este diámetro no debe exceder considerablemente el diámetro del cuerpo del tirafondo, siendo admisibles mayores tolerancias en las maderas duras que en las blandas; el proceso de introducción se facilita significativamente cuando el tirafondo ha sido sumergido previamente en grasa. Una vez que la cabeza del tirafondo establece contacto con el patín del carril, no debe continuarse el apriete, puesto que una sola vuelta adicional puede destruir las fibras de la madera en el interior, reduciendo drásticamente la resistencia al arrancamiento.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-13.jpg?height=1258&width=463&top_left_y=575&top_left_x=2484)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-13.jpg?height=1205&width=461&top_left_y=640&top_left_x=2971)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-13.jpg?height=799&width=1032&top_left_y=1846&top_left_x=2451)
+![[099326e1c2a6011a5c71892b916e4398_MD5.webp|159x432]]
+
+![[01e8eb3a06650abc5e24a4de56931e69_MD5.webp]]
 
 Para evitar intentos de instalación incorrecta mediante percusión, se graban en relieve sobre la cabeza del tirafondo las iniciales de la red ferroviaria o una pequeña pirámide que revelaría por su deformación cualquier intento de martillado. Los tirafondos ofrecen mayor resistencia que las escarpias frente a esfuerzos verticales ejercidos por el patín y se arrancan menos fácilmente bajo esfuerzos tendentes al vuelco del carril, siendo esta superioridad más pronunciada en maderas duras. Sin embargo, se estima que las escarpias, gracias a su sección cuadrada, resultan más eficaces para mantener el ancho de vía.
 
 La resistencia inicial al arrancamiento de un tirafondo nuevo es elevada porque el anclaje se realiza mediante la rosca del tornillo en la hélice practicada en la madera, a diferencia de la escarpia que se sostiene exclusivamente por fricción superficial.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-14.jpg?height=1538&width=1061&top_left_y=863&top_left_x=2404)
+![[4868fc01feb7f0ae02f48115bc38fa7f_MD5.webp|344x499]]
 
 ### I.3. Sujeciones rígidas en traviesas de hormigón
 
@@ -109,8 +112,8 @@ Los primeros intentos para resolver la fijación de carriles a traviesas de horm
 
 Para mejorar esta solución, se ideó el uso de espigas de madera roscadas en una espiral metálica alojada en el hormigón. La evolución posterior condujo al desarrollo de la espira-tirafondo, que consiste en insertar una espira metálica embebida en la masa de hormigón, proporcionando una rosca fiable para el tirafondo. Una alternativa, aunque más costosa, es utilizar una vaina de fundición fileteada en su interior, completamente embebida en el hormigón durante su construcción, aunque esta solución exige una precisión de fabricación muy rigurosa.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-15.jpg?height=1033&width=904&top_left_y=558&top_left_x=2569)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-15.jpg?height=1061&width=736&top_left_y=1604&top_left_x=2612)
+![[47ab66c6da9746ed1a93c4358fef7d9f_MD5.webp|314x359]]
+![[90b6423e6d543d8c95877e8d59381e68_MD5.webp|262x378]]
 
 ### I.4. Sujeciones elásticas
 
@@ -124,30 +127,30 @@ Las sujeciones elásticas de grapa proporcionan la fijación del carril no media
 
 La estructura fundamental de estas sujeciones comprende varios componentes: la grapa o placa de sujeción, el tornillo de apriete, un sector de caucho, y placas de caucho que proporcionan la elasticidad requerida. Los reaprietes periódicos continúan siendo necesarios, aunque ahora lo que experimenta el desplazamiento es la tuerca. El hecho de que estos aprietes periódicos sean necesarios para compensar el aplastamiento progresivo de la placa de asiento elástica sugiere que se trata de una solución que requiere mantenimiento continuado.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-17.jpg?height=1024&width=1127&top_left_y=597&top_left_x=2294)
+![[ff6af4616710b8aec9055798ec7d25b7_MD5.webp]]
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-17.jpg?height=671&width=970&top_left_y=1868&top_left_x=2360)
+![[96d6308553bc6a23bc9553ff50ffd8c2_MD5.webp]]
 
 Una de las sujeciones de grapa más extendidas históricamente fue la denominada RN, de origen francés. Este sistema funciona efectivamente en toda clase de traviesas, aunque su aplicación principal ha sido en traviesas RS (bibloque o mixtas de acero y hormigón). Los componentes elásticos pueden perder sus propiedades y funcionar inadecuadamente si, por error operacional, se someten a un apretado excesivo de los tornillos de fijación, lo que genera tensiones superiores al límite elástico del material, causando deformación plástica permanente. En tal situación, la sujeción se comportaría como un sistema rígido con todos los inconvenientes inherentes.
 
 La sujeción RN presenta algunos problemas operacionales: requiere un proceso de apretado complejo, tiene limitaciones en el mantenimiento del ancho de vía, y proporciona un aislamiento eléctrico insuficiente. Existe también una variante denominada G-4, diseñada específicamente para traviesas de madera.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-18.jpg?height=708&width=1061&top_left_y=72&top_left_x=2491)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-18.jpg?height=988&width=937&top_left_y=757&top_left_x=2495)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-18.jpg?height=788&width=1090&top_left_y=1846&top_left_x=2462)
+![[827ab4aca1bd5af25f0d87d070548f6b_MD5.webp]]
+![[9077f8c2591ad52317ec3e294c47bd4f_MD5.webp|430x453]]
+![[ff0565f6d6d56285afba37dd8863fe01_MD5.webp|478x346]]
 
 La sujeción P-2 fue desarrollada en España como respuesta a los requerimientos de las líneas de alta velocidad, con el objetivo de superar las limitaciones presentadas por la sujeción RN. Este sistema resuelve de manera efectiva el problema del aislamiento eléctrico incluso en condiciones atmosféricas desfavorables, y prácticamente elimina las variaciones del ancho de vía que caracterizaban a la sujeción RN anterior.
 
 La sujeción P-2 está compuesta por dos tornillos de fijación a la traviesa que transmiten su presión al patín del carril mediante arandelas, láminas elásticas y piezas aislantes dispuestas interior y exteriormente. A pesar de sus ventajas, presenta algunas desventajas significativas: experimentar pérdida de elasticidad por repetición de esfuerzos verticales que pueden llevar a la rotura de las grapas aislantes, manifiesta mayor sensibilidad a la acción del fuego, y tiene un precio de fabricación más elevado.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-19.jpg?height=1116&width=1385&top_left_y=626&top_left_x=2163)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-19.jpg?height=791&width=1324&top_left_y=1821&top_left_x=2192)
+![[1932f913395b595f6ab17c0a34c2c13f_MD5.webp|506x408]]
+![[b00d5e11141d6df40457aa4f29ecd7d7_MD5.webp|491x293]]
 
 La sujeción J-2 representa una evolución significativa del modelo P-2. Su característica diferencial fundamental reside en prevenir el eventual contacto entre la placa metálica y la pieza de plástico mediante la interposición de escalones de apoyo sobre la cara superior de la pieza, mejorando así la durabilidad y el comportamiento a largo plazo.
 
 La sujeción NABLA fue desarrollada en Francia como alternativa a la sujeción RN, siendo ampliamente utilizada en las líneas de tren de gran velocidad. El diseño de la sujeción NABLA aborda las deficiencias señaladas en la sujeción RN mediante varios mecanismos: asegura completamente el aislamiento eléctrico de los hilos de la vía, elimina totalmente las variaciones de ancho de vía, proporciona una unión elástica más sencilla y eficaz mediante la sustitución de la grapa por una lámina doblemente elástica, y simplifica considerablemente el procedimiento de apriete.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-20.jpg?height=2077&width=1228&top_left_y=590&top_left_x=2229)
+![[0ab566e32ba98fab012e5e25fb105020_MD5.webp|406x709]]
 
 #### I.4.2. Sujeciones elásticas de clip
 
@@ -155,20 +158,20 @@ Las sujeciones de clip ofrecen como ventaja principal su funcionamiento práctic
 
 Este tipo de sujeción puede ser montado sobre prácticamente cualquier tipología de traviesa, lo que le otorga gran versatilidad. La principal ventaja operacional de la sujeción PANDROL consiste en la extraordinaria sencillez de su montaje y desmontaje. Como consecuencia directa, no se requiere personal especializado para estas operaciones, reduciéndose significativamente el costo de mano de obra en instalación y mantenimiento. La robustez de la sujeción PANDROL permite que su vida útil sea prácticamente equivalente a la vida media del carril.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-21.jpg?height=1010&width=1396&top_left_y=615&top_left_x=2090)
+![[9be22cab1b824be7e775151135f53f00_MD5.webp|610x441]]
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-21.jpg?height=981&width=1367&top_left_y=1646&top_left_x=2112)
+![[aaea88b522cafdb2bcf832cf582a65c4_MD5.webp|609x437]]
 
 La sujeción HM-Vossloh es de procedencia alemana y se presenta en varias versiones distintas. La variante SKL-12 es empleada tradicionalmente en traviesas de madera, mientras que en España, específicamente en líneas de alta velocidad, se utiliza la SKL-1. La sujeción Vossloh ha alcanzado amplia difusión mundial y se identifica fácilmente por su característica forma de clip.
 
 La sujeción SKL-1 está diseñada para ser colocada en traviesas monobloque de hormigón, presentando dos variantes constructivas: una para carriles de 54 kilos y otra para carriles de 60 kilos. Los clips HM presentan una geometría distintiva que recuerda a la letra griega épsilon. El conjunto proporciona una curva de apriete-deformación apropiada para el funcionamiento correcto de la sujeción y un buen aislamiento de los hilos de la vía. El apriete del carril resulta del trabajo de flexión o torsión del clip, siendo esta tensión conseguida mediante el apriete del tirafondo.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-22.jpg?height=1075&width=991&top_left_y=619&top_left_x=2484)
+![[b5c7b043a779b08cfe89f21a78b55a28_MD5.webp]]
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-22.jpg?height=839&width=835&top_left_y=1806&top_left_x=2571)
+![[36a91bbed1880df78e1912e6ff2732a0_MD5.webp]]
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-23.jpg?height=1117&width=2464&top_left_y=640&top_left_x=541)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-23.jpg?height=878&width=2061&top_left_y=1789&top_left_x=747)
+![[2c94be0f026ae4cef7324085d08a67e3_MD5.webp]]
+![[0ddecc9501beb9ec4dad126c39f4cef1_MD5.webp]]
 
 ### I.5. Uso de sujeciones en España
 
@@ -192,65 +195,65 @@ La unión mecánica entre dos carriles consecutivos se denomina junta. Esta cone
 
 Desde el punto de vista del comportamiento dinámico, las juntas constituyen los puntos débiles de toda la infraestructura vial. La causa fundamental de esta vulnerabilidad reside en la discontinuidad estructural que presentan. En la zona de la junta existe una variación brusca del momento de inercia disponible para resistir flexión, lo que ocasiona cambios abruptos en la rigidez de la vía, originando fenómenos de impacto al paso del material rodante.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-26.jpg?height=1949&width=1295&top_left_y=616&top_left_x=2115)
+![[b00f5a329e5696f2a245744d6058e6b3_MD5.webp]]
 
 La función principal de las juntas consiste en facilitar la expansión longitudinal del carril provocada por las variaciones estacionales de la temperatura ambiental. Estas fluctuaciones térmicas, conjuntamente con la dimensión máxima admisible de la cala, establecen de facto la longitud máxima permisible de los carriles. Esta limitación de longitud viene asimismo impuesta por los procesos tecnológicos de laminación industrial y las capacidades de transporte disponibles. Por consiguiente, la presencia de juntas constituye una realidad inexorable en la infraestructura tradicional, siendo imperativo que en estas discontinuidades se logren ciertos objetivos. Los carriles debe comportarse solidariamente, actuando como una viga continua. La junta debe presentar una resistencia a la deformación equivalente o muy similar a la que poseen los carriles propiamente. Debe impedirse cualquier movimiento vertical o lateral de los extremos de los carriles respecto a su contraparte, permitiendo únicamente el movimiento longitudinal libre, consecuencia de la dilatación térmica (razón por la cual el diámetro del agujero del carril debe ser significativamente mayor que el diámetro del tornillo de unión de las bridas).
 
 Desde la perspectiva del comportamiento físico, cuando un eje llega a la proximidad inmediata de la junta, el extremo libre del carril tiende a flectarse como si fuera una viga en voladizo, ocasionando un impacto significativo al paso de las ruedas. Los efectos de este fenómeno son múltiples y perjudiciales: aumentan la resistencia a la tracción que experimentan los trenes, facilitando el corrimiento longitudinal de los carriles, provocan el deterioro acelerado del balasto por golpeteo, imponen flexiones y deformaciones en el carril que pueden llegar a ser permanentes, y generan falta de confort en la marcha con consecuencias de fatiga en el material rodante.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-28.jpg?height=426&width=1181&top_left_y=2182&top_left_x=1174)
+![[3b2d4dd09a2605e4aae531a6bcee5aae_MD5.webp]]
 
 Juntas
+<iframe width="560" height="315" src="https://youtube.com/embed/-HmESgpvazM?si=UmZoWxKLh619_kc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-29.jpg?height=1857&width=3252&top_left_y=697&top_left_x=147)
 
 ### II.1. Posición
 
 Las juntas pueden clasificarse atendiendo a criterios diversos. Respecto a la posición relativa que ocupan un carril respecto al otro, pueden ser concordantes (o a escuadra) o alternadas. Las juntas concordantes se caracterizan por alineación transversal perfecta entre ambos carriles, lo que resulta en menor ruido de rodadura, aunque presentan problemas significativos en las secciones curvas. Las juntas alternadas, por el contrario, presentan los extremos desfasados lateralmente, generan mayor ruido, pero proporcionan mayor estabilidad geométrica a la vía.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-30.jpg?height=345&width=1787&top_left_y=1150&top_left_x=1719)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-30.jpg?height=336&width=1787&top_left_y=1962&top_left_x=1724)
+![[f1d553ea8cc78726e860daad1c3f2e8d_MD5.webp]]
+![[2670712c14215028255b4162d5f5a4f4_MD5.webp]]
 
 Atendiendo a su posición relativa respecto a las traviesas, las juntas pueden ser apoyadas, suspendidas o semisuspendidas. Las juntas apoyadas, denominadas también uniones sobre traviesa, descansan directamente sobre una traviesa. Los impactos recibidos por flexión del extremo del carril provocan el basculamiento de la traviesa sobre su asiento de apoyo, el balasto se enrarece y desplaza bajo ella, resultando en un apoyo falso que hace la junta potencialmente peligrosa.
 
 Las juntas suspendidas, también conocidas como juntas al aire, se sitúan entre dos traviesas contiguas. Las traviesas sobre las que descansan los extremos de las bridas se denominan traviesas de junta, y típicamente se colocan más próximas entre sí que las traviesas intermedias convencionales. Este tipo de junta es la preferida por la mayoría de administraciones ferroviarias, incluyendo Adif. Resulta más elástica que la versión apoyada y evita el efecto perjudicial de yunque que caracteriza a la anterior configuración.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-31.jpg?height=1926&width=1333&top_left_y=596&top_left_x=2130)
+![[de9cbd03eca23676e0c6e6e5391aa31b_MD5.webp]]
 
 Las juntas semisuspendidas constituyen una configuración intermedia donde la longitud de la brida es tal que alcanza las traviesas de junta. Esta disposición fue concebida en un esfuerzo por aumentar la resistencia de las juntas puramente suspendidas. Ciertos tipos específicos de bridas pueden además ser utilizados para prevenir el corrimiento longitudinal de los carriles. Es fundamental mantener la separación apropiada entre las traviesas de junta para permitir los movimientos de bateo de la vía.
 
 Una variante especializada es la junta semiapoyada sobre traviesas yuxtapuestas, donde la junta descansa simultáneamente sobre dos traviesas en lugar de solamente una. Estas dos traviesas se unen mediante pasadores, formando efectivamente una traviesa de mayor anchura. Esta configuración mitiga parcialmente el efecto perjudicial descrito en las juntas apoyadas simples, facilitando simultáneamente el bateo.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-32.jpg?height=430&width=1167&top_left_y=998&top_left_x=2282)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-32.jpg?height=507&width=1047&top_left_y=1843&top_left_x=2368)
+![[6dcec9c1fab8198c6626e6fd741f4af3_MD5.webp]]
+![[390eb7ece8f6489290d7b03c7fcfc3d6_MD5.webp]]
 
 ### II.2. Partes
 
 Estructuralmente, toda junta está compuesta por varios elementos funcionales. Las bridas metálicas constituyen el componente fundamental que proporciona la unión mecánica entre los extremos de dos carriles. Los tornillos especializados aseguran la conexión firme de las bridas a los carriles. Las conexiones de junta, cuando son requeridas, establecen la continuidad eléctrica entre los dos carriles unidos, aspecto crítico para los sistemas de tracción y señalización.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-33.jpg?height=737&width=1490&top_left_y=725&top_left_x=1736)
+![[a25703a66cc1b9444d4dc610db5198ca_MD5.webp]]
 
 ### II.3. SECCIÓN
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-33.jpg?height=537&width=1281&top_left_y=1739&top_left_x=247)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-33.jpg?height=470&width=276&top_left_y=1789&top_left_x=1566)
+![[c7e438dbcbf6aa57025d89e7a907c4ae_MD5.webp]]
+![[d97930694ec4b5bb413a09c6d97d9a63_MD5.webp]]
 
 BRIDA
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-33.jpg?height=421&width=1540&top_left_y=1894&top_left_x=1847)
+![[6c59d23d4377863120776ddb6bc89f9a_MD5.webp]]
 
 ### II.4. Bridas
 
 Las bridas metálicas cumplen la función fundamental de unir los extremos de dos carriles consecutivos de forma que sus ejes longitudinales permanezcan coincidentes y la posición de ambos quede completamente inmovilizada tanto en el plano horizontal como en el vertical. Estos elementos soportan esfuerzos muy significativos durante la operación. Cuando un eje llega a la proximidad de la junta, el extremo del carril tiende a flectarse como una viga en voladizo, pero esta flexión es impedida por la presencia de la brida. La brida recibe una carga considerable aplicada aproximadamente en la mitad de su longitud y la transmite hacia los patines de ambos carriles a través de los puntos de contacto en los extremos de la brida.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-34.jpg?height=512&width=1114&top_left_y=611&top_left_x=2387)
+![[a56b6636052f4b968696ad394de44ec4_MD5.webp]]
 
 Para funcionar correctamente, la brida debe estar perfectamente ajustada entre la cabeza y el patín del carril. Considerando que el esfuerzo a transmitir actúa en dirección paralela al eje vertical del carril, es evidente que la cabeza del carril debe presentar en los planos inclinados situados en la parte inferior la menor inclinación posible respecto a la horizontal, al menos desde este punto de vista específico. Sin embargo, existe un efecto contrapuesto: el desgaste progresivo que ocurre en las juntas.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-34.jpg?height=321&width=1094&top_left_y=1279&top_left_x=2407)
+![[fff5d32157e4c1d9f3e66a57d1a7229f_MD5.webp]]
 
 Bajo la acción continua de las flexiones y de los choques que caracterizan el comportamiento de las juntas, se generan movimientos relativos entre el carril y la brida, originando desgaste que afecta principalmente a las zonas de transmisión de los esfuerzos principales.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-34.jpg?height=789&width=1114&top_left_y=1681&top_left_x=2387)
+![[69105bb1ff5aef392e253e65bf9342ca_MD5.webp]]
 En términos generales, la unión de los componentes se asegura mediante tornillos que atraviesan el carril y ambas bridas de forma solidaria. En circunstancias donde no es conveniente perforar el carril (embridado provisional de muy corta duración) o no existe tiempo suficiente (embridado de emergencia), el aseguramiento se realiza mediante piezas especiales en forma de "C" con tornillo de apriete central que, pasando por debajo del carril, abrazan la pareja de bridas desde el lado inferior.
 
 Los aspectos que constituyen debilidades características en estos elementos pueden sintetizarse en los siguientes puntos críticos: la aparición de fisuras en la brida, frecuentemente iniciadas a partir de los taladros practicados; el desapriete de los tornillos o su deformación bajo carga, alcanzando en casos extremos la rotura completa; la pérdida de aislamiento eléctrico en aquellas bridas que han de cumplir esta función especial en los circuitos de vía.
@@ -259,12 +262,12 @@ Los aspectos que constituyen debilidades características en estos elementos pue
 
 En sistemas de tracción eléctrica, la continuidad del circuito de retorno de corriente generalmente no se encuentra garantizada en las zonas de juntas, o la calidad de la conexión es insuficiente. Para asegurar una conductividad adecuada, se realiza una conexión eléctrica entre dos carriles consecutivos confeccionada mediante un cable de cobre de sección apropiada cuyos terminales son introducidos en manguitos de acero. Estos manguitos se sueldan al carril en su parte exterior a ambos lados de la junta. Cuando la conductividad es necesaria únicamente para los requerimientos de los circuitos de señalización, la conexión se simplifica usando alambres soldados de menor sección.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-36.jpg?height=741&width=1076&top_left_y=582&top_left_x=2374)
+![[0d8aa923398097f8be26d628dae71e96_MD5.webp]]
 
 Cuando es necesario lograr aislamiento eléctrico en una sección transversal del carril para permitir que los circuitos de vía utilizados en señalización operen correctamente, se utilizan juntas aislantes de diseño especializado. Estos elementos incorporan múltiples características de aislamiento: forros aislantes dispuestos entre las bridas y el carril en la interfaz brida-carril; una sección transversal del carril compuesta de material aislante que se coloca entre los dos carriles consecutivos para romper la continuidad carril-carril; y cilindros aislantes colocados alrededor de los bulones para prevenir cualquier contacto eléctrico a través de los agujeros practicados en el alma del carril.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-36.jpg?height=292&width=1090&top_left_y=1391&top_left_x=2371)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-36.jpg?height=810&width=1076&top_left_y=1806&top_left_x=2374)
+![[8f122b8f56e4770b474da43812a2c1d5_MD5.webp]]
+![[d969216d595d98076b072923520abe28_MD5.webp]]
 
 ### II.6. Clasificación
 
@@ -280,7 +283,7 @@ Por otro lado, existen juntas aislantes, utilizadas específicamente para conseg
 
 Las juntas aislantes encoladas son utilizadas en vías con barra larga soldada. Atendiendo a su fabricación, se consideran dos variantes: la Junta Aislante Encolada (JAE) en taller, fabricada en las instalaciones especializadas de un taller, que incorpora bridas metálicas de acero, tornillos de brida, elementos complementarios de fijación, elementos de aislamiento y pegado, y dos cupones de carril. Se aplica en los desvíos tipo B, C, V y P y en vía general con barra larga soldada. La segunda variante es la Junta Aislante Encolada (JAE) in situ, que a diferencia de la anterior, se monta en la propia vía durante su construcción, utilizando el carril existente.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-39.jpg?height=2114&width=3297&top_left_y=542&top_left_x=127)
+![[5180888d462ea7c45bbb5de7c622a4a4_MD5.webp]]
 
 ### II.7. Ensayo Caminsan
 
@@ -290,21 +293,17 @@ CAMINSAN define las condiciones técnicas de un ensayo de laboratorio con cargas
 
 Este riguroso ensayo fue adoptado como ENSAYO DE HOMOLOGACIÓN OFICIAL DE LAS JUNTAS AISLANTES ENCOLADAS por RENFE (ahora Adif), constituyendo un requisito obligatorio para cualquier JAE que vaya a ser instalada en la red española.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-40.jpg?height=1101&width=2037&top_left_y=1486&top_left_x=1493)
-Figura 21. Ensayo CAMINSAN.
+![[920d0ccadacf2fe255d42f2435e8922c_MD5.webp]]
+ [Ensayo CAMINSAN.](https://www.cedex.es/centros-laboratorios/laboratorio-de-geotecnia-lg/equipamientos/cajon-ferroviario)
 
-Índice
-
-- Sujeciones
-- Juntas
-- La vía sin juntas: Barra Larga Soldada
 
 ## Capítulo III La vía sin juntas: Barra Larga Soldada (BLS)
 
 A lo largo del análisis anterior se han identificado y documentado los múltiples inconvenientes asociados a la existencia de juntas en la infraestructura vial, así como los limitados resultados que pueden lograrse en su mitigación a través de mejoras progresivas en el diseño de bridas. La solución radical al problema consiste en su eliminación completa mediante la unión soldada de los carriles individuales. Al soldar entre sí los carriles laminados, cuya longitud está limitada por los procesos industriales de laminación y las restricciones de transporte, se obtiene una vía continua sin juntas, denominada vía con barra larga soldada (BLS), presentando ventajas operacionales y de confort significativamente superiores.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-42.jpg?height=961&width=1410&top_left_y=592&top_left_x=2101)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-42.jpg?height=1071&width=1424&top_left_y=1590&top_left_x=2087)
+![[eade483ff8892d384335873b4d3dd9a1_MD5.webp]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4kC262exiw?si=SC501OKtE1QMz6wH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Para que una vía sin juntas opere satisfactoriamente y cumpla con sus funciones de forma segura y duradera, deben cumplirse varios requisitos fundamentales: La longitud de la sección soldada debe ser la mayor posible, minimizando la cantidad de juntas residuales. La vía debe ser lo más pesada posible, utilizando carriles pesados y traviesas de hormigón que proporcionen una masa significativa. La vía debe estar muy bien nivelada y alineada en todas sus direcciones. No deben existir curvas de radio inferior a 450 metros, siendo el mínimo recomendable de 800 metros. El perfil del balasto es crítico: debe ser anguloso y de buena calidad granulométrica. Las sujeciones deben siempre mantener una presión positiva sobre el carril, siendo necesaria una alta resistencia a torsión, lo que implica el uso de sujeciones elásticas de diseño avanzado.
 
@@ -330,11 +329,11 @@ Si se aplicara el concepto de libre dilatación a una barra larga soldada de, po
 
 Cuando se observa experimentalmente un carril continuo con extremos libres A y B, marcando puntos de referencia C, D, etc., sobre su superficie y refiriéndolos a piquetes exteriores fijos, se constata un fenómeno notable: los puntos situados en una determinada zona central, entre C y D, prácticamente no experimentan movimiento. Por el contrario, los extremos A y B, así como los puntos P próximos a los extremos del carril, ocupan posiciones más alejadas que en su situación primitiva. Si se denota con x la distancia DP en condiciones iniciales, posteriormente con incremento de temperatura valdrá $x+\Delta x$, resultando en dilataciones reales mucho menores que las predicciones teóricas.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-45.jpg?height=665&width=2417&top_left_y=1848&top_left_x=592)
+![[0e84613a425dcffad8bd7edd0ae41dfa_MD5.webp]]
 
 La explicación física de este fenómeno reside en que, de hecho, no existe una dilatación libre sino una dilatación restringida o confinada. La expansión térmica del carril se ve coartada por el rozamiento generado entre el balasto y las traviesas durante el desplazamiento de estas últimas, fenómeno resultante de que ambas están solidariamente unidas al carril mediante las sujeciones.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-46.jpg?height=766&width=2064&top_left_y=1002&top_left_x=730)
+![[4964fbeb390fcacbfc21295946680a2d_MD5.webp]]
 
 El valor de esta fuerza de rozamiento resistente (r) varía significativamente en función del tipo de traviesa utilizada:
 
@@ -372,7 +371,7 @@ $$
 $$
 
 - Teniendo en cuenta que la superficie de un carril UIC-60 es de $7.686 \mathrm{~mm}^{2}$ :
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-48.jpg?height=842&width=1310&top_left_y=1112&top_left_x=2201)
+![[cd8588d933424ffab65806e3ea123fff_MD5.webp]]
 
 $$
 F=\sigma \cdot S \rightarrow F=68040 \cdot 7686 \cdot 10^{-6} \rightarrow F=523 \mathrm{kN} \cong 52,3 t
@@ -381,7 +380,7 @@ $$
 - Que es el esfuerzo con el que el extremo del carril intenta desplazarse o valor con el que hemos bloqueado sus extremos para conseguir dilatación nula, con esta variación de temperatura, y que es evidentemente importante.
 
 Sin embargo, los extremos del carril no están bloqueados, sino que están libres, pero la dilatación de la barra larga soldada está restringida por los rozamientos expuestos. Y como se ha visto anteriormente, el resultado experimentalmente comprobado es que hay dilatación nula en la parte central de la barra y restringida en las zonas AC y DB, en los extremos de la barra:
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-49.jpg?height=774&width=1296&top_left_y=573&top_left_x=2196)
+![[173e4ed60e734f417c3e2093f9f75dc2_MD5.webp]]
 
 En la parte central CD la tensión permanece constante en: $\sigma=E \cdot \alpha \cdot \Delta T$
 
@@ -413,7 +412,7 @@ $$\begin{aligned}
 d l & =\alpha \cdot \Delta T \cdot \frac{x}{Z} d x \rightarrow l=\int_{0}^{x} \alpha \cdot \Delta T \cdot \frac{x}{Z} d x \rightarrow l=\alpha \cdot \Delta T \cdot \frac{x^{2}}{2 \cdot Z}
 \end{aligned}$$
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-50.jpg?height=808&width=1353&top_left_y=573&top_left_x=2182)
+![[8a338c6d15bcfd6cd00f3278dd26ef40_MD5.webp]]
 
 Para el punto final de la zona de respiración donde $x=Z$ en un carril UIC-60:
 
@@ -424,11 +423,11 @@ $$\Delta l=\alpha \cdot \Delta T \cdot \frac{Z}{2} \rightarrow \alpha \cdot \Del
 
 El extremo final de la barra larga soldada se encuentra sin tensión longitudinal residual. Por esta razón, se instalan en esos puntos críticos dispositivos especializados denominados aparatos de dilatación que permiten que el carril se dilate libremente sin generar esfuerzos internos excesivos. Como puede observarse, los valores de dilatación calculados son relativamente pequeños. Estas magnitudes de desplazamiento son las que debe absorber el aparato de dilatación correspondiente. El dispositivo empleado tradicionalmente en España es el mostrado en la figura, capaz de absorber dilataciones de hasta 180 milímetros.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-51.jpg?height=808&width=985&top_left_y=563&top_left_x=2316)
+![[df88c8f4aa028db7a7454489500686f7_MD5.webp]]
 
 La conexión de una sección de vía sin juntas con otra sección que utiliza barras cortas o con un desvío que no puede ser soldado debe realizarse intercalando un aparato de dilatación (AD) entre ambas. No es necesario instalar este dispositivo si la conexión se realiza entre dos secciones de vía sin juntas (BLS) que operan bajo las mismas condiciones de neutralización.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-51.jpg?height=1142&width=1754&top_left_y=1461&top_left_x=1695)
+![[71863ebcfed731200cc21f1b3f1cbaad_MD5.webp]]
 
 ### III.4. BLS: Neutralización de tensiones
 
@@ -436,7 +435,9 @@ Cuando la barra larga soldada está instalada en servicio en la vía, el carril 
 
 Para reducir los valores extremos de estas tensiones térmicas y evitar estados tensionales perjudiciales, el carril debe instalarse de tal modo que a una temperatura intermedia específica, determinada para cada zona geográfica y denominada temperatura de neutralización, la tensión longitudinal longitudinal se anule completamente. La neutralización es el proceso operacional de instalación del carril precisamente en estas condiciones óptimas.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-52.jpg?height=1265&width=1684&top_left_y=815&top_left_x=1824)
+![[48b714a8e7c3c1701210007099e83fa3_MD5.webp]]
+
+[Tensor de carriles TR75 Pandrol](https://www.pandrol.com/es/product/tensor-de-carriles-tr75/)
 
 Durante el proceso de neutralización de tensiones, además de anular la tensión global, se homogeneiza su distribución a lo largo del carril, eliminando concentraciones locales perjudiciales.
 
@@ -499,7 +500,7 @@ El proceso completo de neutralización del carril consta de múltiples operacion
 
 La constitución de puntos fijos es una operación fundamental para la realización ordenada del proceso de neutralización. Los puntos fijos sirven como referencias geométricas invariables que garantizan que las operaciones de tracción o calentamiento se aplican con precisión, sin desestabilizar secciones de vía adyacentes.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-58.jpg?height=348&width=2832&top_left_y=855&top_left_x=380)
+![[cc370654b1a626ec9b53549dcd1a6e7a_MD5.webp]]
 
 En el esquema anterior se identifican:
 - PFO: Punto fijo del tramo precedente  
@@ -518,10 +519,11 @@ El número de traviesas afectadas por la constitución de puntos fijos varía se
 
 Durante la operación de tensado mediante tracción, es esencial contar con marcas de comprobación que permitan verificar el desplazamiento real del carril y confirmar que se ha alcanzado la longitud exacta requerida.
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-58.jpg?height=220&width=3085&top_left_y=2139&top_left_x=252)
+![[5a5ca8ed01fe3af37a4ddb2e1be44ef1_MD5.webp]]
 
 BLS: Neutralización de tensiones
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-59.jpg?height=1979&width=2620&top_left_y=591&top_left_x=467)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YtuCLsFrfhQ?si=cKSLJOofONG2kAn_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### III.7. Soldadura de carriles
 
@@ -566,32 +568,9 @@ La soldadura aluminotérmica es un proceso de oxidación altamente exotérmico b
 8. Quitar moldes y desbarbar los excesos  
 9. Esmeriladora: pulido final con esmeriladora de motor para obtener la geometría correcta  
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=460&width=638&top_left_y=768&top_left_x=116)
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=325&width=431&top_left_y=772&top_left_x=746)
-Reglaje
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=442&width=646&top_left_y=779&top_left_x=1413)
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=325&width=405&top_left_y=779&top_left_x=2054)
-Colocación de los moldes
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=617&width=598&top_left_y=1263&top_left_x=109)
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=584&width=558&top_left_y=1263&top_left_x=706)
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=507&width=573&top_left_y=1260&top_left_x=1260)
-Vertido de colada
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=719&width=784&top_left_y=1879&top_left_x=247)
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=544&width=719&top_left_y=1879&top_left_x=1019)
-Esmerilado
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=719&width=857&top_left_y=1398&top_left_x=2047)
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-64.jpg?height=671&width=333&top_left_y=1402&top_left_x=3037)
-
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-65.jpg?height=1798&width=2393&top_left_y=807&top_left_x=582)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DKwFmGcoEdw?si=cWwkLxpuz6W0a1Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### III.7.2. - Soldadura eléctrica:
 
@@ -621,7 +600,7 @@ La soldadura eléctrica a tope por resistencia constituye un proceso totalmente 
 
 La experiencia operacional ha documentado diversos tipos de defectos que pueden aparecer en las soldaduras de carriles, requiriendo análisis y reparación:
 
-![](https://cdn.mathpix.com/cropped/47a6f2a1-aa3e-410b-bda3-ae1ff2f709f1-68.jpg?height=857&width=2192&top_left_y=1272&top_left_x=325)
+![[fb17f5320253b3c2d700e64bc98b79ef_MD5.webp]]
 
 Entre los defectos documentados encontramos:
 

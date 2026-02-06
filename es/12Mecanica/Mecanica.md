@@ -26,6 +26,8 @@ En los materiales granulares como el balasto, así como en las capas del terreno
 
 Para cuantificar y caracterizar adecuadamente esta propiedad elástica presente en la estructura de la vía ferroviaria, se recurre a la utilización de diversos parámetros matemáticos y modelos de comportamiento que capturan los aspectos más relevantes de esta respuesta.
 
+
+![[73e868d942143e44172b4a62371bca4f_MD5.webp]]
 ### I.1. MODULO DE LA VÍA K
 
 Considerando que $\boldsymbol{q}(\boldsymbol{t} / \boldsymbol{m})$ representa una carga distribuida uniformemente a lo largo de la longitud de un carril, e identificando como el asiento o hundimiento vertical que se produce en el carril como resultado de la aplicación de dicha carga.
@@ -33,7 +35,7 @@ Considerando que $\boldsymbol{q}(\boldsymbol{t} / \boldsymbol{m})$ representa un
 Desde una perspectiva del significado físico: este parámetro representa la magnitud de carga que, cuando actúa de manera uniforme y continuada sobre el carril, genera en éste un desplazamiento vertical de magnitud unitaria.
 
 Este módulo es particularmente empleado en contextos de ingeniería ferroviaria americanos y canadienses. Cuando la unidad de asiento considerada es de 1 centímetro, el módulo de la vía K típicamente se encuentra dentro del rango comprendido entre 8 y 22 toneladas por metro lineal
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-04.jpg?height=508&width=959&top_left_y=2028&top_left_x=1308)
+![[8870049c1d5f0e6b5e823b51129618ec_MD5.webp]]
 
 ### I.2. COEFICIENTE DE REACCIÓN DE LA TRAVIESA R
 
@@ -89,15 +91,15 @@ $$
 
 De conformidad con diversos estudios y registros experimentales obtenidos en proyectos de ingeniería ferroviaria, los coeficientes de elasticidad típicos para cada elemento estructural de la vía son:
 
-Traviesa de hormigón : $1200-1500 \mathrm{t} / \mathrm{mm}$
-Traviesa de madera: $50-80 \mathrm{t} / \mathrm{mm}$
-Alma de carril: $5000-10000 \mathrm{t} / \mathrm{mm}$
-Balasto bateado: $10-30 \mathrm{t} / \mathrm{mm}$ - aumenta con el espesor y disminuye con el tiempo.
-Plataforma rocosa: $2-8 \mathrm{t} / \mathrm{mm}$
-Plataforma arcillosa: $1,5-2 \mathrm{t} / \mathrm{mm}$
-Plataforma pantanosa: $0,5-1,5 \mathrm{t} / \mathrm{mm}$
-
-### I.5. COEFICIENTE DE ELASTICIDAD
+| **Componente**           | **Rigidez (t/mm)** | **Observaciones**                                 |
+| ------------------------ | ------------------ | ------------------------------------------------- |
+| **Alma de carril**       | $5000 - 10000$     | El componente con mayor rigidez.                  |
+| **Traviesa de hormigón** | $1200 - 1500$      | Significativamente más rígida que la madera.      |
+| **Traviesa de madera**   | $50 - 80$          | Mayor elasticidad que el hormigón.                |
+| **Balasto bateado**      | $10 - 30$          | Aumenta con el espesor y disminuye con el tiempo. |
+| **Plataforma rocosa**    | $2 - 8$            | -                                                 |
+| **Plataforma arcillosa** | $1,5 - 2$          | -                                                 |
+| **Plataforma pantanosa** | $0,5 - 1,5$        | El componente con menor rigidez.                  |
 
 Desde una perspectiva del comportamiento global de la estructura de la vía, son precisamente el balasto y la plataforma de apoyo los elementos que ejercen la influencia más determinante sobre las características elásticas del conjunto completo de la infraestructura ferroviaria.
 
@@ -111,15 +113,9 @@ En contextos especiales, como es el caso de estructuras construidas sobre obras 
 
 Debe resaltarse que la plataforma es el componente que presenta el coeficiente elástico más bajo en la cadena de transmisión de cargas, motivo por el cual la presión específica ejercida a nivel de esta plataforma se convierte en el parámetro que condiciona de forma determinante el asentamiento total de la vía. Esta presión sobre la plataforma resulta tanto más reducida cuanto mayor sea el espesor de la capa de balasto interpuesta entre ésta y la estructura superior.
 
-### I.6. Clasificación de cargas
+### I.5. Clasificación de cargas
 
 La infraestructura ferroviaria constituye un sistema sometido a un conjunto heterogéneo de solicitaciones mecánicas de naturaleza diversa. Estas cargas pueden ser clasificadas según su dirección y sentido de aplicación en las siguientes categorías principales:
-
-- Cargas Verticales
-- Cargas Transversales
-- Cargas Longitudinales
-
-Excluyendo los eventos extraordinarios como pueden ser fenómenos sísmicos, es importante recalcar que la totalidad de las fuerzas y solicitaciones dinámicas que actúan sobre la vía ferroviaria son generadas y transmitidas por el material rodante que circula sobre la infraestructura (cargas derivadas del tráfico).
 
 **Cargas Verticales:** Estas se aplican en la superficie de rodadura del carril y se transmiten hacia las capas inferiores del terreno a través de la cadena de componentes estructurales de la vía, incluyendo traviesas, balasto y plataforma.
 
@@ -127,11 +123,9 @@ Excluyendo los eventos extraordinarios como pueden ser fenómenos sísmicos, es 
 
 **Cargas Longitudinales:** Se aplican tangencialmente sobre la superficie de rodadura del carril y se transmiten a las capas inferiores de forma análoga a las cargas transversales, empleando la misma ruta de distribución de fuerzas.
 
-De acuerdo con la naturaleza temporal de su aplicación, las cargas que actúan sobre la vía se subdividen además en las siguientes categorías:
+Excluyendo los eventos extraordinarios como pueden ser fenómenos sísmicos, es importante recalcar que la totalidad de las fuerzas y solicitaciones dinámicas que actúan sobre la vía ferroviaria son generadas y transmitidas por el material rodante que circula sobre la infraestructura (cargas derivadas del tráfico).
 
-- Cargas estáticas
-- Cargas semiestáticas o cuasiestáticas
-- Cargas dinámicas
+De acuerdo con la naturaleza temporal de su aplicación, las cargas que actúan sobre la vía se subdividen además en las siguientes categorías:
 
 **Cargas estáticas:** Son aquellas resultantes del peso propio inherente del material rodante y sus componentes. Estas cargas se ejercen de forma permanente e ininterrumpida sobre la vía, independientemente de si el material rodante se encuentra estacionado o en movimiento.
 
@@ -143,7 +137,7 @@ De acuerdo con la naturaleza temporal de su aplicación, las cargas que actúan 
 - Desgaste progresivo de la superficie de rodadura tanto en carriles como en las pestañas de las ruedas del material rodante.
 - Características del sistema de suspensión de los vehículos y asimetrías inherentes al diseño y construcción del material rodante.
 
-### I.7. Cargas Verticales
+### I.6. Cargas Verticales
 
 Complementando las tres categorías descritas anteriormente, es igualmente relevante considerar y analizar de forma específica una categoría adicional de solicitaciones verticales que puede denominarse como "cargas características" que definen el comportamiento de la vía. Esta subcategoría engloba los siguientes componentes:
 
@@ -153,7 +147,7 @@ Complementando las tres categorías descritas anteriormente, es igualmente relev
 
 Una característica distintiva y fundamental de todas estas cargas características, las cuales pueden presentar tanto naturaleza estática como dinámica, es que ejercen una influencia determinante sobre los procesos de dimensionamiento y diseño de la infraestructura ferroviaria, así como sobre las estrategias y políticas de mantenimiento preventivo y correctivo que deben implementarse a lo largo de la vida útil de la vía.
 
-#### I.7.1. Cargas Verticales Estáticas
+#### I.6.1. Cargas Verticales quasi Estáticas
 
 ##### Carga por eje
 
@@ -210,7 +204,8 @@ La determinación de la cantidad y características del tráfico que circula sob
 
 Para llevar a cabo el cálculo sistemático de $\boldsymbol{T}_{\boldsymbol{f}}$, la organización internacional UIC ha propuesto y recomendado dos formulaciones matemáticas distintas que pueden emplearse según las características específicas de cada infraestructura:
 
-1. $T_{f}=T_{p} \cdot \frac{V_{\text {max }}}{100}+T_{g} \cdot \frac{Q_{D_{o}}}{18 \cdot D_{o}}$
+$T_{f}=T_{p} \cdot \frac{V_{\text {max }}}{100}+T_{g} \cdot \frac{Q_{D_{o}}}{18 \cdot D_{o}}$
+
 donde:
 
 | Track category | Total daily traffic load $(t)$ |
@@ -237,7 +232,9 @@ $Q_{D o}$ : Carga máxima por eje pasante (ruedas de diámetro Do) (en t).
 | UIC 6 | $\mathrm{T}_{4} \leq 5,000 \mathrm{t}$ |
 
 Source: Adapted from UIC. 1989, Fiche 714R, Classification des voies des lignes au point de vue de la maintenance de la voie.
-2. $T_{f}=S_{v} \cdot\left(T_{V}+K_{t}+T_{t v}\right)+S_{m} \cdot\left(K_{m} \cdot T_{m}+K_{t} \cdot T_{t m}\right)$
+
+$T_{f}=S_{v} \cdot\left(T_{V}+K_{t}+T_{t v}\right)+S_{m} \cdot\left(K_{m} \cdot T_{m}+K_{t} \cdot T_{t m}\right)$
+
 donde:
 $T_{f}$ : Trafico ficticio diario (en t).
 Tv: Trafico medio diario de coches de viajeros remolcados (en t).
@@ -248,13 +245,12 @@ $K_{m}$ : Coeficiente con valores que varían entre 1,15 (valor estándar) y 1,4
 $K_{t}$ : Coeficiente que depende de las condiciones de rodadura de los ejes de las locomotoras sobre la vía. Suele ser igual a 1,40.
 $S_{v}, S_{m}$ : Coeficientes cuyos valores dependen de la velocidad de los trenes de viajeros (con la mayor velocidad) y de mercancías (con la menor velocidad), respectivamente, que circulan por la vía.
 
-#### I.7.2. Cargas Verticales Cuasiestáticas
 
-Carga vertical de la rueda debida a los vientos transversales
+##### Carga vertical de la rueda debida a los vientos transversales
 
 Las solicitaciones atmosféricas ejercen influencias significativas sobre el comportamiento dinámico de los vehículos ferroviarios. La carga vertical inducida por los vientos transversales $\mathbf{Q}_{\boldsymbol{w}}$ representa la redistribución de cargas verticals entre las ruedas de un mismo eje, resultado de la acción de fuerzas transversales del viento sobre la carrocería del vehículo. Esta carga se cuantifica mediante la expresión matemática presentada en la siguiente ecuación (Esveld, 2001):
 $\pm Q_{w}=H_{w} \cdot \frac{q_{o}}{a}$
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-19.jpg?height=1094&width=1087&top_left_y=123&top_left_x=2410)
+![[0c507df92afabf3764716aac252f9bad_MD5.webp]]
 En esta expresión, los parámetros se definen como sigue:
 $H_{w}$ : Fuerza transversal del viento aplicada en el centro geométrico de la superficie lateral de la carrocería
 $q_{o}$ : Distancia vertical entre el centro geométrico de la superficie lateral de la carrocería y la superficie de rodadura del carril.
@@ -268,18 +264,19 @@ Carga vertical de la rueda debida a la fuerza centrífuga no compensada
 
 En el contexto del movimiento en curvas, la compensación incompleta de la aceleración centrífuga a través del peralte de la vía genera una fuerza residual que se transmite a la estructura de la vía. La carga vertical inducida por esta fuerza centrífuga no compensada $Q_{s c}$ se expresa matemáticamente según se indica en la siguiente ecuación, que establece la relación entre la fuerza residual y la redistribución vertical de cargas (véase la figura adjunta):
 $\pm Q_{s c}=\frac{F_{s c} \cdot h_{k B}}{a}=\frac{Q \cdot I \cdot h_{k B}}{a^{2}}$
+![[8e092dcb7f781ad99d3404a2e54d424f_MD5.webp]]
 Los términos que integran esta formulación se definen de la siguiente manera:
 $F_{s c}$ : Fuerza centrífuga no compensada.
 I: Insuficiencia de peralte.
 $h_{\text {кв }}$ : Distancia entre el centro de gravedad del vehículo $\mathrm{G}^{\prime}$ y la
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-20.jpg?height=1181&width=1254&top_left_y=601&top_left_x=2265)
+
 superficie de rodadura del carril.
 $z_{p}$ : Peralte de la vía.
 $\delta_{p}$ : Ángulo del peralte.
 
 La magnitud de la carga cuasiestática derivada de la insuficiencia centrífuga presenta características particulares: se activa exclusivamente durante el desplazamiento del vehículo en tramos curvos de la infraestructura, y típicamente adopta valores comprendidos en el intervalo del $\mathbf{1 0 - 2 5 \%}$ de la carga estática nominal de la rueda, dependiendo de los parámetros geométricos y dinámicos de la curva. Respecto a la distribución transversal, la rueda que circula por el carril exterior experimenta un incremento de carga de magnitud $Q_{s c}$, mientras que la rueda interior registra simultáneamente una disminución proporcional de idéntica cuantía, estableciéndose así un equilibrio redistributivo en el sistema de carga de ejes.
 
-#### I.7.3. Cargas Verticales Dinámicas
+#### I.6.2. Cargas Verticales Dinámicas
 
 La interacción entre el material rodante y la infraestructura ferroviaria genera fenómenos dinámicos complejos que introducen solicitaciones fluctuantes superpuestas a las cargas estáticas y cuasiestáticas previamente analizadas. Estas cargas dinámicas constituyen la manifestación de mecanismos de vibración e impacto que derivan tanto de las características constructivas del vehículo como de las irregularidades geométricas presentes en la vía.
 
@@ -311,7 +308,7 @@ Desde una perspectiva metodológica, el cálculo preciso de las fuerzas dinámic
 
 La magnitud de la carga dinámica adicional puede alcanzar valores tan elevados como el $50 \%$ de la carga estática nominal de la rueda (Alias, 1977). Conforme a la literatura técnica especializada (Profillidis, 1995; Zicha, 1989), en el rango de velocidades hasta 200 $\mathrm{km} / \mathrm{h}$, el coeficiente de impacto dinámico típicamente fluctuá entre 1,35 y 1,6. Por este motivo, para velocidades que no excedan 200 $\mathrm{~km} / \mathrm{h}$, se recomienda la adopción de un coeficiente de impacto dinámico de 1,5 en diseño. Para velocidades superiores a $200 \mathrm{~km} / \mathrm{h}$, es prudente realizar estudios analíticos detallados fundamentados en datos experimentales específicos de la infraestructura en estudio.
 
-#### I.7.5. Carga vertical total de la rueda
+#### I.6.3. Carga vertical total de la rueda
 
 La cuantificación integral de la solicitación vertical transmitida por el material rodante hacia la estructura de la vía requiere la consideración conjunta de todos los componentes de carga identificados en secciones precedentes. La carga vertical total de la rueda $Q_{t}$ representa la envolvente de solicitaciones, expressándose como la composición algebraica de las cargas verticales estáticas nominales, las adiciones cuasiestáticas derivadas de efectos ambientales y de curvatura, y las fluctuaciones dinámicas aleatorias:
 
@@ -321,7 +318,7 @@ $$
 
 Esta expresión integral proporciona el marco de referencia para la evaluación de la respuesta estructural de la vía ante el paso del tráfico ferroviario.
 
-#### I.7.6. Carga vertical de proyecto por rueda
+#### I.6.4. Carga vertical de proyecto por rueda
 
 La metodología de diseño de infraestructuras ferroviarias requiere el establecimiento de un parámetro de solicitación representativo que encapsule la probabilidad estadística de no ser excedido durante la vida útil de la vía. Este parámetro se denomina "carga vertical de proyecto por rueda" $\mathbf{Q}_{\boldsymbol{d}}$, y representa el valor característico de la solicitación vertical que, desde una perspectiva probabilística, está asociado a la máxima probabilidad teórica de no ser superado en condiciones reales de operación a lo largo del ciclo de vida completo de la infraestructura.
 
@@ -339,31 +336,29 @@ $\sigma\left(Q_{\mathrm{dyn}}\right)$ : Desviación típica (o estándar) de las
 $\sigma$ ( $Q_{\text {dyn1 }}, Q_{\text {dyn2) }}$ : Desviación típica de las fuerzas dinámicas verticales correspondientes a las masas suspendidas y semisuspendidas del vehículo.
 $\mathrm{n}_{\mathrm{p}}$ : Coeficiente multiplicador que amplifica el valor cuadrático medio de las desviaciones típicas dinámicas, asegurando la cobertura de la probabilidad estadística de no excedencia durante la vida útil de la infraestructura. Este coeficiente adopta típicamente un valor de 5,00 (Demiridis y Pyrgidis, 2010). $\mathrm{j}=1,2$ : Índice subscript indicativo de cada una de las dos ruedas del mismo juego de ruedas de un eje.
 
-### I.8. Cargas Transversales
+### I.7. Cargas Transversales
 
 Las solicitaciones transversales constituyen un aspecto crítico para la evaluación de la seguridad operacional del sistema ferroviario. Estas fuerzas están directamente vinculadas tanto a la seguridad cinética de la circulación ferroviaria como al confort dinámico percibido por los pasajeros, siendo capaces de desencadenar el fenómeno crítico del descarrilamiento.
 
 Las fuerzas transversales pueden clasificarse en dos categorías fundamentales según su mecanismo de origen:
 
-#### I.8.1. Fuerzas provocadas por la interacción rueda-carril
+#### I.7.1. Fuerzas provocadas por la interacción rueda-carril
 
 Esta categoría comprende un conjunto de fuerzas derivadas de la dinámica de interacción entre los elementos de rodadura del vehículo y la infraestructura. Incluye: las fuerzas gravitatorias o restauradoras derivadas de la conicidad de las ruedas, las fuerzas de guía que emerge n ante el contacto de las pestañas de las ruedas con los carriles, las fuerzas de rozamiento tanto transversales como longitudinales resultantes del deslizamiento relativo en el punto de contacto, y las fuerzas dinámicas asociadas a las oscilaciones del vehículo. Las fuerzas de rozamiento se subdividen adicionalmente en componentes transversales y longitudinales.
 
 Una segunda categoría de fuerzas transversales es originada por efectos exogénos a la dinámica de circulación convencional. Esta categoría, denominada "fuerzas debidas a otras causas", abarca la fuerza centrífuga no compensada derivada del movimiento en curvas con insuficiencia de peralte, así como la fuerza transversal del viento atmosférico.
 
-#### I.8.2. Fuerzas Gravitatorias
+#### I.7.2. Fuerzas Gravitatorias
 
 En el punto de contacto rueda-carril, la reacción normal global $\boldsymbol{R}_{\mathbf{o}}$ puede descomponerse en dos componentes ortogonales: una componente vertical $\boldsymbol{Q}_{\mathbf{o}}$ (la carga de la rueda) y una componente transversal $\boldsymbol{S}_{\boldsymbol{p o}}$ (véase la figura de referencia). La componente transversal $\mathrm{S}_{\mathrm{po}}$, denominada "fuerza gravitatoria", "fuerza restauradora" o "rigidez gravitatoria", constituye un mecanismo de recentraje que actúa para mantener el eje de ruedas en su posición de equilibrio sobre la vía. Esta fuerza es causada exclusivamente por la geometría cónica de la banda de rodadura de la rueda, transmitiéndose a través del eje hacia la superficie de rodadura del carril.
 
 Se considera una fuerza de naturaleza dinámica y se expresa matemáticamente según:
 $S_{p o}=Q_{o} \cdot \tan \gamma_{o}$
 en la que:
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-26.jpg?height=915&width=682&top_left_y=1333&top_left_x=2703)
+![[746eedb844ecf05e104f8f9a44a3b11c_MD5.webp]]
 
 Qo: Carga estática de la rueda.
 $\gamma_{o}$: Ángulo de inclinación de la superficie de rodadura respecto al plano horizontal en la posición central de equilibrio de la rueda.
-
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-27.jpg?height=446&width=340&top_left_y=42&top_left_x=3027)
 
 En el caso de un eje de ruedas conv encional, cada una de las dos ruedas genera su propia fuerza gravitatoria ( $\boldsymbol{S}_{\boldsymbol{p} j,} \mathrm{j}=1,2$ ), como se ilustra esquemáticamente en la figura adjunta.
 
@@ -371,7 +366,7 @@ Cuando se produce un desplazamiento transversal del eje de ruedas, simbolizado p
 $S_{p 1}=Q_{1} \cdot \tan \gamma_{1}=Q_{1} \cdot \gamma_{1}$
 $S_{p 2}=Q_{2} \cdot \tan \gamma_{2}=Q_{2} \cdot \gamma_{2}$
 donde:
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-27.jpg?height=598&width=1257&top_left_y=1260&top_left_x=2044)
+![[f23db77e77235061f73aac4ecececb96_MD5.webp]]
 $Q_{1}$, $Q_{2}$ : Componentes verticales de las reacciones $R_{1}$ y $R_{2}$ en los puntos de contacto $\mathrm{I}_{1}$ e $\mathrm{I}_{2}$, respectivamente.
 $\gamma_{1}$, $\gamma_{2}$ : Ángulos formados por el plano horizontal y los planos tangentes en los puntos de contacto $\mathrm{l}_{1}$ e $\mathrm{l}_{2}$, respectivamente (como $\gamma_{1}$, $\gamma_{2}$ son cantidades muy pequeñas, se aplica $\tan \gamma_{1}=\gamma_{1}$ y $\tan \gamma_{2}=\gamma_{2}$ ).
 
@@ -379,7 +374,6 @@ $\gamma_{1}$, $\gamma_{2}$ : Ángulos formados por el plano horizontal y los pla
 La determinación rigurosa de las relaciones anteriores se obtiene mediante el análisis geométrico de la interacción rueda-carril, asumiendo que: (i) la rueda posee una forma cónica con una inclinación de curvatura de radio constante, y (ii) la cabeza del carril presenta una superficie esférica de curvatura complementaria. A partir de esta resolución geométrica, se derivan las siguientes ecuaciones lineales que caracterizan el comportamiento dinámico (Pyrgidis, 1990):
 $\gamma_{1}=\gamma_{o}+\frac{\gamma_{e}}{R \cdot \gamma_{o}} \cdot y$
 $\gamma_{2}=-\gamma_{0}+\frac{\gamma_{e}}{R \cdot \gamma_{0}} \cdot y$
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-28.jpg?height=808&width=1706&top_left_y=1093&top_left_x=1738)
 $\gamma_{e}=\frac{R \cdot \gamma_{o}}{R-R^{\prime}}$
 
 R = Radio de curvatura de la banda de rodadura de la rueda
@@ -392,26 +386,29 @@ $S_{p}=S_{p 1}+S_{p 2}=2 Q_{o} \cdot \frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o
 
 Alternativamente, expresada en términos de los parámetros de curvatura:
 
-#### I.8.3. Fuerzas de rozamiento
+#### I.7.3. Fuerzas de rozamiento
 
 ##### Circulación en línea recta
 
 Las fuerzas de rozamiento que emergen en la interfaz rueda-carril constituyen un mecanismo fundamental de interacción dinámica entre el vehículo y la infraestructura. Las componentes longitudinales de estas fuerzas de rozamiento son responsables de múltiples efectos perjudiciales: promueven el desgaste progresivo de la banda de rodadura tanto del vehículo como del carril, generan fatiga cíclica en los materiales constitutivos de la zona de contacto, producen emisiones acústicas significativas (ruido de rodadura), e inducen oscilaciones longitudinales del vehículo.
 
 Para caracterizar las fuerzas de rozamiento resultantes de la dinámica de una rueda convencional circulando por una trayectoria recta, se aplica la teoría lineal de Kalker, que proporciona las siguientes expresiones analíticas:
-$X_{1}=-c_{11} \cdot\left(\frac{X^{\prime}}{V}-\frac{a}{2 \cdot V} \cdot \alpha^{\prime}-\frac{\gamma_{e}}{r_{o}} \cdot y\right)$
-$T_{1}=-c_{22} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{23} \cdot\left(\frac{\alpha^{\prime}}{V}-\frac{\gamma_{o}}{r_{o}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right)$
-$M_{1}=-c_{23} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{33} \cdot\left(\frac{\alpha^{\prime}}{V}-\frac{\gamma_{o}}{r_{o}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right)$
 
+$$X_{1}=-c_{11} \cdot\left(\frac{X^{\prime}}{V}-\frac{a}{2 \cdot V} \cdot \alpha^{\prime}-\frac{\gamma_{e}}{r_{o}} \cdot y\right)$$
+$$T_{1}=-c_{22} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{23} \cdot\left(\frac{\alpha^{\prime}}{V}-\frac{\gamma_{o}}{r_{o}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right)$$
+$$M_{1}=-c_{23} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{33} \cdot\left(\frac{\alpha^{\prime}}{V}-\frac{\gamma_{o}}{r_{o}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right)$$
+
+
+$$X_{2}=-c_{11} \cdot\left(\frac{X^{\prime}}{V}+\frac{a}{2 \cdot V} \cdot \alpha^{\prime}+\frac{\gamma_{e}}{r_{o}} \cdot y\right) 
 $$
-\begin{aligned}
-& X_{2}=-c_{11} \cdot\left(\frac{X^{\prime}}{V}+\frac{a}{2 \cdot V} \cdot \alpha^{\prime}+\frac{\gamma_{e}}{r_{o}} \cdot y\right) \\
-& T_{2}=-c_{22} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{23} \cdot\left(\frac{\alpha^{\prime}}{V}+\frac{\gamma_{o}}{r_{o}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right) \\
-& M_{2}=-c_{23} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{33} \cdot\left(\frac{\alpha^{\prime}}{V}+\frac{\gamma_{o}}{r_{o}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right)
-\end{aligned}
+$$T_{2}=-c_{22} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{23} \cdot\left(\frac{\alpha^{\prime}}{V}+\frac{\gamma_{o}}{r_{o}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right)
+$$
+$$M_{2}=-c_{23} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{33} \cdot\left(\frac{\alpha^{\prime}}{V}+\frac{\gamma_{o}}{r_{o}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right)
 $$
 
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-30.jpg?height=965&width=1413&top_left_y=1700&top_left_x=2005)
+
+
+![[a464f236915a6b0c2783f7e343f2cfce_MD5.webp]]
 donde:
 $\mathrm{X}_{1}, \mathrm{X}_{2}$ : Fuerzas de rozamiento longitudinales aplicadas en ambas ruedas.
 $\mathrm{T}_{1}, \mathrm{~T}_{2}$ : Fuerzas de rozamiento laterales aplicadas en ambas ruedas.
@@ -442,8 +439,6 @@ $$
 & M_{2}=-c_{23} \cdot\left(\frac{y^{\prime}}{V}-\alpha\right)-c_{33} \cdot\left(\frac{\alpha^{\prime}}{V}+\frac{\gamma_{o}}{r_{o}}-\frac{1}{R_{c}}-\frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o} \cdot r_{o}}\right)
 \end{aligned}
 $$
-
-![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-31.jpg?height=1119&width=1578&top_left_y=1216&top_left_x=1905)
 
 Rc: radio de curvatura de la alineación horizontal.
 
@@ -477,17 +472,17 @@ Aspectos técnicos especializados de las fuerzas de rozamiento:
 
 La siguiente tabla sintetiza el repertorio de fuerzas contacto rueda-carril para distintas tecnologías de ejes ferroviarios (materializadas o propuestas teóricamente) (Frederich, 1985):
 
-| Tecnologia | Representación esquemática | Sp | T | x | M |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Ejes convencionales - Ruedas de conicidad variable | ![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-34.jpg?height=160&width=231&top_left_y=1016&top_left_x=1952) | Si | Si | Si | Si |
-| Ejes con ruedas que ruedan de forma independiente Ruedas de conicidad variable | ![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-34.jpg?height=166&width=231&top_left_y=1193&top_left_x=1952) | Si | Si | No | Si |
-| Ejes articulados - Ruedas de conicidad variable | ![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-34.jpg?height=167&width=231&top_left_y=1376&top_left_x=1952) | Si | No | Si | Si |
-| Ejes convencionales - Ruedas cilíndricas | ![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-34.jpg?height=139&width=231&top_left_y=1559&top_left_x=1952) | No | Si | Si | No |
-| Ejes convencionales - Ruedas de conicidad constante | ![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-34.jpg?height=164&width=227&top_left_y=1725&top_left_x=1952) | No | Si | Si | Si |
-| Ruedas que ruedan de forma independiente - Ruedas de conicidad variable | ![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-34.jpg?height=153&width=227&top_left_y=1912&top_left_x=1952) | Si | No | No | Si |
-| Ejes con ruedas que ruedan de forma independiente Ruedas inclinadas de conicidad variable | ![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-34.jpg?height=149&width=220&top_left_y=2089&top_left_x=1959) | Si | No | No | No |
-| Ejes convencionales - Ruedas inclinadas de conicidad variable | ![](https://cdn.mathpix.com/cropped/aa60068f-bc7e-44ba-9a68-6c5e8aec8794-34.jpg?height=153&width=220&top_left_y=2265&top_left_x=1959) | Si | Si | Si | No |
-| Frederich, F. 1985, Possibilités inconnues et inutilisées du contact rail-roue, Rail International, Brussels, November 1985 pp. 33-40 |  |  |  |  |  |
+| Tecnologia                                                                                | Representación esquemática                              | Sp  | T   | x   | M   |
+| :---------------------------------------------------------------------------------------- | :------------------------------------------------------ | :-- | :-- | :-- | :-- |
+| Ejes convencionales - Ruedas de conicidad variable                                        | ![[283f4d8ef63960e92998372058e20ff8_MD5.webp\|231x160]] | Si  | Si  | Si  | Si  |
+| Ejes con ruedas que ruedan de forma independiente Ruedas de conicidad variable            | ![[6d1061e9c933bb25cfb601b674dc9a6f_MD5.webp\|231x160]] | Si  | Si  | No  | Si  |
+| Ejes articulados - Ruedas de conicidad variable                                           | ![[3abc6acec24775b2ad21c1671d93fb6f_MD5.webp\|231x160]] | Si  | No  | Si  | Si  |
+| Ejes convencionales - Ruedas cilíndricas                                                  | ![[f8a622a0119fa46abdfecd788462ba62_MD5.webp\|231x160]] | No  | Si  | Si  | No  |
+| Ejes convencionales - Ruedas de conicidad constante                                       | ![[a2752dbc75aa8b69fbcf206ae041615c_MD5.webp\|231x160]] | No  | Si  | Si  | Si  |
+| Ruedas que ruedan de forma independiente - Ruedas de conicidad variable                   | ![[65bc11b78033d22ef0e698f182dd058e_MD5.webp\|231x160]] | Si  | No  | No  | Si  |
+| Ejes con ruedas que ruedan de forma independiente Ruedas inclinadas de conicidad variable | ![[c41710082f1172c5cbbc8f6668e0ff48_MD5.webp\|231x160]] | Si  | No  | No  | No  |
+| Ejes convencionales - Ruedas inclinadas de conicidad variable                             | ![[3fd7e353fd6b01bb668a598ec0f6e9c1_MD5.webp\|231x160]] | Si  | Si  | Si  | No  |
+Frederich, F. 1985, Possibilités inconnues et inutilisées du contact rail-roue, Rail International, Brussels, November 1985 pp. 33-40
 
 Un aspecto tecnológico relevante para reducir los efectos desfavorables de las fuerzas de rozamiento longitudinales consiste en eliminar el acoplamiento rígido que tradicionalmente une las dos ruedas de un mismo eje. Esta modificación permite que cada rueda pueda girar a una velocidad angular independiente, mientras se mantiene la condición cinemática de que ambas ruedas circulen sin deslizamiento relativo respecto a sus respectivas líneas de contacto:
 

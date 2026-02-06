@@ -41,7 +41,7 @@ b) La superestructura: el conjunto integrado por los elementos de rodadura y fij
 La superestructura merece un análisis más detallado, ya que se compone de varios elementos esenciales: dos filas paralelas de carriles que proporcionan la trayectoria para las ruedas de los trenes, traviesas (elementos estructurales orientados de forma transversal al eje de la vía que actúan como elementos de sujeción para los carriles) y balasto (la capa de material granular sobre la cual se apoyan las traviesas, distribuyendo las cargas hacia la infraestructura). Complementariamente, se incorporan diversos elementos auxiliares como placas de asiento, bridas de unión, sistemas de clavazón y otros accesorios que aseguran la cohesión del sistema completo.
 
 Un aspecto notable de la evolución ferroviaria es que la configuración básica de la superestructura ha permanecido prácticamente invariable desde los orígenes del ferrocarril, demostrando la solidez y efectividad del diseño fundamental.
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-04.jpg?height=851&width=2164&top_left_y=1776&top_left_x=697)
+![[c610b2b944d1e1b4752f24f15a1e172f_MD5.webp]]
 
 ### I.2 Funciones
 
@@ -54,7 +54,8 @@ El carril actúa como el elemento estructuralmente más crítico, asumiendo dire
 - Función de guiado directivo: mediante la interacción entre las pestañas laterales de las ruedas y la geometría específica del carril, se logra mantener los vehículos sobre la trayectoria correcta. Sin embargo, este mecanismo de guiado conlleva consecuencias no deseadas, en particular la generación de rozamiento significativo entre las superficies de rodadura y el carril en secciones curvas, así como entre las pestañas y los carriles tanto en alineaciones rectas como curvas. Este fenómeno de fricción constituye una de las principales causas de desgaste prematuro y de los problemas asociados al mantenimiento de la vía y la conservación del material rodante.
 
 Las traviesas, por su parte, desempeñan funciones estructurales igualmente importantes: mantienen y garantizan la separación constante entre los dos carriles (función conocida como arriostramiento lateral) y actúan como elementos de transmisión, canalizando los esfuerzos captados por los carriles hacia la capa de balasto subyacente.
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-05.jpg?height=1171&width=1720&top_left_y=1437&top_left_x=1657)
+![[beddbd38ae6ed4394c6687449ff657a7_MD5.webp]]
+[Comportamiento estructural del sistema de via](https://www.researchgate.net/publication/322147560_Railway_ballast_characteristics_selection_criteria_and_performance/figures?lo=1)
 
 - El balasto tiene por función transmitir y repartir sobre la plataforma, lo más uniformemente posible las cargas de los trenes y evacuar lo más rápidamente posible las aguas de lluvia del asiento de las traviesas.
 - Además será también función del balasto la de arriostrar las traviesas por rozamiento para evitar el desplazamiento de la vía, constituir con ellas un lecho elástico y permitir la evaporación del agua de la plataforma por capilaridad.
@@ -76,6 +77,9 @@ En España se fijó el ancho de vía en el Pliego General de Condiciones que for
 - También algunas vías de explotación minera o industrial con valores que en algunos casos llegan hasta los 600 mm.
 - Podemos decir que el ancho de vía es una característica fundamental tanto en el trazado como en la explotación de líneas férreas.
 
+![[decedb6b307dcfff083c17af2cc3cb4e_MD5.webp]]
+[Ancho de via](https://commons.wikimedia.org/wiki/File:Rail_gauge_EurAsia.png)
+
 ### II.2 Ventajas e inconvenientes
 
 La adopción de vía estrecha versus vía ancha implica un análisis cuidadoso de factores tanto económicos como operacionales. En primer lugar, desde la perspectiva de ventajas económicas, la implementación de vía estrecha presenta argumentos contundentes:\n\nLa utilización de curvas con radios de menor amplitud permite que la infraestructura se adapte con mayor flexibilidad a las topografías irregulares, minimizando la necesidad de movimientos de tierra extensivos comparados con configuraciones de vía ancha. La reducción del ancho de la plataforma genera consecuentemente menores volúmenes de terraplenes y desmontes en los trabajos de preparación del terreno. La construcción de obras de arte como túneles y puentes resulta económicamente más favorable debido a la disminución de sus dimensiones transversales. El material rodante diseñado para vía estrecha requiere un gálibo reducido, implicando economías significativas en su fabricación. Los componentes de la superestructura—balasto, traviesas de menor longitud y carriles con longitudes totales menores por la viabilidad de radios menores—todos se ven beneficiados por reducciones de coste. Finalmente, la resistencia a la tracción en curvas disminuye notablemente, permitiendo incrementos en las pendientes de las rampas sin comprometer la operatividad.\n\nNo obstante, los inconvenientes operacionales de la vía estrecha respecto a la vía ancha resultan significativos desde una perspectiva de explotación: la capacidad de tráfico se ve limitada inherentemente por las dimensiones reducidas de los vehículos. Las velocidades máximas operables son inferiores debido a limitaciones de estabilidad dinámica del material rodante en configuraciones más estrechas. Para mantener rentabilidades similares, el cociente de explotación (relación entre gastos operacionales e ingresos) experimenta un incremento a medida que el ancho de vía disminuye. Por último, existe la dificultad inherente de establecer conexiones operativas con redes ferroviarias preexistentes de ancho normal, complicando la interoperabilidad y el tránsito de material rodante entre sistemas.
@@ -90,15 +94,16 @@ La eficiencia de este sistema demuestra sus ventajas operacionales: composicione
 
 ### II.4 Cambiadores de ejes
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-14.jpg?height=2105&width=2788&top_left_y=538&top_left_x=381)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SC-zwwpGpe8?si=vUi-cy2-JwgytIuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### II.5 Cambio de Bogíes
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-15.jpg?height=2042&width=3551&top_left_y=576&top_left_x=0)
+![[b439addf86977dd0035cad3b6dae3ea3_MD5.webp]]
+[Cambiador de boggies](https://en.wikipedia.org/wiki/Bogie_exchange)
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-16.jpg?height=2144&width=2841&top_left_y=517&top_left_x=353)
-
-### II.6 Talgo RD: rodadura desplazable
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1TcU_07rMc?si=aluLMflyRCGTUfGR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[ Alzado de locomotora S-334 para cambio de bogies - Renfe](https://www.youtube.com/watch?v=S1TcU_07rMc)
+### II.6 Talgo RD: Cambiador de ancho
 
 - El $\mathbf{1 2}$ de noviembre de 1968 efectuó el histórico viaje Madrid-París sin transbordo el Talgo Experimental de Rodadura Desplazable y, en la actualidad, se efectúan diversos servicios directos con Francia, Suiza e Italia. El sistema, que es económico, rápido y sencillo, se basa en la utilización de la rodadura Talgo de ruedas independientes, por lo que sólo se puede aplicar a este tipo de coches.
 - El sistema, en esquema, consta de cinco operaciones:
@@ -110,16 +115,16 @@ La eficiencia de este sistema demuestra sus ventajas operacionales: composicione
 5. Cargar el vehículo sobre su propia rodadura, operación inversa al punto 1 (equivalente a la salida de gatos).
 
 Talgo RD: rodadura desplazable
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-19.jpg?height=2126&width=2833&top_left_y=541&top_left_x=369)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3PSuVtbR5o0?si=unZ3f48hQb6PLo-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Capítulo III El asiento de la vía
 
 El proceso de asiento o establecimiento de la vía ferroviaria constituye una fase crítica en la construcción de infraestructuras ferroviarias. Durante este procedimiento, que también se denomina colocación o tendido de la vía, la estructura debe recibir dimensiones geométricas precisas. En secciones de alineación recta, se establece el ancho de vía nominal mediante el posicionamiento riguroso de los carriles, asegurando que sus caras interiores mantienen la separación prescrita. Por el contrario, en zonas de curvatura, la geometría de la vía se modifica estratégicamente incorporando un sobreancho adicional, concepto que será examinado con mayor profundidad en secciones posteriores de este análisis.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-21.jpg?height=2062&width=3539&top_left_y=533&top_left_x=0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SC-zwwpGpe8?si=vUi-cy2-JwgytIuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 El asiento de la vía
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-22.jpg?height=2126&width=2817&top_left_y=541&top_left_x=369)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EnsGq01hUjQ?si=4o2URT8O9E3VSQQ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### III.1 Inclinación de carriles
 
@@ -129,7 +134,8 @@ La experiencia operacional acumulada en Europa ha puesto de manifiesto que incli
 
 Por estas razones fundamentadas en la observación empírica, las administraciones ferroviarias europeas han mantenido firmemente la inclinación de $1/20$ como estándar operativo. Existe, sin embargo, una excepción notable en las líneas de Alta Velocidad en Alemania y Japón, que han adoptado la inclinación más moderada de $1/40$ para optimizar el comportamiento dinámico a velocidades extremas y reducir la magnitud de las solicitaciones laterales sobre la superestructura.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-24.jpg?height=1852&width=2846&top_left_y=611&top_left_x=356)
+![[766a1c0eee9a09a27b52949b63bef6ec_MD5.webp]]
+[Geometry of track](https://www.mdpi.com/2076-3417/15/6/2970)
 
 ### III.2 Tolerancia en el ancho de vía
 
@@ -137,7 +143,8 @@ A pesar de que los estándares de construcción especifican la necesidad de esta
 
 Los sobreanchos pueden manifestarse indistintamente en traviesas de madera o de hormigón, presentando una multiplicidad de causas generatrices:
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-25.jpg?height=589&width=645&top_left_y=1298&top_left_x=0)
+![[f483341516a648d4329bdaa595caa8f5_MD5.webp]]
+[Sujeciones](https://www.chinarailfastener.com/rail-fastener-system/e-clip-fastening-system.html)
 
 a) Erosión y pérdida de material de la cabeza del carril en su superficie interior, producto del continuo contacto con las llantas de las ruedas.
 
@@ -151,7 +158,7 @@ e) Deterioro funcional del sistema de sujeción elástica del carril a la travie
 
 Los estrechamientos, que se presentan exclusivamente en alineaciones rectas, obedecen a etiologías multifactoriales, siendo destacables el acentuamiento progresivo de la inclinación del patín del carril (fenómeno inducido por la conicidad natural de la llanta de la rueda durante ciclos repetitivos de desgaste), la curvatura inducida en traviesas de madera por deficiencias en su preservación química o por variaciones en su contenido de humedad, y la cedencia de la sección central de la traviesa bajo solicitaciones complejas.
 
-En respuesta a esta realidad operativa, se ha desarrollado un sistema jerárquico de tolerancias geométricas que comprenden desde los criterios aplicables en el momento de la recepción de la obra nueva hasta los límites críticos de alarma que prohíben la circulación. A continuación se especifican las tolerancias específicamente vinculadas al parámetro del ancho de vía:
+En respuesta a esta realidad operativa, se ha desarrollado un sistema jerárquico de tolerancias geométricas que comprenden desde los criterios aplicables en el momento de la recepción de la obra nueva hasta los límites críticos de alarma que prohíben la circulación. A continuación se especifican las tolerancias específicamente vinculadas al parámetro del ancho de vía segun [NAV 7-1-3.7]([https://www.adif.es/documents/20124/16439288/PropModif_NAV3052_ED1_FC1.pdf/d521c8b9-c3a8-b857-56c2-baecb7d39182?version=1.0&t=1687242125891&download=true](https://www.adif.es/documents/20124/46883793/NAV7137_ED2_FC1.pdf/d1ba370e-6f5b-36fa-9e30-7dc2816c8829?t=1760085908455)):
 
 **Tolerancias de vía nueva:** Estos parámetros se prescriben en las especificaciones técnicas para la construcción de vías nuevas, estableciendo límites de $(+3 \mathrm{~mm} \cdot -2 \mathrm{~mm})$ respecto al valor nominal.
 
@@ -164,6 +171,86 @@ En respuesta a esta realidad operativa, se ha desarrollado un sistema jerárquic
 **Tolerancias indicadoras de alarma:** Al ser superadas estas cotas, se genera una señal de alerta operativa que demanda la restauración inmediata de las características geométricas nominales de la vía en el segmento afectado.
 
 **Tolerancias de conservación:** Estos valores son exigibles durante las actividades de control de calidad en los trabajos de mantenimiento y reparación de la vía, fijándose en $(+4 \mathrm{~mm}-3 \mathrm{~mm})$ con respecto al diseño original.
+#### Tolerancias auscultación geométrica en vía general
+
+| Nivel de alerta (AL):                                                           | Ancho pico- (mm) |               | Ancho pico+ (mm) |               | Ancho $\mathbf{1 0 0 m}$ (mm) | Ancho $100 \mathrm{~m}+(\mathrm{mm})$ | Alabeo 3 m (mm/m) | Niv. Transv D1 (mm) |
+| :------------------------------------------------------------------------------ | :--------------- | :------------ | :--------------- | :------------ | :---------------------------- | :------------------------------------ | :---------------- | :------------------ |
+|                                                                                 | Ancho Estándar   | Ancho Ibérico | Ancho Estándar   | Ancho Ibérico |                               |                                       |                   |                     |
+| $\mathbf{V} \boldsymbol{\leq} \mathbf{8 0}$                                     | -7               | -7            | 25               | 25            | -6                            | 25                                    | 4                 | 10                  |
+| $\mathbf{8 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{1 2 0}$       | -7               | -7            | 25               | 20            | -5                            | 16                                    | 4                 | 8                   |
+| $120<V \leq 160$                                                                | -6               | -6            | 25               | 18            | -3                            | 16                                    | 4                 | 7                   |
+| $160<\mathrm{V} \leq 200$                                                       | -4               | -4            | 20               | 16            | -3                            | 16                                    | 4                 | 6                   |
+| $\mathbf{2 0 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{2 3 0}$     | -4               | -3            | 20               | 14            | -3                            | 16                                    | 3                 | 5                   |
+| $\mathbf{2 3 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{3 0 0}$     | -3               | -2            | 20               | 10            | -1                            | 16                                    | 3                 | 4                   |
+| $\mathbf{3 0 0} \boldsymbol{<} \boldsymbol{V} \boldsymbol{\leq} \mathbf{3 6 0}$ | -3               | -1            | 20               | 9             | -                             | 16                                    | 3                 | 3                   |
+Tabla 1.- Parámetros geométricos para ancho estándar y ancho ibérico con niveles AL.
+
+| Nivel de alerta (AL):                                                       | Alineación D1 (mm) |     |     |     |     | Alineación D2 (mm) |     |     |     |     |
+| :-------------------------------------------------------------------------- | :----------------- | :-- | :-- | :-- | :-- | :----------------- | :-- | :-- | :-- | :-- |
+|                                                                             | A                  | B   | C   | D   | E   | A                  | B   | C   | D   | E   |
+| $\boldsymbol{V} \boldsymbol{\leq} \mathbf{8 0}$                             | 12                 | 14  | 14  | 14  | 15  | -                  | -   | -   | -   | -   |
+| $80<V \leq 120$                                                             | 8                  | 10  | 10  | 10  | 11  | -                  | -   | -   | -   | -   |
+| $\mathbf{1 2 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{1 6 0}$ | 6                  | 8   | 8   | 8   | 9   | -                  | -   | -   | -   | -   |
+| $\mathbf{1 6 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{2 0 0}$ | 5                  | 7   | 8   | 8   | 8   | 10                 | 12  | 14  | 14  | 14  |
+| $\mathbf{2 0 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{2 3 0}$ | 5                  | 6   | 8   | 8   | 8   | 10                 | 12  | 14  | 14  | 14  |
+| $\mathbf{2 3 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{3 0 0}$ | 4                  | 5   | 7   | 7   | 7   | 8                  | 9   | 10  | 10  | 10  |
+| $\mathbf{3 0 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{3 6 0}$ | 3                  | 4   | 6   | 6   | 6   | 6                  | 7   | 8   | 8   | 8   |
+Tabla 2.- Alineación por tipo de línea según Declaración sobre la Red (A, B, C, D o E) ${ }^{3}$ con niveles AL.
+
+  
+
+| Nivel de alerta (AL):                                                       | Nivelación Longitudinal D1 (mm) |     |     |     |     | Nivelación Longitudinal D2 (mm) |     |     |     |     |
+| :-------------------------------------------------------------------------- | :------------------------------ | :-- | :-- | :-- | :-- | :------------------------------ | :-- | :-- | :-- | :-- |
+|                                                                             | A                               | B   | C   | D   | E   | A                               | B   | C   | D   | E   |
+| $\boldsymbol{V} \leq 80$                                                    | 12                              | 16  | 16  | 17  | 18  | -                               | -   | -   | -   | -   |
+| $80<\mathrm{V} \leq 120$                                                    | 10                              | 12  | 12  | 14  | 16  | -                               | -   | -   | -   | -   |
+| $120<\mathrm{V} \leq 160$                                                   | 8                               | 10  | 10  | 13  | 15  | -                               | -   | -   | -   | -   |
+| $160<V \leq 200$                                                            | 7                               | 9   | 12  | 12  | 12  | 12                              | 14  | 16  | 16  | 16  |
+| $\mathbf{2 0 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{2 3 0}$ | 7                               | 8   | 12  | 12  | 12  | 12                              | 14  | 16  | 16  | 16  |
+| $\mathbf{2 3 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{3 0 0}$ | 6                               | 7   | 10  | 10  | 10  | 8                               | 10  | 12  | 12  | 12  |
+| $\mathbf{3 0 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{3 6 0}$ | 6                               | 6   | 8   | 8   | 8   | 8                               | 9   | 10  | 10  | 10  |
+Tabla 3.- Nivelación longitudinal por tipo de línea según Declaración sobre la Red ( $A, B, C, D$ o E) ${ }^{3}$ con niveles AL.
+
+
+
+#### Tolerancias auscultación geométrica en vías no generales
+
+Para las vías no generales (vías secundarias, vías de apartado, etc) los parámetros a considerar son los siguientes:
+
+| Nivel de alerta (AL):                                    | Ancho pico(mm) | Ancho pico+ (mm) | Ancho 100 m (mm) | Ancho $100 \mathrm{~m}+$ (mm) | Alabeo 3 m (mm/m) | Niv. Transv D1 (mm) | Niv. Long. D1 (mm) | Alin. D1 (mm) |
+| :------------------------------------------------------- | :------------- | :--------------- | :--------------- | :---------------------------- | :---------------- | :------------------ | :----------------- | :------------ |
+| $\mathbf{V} \boldsymbol{\leq} \mathbf{4 0}$              | -8             | 29               | -7               | 25                            | 5                 | 12                  | 21                 | 17            |
+| $\mathbf{4} 0<\mathbf{V} \boldsymbol{\leq} \mathbf{8 0}$ | -7             | 25               | -6               | 25                            | 4                 | 10                  | 18                 | 15            |
+Tabla 4.- Niveles AL para vías no generales.
+
+  
+
+#### Tolerancias auscultación geométrica en vías con tráfico mixto
+De forma adicional, para vías con tráfico mixto:
+
+| Nivel de alerta (AL):                                                       | Alabeo 5m (mm/m) | Alabeo 9 m (mm/m) | Var Ancho D1 (mm/m) |
+| :-------------------------------------------------------------------------- | :--------------- | :---------------- | :------------------ |
+| $\mathbf{V} \boldsymbol{\leq} \mathbf{8 0}$                                 | 4                | 3,1               | 9                   |
+| $80<V \leq 120$                                                             | 4                | 3,1               | 8                   |
+| $\mathbf{1 2 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{1 6 0}$ | 4                | 3,1               | 7                   |
+| $\mathbf{1 6 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{2 0 0}$ | 4                | 3,1               | 6                   |
+| $\mathbf{2 0 0}<\mathbf{V} \leq \mathbf{2 3 0}$                             | 3                | 3                 | 5                   |
+| $\mathbf{2 3 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{3 0 0}$ | 3                | 3                 | 4                   |
+| $\mathbf{3 0 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{3 6 0}$ | 3                | 3                 | 3                   |
+Tabla 5.- Niveles AL para vías con tráfico mixto.
+
+  
+
+#### Tolerancias auscultación geométrica en vías de ancho métrico
+Para las vías de ancho métrico los parámetros serán los siguientes:
+
+| Nivel de alerta (AL):                                                   | Ancho pico(mm) | Ancho pico+ (mm) | Ancho $100 \mathrm{~m}-$ (mm) | Ancho $100 \mathrm{~m}+(\mathrm{mm})$ | Alabeo 3 m (mm/m) | Niv. Transv D1 (mm) | Niv. Long. D1 (mm) | Alin. D1 (mm) |
+| :---------------------------------------------------------------------- | :------------- | :--------------- | :---------------------------- | :------------------------------------ | :---------------- | :------------------ | :----------------- | :------------ |
+| $\boldsymbol{V} \leq 60$                                                | -6             | 20               | -5                            | 18                                    | 4,5               | 11                  | 18                 | 16            |
+| $\mathbf{6 0} \boldsymbol{<} \mathbf{V} \boldsymbol{\leq} \mathbf{8 0}$ | -6             | 20               | -5                            | 15                                    | 4                 | 10                  | 16                 | 14            |
+| $80<\mathrm{V} \leq 120$                                                | -6             | 15               | -5                            | 10                                    | 4                 | 8                   | 12                 | 10            |
+Tabla 6.- Niveles AL para RAM.
+
 
 ### III.3 Número y colocación de las traviesas
 
@@ -171,8 +258,8 @@ La densidad de traviesas a lo largo de la vía constituye un parámetro de dise�
 
 En la terminología especializada de vías ferroviarias, se designa como traviesa de junta a aquella que se posiciona inmediatamente contigua a los extremos de los carriles individuales, mientras que las traviesas consecutivas reciben la denominación de traviesas de contrajunta. La característica esencial de estas traviesas especiales es su espaciamiento más reducido comparativamente con el resto de la estructura, medida que resulta crítica para la estabilidad estructural. La omisión o deficiencia en la aplicación de este principio de concentración conduce a fenómenos perjudiciales: los extremos libres de los carriles experimentan hundimiento progresivo bajo la acción de cargas repetitivas si el espaciamiento es excesivo, mientras que si el espaciamiento se reduce en exceso, se observa un fenómeno inverso de levantamiento de los extremos de los carriles, comprometiendo nuevamente la geometría prescrita.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-28.jpg?height=436&width=1581&top_left_y=1757&top_left_x=1022)
-Figura 8
+![[2848481e96e3ef779814ede33d13e711_MD5.webp]]
+
 
 ### III.4 Posición de las juntas
 
@@ -208,8 +295,8 @@ $$
 
 Donde $L$ representa la longitud nominal del carril exterior, $L'$ la longitud reducida del carril interior, $R$ denota el radio de curvatura, y $a$ es el ancho de vía. Esta formulación permite determinar con precisión la reducción de longitud requerida para mantener la concordancia geométrica de juntas en curvas.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-32.jpg?height=1272&width=1109&top_left_y=1112&top_left_x=2397)
-Figura 9
+![[30a5a36ccb699eac249908205a61e24c_MD5.webp|359x412]]
+Diferenciade longitud entre carril interior y exterior
 
 Cabe destacar la influencia significativa que el ancho de la vía ejerce sobre estos cálculos geométricos, factor que determina en última instancia las correcciones requeridas en las longitudes de carril.
 
@@ -264,13 +351,13 @@ La característica de flexibilidad o elasticidad de la vía emana de la necesida
 
 Esta distinción conceptual establece una diferencia radical entre la vía ferroviaria y las estructuras de carretera. La superestructura de una carretera podría, en teoría, diseñarse como un elemento perfectamente rígido, dado que los vehículos que circulan sobre ella poseen pesos comparativamente ligeros respecto al material ferroviario, y están equipados con sistemas de suspensión provisionados de llantas elásticas que absorben efectivamente los impactos derivados de irregularidades del pavimento. El neumático de un vehículo de carretera realiza una función de amortiguamiento crítica, disipando energía cinética e impacto. Por el contrario, la vía ferroviaria debe ser capaz de acomodar material rodante de considerable peso provisto de llantas metálicas rígidas carentes de cualquier capacidad elastomérica. Esta realidad impone la necesidad de que la estructura de la vía misma presente una elasticidad controlada, permitiendo que se adapte a pequeñas irregularidades o discontinuidades de la superficie sin transmitir impactos destructivos. Cuando una irregularidad geométrica de apenas pocos milímetros de altura (ejemplificado por el desnivel correspondiente al plano de una rueda) es atravesado por un eje fuertemente cargado en movimiento a alta velocidad, los esfuerzos generados sobre la vía alcanzan magnitudes extraordinarias si la estructura no posee elasticidad suficiente para absorber parcialmente el evento de impacto. Ambas características—robustez estructural y elasticidad—presentan un antagonismo intrínseco que debe resolverse mediante un equilibrio ingenieril. Hasta la presente, este compromiso óptimo no ha sido alcanzado de manera superior a la lograda por la vía convencional sobre traviesas y balasto, demostración elocuente de la eficacia del diseño clásico.
 
-Los valores de las cargas no suspendidas que solicitan la vía constituyen un parámetro de diferenciación notable entre los sistemas ferroviarios europeos y estadounidenses. Las especificaciones de carga por eje varían substancialmente: mientras que en Europa la carga máxima normal admitida se sitúa en el rango de $20-22$ toneladas por eje, en América del Norte los valores operativos normales alcanzan $30$ a $32$ toneladas por eje. Incluso existen ejemplos de líneas norte americanas de importancia estratégica, como la Pennsylvania Railway, que han diseñado su superestructura para soportar cargas de hasta $43.5$ toneladas por eje, cifra que cuadriplica aproximadamente los estándares europeos de la época.
+Los valores de las **cargas no suspendidas** que solicitan la vía constituyen un parámetro de diferenciación notable entre los sistemas ferroviarios europeos y estadounidenses. Las especificaciones de carga por eje varían substancialmente: mientras que en Europa la carga máxima normal admitida se sitúa en el rango de $20-22$ toneladas por eje, en América del Norte los valores operativos normales alcanzan $30$ a $32$ toneladas por eje. Incluso existen ejemplos de líneas norte americanas de importancia estratégica, como la Pennsylvania Railway, que han diseñado su superestructura para soportar cargas de hasta $43.5$ toneladas por eje, cifra que cuadriplica aproximadamente los estándares europeos de la época.
 
 Actualmente, uno de los desafíos centrales de la ingeniería de vías consiste en lograr una configuración de diseño que sea simultáneamente suficientemente rígida para soportar cargas extremas en los componentes no suspendidos, y simultáneamente capaz de absorber las vibraciones complejas originadas por la circulación a velocidades elevadas. Este dilema de ingeniería busca producir una rodadura suave que atenuada significativamente la transmisión de choques dinámicos y ruidos hacia el material rodante y sus ocupantes, mejorando tanto la seguridad como el confort operativo.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-38.jpg?height=2318&width=3088&top_left_y=175&top_left_x=231)
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-39.jpg?height=2146&width=3237&top_left_y=258&top_left_x=158)
-
+![[b0c7f5c0f632e54de31ac128f25c411c_MD5.webp]]
+![[3bd0b420125acbd6ed3fa72326867955_MD5.webp]]
+[Jacksonville Florida](https://en.wikipedia.org/wiki/Double-stack_rail_transport)
 ### IV.3 Continuidad
 
 Una característica operativa igualmente esencial de la vía ferroviaria es su continuidad geométrica, tanto en la dimensión horizontal (continuidad de planta) como en la dimensión vertical (continuidad de perfil). La vía, definida por su trazado en planta y su perfil longitudinal, constituye inherentemente una entidad geométrica fundamentalmente discontinua, no solamente por la discontinuidad física propia de los carriles cuando estos no están soldados (deficiencia subsanada en vías modernas mediante soldadura que garantiza continuidad metalúrgica total), sino también por el hecho de que se compone de tramos sucesivos que presentan inclinaciones longitudinales diferenciadas y curvas de radio variable.
@@ -291,25 +378,18 @@ Sin embargo, esta configuración constructiva conlleva una consecuencia operativ
 
 La geometría de la superficie de contacto entre la rueda y el carril constituye un elemento de importancia fundamental en el comportamiento dinámico del sistema ferroviario. La superficie de rodadura de la llanta no es cilíndrica como pudiera esperarse intuitivamente, sino que pertenece a una superficie cónica cuyo vértice se localiza en una posición exterior a la plataforma de la vía. Esta disposición cónica es análoga a la mostrada en la geometría representada en la Figura 10, donde el ángulo de conicidad ha sido exagerado para propósitos ilustrativos; en la práctica, este ángulo es típicamente de $1/20$ (cinco grados de inclinación). Esta geometría cónica de las llantas proporciona dos funciones operativas diferenciadas pero complementarias: en primer lugar, actúa funcionalmente como un diferencial mecánico que compensa automáticamente las diferencias de desarrollo de arco entre rueda exterior e interior en sectores curvos; en segundo lugar, contribuye al guiado lateral del eje montado, completando los mecanismos de control de trayectoria en alineaciones rectas mediante la interacción entre las pestañas de la rueda y la geometría del carril.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-42.jpg?height=803&width=1654&top_left_y=1640&top_left_x=920)
-https://fb.watch/igCSAp6v6 /
-
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-43.jpg?height=2046&width=3553&top_left_y=559&top_left_x=0)
-
-Características del material
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-44.jpg?height=2122&width=3553&top_left_y=527&top_left_x=0)
+<iframe width="560" height="315" src="https://youtube.com/embed/37c4lV9V3O8?si=kZsmmgnZv3_nKYz_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Capítulo VI Características mixtas
 
 Se designan como características mixtas aquellas propiedades geométricas y funcionales definidas conjuntamente por parámetros de la vía y características del vehículo en forma interdependiente, donde la especificación de una requiere información del otro. En esta categoría se incluyen aquellas características cuya presencia en la vía es una exigencia técnica impuesta por las propiedades del material rodante que circula sobre ella. Ejemplos paradigmáticos de estas características mixtas incluyen el juego de vía y el sobreancho, ambas inherentemente vinculadas a la interacción dinámica y geométrica entre vehículo e infraestructura.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-45.jpg?height=1348&width=2187&top_left_y=1314&top_left_x=688)
+![[70d3451a80f688b38fbff44d30d56c2e_MD5.webp]]
+[Ancho de via frente a ancho de solapa](https://www.researchgate.net/publication/288188982_Modification_of_wheel-rail_contact_parameters_by_wear/figures?lo=1)
 
 **Plano de Rodadura:** Se define como la superficie de rodadura del carril que efectivamente se encuentra en contacto físico con la llanta de la rueda durante la operación.
 
 **Círculo de Rodadura:** Se designa así a la sección transversal de la superficie de rodadura que resulta de la intersección con un plano vertical orientado a una distancia específica de $70 ~ mm$ medida desde la cara interior de la pestaña de la rueda, constituyendo así una referencia geométrica normalizada para mediciones.
-
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-46.jpg?height=1353&width=2179&top_left_y=1265&top_left_x=639)
 
 **Juego de vía:** Se entiende por juego de vía el espacio libre que se deja intencionadamente entre la pestaña lateral de la rueda y la cara interior del carril, permitiendo que estos componentes no se encuentren en contacto continuo, evitando así el desgaste constante por fricción que comprometería la durabilidad. Técnicamente se define como la diferencia que existe en alineación recta entre la separación de los planos interiores de los carriles y la distancia entre los bordes exteriores de las pestañas de la rueda, siendo esta medición realizada en un plano a $10 ~ mm$ bajo el plano de rodadura. El concepto del juego de vía es operativamente crítico: si el huelgo fuera excesivamente grande, el movimiento sinusoidal del eje montado podría adquirir una amplitud tal que resultaría en una marcha dinámica inestable y potencialmente peligrosa, con incremento del ángulo de ataque rueda-carril a magnitudes inaceptables. Inversamente, si el juego fuera muy reducido o nulo, se produciría fricción constante altamente perjudicial.
 
@@ -323,7 +403,7 @@ $$
 \mathrm{J}+2^{\star}(30-22)=\mathrm{J}+16 \mathrm{~mm}
 $$
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-48.jpg?height=1157&width=1878&top_left_y=1470&top_left_x=826)
+![[cfd45b89c97035533dc9d3e5c677fc50_MD5.webp]]
 
 La metodología normalizada para la medición del juego de vía se expresa mediante la relación algebraica:
 
@@ -372,7 +452,7 @@ $$
 1435-9-2^{*} 30+2^{*} 70=1506 \mathrm{~mm}
 $$
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-50.jpg?height=1114&width=1807&top_left_y=1327&top_left_x=1728)
+![[af71c0e150a35581be1489f82f79a1bd_MD5.webp]]
 
 ### VI.2 Sobreancho
 
@@ -447,14 +527,15 @@ El concepto de gálibo en ingeniería ferroviaria se define como el perfil trans
 
 **Gálibo PPI (Passe-Partout International):** Se designa así el gálibo de carga estática correspondiente a una posición específica del vehículo, que constituye el perfil máximo permitido bajo condiciones de reposo.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-55.jpg?height=1184&width=1159&top_left_y=225&top_left_x=2323)
-GÁLIBO CINEMÁTICO
+![[8c334df4c48330350a3d45b634536c1c_MD5.webp]]
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-55.jpg?height=1066&width=1159&top_left_y=1577&top_left_x=2329)
+[Orden FOM/1630/2015, de 14 de julio, por la que se aprueba la "Instrucción ferroviaria de gálibos"](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8765)
+![[b002d2fd10fb33e1d3286d2bf2a6feed_MD5.webp]]
 
 En 1973, la Unión Internacional de Ferrocarriles (UIC) estabeleció una clasificación normalizada de gálibos, designados mediante las letras A, B y C. Esta clasificación permite armonizar los estándares internacionales y facilitar el tráfico transfronterizo. La tabla adjunta sintetiza las características principales y posibilidades de carga comercial asociadas con cada gálibo:
 
 CUADRO 7.1. PRINCIPALES CARACTERÍSTICAS Y POSIBILIDADES DE CARGA DE LOS GÁLIBOS A, B Y C
+
 | Gálibo | Ancho $y$ alto del gálibo ( $m$ ) |  | Posibilidades de carga | Ancho $y$ alto de la carga (m) |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | A | 3,15 | 4,32 | sobre vagones porta-contenedores. | 2,44 | 2,61 |
@@ -465,26 +546,23 @@ CUADRO 7.1. PRINCIPALES CARACTERÍSTICAS Y POSIBILIDADES DE CARGA DE LOS GÁLIBO
 
 En 1986, la administración ferroviaria francesa desarrolló una variante mejorada del gálibo B, designada como gálibo B+, que permitió incrementar las dimensiones de carga transportable. El gálibo B+ permitió el transporte de cajas móviles de mayores dimensiones ($2,6 ~ m$ de ancho por $3 ~ m$ de alto) y semiremolques transportados en vagones poche con dimensiones de $2,6 ~ m$ por $3,9 ~ m$, ampliando substancialmente las posibilidades operacionales comparativamente con el gálibo B convencional.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-56.jpg?height=440&width=1724&top_left_y=2169&top_left_x=2)
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-56.jpg?height=451&width=1827&top_left_y=2169&top_left_x=1727)
+
 
 ### VIII.1 Gálibo de carga A, B Y C
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-57.jpg?height=2012&width=2140&top_left_y=630&top_left_x=1158)
+![[ee9d5c5cb0983f07f5bf82d05b3ceb8d_MD5.webp]]
+[UIC static and kinematic gauge](https://blogs.upm.es/catedra-adif/wp-content/uploads/sites/1103/2024/07/S2_02_MADRID_Curso-galibos-updated-SG.pdf)
 
 En la planificación de nuevas infraestructuras ferroviarias, se adopta preferentemente el gálibo C para líneas de nueva construcción, proporcionando las máximas posibilidades de transporte de carga. Para aquellas líneas especializadas donde se contempla una explotación en tráfico mixto combinando servicios de alta velocidad para viajeros con circulación de trenes de mercancías, se especifica un gálibo mejorado que permite el transporte de camiones convencionales montados sobre vagones especiales. Este gálibo elevado recibe la denominación de gálibo AF (que corresponde a autopista ferroviaria), conceptualmente diseñado para maximizar la utilización operativa de la infraestructura mediante la combinación de modalidades de transporte.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-58.jpg?height=1816&width=1487&top_left_y=656&top_left_x=1921)
+![[f3d99c0da08144c5077c74a145f0f4aa_MD5.webp]]
 
 ### VIII.2 Entrevía
 
 En los sistemas de ferrocarril de doble vía o vía múltiple, es inevitable que se presente la situación donde dos trenes circulan simultáneamente sobre vías adyacentes en la misma sección transversal de la línea. Esta configuración operativa introduce la necesidad técnica de especificar la distancia mínima horizontal que debe existir entre los ejes de dos vías contiguas. Este parámetro geométrico se designa como entreeje, definido como la distancia medida en dirección transversal entre los ejes de dos vías adyacentes pertenecientes a una línea de doble vía o superior. Es importante notar que la nomenclatura técnica difiere entre administraciones: algunas designan como entreeje a este parámetro completo $E$, mientras que denominan entrevía a las distancias parciales $e$ y $e'$ componentes, como se ilustra en la figura 35.
 
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-59.jpg?height=903&width=1281&top_left_y=616&top_left_x=2220)
-Figura 34. Gálibo de túnel para vía doble (Cotas en mm)
-
-![](https://cdn.mathpix.com/cropped/140e4fb1-65f7-46d0-966a-18e61ee7b2e0-59.jpg?height=455&width=1295&top_left_y=1862&top_left_x=2206)
-Figura 35
+![[863a4769ff9b6fd8c2e2cf0ea14a4c61_MD5.webp]]
+Gálibo de túnel para vía doble 
 
 En trazados rectilíneos en planta, la entrevía puede mantenerse constante a lo largo de toda la extensión de la vía, salvo en puntos específicos donde se requiere incrementar su valor. Los incrementos de entrevía se justifican típicamente por la necesidad de instalar andenes de estación en la zona intermedia entre dos vías, o por la existencia de obras de fábrica individuales (por ejemplo, pilas de puentes) que requieren espacio diferenciado para cada vía.
 

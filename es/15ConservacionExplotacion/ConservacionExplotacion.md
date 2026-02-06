@@ -54,8 +54,8 @@ El proceso de mantenimiento puede clasificarse atendiendo a criterios múltiples
 - Medios Propios: personal y equipamiento internos de la organización.
 - Externalizado: contratación de servicios externos especializados.
 - Mixto: combinación de recursos propios y externos según necesidades.
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-07.jpg?height=966&width=1236&top_left_y=1431&top_left_x=575)
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-07.jpg?height=1028&width=1086&top_left_y=1373&top_left_x=1981)
+
+![[0acb2485bd0d52104f87e0194245ebc7_MD5.webp]]
 
 **Mantenimiento correctivo:** Esta estrategia comprende la reparación de equipos e instalaciones que han experimentado fallo o avería, ejecutándose intervenciones destinadas a restaurar la funcionalidad de los componentes de vía después de que se manifiesten los defectos. Se trata de un enfoque de intervención tardía, reactivo a los problemas identificados.
 
@@ -63,25 +63,25 @@ El proceso de mantenimiento puede clasificarse atendiendo a criterios múltiples
 
 **Mantenimiento según estado:** Caracterizado por la vigilancia continua y el monitoreo de la evolución de instalaciones y equipos, permitiendo determinar el momento óptimo para ejecutar revisiones o cambios cuando los indicadores señalan proximidad a los umbrales críticos de fallo. Esta metodología posibilita la corrección de defectos de manera oportuna, basada en datos objetivos del estado actual de la vía.
 
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-09.jpg?height=1109&width=2621&top_left_y=550&top_left_x=472)
+![[4637e79d3f27fcfb6c83526b58b6a9c7_MD5.webp]]
 
 Cabe destacar que la vida útil global aproximada de una infraestructura ferroviaria moderna oscila entre 35 y 40 años, período durante el cual se requiere la aplicación sistemática de estas estrategias de mantenimiento:
 
 **VIDA ÚTIL GLOBAL APROXIMADA: 35-40 AÑOS**
 
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-09.jpg?height=753&width=3306&top_left_y=1821&top_left_x=104)
-
+![[99fc7164da8231873fbfd6f5812fe244_MD5.webp]]
 ### I.1. Mantenimiento según estado
 
 La metodología de mantenimiento basado en el estado de condición demanda requisitos específicos para su implementación exitosa. En primer término, es indispensable disponer de información permanentemente actualizada acerca de las características técnicas y condición actual de la vía. Esto requiere de:
 
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-10.jpg?height=1179&width=2026&top_left_y=927&top_left_x=1425)
+![[9af5a045165fc4835cdfa8cc53204e5f_MD5.webp]]
+
 Make optimum decision based on analysis results
 Perceive changes and conduct maintenance at appropriate timing
 
 Como segundo requisito se requiere la capacidad de respuesta ágil ante la detección de defectos localizados, conjugada con la utilización metodológica y controlada de los recursos de maquinaria pesada disponibles. En esencia, el mantenimiento según estado se fundamenta en la repetición sistemática de un ciclo iterativo de evaluación y corrección, aplicándose tantas veces como sea necesario para mantener los parámetros de operación dentro de los rangos admisibles.
 
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-11.jpg?height=1939&width=2831&top_left_y=677&top_left_x=364)
+![[4e30dc50905123df7fb9ae569778d111_MD5.webp]]
 
 Sistemas de auscultación, que proporcionen en tiempo real un conocimiento objetivo sobre el estado de la vía: Instalaciones tecnológicas especializadas capaces de suministrar información objetiva y en tiempo real respecto al estado integral de la vía, facilitando la toma de decisiones basada en datos reales de operación.
 
@@ -92,12 +92,6 @@ Unos equipos de maquinaria pesada con rapidez en la respuesta: para la correcci�
 Para la formulación efectiva de medidas preventivas resulta imprescindible contar con conocimiento detallado del estado actual de materiales e instalaciones, así como del seguimiento de la trayectoria evolutiva de los defectos potenciales. El paso de circulaciones sobre la vía genera respuestas dinámicas en los vehículos que atraviesan las irregularidades presentes, produciendo esfuerzos internos y aceleraciones cuyas magnitudes dependen directamente del grado de defectología presente en la vía y de la velocidad de operación aplicada.
 
 A medida que aumenta el volumen acumulado de circulaciones, se incrementa progresivamente el nivel de defectos presentes en la vía y, consecuentemente, se amplifica la respuesta dinámica experimentada por los vehículos que circulan sobre ella. Cuando estos parámetros de respuesta dinámica se aproximan a los umbrales críticos establecidos para asegurar el confort de pasajeros, para preservar las condiciones aceptables de explotación, o para garantizar los márgenes de seguridad operativa definidos, se requiere activar protocolos de intervención mediante acciones de mantenimiento o, alternativamente, mediante la implementación de restricciones de velocidad en los tramos afectados.
-
-- Introducción
-- Auscultación
-- Operaciones de mantenimiento
-- Renovación
-- Interferencias con la explotación
 
 ## Capítulo II. Auscultación
 
@@ -112,7 +106,7 @@ El sistema de auscultación constituye el conjunto de procedimientos, técnicas 
 - DETECTORES DE IMPACTO DE VÍA (DIV): dispositivos para identificar defectos que generan impactos anormales.
 - MEDICIONES MANUALES - SONDEOS: evaluaciones de campo utilizando equipos topográficos y de medición directa.
 
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-16.jpg?height=1254&width=1488&top_left_y=944&top_left_x=38)
+![[d0503eb20d01d40676d9e7de79158234_MD5.webp]]
 
 | ACTUACIONES |  | CRITERIOS |  |  |
 | :--- | :--- | :--- | :--- | :--- |
@@ -171,19 +165,11 @@ Los carros auscultadores manuales constituyen equipos semi-mecanizados que permi
 
 Los vehículos auscultadores son sistemas mecanizados de alto nivel que permiten capturar datos de auscultación a velocidad de operación o velocidades controladas. Se incluyen entre estos trenes-laboratorio especializados como el Séneca, que combina amplia instrumentación con capacidad de desplazamiento autónomo, vehículos adaptados en sistemas de transporte urbano como los del Metro de Madrid que cuentan con equipamiento interno especializado, y dresinas que son plataformas ligeras con sistemas de medición embarcados destinadas a líneas de menor tráfico. Estos equipos permiten captura automatizada de datos a gran escala, generando bases de información que alimentan los sistemas de análisis centralizado.
 
-Índice
-
-- Introducción
-- Auscultación
-- Operaciones de mantenimiento
-- Renovación
-- Interferencias con la explotación
-
 ## Capítulo III. Operaciones
 
 Las operaciones de mantenimiento comprenden un conjunto de actividades mecanizadas y manuales diseñadas para corregir y prevenir defectos específicos de la infraestructura ferroviaria. A continuación se describen las principales operaciones de mantenimiento utilizadas en la industria ferroviaria moderna.
 
-### III.1. AMOLADO
+### III.1. Amolado
 
 La operación de amolado constituye un procedimiento especializado de mantenimiento preventivo dirigido a la eliminación de una película superficial de acero descarburado que se genera durante el proceso de fabricación industrial de los carriles, así como para la remoción simultánea de otros tipos de defectos superficiales. Esta operación persigue los siguientes objetivos técnicos:
 
@@ -198,9 +184,9 @@ La operación de amolado constituye un procedimiento especializado de mantenimie
 - **Control del desgaste ondulatorio:** El amolado proporciona un control mejorado del deterioro general de la vía y retrasa significativamente la formación y progresión del desgaste ondulatorio, defecto que tiende a acelerarse con la velocidad de circulación.
 - **Reducción de fisuras:** Contribuye a reducir la aparición y propagación de fisuras longitudinales en los carriles.
 
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-28.jpg?height=1848&width=3264&top_left_y=707&top_left_x=137)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqc_5feGXgo?si=TZB9PhaNtZvIkS4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### III.2. BATEADORA-NIVELADORA (i):
+### III.2. Bateadora-Niveladora:
 
 La operación de bateado constituye el proceso mediante el cual se introduce material de balasto debajo de las traviesas con el fin de restaurar la nivelación de la vía o consolidar su posición después de asentamientos. Esta función, ejecutada por máquinas especializadas denominadas bateadoras, puede realizarse mediante procesos de vibración, compresión mecánica, o combinaciones de ambos métodos.
 
@@ -210,31 +196,29 @@ Las bateadoras se encuentran equipadas con un conjunto coordinado de elementos b
 - **Movimiento vibratorio de los bates:** Generado por mecanismos excéntricos, facilita el movimiento de los bates dentro de la masa del balasto, permitiendo su penetración progresiva.
 - **Movimiento de aproximación de los bates:** Mediante sistemas de husillo sinfín, se coloca y se aprisiona el balasto debajo de la traviesa, consolidando su posición vertical.
 
-### III.3. BATEADORA-NIVELADORA (ii):
-
 La niveladora constituye una máquina especializada derivada de la bateadora convencional, equipada adicionalmente con sistemas de levante del carril que permiten combinar operaciones de levantamiento y bateado simultáneamente, dejando la vía finalmente a la altura geométrica deseada. El procedimiento más habitual de nivelación se ejecuta bajo control de un operador provisto de un visor-nivel de precisión y mandos de radio control remoto que detiene el movimiento de levante en el instante exacto en que se alcanza la cota objetivo.
 
 Las niveladoras cuentan con un grupo especializado de levantadores constituido por discos circulares de acero (denominados "uñas") asociados a sistemas hidráulicos de accionamiento. Estos discos se acoplan a la cabeza del carril sujetándolo firmemente durante el levantamiento, permitiendo un control preciso de la altura final. Una característica importante es que todas las máquinas bateadoras modernas incorporan capacidad de nivelación. Históricamente, las bateadoras primitivas carecían de esta función y la nivelación se realizaba mediante gatos hidráulicos posicionados secuencialmente al paso de la máquina por la vía.
 
 Operaciones
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-31.jpg?height=1996&width=3499&top_left_y=574&top_left_x=32)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1B6KCwSs9I?si=I5HbSJnq1gngbI9d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### III.4. ALINEADORA:
+### III.3. Alineadora:
 
 Las máquinas alineadoras son equipos especializados provistos de elementos sujetadores similares a los utilizados en las niveladoras, pero caracterizados por poseer movimiento horizontal controlado. Este movimiento horizontal permite desplazar la vía lateralmente hasta conseguir la posición correcta en planta, rectificando defectos de alineación general. Las máquinas alineadoras operan típicamente mediante el procedimiento de las cuerdas deslizantes, que establece referencias geométricas mediante líneas de referencia que se desplazan con la máquina. 
 
 En la práctica operativa moderna, existen máquinas alineadoras especializadas exclusivamente en esta función, aunque lo más frecuente es encontrar máquinas combinadas denominadas bateadoras-niveladoras-alineadoras que integran las tres funciones en una sola unidad de trabajo, permitiendo optimizar tiempos y recursos mediante la ejecución simultaneada de múltiples tareas correctivas.
 
-**PERFILADORA:**
+### III.4 Perfiladora:
 
 Las máquinas perfiladoras constituyen equipos especializados en la distribución y conformación del balasto de la banqueta lateral, dando forma y espesor apropiados a esta zona de transición entre la plataforma y la caja de la vía. Estas máquinas se equipan con arados frontales y laterales de diseño especializado que empujan el balasto hacia las posiciones correctas, conformando la geometría de la banqueta. Muchas perfiladoras incorporan adicionalmente un cepillo de barrido que recoge el balasto sobrante y deteriorado, transportándolo mediante una cinta transportadora hacia una tolva integrada en la máquina, desde la cual se redistribuye selectivamente el material limpio según las necesidades operacionales.
 
-Operaciones
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-34.jpg?height=1922&width=2546&top_left_y=632&top_left_x=500)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aMbN2awhVRs?si=nMteI3pmU0D_KbzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### III.5. Operaciones: Trabajos continuos
 
-**Trenes BCP:**
+#### Trenes BCP:
 
 Cuando los análisis realizados con vehículos auscultadores detectan que la pérdida acumulada de nivelación y alineación de una línea ferroviaria se aproxima a los umbrales críticos permitidos, se procede a su corrección mediante la utilización coordinada de trenes BCP (sigla que representa Bateadora, Compactadora y Perfiladora).
 
@@ -246,14 +230,14 @@ Un tren BCP típico está conformado por tres máquinas especializadas que traba
 
 Estos trenes pueden operar en dos configuraciones distintas: en tajos sencillos donde trabaja un único tren BCP, o en tajos de gran rendimiento donde operan simultáneamente tres trenes BCP en el mismo segmento, dividiendo el tramo de vía a corregir en tres zonas de trabajo equivalentes que avanzan coordinadamente.
 
-**Parámetros operacionales de los trenes BCP:**
+#### Parámetros operacionales de los trenes BCP:
 
 Para ejecutar correctamente una operación de nivelación, se realiza típicamente un levantamiento de la vía entre 2 a 5 centímetros, lo que requiere una aportación de balasto nuevo entre 100 a 200 litros por metro lineal. Esta aportación preliminar de balasto se realiza previo al ciclo de bateado.
 
 Los trenes BCP requieren de 3 a 4 horas continuas de operación ininterrumpida para alcanzar productividad óptima. En líneas con tráfico de pasajeros, frecuentemente es necesario efectuar transbordes de servicios de viajeros para permitir esta continuidad. Por esta razón, en muchos casos se recurre a la estrategia de emplear tres trenes BCP operando en configuración de gran rendimiento, lo que reduce significativamente los tiempos de transborde requeridos. La productividad típica de un tren BCP operando en jornadas de duración variable es de aproximadamente 1500 metros diarios cuando se trabaja en ciclos de 3 a 4 horas.
 
 Operaciones: Trabajos contínuos
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-37.jpg?height=1963&width=2587&top_left_y=640&top_left_x=484)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DLYKn9yfCa8?si=JXVlHpTxjKM1y99M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### III.6. Operaciones: Desguarnecido de vía
 
@@ -264,7 +248,7 @@ La operación de desguarnecido constituye el proceso de extracción selectiva de
 
 Las máquinas desguarnecedoras están equipadas con una cadena sinfín provista de elementos batidores con puntas de acero al manganeso de alta dureza, que rompen progresivamente la banqueta de balasto ubicada debajo de las traviesas, transportando el material extraído hacia una tolva equipada con sistemas de cribas y clasificación. Estas máquinas poseen capacidad adicional para levantar y ripar la vía, machacar el balasto en su sistema interno, y en algunos casos avanzados, extienden capas de arena y geotextiles para sanear y mejorar la explanación de fundación.
 
-#### III.6.1. DESGUARNECEDORA
+#### Desguarnecedora
 
 Los componentes principales de una máquina desguarnecedora incluyen:
 
@@ -276,24 +260,24 @@ Los componentes principales de una máquina desguarnecedora incluyen:
 6.- REPARTIDOR CENTRAL: Distribuye balasto hacia la zona axial de la vía.
 7.- REPARTIDORES LATERALES: Distribuyen balasto hacia las zonas laterales de la banqueta.
 
-**Parámetros de operación del desguarnecido:**
+#### Parámetros de operación del desguarnecido:
 
 El desguarnecido total requiere típicamente ser acompañado por operaciones complementarias de mejora de la explanación, incluyendo drenaje, saneamiento de suelo y otras medidas de acondicionamiento. La operación de desguarnecido demanda un intervalo de trabajo de aproximadamente 4 horas continuas, además de la implementación de restricciones de velocidad para el tráfico que pueda atravesar la zona durante los trabajos. Por esta razón, la planificación del intervalo de trabajo debe realizarse con análisis detallado de impactos operacionales.
 
 La productividad típica del desguarnecido oscila entre 400 a 800 metros por jornada de trabajo, dependiendo de las condiciones específicas del balasto y de la complejidad de los trabajos de acondicionamiento asociados.
 
 Operaciones: Desguarnecido de vía
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-41.jpg?height=1971&width=2595&top_left_y=640&top_left_x=484)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ay1CPC2NR1c?si=IAYh5Z54J9E-g1va" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Capítulo IV. Renovación de vía
 
 La renovación de infraestructuras ferroviarias constituye uno de los procesos más relevantes en la gestión del ciclo de vida de las vías, implicando decisiones estratégicas complejas, inversiones significativas e impactos operacionales considerables.
 
-#### IV.0.1. CONCEPTO DE RENOVACIÓN DE VÍA:
+### IV.1. Concepto de renovación de via:
 
 Por renovación de vía se entiende un proceso integral cuyo propósito fundamental es reemplazar de manera sistemática los elementos constitutivos de la superestructura de la vía (carriles, traviesas, sujeciones y balasto), al tiempo que se acondiciona y mejora la infraestructura subyacente (explanación, drenaje) y su entorno (desmontes, terraplenes) para que sean capaces de cumplir con funciones típicamente más exigentes que las del establecimiento anterior, en términos de carga, velocidad o frecuencia de circulación.
 
-#### IV.0.2. CAUSAS:
+### IV.2. Causas:
 
 **Causas principales:** El envejecimiento progresivo de los componentes de la vía y sus elementos constitutivos (carriles deteriorados, traviesas fisuradas, balasto descompuesto) constituye la causa más frecuente que justifica la decisión de proceder a renovación integral de un segmento.
 
@@ -320,7 +304,7 @@ Las gráficas adjuntas ilustran conceptualmente cómo se comporta el deterioro d
 - Se requieren trabajos previos de preparación y desmovilización
 - En casos de vía única renovada por fases, se implementan limitaciones de velocidad mientras continúan los trabajos
 
-#### IV.0.3. PASOS A SEGUIR:
+### IV.3. Pasos a seguir:
 
 La secuencia constructiva de una renovación de vía comprende los siguientes pasos metodológicamente ordenados:
 
@@ -335,7 +319,7 @@ La secuencia constructiva de una renovación de vía comprende los siguientes pa
 9. **Segunda nivelación:** Ajuste geométrico final después de soldaduras.
 10. **Liberación de tensiones:** Alivio de tensiones residuales acumuladas en carriles continuos soldados.
 
-#### IV.0.4. MONTAJE DE VÍA CON MATERIALES SUELTOS
+### IV.4. Montaje de vía con materiales sueltos
 
 Este procedimiento tradicional de renovación se caracteriza por la disposición estratégica de materiales a lo largo del tramo de renovación, seguida de su incorporación progresiva mediante procedimientos de manejo manual y semi-mecanizado.
 
@@ -357,24 +341,25 @@ Los materiales requeridos se distribuyen de manera ordenada en el tramo designad
 - **Comprobaciones geométricas y segunda nivelación:** Se efectúan mediciones de verificación y ajustes finales de geometría.
 
 Renovación de vía
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-49.jpg?height=2004&width=2645&top_left_y=574&top_left_x=459)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pbf8uHLrvg0?si=XVnFMP01D22FM6LS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### IV.0.5. MONTAJE DE VÍA CON TREN DE RENOVACIÓN RÁPIDA
+
+### IV.5. Montaje de vía con tren de renovacion rápida TRR
 
 El Tren de Renovación Rápida (TRR) constituye un sistema mecanizado avanzado que permite ejecutar operaciones de renovación de vía de manera expedita y con control de calidad elevado. Su capacidad operativa abarca múltiples funciones:
 
-**Funciones que puede ejecutar el TRR:**
+#### Funciones que puede ejecutar el TRR:
 - Renovación integral de vía existente
 - Sustitución aislada de traviesas defectuosas
 - Sustitución selectiva de carriles deteriorados
 - Montaje de vía sobre plataformas completamente nuevas
 - Operaciones de mantenimiento pesado
 
-**Parámetros de rendimiento:**
+#### Parámetros de rendimiento:
 
 El rendimiento típico del TRR es de 100-200 metros por hora en operación normal, aunque este rendimiento es dependiente del tiempo requerido para efectuar cortes de vía y preparación de interfaces.
 
-**Composición del sistema TRR:**
+#### Composición del sistema TRR:
 
 El Tren de Renovación Rápida está integrado por los siguientes componentes principales:
 - **Vagón de manutención de traviesas:** Transporta y suministra traviesas en el frente de obra
@@ -384,15 +369,9 @@ El Tren de Renovación Rápida está integrado por los siguientes componentes pr
 Este sistema integrado permite una ejecución coordinada y eficiente de todas las operaciones, reduciendo significativamente los tiempos de intervención comparado con metodologías convencionales de materiales sueltos.
 
 Renovación de vía
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-51.jpg?height=1939&width=2571&top_left_y=648&top_left_x=492)
 
-Índice
 
-- Introducción
-- Auscultación
-- Operaciones de mantenimiento
-- Renovación
-- Interferencias con la explotación
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4vrkyCafU8?si=oHUHvl-n8k2EopH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Capítulo V. Interferencias con la explotación
 
@@ -403,9 +382,9 @@ El transporte ferroviario como sistema operativo posee características de rigid
 **Organización del modelo ferroviario:**
 
 La gestión de la explotación ferroviaria responde a modelos organizacionales que coordinan múltiples funciones desde la planificación comercial hasta la operación operacional en tiempo real.
-![](https://cdn.mathpix.com/cropped/f354b7b4-ac8b-4a4e-8d91-963cde2667e2-53.jpg?height=909&width=2499&top_left_y=1684&top_left_x=582)
+![[0926790d03faee85f08e2fce13829da8_MD5.webp]]
 
-### V.1. ZONAS DE TRABAJO:
+### V.1. Zonas de trabajo:
 
 Para garantizar la seguridad durante las operaciones de mantenimiento y construcción, se definen zonas de trabajo con grados crecientes de riesgo:
 
@@ -415,7 +394,7 @@ Para garantizar la seguridad durante las operaciones de mantenimiento y construc
 
 - **Zona de Peligro:** Esta es la zona de máximo riesgo, definida como aquella donde el personal, herramientas o materiales pueden ser potencialmente arrollados por circulaciones ferroviarias o expuestos a efectos de succión-absorción provocados por vehículos en movimiento. Abarca la caja de la vía y los espacios laterales comprendidos entre la cabeza del carril y una línea paralela trazada a 2 metros de distancia hacia cada lado. Esta zona requiere protecciones especiales y bloqueo de circulaciones para trabajos intensivos.
 
-### V.2. DOCUMENTOS CONTRACTUALES EN LA GESTIÓN DEL CORTE (i):
+### V.2. Documentos contracturales en la gesti'on del corte:
 
 La coordinación efectiva entre operaciones de mantenimiento y explotación requiere de un conjunto de documentos normativos y de gestión:
 
@@ -429,8 +408,6 @@ La coordinación efectiva entre operaciones de mantenimiento y explotación requ
 
 - **Tiempos TOC:** Parámetro establecido anualmente que representa los tiempos adicionales previstos para que los trenes absorban las demoras causadas por las precauciones requeridas durante las obras. El Plan Marco establece que no se pueden superar estos tiempos TOC asignados en los servicios de una línea determinada.
 
-### V.3. DOCUMENTOS CONTRACTUALES EN LA GESTIÓN DEL CORTE (ii):
-
 Complementando los documentos de nivel estratégico, existen documentos operacionales de gestión táctica y operativa:
 
 - **Consignas:** Documentos emitidos por la función de Circulación cada vez que se identifica una condición que afecta a la seguridad de la circulación o la integridad de instalaciones. Proporcionan instrucciones específicas que deben aplicarse de manera inmediata.
@@ -443,7 +420,7 @@ Complementando los documentos de nivel estratégico, existen documentos operacio
 
 - **Diagrama de Capacidad de la Línea:** Herramienta gráfica tipo espacio-tiempo que refleja esquemáticamente la circulación de todos los trenes programados en una línea. Es particularmente importante para solicitar cortes de vía, ya que en él quedan claramente identificados los intervalos horarios en los que no hay circulaciones y, por lo tanto, son disponibles para trabajos.
 
-### V.4. TIPOS DE CORTE DE VÍA
+### V.3. Tipos de corte de vía
 
 Existen varios regímenes operacionales para ejecutar trabajos en infraestructura ferroviaria, cada uno con características, requisitos y restricciones específicas:
 
@@ -455,7 +432,7 @@ Existen varios regímenes operacionales para ejecutar trabajos en infraestructur
 
 - **Trabajo en estaciones:** Las operaciones en estaciones pueden ejecutarse bajo régimen de interrupción de circulación o bajo régimen de corte permanente de vía, según las necesidades. En cualquier caso, se deben implementar protecciones específicas: inmovilización física de agujas en posiciones que impidan acceso a vía cortada, ocupación del circuito de vía mediante dispositivos en cuadros de mando o utilizando herramientas de cortocircuito, y en casos donde no sea posible bloquear físicamente las agujas, instalación de señales de parada de carácter restrictivo.
 
-## Capítulo VI. Bibliografía
+## Bibliografía
 
 - Díaz de Villegas, J.M. (2003) Ferrocarriles. Apuntes de clase. E.T.S. Ing. Caminos, Canales y Puertos Santander.
 - García Álvarez, A. (2022) Manual de ferrocarriles. El sistema ferroviario español. Ed. Garceta.
