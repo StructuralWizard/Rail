@@ -30,8 +30,8 @@ parent: Inicio
 La dinámica longitudinal constituye un campo fundamental en la ingeniería ferroviaria que se ocupa del análisis y la comprensión de las interacciones entre las diferentes fuerzas que actúan sobre un tren durante su movimiento. Estas fuerzas incluyen el esfuerzo de tracción generado por los motores, las fuerzas de frenado, los efectos gravitatorios causados por la topografía, y las fuerzas de inercia asociadas con cambios en la velocidad. Es importante destacar que este análisis se refiere específicamente al movimiento en la dirección longitudinal del tren, diferenciándose claramente de la dinámica vertical que considera movimientos perpendiculares a la dirección de viaje.
 
 El estudio de la dinámica longitudinal permite identificar y desarrollar tres áreas clave de investigación y aplicación práctica en el transporte ferroviario. En primer lugar, es posible calcular con precisión los perfiles de velocidad y los tiempos de viaje en diferentes tramos de línea, considerando las limitaciones técnicas y de infraestructura. En segundo lugar, permite determinar las cargas máximas que pueden ser remolcadas por una locomotora manteniendo los estándares de seguridad establecidos. Finalmente, proporciona las herramientas necesarias para estimar el consumo de energía requerido en diferentes escenarios operativos.
-![[a55ac2cd3867edd5685f2760006cdaa6_MD5.webp|591x394]]
-![[be8adfad9e1221d31152df6337fb6818_MD5.webp]]
+![a55ac2cd3867edd5685f2760006cdaa6_MD5]({{ site.baseurl }}/assets/images/a55ac2cd3867edd5685f2760006cdaa6_MD5.webp|591x394)
+![be8adfad9e1221d31152df6337fb6818_MD5]({{ site.baseurl }}/assets/images/be8adfad9e1221d31152df6337fb6818_MD5.webp)
 
 
 
@@ -40,7 +40,7 @@ El estudio de la dinámica longitudinal permite identificar y desarrollar tres �
 
 Durante el movimiento de un tren a lo largo de una línea ferroviaria, se presentan simultáneamente distintos tipos de fuerzas que actúan en diferentes direcciones. Podemos clasificarlas en dos categorías principales según su efecto sobre el movimiento del tren. En primer lugar, existen fuerzas que favorecen y contribuyen al desplazamiento del tren en la dirección deseada. El esfuerzo de tracción proporcionado por los motores de tracción constituye la fuerza motriz fundamental que impulsa al tren hacia adelante. Cuando el tren transita por tramos en descenso, la componente gravitatoria también actúa de manera favorable al movimiento, facilitando la aceleración sin requerir esfuerzo del motor.
 
-![[5c8504d6774fa6c20bb8a3e38088b3e4_MD5.webp]]
+![5c8504d6774fa6c20bb8a3e38088b3e4_MD5]({{ site.baseurl }}/assets/images/5c8504d6774fa6c20bb8a3e38088b3e4_MD5.webp)
 
 Por el contrario, existe un conjunto de fuerzas que se oponen y se resisten al movimiento del tren, limitando su velocidad y su aceleración. El esfuerzo de frenado, que puede ser dinámico o continuo, es controlado por el maquinista para regular la velocidad y lograr detenciones seguras. La resistencia al avance, resultante de múltiples factores como el rozamiento en las ruedas y los elementos mecánicos, la resistencia aerodinámica, y otros, actúa constantemente en contra del movimiento. Adicionalmente, cuando el tren asciende por rampas, la componente gravitatoria actúa como una fuerza resistiva que se opone al avance.
 
@@ -51,7 +51,7 @@ E-R=\frac{P}{g} \cdot \gamma
 $$
 
 Siendo $P$ el peso de la composición ferroviaria y $\gamma$ la aceleración que el esfuerzo E produciría en la misma.
-![[707b4a4bca3b6a1e2cd19ef077161070_MD5.webp]]
+![707b4a4bca3b6a1e2cd19ef077161070_MD5]({{ site.baseurl }}/assets/images/707b4a4bca3b6a1e2cd19ef077161070_MD5.webp)
 
 ### I.3. Tracción
 
@@ -63,7 +63,7 @@ $$
 \operatorname{Pot}(\text { watt })=F(\text { Newton }) \cdot v(m / s)
 $$
 
-![[03c966588d2e08ef72b7b881dcf971aa_MD5.webp]]
+![03c966588d2e08ef72b7b881dcf971aa_MD5]({{ site.baseurl }}/assets/images/03c966588d2e08ef72b7b881dcf971aa_MD5.webp)
 
 En la práctica del transporte ferroviario, se utilizan diferentes unidades de medida que se han normalizado a lo largo de la historia del ferrocarril. En relación a la potencia, se emplea habitualmente el kilovatio (kW), siendo el rango típico para la potencia total de las locomotoras de entre 3100 kW y 5600 kW aproximadamente, aunque históricamente también se utilizan caballos de vapor (CV), donde la equivalencia es de 1 CV = 750 W. Para el esfuerzo de tracción o fuerza, las unidades más comunes son los decanewtonios (daN) o kilogramos-fuerza (Kg), con la equivalencia de 1 Kg = 1 daN (aproximadamente 9,8 N). La velocidad se expresa comúnmente en kilómetros por hora (km/h), siendo la equivalencia con el sistema internacional 1 km/h = (1/3.6) m/s.
 
@@ -78,12 +78,12 @@ $$
 
 - El diagrama esfuerzo-velocidad constituye una herramienta gráfica de enorme utilidad que permite visualizar y analizar la capacidad de tracción disponible de un tren en función de su velocidad. A partir de este diagrama, es posible comprender las limitaciones operacionales y diseñar estrategias de conducción óptimas.
 
-![[9fa504294113084eaf6ae0b4ab193d45_MD5.webp]]
+![9fa504294113084eaf6ae0b4ab193d45_MD5]({{ site.baseurl }}/assets/images/9fa504294113084eaf6ae0b4ab193d45_MD5.webp)
 
 - Las características fundamentales de este diagrama muestran que el esfuerzo de tracción disponible presenta un comportamiento variable según las condiciones operacionales. El esfuerzo de tracción alcanza sus valores máximos cuando el tren se encuentra a bajas velocidades, lo cual es especialmente relevante durante las fases de arranque y aceleración inicial. Por el contrario, con el incremento de la velocidad, el esfuerzo disponible disminuye de forma inversamente proporcional, siendo limitado principalmente por la potencia disponible en el motor de tracción. Adicionalmente, cuando se reduce el número de motores disponibles en la composición, la potencia total y por tanto los esfuerzos máximos que pueden alcanzarse también se ven significativamente reducidos.
 
 Considérese como ejemplo la máquina 252 equipada con un único grupo motor de 2.800 kW:
-![[ab0f952387408ccb6515aabf1b4c760a_MD5.webp]]
+![ab0f952387408ccb6515aabf1b4c760a_MD5]({{ site.baseurl }}/assets/images/ab0f952387408ccb6515aabf1b4c760a_MD5.webp)
 
 ### I.4. Adherencia
 
@@ -99,7 +99,7 @@ donde $\phi$ es el llamado coeficiente de adherencia y $P_{a d h}$ es el peso ad
 
 Si durante la operación se produce la condición $F > \phi \cdot P_{a d h}$, se interrumpe la adherencia y la rueda comienza a deslizar sobre el carril. En esta situación, el coeficiente de fricción disminuye a un valor inferior $\phi' < \phi$, aumentando la aceleración de la rotación del eje y de las masas giratorias asociadas. Este fenómeno se conoce como patinado, y es un evento indeseable en la operación ferroviaria que reduce la eficiencia y puede causar daños.
 
-![[a7d43c3292bc2bab2b86a261046e82c6_MD5.webp]]
+![a7d43c3292bc2bab2b86a261046e82c6_MD5]({{ site.baseurl }}/assets/images/a7d43c3292bc2bab2b86a261046e82c6_MD5.webp)
 
 
 
@@ -129,23 +129,23 @@ En el análisis del comportamiento dinámico de una locomotora, es fundamental c
 
 Cuando se representa gráficamente la relación esfuerzo-velocidad de una locomotora, considerando únicamente la limitación de potencia, la curva resultante no es asintótica al eje de abscisas en las cercanías del origen. Esta observación indica que el esfuerzo de tracción no puede alcanzar valores infinitos a velocidades bajas, como podría parecer teóricamente a partir de la ecuación de potencia. La razón física de esta limitación es que la adherencia disponible entre ruedas y carril proporciona un techo máximo al esfuerzo que puede transmitirse.
 
-![[3f542edec23f6d778ec0d15ba9531a33_MD5.webp]]
+![3f542edec23f6d778ec0d15ba9531a33_MD5]({{ site.baseurl }}/assets/images/3f542edec23f6d778ec0d15ba9531a33_MD5.webp)
 
-![[b8bd72bddcab58e8c86acad2d804b5f3_MD5.webp]]
+![b8bd72bddcab58e8c86acad2d804b5f3_MD5]({{ site.baseurl }}/assets/images/b8bd72bddcab58e8c86acad2d804b5f3_MD5.webp)
 
 En la práctica operacional del tren, es frecuente encontrar zonas de funcionamiento donde el desempeño se ve limitado, no por la potencia disponible sino por la adherencia disponible. Del mismo modo, existen zonas de funcionamiento donde la limitación es principalmente debida a la potencia del motor de tracción. La representación gráfica de estas dos limitaciones en un mismo diagrama esfuerzo-velocidad proporciona claridad operacional.
 
-![[6b79a8d313da584a443a44e70c370cf5_MD5.webp]]
+![6b79a8d313da584a443a44e70c370cf5_MD5]({{ site.baseurl }}/assets/images/6b79a8d313da584a443a44e70c370cf5_MD5.webp)
 
-![[ebbf46509aeda6372a8e3fd914f53db1_MD5.webp]]
+![ebbf46509aeda6372a8e3fd914f53db1_MD5]({{ site.baseurl }}/assets/images/ebbf46509aeda6372a8e3fd914f53db1_MD5.webp)
 
-![[afefde9734a1df4be0f6811fd45a1391_MD5.webp]]
+![afefde9734a1df4be0f6811fd45a1391_MD5]({{ site.baseurl }}/assets/images/afefde9734a1df4be0f6811fd45a1391_MD5.webp)
 
 La potencia disponible constituye un compromiso entre dos magnitudes físicas fundamentales: la fuerza de arrastre y la velocidad de movimiento. Sin embargo, para lograr obtener una fuerza de tracción significativa durante maniobras criticas, es necesario disponer de una adherencia suficiente, la cual únicamente puede conseguirse incrementando la masa de los ejes motores de la locomotora. Esta relación entre potencia, fuerza y masa ilustra los compromisos fundamentales en el diseño de locomotoras.
 
-![[c005fc6c54b06d9766c5ba102b791083_MD5.webp]]
+![c005fc6c54b06d9766c5ba102b791083_MD5]({{ site.baseurl }}/assets/images/c005fc6c54b06d9766c5ba102b791083_MD5.webp)
 
-![[ed0a5addbc55e96881b0f797a9b544e4_MD5.webp]]
+![ed0a5addbc55e96881b0f797a9b544e4_MD5]({{ site.baseurl }}/assets/images/ed0a5addbc55e96881b0f797a9b544e4_MD5.webp)
 
 **Interacción entre tracción y adherencia**
 
@@ -157,7 +157,7 @@ $$
 
 Un concepto importante que surge de este análisis es que una máquina con mayor masa puede ejercer un esfuerzo de tracción superior a bajas velocidades en comparación con otra máquina que dispone de más potencia pero tiene menos masa. Esta capacidad es especialmente crítica durante las fases de arranque y en condiciones de pendientes pronunciadas.
 
-![[15f81449880df3e676c87889a33a96f4_MD5.webp]]
+![15f81449880df3e676c87889a33a96f4_MD5]({{ site.baseurl }}/assets/images/15f81449880df3e676c87889a33a96f4_MD5.webp)
 
 Se presentan dos ejemplos prácticos de locomotoras en servicio que ilustran esta relación:
 
@@ -186,13 +186,13 @@ Los componentes de la resistencia al avance pueden clasificarse en tres categor�
 
 - **Resistencias mecánicas (a)**: Esta categoría engloba la resistencia a la rodadura, incluyendo la fricción con el carril, la deformación del carril bajo carga, y otros efectos de rodadura, así como la resistencia debida a los rozamientos internos del sistema, especialmente en las cajas de grasa y otros cojinetes.
 
-![[9f311561adf6cc7a5fd92cd445d97c4a_MD5.webp]]
+![9f311561adf6cc7a5fd92cd445d97c4a_MD5]({{ site.baseurl }}/assets/images/9f311561adf6cc7a5fd92cd445d97c4a_MD5.webp)
 
 - **Resistencias debidas a la entrada de aire (b)**: El movimiento del tren a través de la atmósfera requiere desplazar el aire que se encuentra en su camino, generando una resistencia adicional.
 
 - **Resistencias aerodinámicas (c)**: Estas incluyen la resistencia de presión resultante del choque del frontal del tren y la succión aerodinámica en la cola, así como la resistencia de fricción generada por el flujo de aire sobre la superficie del tren.
 
-![[bac2f9f8df68582b118666b50e531f8e_MD5.webp]]
+![bac2f9f8df68582b118666b50e531f8e_MD5]({{ site.baseurl }}/assets/images/bac2f9f8df68582b118666b50e531f8e_MD5.webp)
 
 La resistencia específica total al avance se expresa entonces como:
 
@@ -230,9 +230,9 @@ $$
 | S730 (eléctrico) | 354 | 0,903 | $6 \cdot 10^{-3}$ | $1,553 \cdot 10^{-4}$ |
 | S730 (diésel) | 354 | 0,903 | $1,4 \cdot 10^{-2}$ | $1,508 \cdot 10^{-4}$ |
 
-![[f6718f5a309b451b8d29d595de2350fb_MD5.webp]]
+![f6718f5a309b451b8d29d595de2350fb_MD5]({{ site.baseurl }}/assets/images/f6718f5a309b451b8d29d595de2350fb_MD5.webp)
 
-![[cfaa61169f27b8ef8b7167baa43b5624_MD5.webp]]
+![cfaa61169f27b8ef8b7167baa43b5624_MD5]({{ site.baseurl }}/assets/images/cfaa61169f27b8ef8b7167baa43b5624_MD5.webp)
 
 **Resistencias por características de la infraestructura ferroviaria**
 
@@ -246,11 +246,11 @@ $$
 F_{c}(d a N / t)=a \cdot f \cdot \frac{P}{R}+\frac{P \cdot f}{2 \cdot R} \cdot \sqrt{a^{2}+b^{2}}+\frac{P \cdot f}{R \cdot g} \cdot\left(V^{2}-V_{0}^{2}\right)
 $$
 
-![[8bc44d46ecbd39be0add33df9d42f4a1_MD5.webp]]
+![8bc44d46ecbd39be0add33df9d42f4a1_MD5]({{ site.baseurl }}/assets/images/8bc44d46ecbd39be0add33df9d42f4a1_MD5.webp)
 
 En la práctica operacional española, la administración de infraestructuras (Adif) emplea expresiones simplificadas específicas para el cálculo de resistencias en curvas, diferenciando según el ancho de vía:
 
-![[2b805c40e09c82811d427fb85d4264b2_MD5.webp]]
+![2b805c40e09c82811d427fb85d4264b2_MD5]({{ site.baseurl }}/assets/images/2b805c40e09c82811d427fb85d4264b2_MD5.webp)
 
 $$
 r_{c}(d a N / t)=\frac{600}{R(m)} \quad \text{(ancho estándar)} \quad r_{c}(d a N / t)=\frac{800}{R(m)} \quad \text{(ancho ibérico)}
@@ -260,7 +260,7 @@ $$
 
 Cuando un tren debe circular por un tramo inclinado hacia arriba (rampa), debe realizarse trabajo adicional para incrementar la energía potencial del tren. Considerando el esquema habitual que representa una rampa de pendiente $i=\operatorname{tg}(\alpha)$, es posible deducir analíticamente el esfuerzo suplementario que dicha rampa genera durante la circulación de un vehículo. La deducción de esta resistencia es inmediata a partir de consideraciones de equilibrio de fuerzas:
 
-![[1c0b8af13e4ab337660b3fae2561aec5_MD5.webp]]
+![1c0b8af13e4ab337660b3fae2561aec5_MD5]({{ site.baseurl }}/assets/images/1c0b8af13e4ab337660b3fae2561aec5_MD5.webp)
 
 $$
 r(d a N / t)=\frac{P \cdot i}{P}=i$$
@@ -273,7 +273,7 @@ L^{\prime}=\frac{800}{R(m)}+i$$
 Esta formulación simplificada permite realizar análisis unificados de las características del trazado geométrico, facilitando el cálculo computacional.
 
 Resistencias al avance
-![[bdc27a5c5b7afe202c400d1b98a37715_MD5.webp]]
+![bdc27a5c5b7afe202c400d1b98a37715_MD5]({{ site.baseurl }}/assets/images/bdc27a5c5b7afe202c400d1b98a37715_MD5.webp)
 
 | $\mathrm{i}(\mathrm{mm} / \mathrm{m})$ | $\mathrm{r}(\mathrm{daN} / \mathrm{t})$ |
 | :---: | :---: |
@@ -307,17 +307,17 @@ $$
 
 Cuando se integran todos estos efectos resistivos en un diagrama esfuerzo-velocidad que representa el comportamiento del tren bajo diferentes condiciones de operación, se obtiene una representación completa del desempeño dinámico disponible:
 
-![[3715f672d179dadfd70b952134fea35a_MD5.webp]]
+![3715f672d179dadfd70b952134fea35a_MD5]({{ site.baseurl }}/assets/images/3715f672d179dadfd70b952134fea35a_MD5.webp)
 
-![[955d1123b4ab37a1e75f1ccb6fd00d85_MD5.webp]]
+![955d1123b4ab37a1e75f1ccb6fd00d85_MD5]({{ site.baseurl }}/assets/images/955d1123b4ab37a1e75f1ccb6fd00d85_MD5.webp)
 
-![[17796103acc95061d212f447ea94e53f_MD5.webp]]
+![17796103acc95061d212f447ea94e53f_MD5]({{ site.baseurl }}/assets/images/17796103acc95061d212f447ea94e53f_MD5.webp)
 
 ### I.7. Curva de tracción
 
 El proceso de movimiento de un tren desde condiciones de reposo constituye un proceso dinámico complejo en el cual se producen transiciones entre diferentes regímenes de funcionamiento. Inicialmente, el movimiento comienza a velocidad nula desde el punto A, evolucionando a lo largo de la curva de adherencia disponible conforme el tren aumenta progresivamente su velocidad, y alcanzando el punto B donde la limitación transitoria es la adherencia. Posteriormente, la velocidad continúa aumentando siguiendo la curva de limitación por potencia disponible, transitando desde el punto B hacia el punto C. En el punto C, la curva de esfuerzo disponible (tanto por adherencia como por potencia) intersecta con la curva de resistencia global del tren que incluye todos los términos resistivos. En este punto de intersección, el tren alcanza su velocidad máxima posible para las condiciones operacionales dadas.
 
-![[0963711b659744a31ea937308335196d_MD5.webp]]
+![0963711b659744a31ea937308335196d_MD5]({{ site.baseurl }}/assets/images/0963711b659744a31ea937308335196d_MD5.webp)
 
 ### I.8. Dinámica en rampas y pendientes
 
@@ -329,7 +329,7 @@ Cuando un tren circula hacia arriba por una rampa, la componente gravitatoria de
 
 La velocidad de equilibrio para una rampa determinada se define como la máxima velocidad que puede alcanzarse en esa rampa específica, manteniendo un esfuerzo de tracción igual a la resistencia total (incluyendo la componente gravitatoria). El concepto de rampa crítica es especialmente importante: se define como la mayor pendiente en la cual el tren es capaz de alcanzar su velocidad máxima teórica. Para rampas superiores a la rampa crítica, la velocidad máxima alcanzable será inferior a la velocidad máxima nominal del tren.
 
-![[994a805750e71e0fb303db3945ae1c63_MD5.webp]]
+![994a805750e71e0fb303db3945ae1c63_MD5]({{ site.baseurl }}/assets/images/994a805750e71e0fb303db3945ae1c63_MD5.webp)
 
 **Comportamiento en pendientes (movimiento descendente):**
 
@@ -337,7 +337,7 @@ En contraste con las rampas, cuando un tren circula hacia abajo por una pendient
 
 El concepto de pendiente de equilibrio tiene particular importancia operacional: se define como aquella pendiente en la cual el tren en una condición de marcha sin tracción (en deriva) mantiene precisamente su velocidad máxima. En pendientes superiores a la pendiente de equilibrio, el tren tiende a acelerar, requiriendo el empleo de frenos para mantener la velocidad máxima autorizada. En pendientes inferiores a la pendiente de equilibrio, el tren requiere tracción adicional para mantener la velocidad máxima.
 
-![[308995bc0ebae557a68097a882cda258_MD5.webp]]
+![308995bc0ebae557a68097a882cda258_MD5]({{ site.baseurl }}/assets/images/308995bc0ebae557a68097a882cda258_MD5.webp)
 
 ### I.9. Resistencias en el arranque
 
@@ -469,7 +469,7 @@ A partir del análisis cuidadoso de los diagramas de velocidades es posible estu
 
 ### II.1. Perfiles de velocidad
 
-![[b2a4043ec86c87afaa370d8fe74e214e_MD5.webp]]
+![b2a4043ec86c87afaa370d8fe74e214e_MD5]({{ site.baseurl }}/assets/images/b2a4043ec86c87afaa370d8fe74e214e_MD5.webp)
 
 En el diagrama representado es posible identificar los siguientes elementos estructurales y características técnicas:
 
@@ -566,8 +566,8 @@ r_{a}(d a N / t)=1.5+0.01 \cdot v+3 \cdot 10^{-4} \cdot v^{2}
 $$
 
 El problema propuesto consiste en determinar el tiempo necesario para que el tren, partiendo desde el reposo, alcance los 100 km/h, así como la distancia recorrida durante esta aceleración.
-![[acb7de7a4477dc7f410d5c0e05a38eb8_MD5.webp]]
-![[5dfe697a732fe6c6b6abbbd914eeac7c_MD5.webp]]
+![acb7de7a4477dc7f410d5c0e05a38eb8_MD5]({{ site.baseurl }}/assets/images/acb7de7a4477dc7f410d5c0e05a38eb8_MD5.webp)
+![5dfe697a732fe6c6b6abbbd914eeac7c_MD5]({{ site.baseurl }}/assets/images/5dfe697a732fe6c6b6abbbd914eeac7c_MD5.webp)
 
 - En primer lugar se calculan los puntos A y B del diagrama esfuerzo-velocidad:
 - Punto A: Esfuerzo de arranque
@@ -688,9 +688,9 @@ Como $F > R$, la velocidad de 100 km/h es alcanzable. Se procede entonces con un
 
 Perfil de velocidades
 
-![[ca1723a6c6151dc95029b23fdc184297_MD5.webp]]
+![ca1723a6c6151dc95029b23fdc184297_MD5]({{ site.baseurl }}/assets/images/ca1723a6c6151dc95029b23fdc184297_MD5.webp)
 
-![[fd0406406bb71106bc0974e07f7865ab_MD5.webp]]
+![fd0406406bb71106bc0974e07f7865ab_MD5]({{ site.baseurl }}/assets/images/fd0406406bb71106bc0974e07f7865ab_MD5.webp)
 
 #### II.1.3. Movimiento a velocidad constante
 
@@ -737,7 +737,7 @@ $$
 Es importante destacar que si la velocidad máxima permitida en la sección actual $v_{max}$ resulta ser mayor que la velocidad de entrada calculada $v_{entr}$, entonces la velocidad máxima de salida de la sección anterior debe igualarse a $v_{entr}$. 
 
 Debido a estas interdependencias, es práctica estándar en ingeniería ferroviaria determinar los perfiles de frenado trabajando en orden inverso a la dirección de marcha: iniciando desde la última sección del recorrido y avanzando progresivamente hacia atrás. Este enfoque asegura que las restricciones aguas arriba se ajusten correctamente a los requerimientos aguas abajo.
-![[035040f6b896af1ddd06cef2c908bf80_MD5.webp]]
+![035040f6b896af1ddd06cef2c908bf80_MD5]({{ site.baseurl }}/assets/images/035040f6b896af1ddd06cef2c908bf80_MD5.webp)
 
 **CASO 1: Sección con velocidad máxima constante alcanzada en dicha sección**
 
@@ -751,20 +751,20 @@ En este caso, la sección de línea no es lo suficientemente larga para permitir
 
 En este escenario, la sección constituye primariamente un segmento de frenado. El tren ingresa a la sección con una cierta velocidad y debe reducir su velocidad para cumplir con los requisitos de velocidad máxima de la siguiente sección. Las curvas de aceleración/deceleración se intersectan dentro de la sección, lo que significa que el tren ejecuta una maniobra de frenado modulada para alcanzar la velocidad requerida exactamente en el punto de transición con la siguiente sección.
 
-![[5a66e9b3cca5d6df5cd7bcdac84ef6e5_MD5.webp]]
+![5a66e9b3cca5d6df5cd7bcdac84ef6e5_MD5]({{ site.baseurl }}/assets/images/5a66e9b3cca5d6df5cd7bcdac84ef6e5_MD5.webp)
 
 **Tiempo necesario para acelerar y frenar (minutos)**
 
-![[2c1747b2a5a63b90c432633907e64a6c_MD5.webp]]
+![2c1747b2a5a63b90c432633907e64a6c_MD5]({{ site.baseurl }}/assets/images/2c1747b2a5a63b90c432633907e64a6c_MD5.webp)
 
 **Distancia necesaria para acelerar y frenar (metros)**
-![[0e8dc1b66f5d99a0b1b1b65a6a9777ea_MD5.webp]]
+![0e8dc1b66f5d99a0b1b1b65a6a9777ea_MD5]({{ site.baseurl }}/assets/images/0e8dc1b66f5d99a0b1b1b65a6a9777ea_MD5.webp)
 
-![[29ecd23ffd5a4fefe40e3dc1ebc56f74_MD5.webp]]
+![29ecd23ffd5a4fefe40e3dc1ebc56f74_MD5]({{ site.baseurl }}/assets/images/29ecd23ffd5a4fefe40e3dc1ebc56f74_MD5.webp)
 
 ### II.2. Velocidades máximas
 
-![[b5910adc057c8b418cecd662e24665b7_MD5.webp]]
+![b5910adc057c8b418cecd662e24665b7_MD5]({{ site.baseurl }}/assets/images/b5910adc057c8b418cecd662e24665b7_MD5.webp)
 
 
 ## Capítulo III Cálculo de tiempos de viaje - Marcha base
@@ -784,7 +784,7 @@ El cálculo de la marcha base es absolutamente imprescindible para el diseño de
 
 Conforme a la ficha de especificaciones UIC 451-1 (2000), el concepto de "Tiempo de marcha-tipo" se define como el intervalo temporal requerido entre dos puntos determinados para establecer el horario operativo de un tren. Este parámetro constituye la suma de tres componentes críticos: el tiempo derivado del cálculo de marcha base, adicionado con márgenes de regularidad y márgenes suplementarios incorporados según los requisitos operacionales de la línea.
 
-![[b7017ca133b0f63ccff8a739e44cd397_MD5.webp]]
+![b7017ca133b0f63ccff8a739e44cd397_MD5]({{ site.baseurl }}/assets/images/b7017ca133b0f63ccff8a739e44cd397_MD5.webp)
 
 [Simula FFCC](https://www.tool.es/)
 
@@ -823,7 +823,7 @@ Los tiempos de espera programados constituyen adiciones al tiempo de viaje que s
 
 ### III.2. Libro de horarios/itinerarios
 
-![[5184caf216e076d6ce32ee639e450203_MD5.webp]]
+![5184caf216e076d6ce32ee639e450203_MD5]({{ site.baseurl }}/assets/images/5184caf216e076d6ce32ee639e450203_MD5.webp)
 
 
 
@@ -879,11 +879,11 @@ La energía que sale del tren se descompone en tres categorías principales: la 
 
 Para obtener la energía final requerida en el pantógrafo o punto de carga, es necesario incorporar a los consumos útiles del vehículo las pérdidas asociadas al rendimiento de la locomotora y de los equipos auxiliares. Posteriormente, considerando las pérdidas en el transporte de energía eléctrica y en los procesos de conversión en subestaciones, se obtiene la energía eléctrica total que debe ser comprada al sistema. Finalmente, incorporando las pérdidas inherentes a los procesos de producción del vector energético en las centrales generadoras, se llega a la cuantificación de la energía primaria consumida, que representa el consumo total de recursos energéticos asociado al movimiento del tren.
 
-![[96c25e12d3846bcd4380ce3f52679a9e_MD5.webp]]
+![96c25e12d3846bcd4380ce3f52679a9e_MD5]({{ site.baseurl }}/assets/images/96c25e12d3846bcd4380ce3f52679a9e_MD5.webp)
 
 ### III.5. Pérdidas en transporte y conversión
 
-![[2e91e33b5202e67f7a4674b7c236b88e_MD5.webp]]
+![2e91e33b5202e67f7a4674b7c236b88e_MD5]({{ site.baseurl }}/assets/images/2e91e33b5202e67f7a4674b7c236b88e_MD5.webp)
 
 ### III.6. Energía que sale del tren
 
@@ -982,7 +982,7 @@ $$N^{\circ}_{\text{paradas equiv}} = N^{\circ}_{\text{paradas comerciales}} + 1_
 Este análisis permite desagregar el consumo total entre estaciones: qué energía se consume en acelerar desde parada, qué energía se disipa en frenados, y qué energía representa la circulación en los tramos de velocidad constante.
 
 Vel. Máx $200 \mathrm{~km} / \mathrm{h}$
-![[74ac02a942602f7211fbb6ab90fc6610_MD5.webp]]
+![74ac02a942602f7211fbb6ab90fc6610_MD5]({{ site.baseurl }}/assets/images/74ac02a942602f7211fbb6ab90fc6610_MD5.webp)
 
 |  | km | Velocidades N (max 300km/h) | Reducciones (max300km/h) |
 | :--- | :--- | :--- | :--- |
@@ -1027,10 +1027,10 @@ $$
 - Energía cinética disipada por el freno en pendientes:
 
 
-| ![[4df550cf5c02011e77d907b1635a5a41_MD5.webp]]| (1) Si $\mathrm{p}<\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Es necesario traccionar para mantener $\mathrm{V}_{\text {max }}$ |
+| ![4df550cf5c02011e77d907b1635a5a41_MD5]({{ site.baseurl }}/assets/images/4df550cf5c02011e77d907b1635a5a41_MD5.webp)| (1) Si $\mathrm{p}<\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Es necesario traccionar para mantener $\mathrm{V}_{\text {max }}$ |
 | :--- | :--- |
-| ![[20dd86e1e5548bad8e666b18ab00f89c_MD5.webp]]| $\text { (2) Si } \mathrm{p}=\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Mantiene $\mathrm{V}_{\text {max }}$ sin traccionar ni frenar |
-| ![[e31fba4901d35427f86912fd8537d164_MD5.webp]]| (3) Si $\mathrm{p}>\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Es necesario frenar para no rebasar $\mathrm{V}_{\max .} \rightarrow$ Entonces se pierde energía |
+| ![20dd86e1e5548bad8e666b18ab00f89c_MD5]({{ site.baseurl }}/assets/images/20dd86e1e5548bad8e666b18ab00f89c_MD5.webp)| $\text { (2) Si } \mathrm{p}=\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Mantiene $\mathrm{V}_{\text {max }}$ sin traccionar ni frenar |
+| ![e31fba4901d35427f86912fd8537d164_MD5]({{ site.baseurl }}/assets/images/e31fba4901d35427f86912fd8537d164_MD5.webp)| (3) Si $\mathrm{p}>\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Es necesario frenar para no rebasar $\mathrm{V}_{\max .} \rightarrow$ Entonces se pierde energía |
 
 
 
@@ -1162,19 +1162,19 @@ Considérese un ejemplo práctico: en un tren de 300 plazas con consumo caracter
 
 **Consumo y emisiones por tren y kilómetro**
 
-![[17a6a697dc5710a0f431ccd1be93d557_MD5.webp]]
+![17a6a697dc5710a0f431ccd1be93d557_MD5]({{ site.baseurl }}/assets/images/17a6a697dc5710a0f431ccd1be93d557_MD5.webp)
 
 Consumo y emisiones por plaza real a los 100 km
-![[ebde98fe0484130055231e3aa1c5abf5_MD5.webp]]
+![ebde98fe0484130055231e3aa1c5abf5_MD5]({{ site.baseurl }}/assets/images/ebde98fe0484130055231e3aa1c5abf5_MD5.webp)
 
 **Desglose de la energía importada**
 
-![[871a9e506f72cf95253a1a0d5a588185_MD5.webp]]
+![871a9e506f72cf95253a1a0d5a588185_MD5]({{ site.baseurl }}/assets/images/871a9e506f72cf95253a1a0d5a588185_MD5.webp)
 
-![[64d12a99965f4f2d58f30e0573ecbecd_MD5.webp]]
+![64d12a99965f4f2d58f30e0573ecbecd_MD5]({{ site.baseurl }}/assets/images/64d12a99965f4f2d58f30e0573ecbecd_MD5.webp)
 
 
-![[635d5a29c0e01ea847b3f57975ff4f44_MD5.webp]]
+![635d5a29c0e01ea847b3f57975ff4f44_MD5]({{ site.baseurl }}/assets/images/635d5a29c0e01ea847b3f57975ff4f44_MD5.webp)
 
 Los análisis de consumo y emisiones energéticas presentan una variabilidad significativa según el tipo de vehículo ferroviario y el perfil de servicio considerado. Esta variabilidad refleja las diferentes características técnicas, velocidades operacionales, perfiles de carga de viajeros, y configuraciones de línea. Para poder establecer comparaciones significativas entre diferentes servicios ferroviarios y evaluar su eficiencia relativa, es imprescindible homogenizar previamente tanto la capacidad nominal de transporte como la distancia recorrida por cada vehículo. 
 
@@ -1199,13 +1199,13 @@ Respecto a la fuente de energía, conviene precisar que la subestación no const
 Debido a que la zona de cobertura de una única subestación posee límites geográficos determinados por consideraciones técnicas y económicas, es necesario distribuir múltiples subestaciones a lo largo de las líneas electrificadas. Estas subestaciones se disponen de manera escalonada, garantizando una cobertura continua y uniforme de la infraestructura ferroviaria.
 
 **Línea de contacto**
-![[43b51cbbcc27fa27728e3d4470b6c6c2_MD5.webp]]
+![43b51cbbcc27fa27728e3d4470b6c6c2_MD5]({{ site.baseurl }}/assets/images/43b51cbbcc27fa27728e3d4470b6c6c2_MD5.webp)
 
 ### IV.2. Subestaciones
 
 La distribución espacial de las subestaciones a lo largo de la línea ferroviaria constituye una decisión de diseño crítica que se encuentra condicionada principalmente por las caídas de tensión que ocurren en los conductores. A mayor distancia entre subestaciones, mayores serán las pérdidas de tensión en la catenaria y en el carril de retorno, lo cual puede comprometer la entrega eficiente de energía a los trenes situados lejos de la subestación más cercana.
 
-![[17ad41d4cae98e61673ac9dad929943a_MD5.webp]]
+![17ad41d4cae98e61673ac9dad929943a_MD5]({{ site.baseurl }}/assets/images/17ad41d4cae98e61673ac9dad929943a_MD5.webp)
 
 La estrategia de mitigación de caídas de tensión depende fundamentalmente del tipo de corriente utilizado en la electrificación. En sistemas de corriente continua, las caídas de tensión son más severas debido a la relación lineal entre la resistencia del conductor y la pérdida de tensión. Consecuentemente, para mantener parámetros de funcionamiento aceptables, es necesario reducir considerablemente la distancia entre subestaciones consecutivas y emplear conductores de sección transversal significativamente más grande. En sistemas de corriente alterna, por el contrario, los efectos inductivos permiten mayores distancias sin sacrificar la eficiencia, aunque esto requiere transformadores sofisticados en las subestaciones.
 
@@ -1213,7 +1213,7 @@ Los espaciamientos típicos de subestaciones en sistemas ferroviarios establecen
 - Corriente Continua: 20 Km
 - Corriente Alterna: 50 Km
 
-![[5632acc7940dcaa506b6f3d496d9b127_MD5.webp]]
+![5632acc7940dcaa506b6f3d496d9b127_MD5]({{ site.baseurl }}/assets/images/5632acc7940dcaa506b6f3d496d9b127_MD5.webp)
 
 Para sistemas de transporte urbano como metros, donde la infraestructura es más compacta y los requisitos de entrega de energía son mayores, los espaciamientos se reducen significativamente hasta valores que oscilan entre $2-7 \mathrm{Km}$.
 
@@ -1230,7 +1230,7 @@ La siguiente tabla presenta una compilación normalizada de los niveles de tensi
 
 
 
-![[d6d45a1092a5bcaa3af4222798f3abac_MD5.webp]]
+![d6d45a1092a5bcaa3af4222798f3abac_MD5]({{ site.baseurl }}/assets/images/d6d45a1092a5bcaa3af4222798f3abac_MD5.webp)
 
 ### IV.3. Sistemas de alimentación
 
@@ -1238,21 +1238,21 @@ La configuración específica mediante la cual la energía eléctrica se transmi
 
 En la literatura técnica especializada, existe una terminología alternativa que algunos ingenieros prefieren emplear. La expresión "Línea Aérea de Contacto" (L.A.C.) proporciona una designación más genérica que abarca diversos tipos de configuraciones de alimentación aérea, todas ellas caracterizadas por la presencia de un conductor o elemento de contacto suspendido sobre la vía. Esta nomenclatura integra múltiples variantes de sistemas que comparten principios fundamentales similares:
 
-![[d5178c91cd0e28b00c0d11b36c1790cb_MD5.webp]]
+![d5178c91cd0e28b00c0d11b36c1790cb_MD5]({{ site.baseurl }}/assets/images/d5178c91cd0e28b00c0d11b36c1790cb_MD5.webp)
 
 - Configuraciones de línea tranviaria, típicamente empleadas en sistemas de transporte urbano
 - Catenarias flexibles, caracterizadas por su elasticidad y adaptabilidad
 - Catenarias rígidas, que proporcionan mayor estabilidad estructural
 
 Paralelamente a estos sistemas aéreos de alimentación, existen soluciones tecnológicas alternativas para la distribución de energía en ferrocarriles que, aunque funcionan bajo principios similares, no pueden clasificarse estrictamente como catenarias. Entre estas alternativas, la más significativa es el denominado "tercer carril", que representa una solución fundamentalmente diferente para la entrega de corriente al material rodante.
-![[b87a8e2f2c71e21196c1f1f0463dcb58_MD5.webp]]
+![b87a8e2f2c71e21196c1f1f0463dcb58_MD5]({{ site.baseurl }}/assets/images/b87a8e2f2c71e21196c1f1f0463dcb58_MD5.webp)
 #### IV.3.1. Catenaria
 
 La catenaria constituye el sistema más ampliamente utilizado en las instalaciones de electrificación ferroviaria moderna, especialmente en ferrocarriles de larga distancia y sistemas de tránsito rápido. Este sistema de alimentación aérea se fundamenta en el principio de transmisión directa de energía a través de un contacto mecánico entre un pantógrafo montado en el techo del vehículo y un conductor o hilo de contacto suspendido sobre la vía.
 
 La catenaria experimenta variaciones significativas en su diseño y capacidad según los requisitos de tensión del sistema específico. Las configuraciones constructivas se adaptan a los diferentes niveles de voltaje empleados, desde sistemas de baja tensión en corriente continua hasta sistemas de alta tensión en corriente alterna. Las imágenes que se presentan a continuación ilustran dos ejemplos representativos de configuraciones de catenaria:
 
-![[a0d980bf72850e81b87d17940d149d2c_MD5.webp]]
+![a0d980bf72850e81b87d17940d149d2c_MD5]({{ site.baseurl }}/assets/images/a0d980bf72850e81b87d17940d149d2c_MD5.webp)
 Principales elementos de la catenaria
 
 
@@ -1260,13 +1260,13 @@ Principales elementos de la catenaria
 
 La catenaria rígida representa una variante tecnológica de importancia considerable que se diferencia fundamentalmente de la catenaria flexible convencional en su composición estructural. En lugar de emplear un conductor cable de características flexibles, la catenaria rígida utiliza un carril metálico rígido como elemento transmisor de la corriente eléctrica. Este carril posee propiedades mecánicas completamente diferentes a las de un cable convencional, presentando una rigidez bending significativa.
 
-![[43480c5bab8f2086714342bd9305ee93_MD5.webp]]
+![43480c5bab8f2086714342bd9305ee93_MD5]({{ site.baseurl }}/assets/images/43480c5bab8f2086714342bd9305ee93_MD5.webp)
 
 Desde la perspectiva de la ingeniería estructural, mantener un carril rígido en posición paralela respecto a la vía ferroviaria presenta desafíos técnicos considerables. El peso inherente a esta estructura es sustancialmente mayor que el de un cable convencional, lo cual implica que los métodos convencionales de tensionamiento o suspensión por medio de cables de tracción resultan insuficientes. Para garantizar la estabilidad estructural y evitar deformaciones excesivas, es imprescindible incrementar significativamente la densidad de puntos de apoyo estructural, reduciendo en consecuencia las distancias entre apoyos sucesivos.
 
 Esta consideración ingenieril genera una diferencia muy significativa en los espaciamientos utilizados. Mientras que una catenaria rígida requiere vanos (distancias entre apoyos consecutivos) de aproximadamente 10 a 12 metros, las catenarias flexibles convencionales pueden alcanzar vanos en el rango de 50 a 60 metros, lo que representa una reducción de hasta 80% en la distancia entre soportes. Esta limitación estructural restringe drásticamente los contextos en los que la catenaria rígida resulta prácticamente viable. Su implementación se concentra principalmente en entornos especiales como túneles ferroviarios, estructuras con limitaciones geométricas severas o trazados con espacios libres muy reducidos, donde la utilización de sistemas alternativos se torna técnicamente imposible o económicamente prohibitiva.
 
-![[3265ba939132648832b0a687cba0d923_MD5.webp]]
+![3265ba939132648832b0a687cba0d923_MD5]({{ site.baseurl }}/assets/images/3265ba939132648832b0a687cba0d923_MD5.webp)
 
 
 #### IV.3.3. Tercer carril
@@ -1277,7 +1277,7 @@ La génesis histórica de este sistema se remonta al desarrollo del transporte f
 
 Múltiples variaciones constructivas de contacto han sido desarrolladas a lo largo de los años para optimizar diferentes aspectos del rendimiento de este sistema. Sin embargo, la experiencia operacional ha demostrado que el tercer carril presenta significativas limitaciones y riesgos que desaconsejan ampliamente su uso. Entre las principales preocupaciones se encuentran: en primer lugar, la creación de un riesgo grave y potencialmente letal de electrocución para usuarios y personal que pudieran caer accidentalmente en la vía, puesto que el conductor de alimentación se encuentra expuesto a nivel del terreno; en segundo lugar, una vulnerabilidad incrementada ante fenómenos de inundación y acumulación de agua, que pueden comprometer la integridad del sistema eléctrico; y en tercer lugar, una incompatibilidad funcional fundamental con sistemas de alimentación aérea que pudieran existir en otros segmentos de la línea, dificultando la integración operacional. Por estos motivos, el uso del tercer carril se encuentra actualmente restringido a aquellas situaciones muy específicas donde la implementación de sistemas de alimentación superiores resulta técnicamente imposible o económicamente inviable.
 
-![[b9a060681ea5aaf527f35212ee27a59a_MD5.webp]]
+![b9a060681ea5aaf527f35212ee27a59a_MD5]({{ site.baseurl }}/assets/images/b9a060681ea5aaf527f35212ee27a59a_MD5.webp)
 
 
 #### IV.3.4. Pantógrafo

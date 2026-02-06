@@ -27,7 +27,7 @@ En los materiales granulares como el balasto, así como en las capas del terreno
 Para cuantificar y caracterizar adecuadamente esta propiedad elástica presente en la estructura de la vía ferroviaria, se recurre a la utilización de diversos parámetros matemáticos y modelos de comportamiento que capturan los aspectos más relevantes de esta respuesta.
 
 
-![[73e868d942143e44172b4a62371bca4f_MD5.webp]]
+![73e868d942143e44172b4a62371bca4f_MD5]({{ site.baseurl }}/assets/images/73e868d942143e44172b4a62371bca4f_MD5.webp)
 ### I.1. MODULO DE LA VÍA K
 
 Considerando que $\boldsymbol{q}(\boldsymbol{t} / \boldsymbol{m})$ representa una carga distribuida uniformemente a lo largo de la longitud de un carril, e identificando como el asiento o hundimiento vertical que se produce en el carril como resultado de la aplicación de dicha carga.
@@ -35,7 +35,7 @@ Considerando que $\boldsymbol{q}(\boldsymbol{t} / \boldsymbol{m})$ representa un
 Desde una perspectiva del significado físico: este parámetro representa la magnitud de carga que, cuando actúa de manera uniforme y continuada sobre el carril, genera en éste un desplazamiento vertical de magnitud unitaria.
 
 Este módulo es particularmente empleado en contextos de ingeniería ferroviaria americanos y canadienses. Cuando la unidad de asiento considerada es de 1 centímetro, el módulo de la vía K típicamente se encuentra dentro del rango comprendido entre 8 y 22 toneladas por metro lineal
-![[8870049c1d5f0e6b5e823b51129618ec_MD5.webp]]
+![8870049c1d5f0e6b5e823b51129618ec_MD5]({{ site.baseurl }}/assets/images/8870049c1d5f0e6b5e823b51129618ec_MD5.webp)
 
 ### I.2. COEFICIENTE DE REACCIÓN DE LA TRAVIESA R
 
@@ -250,7 +250,7 @@ $S_{v}, S_{m}$ : Coeficientes cuyos valores dependen de la velocidad de los tren
 
 Las solicitaciones atmosféricas ejercen influencias significativas sobre el comportamiento dinámico de los vehículos ferroviarios. La carga vertical inducida por los vientos transversales $\mathbf{Q}_{\boldsymbol{w}}$ representa la redistribución de cargas verticals entre las ruedas de un mismo eje, resultado de la acción de fuerzas transversales del viento sobre la carrocería del vehículo. Esta carga se cuantifica mediante la expresión matemática presentada en la siguiente ecuación (Esveld, 2001):
 $\pm Q_{w}=H_{w} \cdot \frac{q_{o}}{a}$
-![[0c507df92afabf3764716aac252f9bad_MD5.webp]]
+![0c507df92afabf3764716aac252f9bad_MD5]({{ site.baseurl }}/assets/images/0c507df92afabf3764716aac252f9bad_MD5.webp)
 En esta expresión, los parámetros se definen como sigue:
 $H_{w}$ : Fuerza transversal del viento aplicada en el centro geométrico de la superficie lateral de la carrocería
 $q_{o}$ : Distancia vertical entre el centro geométrico de la superficie lateral de la carrocería y la superficie de rodadura del carril.
@@ -264,7 +264,7 @@ Carga vertical de la rueda debida a la fuerza centrífuga no compensada
 
 En el contexto del movimiento en curvas, la compensación incompleta de la aceleración centrífuga a través del peralte de la vía genera una fuerza residual que se transmite a la estructura de la vía. La carga vertical inducida por esta fuerza centrífuga no compensada $Q_{s c}$ se expresa matemáticamente según se indica en la siguiente ecuación, que establece la relación entre la fuerza residual y la redistribución vertical de cargas (véase la figura adjunta):
 $\pm Q_{s c}=\frac{F_{s c} \cdot h_{k B}}{a}=\frac{Q \cdot I \cdot h_{k B}}{a^{2}}$
-![[8e092dcb7f781ad99d3404a2e54d424f_MD5.webp]]
+![8e092dcb7f781ad99d3404a2e54d424f_MD5]({{ site.baseurl }}/assets/images/8e092dcb7f781ad99d3404a2e54d424f_MD5.webp)
 Los términos que integran esta formulación se definen de la siguiente manera:
 $F_{s c}$ : Fuerza centrífuga no compensada.
 I: Insuficiencia de peralte.
@@ -355,7 +355,7 @@ En el punto de contacto rueda-carril, la reacción normal global $\boldsymbol{R}
 Se considera una fuerza de naturaleza dinámica y se expresa matemáticamente según:
 $S_{p o}=Q_{o} \cdot \tan \gamma_{o}$
 en la que:
-![[746eedb844ecf05e104f8f9a44a3b11c_MD5.webp]]
+![746eedb844ecf05e104f8f9a44a3b11c_MD5]({{ site.baseurl }}/assets/images/746eedb844ecf05e104f8f9a44a3b11c_MD5.webp)
 
 Qo: Carga estática de la rueda.
 $\gamma_{o}$: Ángulo de inclinación de la superficie de rodadura respecto al plano horizontal en la posición central de equilibrio de la rueda.
@@ -366,7 +366,7 @@ Cuando se produce un desplazamiento transversal del eje de ruedas, simbolizado p
 $S_{p 1}=Q_{1} \cdot \tan \gamma_{1}=Q_{1} \cdot \gamma_{1}$
 $S_{p 2}=Q_{2} \cdot \tan \gamma_{2}=Q_{2} \cdot \gamma_{2}$
 donde:
-![[f23db77e77235061f73aac4ecececb96_MD5.webp]]
+![f23db77e77235061f73aac4ecececb96_MD5]({{ site.baseurl }}/assets/images/f23db77e77235061f73aac4ecececb96_MD5.webp)
 $Q_{1}$, $Q_{2}$ : Componentes verticales de las reacciones $R_{1}$ y $R_{2}$ en los puntos de contacto $\mathrm{I}_{1}$ e $\mathrm{I}_{2}$, respectivamente.
 $\gamma_{1}$, $\gamma_{2}$ : Ángulos formados por el plano horizontal y los planos tangentes en los puntos de contacto $\mathrm{l}_{1}$ e $\mathrm{l}_{2}$, respectivamente (como $\gamma_{1}$, $\gamma_{2}$ son cantidades muy pequeñas, se aplica $\tan \gamma_{1}=\gamma_{1}$ y $\tan \gamma_{2}=\gamma_{2}$ ).
 
@@ -408,7 +408,7 @@ $$
 
 
 
-![[a464f236915a6b0c2783f7e343f2cfce_MD5.webp]]
+![a464f236915a6b0c2783f7e343f2cfce_MD5]({{ site.baseurl }}/assets/images/a464f236915a6b0c2783f7e343f2cfce_MD5.webp)
 donde:
 $\mathrm{X}_{1}, \mathrm{X}_{2}$ : Fuerzas de rozamiento longitudinales aplicadas en ambas ruedas.
 $\mathrm{T}_{1}, \mathrm{~T}_{2}$ : Fuerzas de rozamiento laterales aplicadas en ambas ruedas.
@@ -474,14 +474,14 @@ La siguiente tabla sintetiza el repertorio de fuerzas contacto rueda-carril para
 
 | Tecnologia                                                                                | Representación esquemática                              | Sp  | T   | x   | M   |
 | :---------------------------------------------------------------------------------------- | :------------------------------------------------------ | :-- | :-- | :-- | :-- |
-| Ejes convencionales - Ruedas de conicidad variable                                        | ![[283f4d8ef63960e92998372058e20ff8_MD5.webp\|231x160]] | Si  | Si  | Si  | Si  |
-| Ejes con ruedas que ruedan de forma independiente Ruedas de conicidad variable            | ![[6d1061e9c933bb25cfb601b674dc9a6f_MD5.webp\|231x160]] | Si  | Si  | No  | Si  |
-| Ejes articulados - Ruedas de conicidad variable                                           | ![[3abc6acec24775b2ad21c1671d93fb6f_MD5.webp\|231x160]] | Si  | No  | Si  | Si  |
-| Ejes convencionales - Ruedas cilíndricas                                                  | ![[f8a622a0119fa46abdfecd788462ba62_MD5.webp\|231x160]] | No  | Si  | Si  | No  |
-| Ejes convencionales - Ruedas de conicidad constante                                       | ![[a2752dbc75aa8b69fbcf206ae041615c_MD5.webp\|231x160]] | No  | Si  | Si  | Si  |
-| Ruedas que ruedan de forma independiente - Ruedas de conicidad variable                   | ![[65bc11b78033d22ef0e698f182dd058e_MD5.webp\|231x160]] | Si  | No  | No  | Si  |
-| Ejes con ruedas que ruedan de forma independiente Ruedas inclinadas de conicidad variable | ![[c41710082f1172c5cbbc8f6668e0ff48_MD5.webp\|231x160]] | Si  | No  | No  | No  |
-| Ejes convencionales - Ruedas inclinadas de conicidad variable                             | ![[3fd7e353fd6b01bb668a598ec0f6e9c1_MD5.webp\|231x160]] | Si  | Si  | Si  | No  |
+| Ejes convencionales - Ruedas de conicidad variable                                        | ![|231x160]({{ site.baseurl }}/assets/images/283f4d8ef63960e92998372058e20ff8_MD5.webp\|231x160) | Si  | Si  | Si  | Si  |
+| Ejes con ruedas que ruedan de forma independiente Ruedas de conicidad variable            | ![|231x160]({{ site.baseurl }}/assets/images/6d1061e9c933bb25cfb601b674dc9a6f_MD5.webp\|231x160) | Si  | Si  | No  | Si  |
+| Ejes articulados - Ruedas de conicidad variable                                           | ![|231x160]({{ site.baseurl }}/assets/images/3abc6acec24775b2ad21c1671d93fb6f_MD5.webp\|231x160) | Si  | No  | Si  | Si  |
+| Ejes convencionales - Ruedas cilíndricas                                                  | ![|231x160]({{ site.baseurl }}/assets/images/f8a622a0119fa46abdfecd788462ba62_MD5.webp\|231x160) | No  | Si  | Si  | No  |
+| Ejes convencionales - Ruedas de conicidad constante                                       | ![|231x160]({{ site.baseurl }}/assets/images/a2752dbc75aa8b69fbcf206ae041615c_MD5.webp\|231x160) | No  | Si  | Si  | Si  |
+| Ruedas que ruedan de forma independiente - Ruedas de conicidad variable                   | ![|231x160]({{ site.baseurl }}/assets/images/65bc11b78033d22ef0e698f182dd058e_MD5.webp\|231x160) | Si  | No  | No  | Si  |
+| Ejes con ruedas que ruedan de forma independiente Ruedas inclinadas de conicidad variable | ![|231x160]({{ site.baseurl }}/assets/images/c41710082f1172c5cbbc8f6668e0ff48_MD5.webp\|231x160) | Si  | No  | No  | No  |
+| Ejes convencionales - Ruedas inclinadas de conicidad variable                             | ![|231x160]({{ site.baseurl }}/assets/images/3fd7e353fd6b01bb668a598ec0f6e9c1_MD5.webp\|231x160) | Si  | Si  | Si  | No  |
 Frederich, F. 1985, Possibilités inconnues et inutilisées du contact rail-roue, Rail International, Brussels, November 1985 pp. 33-40
 
 Un aspecto tecnológico relevante para reducir los efectos desfavorables de las fuerzas de rozamiento longitudinales consiste en eliminar el acoplamiento rígido que tradicionalmente une las dos ruedas de un mismo eje. Esta modificación permite que cada rueda pueda girar a una velocidad angular independiente, mientras se mantiene la condición cinemática de que ambas ruedas circulen sin deslizamiento relativo respecto a sus respectivas líneas de contacto:

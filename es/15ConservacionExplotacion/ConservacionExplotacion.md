@@ -55,7 +55,7 @@ El proceso de mantenimiento puede clasificarse atendiendo a criterios múltiples
 - Externalizado: contratación de servicios externos especializados.
 - Mixto: combinación de recursos propios y externos según necesidades.
 
-![[0acb2485bd0d52104f87e0194245ebc7_MD5.webp]]
+![0acb2485bd0d52104f87e0194245ebc7_MD5]({{ site.baseurl }}/assets/images/0acb2485bd0d52104f87e0194245ebc7_MD5.webp)
 
 **Mantenimiento correctivo:** Esta estrategia comprende la reparación de equipos e instalaciones que han experimentado fallo o avería, ejecutándose intervenciones destinadas a restaurar la funcionalidad de los componentes de vía después de que se manifiesten los defectos. Se trata de un enfoque de intervención tardía, reactivo a los problemas identificados.
 
@@ -63,25 +63,25 @@ El proceso de mantenimiento puede clasificarse atendiendo a criterios múltiples
 
 **Mantenimiento según estado:** Caracterizado por la vigilancia continua y el monitoreo de la evolución de instalaciones y equipos, permitiendo determinar el momento óptimo para ejecutar revisiones o cambios cuando los indicadores señalan proximidad a los umbrales críticos de fallo. Esta metodología posibilita la corrección de defectos de manera oportuna, basada en datos objetivos del estado actual de la vía.
 
-![[4637e79d3f27fcfb6c83526b58b6a9c7_MD5.webp]]
+![4637e79d3f27fcfb6c83526b58b6a9c7_MD5]({{ site.baseurl }}/assets/images/4637e79d3f27fcfb6c83526b58b6a9c7_MD5.webp)
 
 Cabe destacar que la vida útil global aproximada de una infraestructura ferroviaria moderna oscila entre 35 y 40 años, período durante el cual se requiere la aplicación sistemática de estas estrategias de mantenimiento:
 
 **VIDA ÚTIL GLOBAL APROXIMADA: 35-40 AÑOS**
 
-![[99fc7164da8231873fbfd6f5812fe244_MD5.webp]]
+![99fc7164da8231873fbfd6f5812fe244_MD5]({{ site.baseurl }}/assets/images/99fc7164da8231873fbfd6f5812fe244_MD5.webp)
 ### I.1. Mantenimiento según estado
 
 La metodología de mantenimiento basado en el estado de condición demanda requisitos específicos para su implementación exitosa. En primer término, es indispensable disponer de información permanentemente actualizada acerca de las características técnicas y condición actual de la vía. Esto requiere de:
 
-![[9af5a045165fc4835cdfa8cc53204e5f_MD5.webp]]
+![9af5a045165fc4835cdfa8cc53204e5f_MD5]({{ site.baseurl }}/assets/images/9af5a045165fc4835cdfa8cc53204e5f_MD5.webp)
 
 Make optimum decision based on analysis results
 Perceive changes and conduct maintenance at appropriate timing
 
 Como segundo requisito se requiere la capacidad de respuesta ágil ante la detección de defectos localizados, conjugada con la utilización metodológica y controlada de los recursos de maquinaria pesada disponibles. En esencia, el mantenimiento según estado se fundamenta en la repetición sistemática de un ciclo iterativo de evaluación y corrección, aplicándose tantas veces como sea necesario para mantener los parámetros de operación dentro de los rangos admisibles.
 
-![[4e30dc50905123df7fb9ae569778d111_MD5.webp]]
+![4e30dc50905123df7fb9ae569778d111_MD5]({{ site.baseurl }}/assets/images/4e30dc50905123df7fb9ae569778d111_MD5.webp)
 
 Sistemas de auscultación, que proporcionen en tiempo real un conocimiento objetivo sobre el estado de la vía: Instalaciones tecnológicas especializadas capaces de suministrar información objetiva y en tiempo real respecto al estado integral de la vía, facilitando la toma de decisiones basada en datos reales de operación.
 
@@ -106,7 +106,7 @@ El sistema de auscultación constituye el conjunto de procedimientos, técnicas 
 - DETECTORES DE IMPACTO DE VÍA (DIV): dispositivos para identificar defectos que generan impactos anormales.
 - MEDICIONES MANUALES - SONDEOS: evaluaciones de campo utilizando equipos topográficos y de medición directa.
 
-![[d0503eb20d01d40676d9e7de79158234_MD5.webp]]
+![d0503eb20d01d40676d9e7de79158234_MD5]({{ site.baseurl }}/assets/images/d0503eb20d01d40676d9e7de79158234_MD5.webp)
 
 | ACTUACIONES |  | CRITERIOS |  |  |
 | :--- | :--- | :--- | :--- | :--- |
@@ -382,7 +382,7 @@ El transporte ferroviario como sistema operativo posee características de rigid
 **Organización del modelo ferroviario:**
 
 La gestión de la explotación ferroviaria responde a modelos organizacionales que coordinan múltiples funciones desde la planificación comercial hasta la operación operacional en tiempo real.
-![[0926790d03faee85f08e2fce13829da8_MD5.webp]]
+![0926790d03faee85f08e2fce13829da8_MD5]({{ site.baseurl }}/assets/images/0926790d03faee85f08e2fce13829da8_MD5.webp)
 
 ### V.1. Zonas de trabajo:
 

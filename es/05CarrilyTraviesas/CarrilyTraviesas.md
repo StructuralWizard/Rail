@@ -30,7 +30,7 @@ La vía es la infraestructura fundamental que permite el desplazamiento de los t
 La estructura ferroviaria se organiza en dos componentes principales diferenciados por sus funciones y características. La infraestructura constituye la base fundamental del sistema, conformada esencialmente por la **plataforma**, que proporciona el soporte estructural y la estabilidad necesaria. Por su parte, la **superestructura** o vía representa el conjunto de elementos que se apoyan sobre la infraestructura y que directamente interactúan con el material rodante.
 
 La superestructura se compone de tres elementos principales integrados funcionalmente. En primer lugar, encontramos dos filas de **carriles**, que actúan como guía y superficie de rodadura del material móvil. Sobre estos se disponen las **traviesas**, que son elementos estructurales transversales cuya función fundamental es fijar los carriles manteniendo el ancho de vía e intermediar en la transmisión de cargas. Finalmente, el **balasto** constituye la capa de material granular sobre la cual descansa el conjunto de traviesas, permitiendo la distribución de esfuerzos hacia la plataforma. Complementariamente, el sistema incluye diversos accesorios y pequeño material de vía, tales como **placas** de asiento, **bridas** de unión, elementos de **sujeción** y otros componentes que optimizan el funcionamiento integral del sistema.
-![[f369fcece879b0b93fa18b9051a27894_MD5.webp|475x171]]
+![f369fcece879b0b93fa18b9051a27894_MD5]({{ site.baseurl }}/assets/images/f369fcece879b0b93fa18b9051a27894_MD5.webp|475x171)
 
 ## Capítulo II El carril: Definición y orígenes históricos
 
@@ -39,15 +39,15 @@ El carril constituye el componente más crítico y fundamental de cualquier estr
 Desde la antigüedad, las civilizaciones han buscado soluciones ingenieriles para mejorar el transporte de mercancías. Los antiguos egipcios fueron pioneros en el desarrollo del carril metálico, utilizando para ello el bronce, lo que les permitió transportar grandes cantidades de carga de manera más eficiente que mediante sistemas terrestres convencionales.
 
 Posterior a estas primeras experiencias, durante el período medieval europeo, concretamente en la industria minera alemana del siglo XV, se desarrolló un sistema de vías constituido por dos hileras paralelas de vigas de madera aserrada, dotadas de un reborde lateral que servía como guía para pequeños vehículos mineros. Este avance tecnológico, que mejoraba significativamente el transporte de minerales en las minas, fue adoptado rápidamente en Inglaterra y otros territorios europeos.
-![[eb82226862e7233687f818ae62e24a76_MD5.webp]]
-![[389f8e6bc78af8a8586e3c1a22f64096_MD5.webp]]
+![eb82226862e7233687f818ae62e24a76_MD5]({{ site.baseurl }}/assets/images/eb82226862e7233687f818ae62e24a76_MD5.webp)
+![389f8e6bc78af8a8586e3c1a22f64096_MD5]({{ site.baseurl }}/assets/images/389f8e6bc78af8a8586e3c1a22f64096_MD5.webp)
 
 ### II.1. Definición y orígenes históricos
 
 La evolución tecnológica del carril ferroviario experimenta un avance significativo durante el siglo XVIII, cuando la reducción sustancial en los precios del hierro, derivada de mejoras en los procesos siderúrgicos, hizo viable el recubrimiento con este metal de los primitivos carriles construidos en madera, incrementando notablemente su durabilidad. En el año 1789 se produce un hito importante con la aparición de los primeros carriles lisos, que funcionaban en combinación con pestañas laterales incorporadas en el borde exterior de las ruedas del material rodante, mejorando así el guiado y la seguridad de la circulación. No obstante, se requirieron numerosas modificaciones y refinamientos sucesivos para alcanzar la geometría y características del carril moderno, proceso que se consolidó aproximadamente en 1830.
 
 Respecto a la evolución de los materiales utilizados, los primeros carriles se fabricaban con hierro fundido, material que demostraba una fragilidad excesiva ante los esfuerzos derivados de la circulación. La aplicación de procesos de laminación en caliente mejoró la tenacidad del material, aunque este avance resultó aún insuficiente para contener el desgaste acelerado que se producía como consecuencia del incremento simultáneo de cargas por eje y velocidades de circulación. La introducción del acero como material de construcción del carril representó una verdadera innovación revolucionaria para la época, permitiendo extender extraordinariamente la vida útil en servicio: mientras que los carriles de hierro fundido se tornaban inservibles tras aproximadamente tres meses de explotación, los nuevos carriles de acero podían mantener su funcionalidad durante períodos que alcanzaban los 16 años.
-![[e59594b0bba1419408bbf4e2005bee09_MD5.webp]]
+![e59594b0bba1419408bbf4e2005bee09_MD5]({{ site.baseurl }}/assets/images/e59594b0bba1419408bbf4e2005bee09_MD5.webp)
 Courtesy of the Railroad Museum of Pennsylvania
 ### II.2. Funciones del carril
 
@@ -58,23 +58,23 @@ En sistemas ferroviarios con tracción eléctrica, el carril cumple la función 
 
 
 Los esfuerzos que solicitan al carril derivan de la interacción con el material rodante e imperfecciones geométricas de la vía. Estos pueden clasificarse en tres direcciones principales: los esfuerzos longitudinales, originados esencialmente por las aceleraciones y frenados del tren, así como por las variaciones de temperatura que producen dilataciones y contracciones del material. Los esfuerzos verticales se originan principalmente por el peso propio de la estructura y las cargas dinámicas del material móvil.
-![[91c0e40dacc8d136d81ebba7792ee3d3_MD5.webp]]
+![91c0e40dacc8d136d81ebba7792ee3d3_MD5]({{ site.baseurl }}/assets/images/91c0e40dacc8d136d81ebba7792ee3d3_MD5.webp)
 
 Finalmente, los esfuerzos transversales provocan deformaciones permanentes en el camino de rodadura, siendo particularmente críticos debido a que el límite elástico del material es significativamente menor en esta dirección.
 
 ### II.3. Sección transversal del carril
 
 En los albores de la utilización de locomotoras, el carril debía adaptarse a los esfuerzos derivados de velocidades progresivamente mayores, por lo que adoptaba una sección variable. Esta configuración particular recibió la denominación de carril con vientre de pez, cuya forma permitía distribuir mejor los esfuerzos. Inicialmente se apoyaba en dados de piedra natural, tal como se muestra en referencias históricas hasta 1835, siendo posteriormente sustituidos estos apoyos por dispositivos metálicos como campanas y platos, y finalmente por traviesas de madera. Sin embargo, las dificultades técnicas inherentes al proceso de fabricación de este tipo de carriles eliminaban cualquier ventaja económica que pudiera haberse esperado, lo que condujo al abandono de esta solución.
-![[00a977ef06a913dbd70eb6b589c1eb9c_MD5.webp]]
+![00a977ef06a913dbd70eb6b589c1eb9c_MD5]({{ site.baseurl }}/assets/images/00a977ef06a913dbd70eb6b589c1eb9c_MD5.webp)
 
 La evolución posterior condujo al desarrollo de carriles con sección constante, diseñados para cumplir múltiples funciones simultáneamente. Por un lado, el carril debe actuar como viga resistente capaz de soportar cargas tanto verticales como transversales; teóricamente, para esta función sería óptima una sección en doble T. Por otro lado, debe funcionar como guía de las ruedas del material rodante, requeriendo una geometría específica en su cabeza. Diversos perfiles fueron desarrollados a lo largo de la historia ferroviaria, aunque la mayoría resultaron efímeros en su utilización. Únicamente dos configuraciones lograron mantenerse vigentes: el carril de tipo bull-head y el carril Vignole. El carril bull-head, también denominado carril Stephenson o carril de cojinetes, utiliza un sistema de fijación basado en un cojinete de fundición o acero moldeado, dentro del cual se mantiene el carril mediante cuñas de madera o metálicas, proporcionando una sujeción efectiva y resiliente.
-![[658c463d6c3629bc6c1752b1a82af1b6_MD5.webp]]
-![[ff23f455acb39196e1dd765f23917609_MD5.webp]]
+![658c463d6c3629bc6c1752b1a82af1b6_MD5]({{ site.baseurl }}/assets/images/658c463d6c3629bc6c1752b1a82af1b6_MD5.webp)
+![ff23f455acb39196e1dd765f23917609_MD5]({{ site.baseurl }}/assets/images/ff23f455acb39196e1dd765f23917609_MD5.webp)
 
 #### II.3.1. Carril bull-head
 
 El carril bull-head existió en dos variantes de sección: una simétrica y otra asimétrica. La configuración simétrica se basaba inicialmente en la hipótesis de que, una vez desgastada la cabeza superior del carril por el paso de circulaciones, sería posible invertir el carril y utilizar su cara inferior como nueva superficie de rodadura, permitiendo así maximizar el aprovechamiento del material. Sin embargo, la práctica demostró que esta estrategia era inviable, ya que el sistema de fijación mediante cojinetes y cuñas dejaba marcas, entalladuras e impresiones permanentes en la cara inferior del carril durante su uso normal, haciendo imposible su posterior utilización como superficie de rodadura.
-![[5a4d01951e5aa77127e1d0549e1a35fa_MD5.webp]]
+![5a4d01951e5aa77127e1d0549e1a35fa_MD5]({{ site.baseurl }}/assets/images/5a4d01951e5aa77127e1d0549e1a35fa_MD5.webp)
 
 Por este motivo, únicamente la variante asimétrica fue explotada comercialmente, ofreciendo la ventaja económica de no requerir material adicional en la cabeza inferior, destinado al desgaste, sino concentrando toda la reserva de metal en la cabeza superior.
 
@@ -97,7 +97,7 @@ A pesar de todas estas ventajas técnicas, en la actualidad el carril bull-head 
 El carril de patín, designado en Europa como carril Vignole en honor del ingeniero inglés Charles Vignoles quien lo introdujo en el continente europeo (aunque su concepto original fue desarrollado por el ingeniero estadounidense Stevens), se convirtió en la solución predominante en la mayoría de las líneas ferroviarias modernas. Su geometría específica estuvo condicionada por la necesidad funcional de emplear bridas de unión para conectar carriles consecutivos.
 
 El carril Vignole está compuesto por tres componentes estructurales principales, cada uno con funciones específicas y diferenciadas. La cabeza constituye la parte superior del carril, encargada de transmitir los esfuerzos derivados de la circulación y evitar el descarrilo mediante sus caras laterales inclinadas, que previenen desplazamientos laterales excesivos del material rodante. El alma es el componente intermedio que transmite la tensión desde la cabeza hacia el patín inferior, proporcionando simultáneamente una inercia vertical suficiente para asegurar una adecuada resistencia a la flexión bajo cargas. Finalmente, el patín constituye la base de apoyo del carril, cuya función es repartir las cargas sobre la traviesa, evitar el vuelco de la estructura bajo esfuerzos transversales y proporcionar el soporte necesario para los elementos de sujeción.
-![[7609bdc2809311d346097fb74a704447_MD5.webp|366x397]]
+![7609bdc2809311d346097fb74a704447_MD5]({{ site.baseurl }}/assets/images/7609bdc2809311d346097fb74a704447_MD5.webp|366x397)
 [Partes carril vignole](https://museodelferrocarril.org/piezasmuseo/pieza-destacada.asp?id=5#:~:text=El%20carril%20Vignole%20se%20compone,%3A%20cabeza%2C%20alma%20y%20pat%C3%ADn.)
 
 En cuanto a la geometría específica de la cabeza del carril, existen varios parámetros dimensionales críticos que deben ser cuidadosamente definidos. La altura de la cabeza alcanza típicamente los 50 milímetros y debe ser superior a lo estrictamente requerido por las condiciones de resistencia estructural, proporcionando una reserva adicional de material para absorber el desgaste progresivo durante la vida útil. Como orden de magnitud referencial, se puede establecer que la cabeza del carril sufre una pérdida de altura de aproximadamente un milímetro por cada cien mil trenes que circulan sobre ella, considerando millones de toneladas brutas de carga.
@@ -105,7 +105,7 @@ En cuanto a la geometría específica de la cabeza del carril, existen varios pa
 COTAS EN MILIMETROS
 
 CARRIL UIC-60-E1
-![[8a8c4a0d2cef78107b98704ec7065218_MD5.webp]]
+![8a8c4a0d2cef78107b98704ec7065218_MD5]({{ site.baseurl }}/assets/images/8a8c4a0d2cef78107b98704ec7065218_MD5.webp)
 [Arcellor mittal](https://rails.arcelormittal.com/es/perfiles/carril-de-transporte/norma-europea/carril-uic60-60e1/)
 
 El bombeo es un aspecto geométrico fundamental de la cabeza del carril, consistente en una curvatura transversal de radio de curvatura $R=300 \mathrm{~mm}$. Esta configuración convexa es esencial para prevenir diversos defectos que surgirían si la tabla de rodadura fuera completamente plana. Entre estos defectos evitados se encuentra la aparición de rebabas laterales, que tienden a exfoliarse y desprenderse progresivamente, degradando la calidad de la superficie. Además, con una superficie plana se produciría una diferencia significativa en las velocidades lineales entre los distintos puntos de la generatriz del cono de la llanta del material rodante cuando estas entran en contacto con el plano del carril, lo que generaría desgastes acelerados y diferenciales.
@@ -126,7 +126,7 @@ El espesor y la forma específicos de las alas del patín están condicionados p
 COTAS EN MILIMETROS
 
 Existen otras características adicionales de la sección transversal del carril que merecen consideración especial. La tensión de cortadura es un parámetro crítico a verificar en el diseño. Un aspecto particularmente importante es lograr una distribución adecuada de la masa a lo largo de los componentes principales del carril -cabeza, alma y patín- de modo tal que al finalizar el proceso de laminación la estructura resultante sea homogénea en toda su extensión. Este equilibrio de masas es crucial para asegurar que durante el posterior enfriamiento del acero no existan diferencias significativas de comportamiento entre las diferentes partes de la sección. Este fenómeno es especialmente importante porque los carriles fabricados sin este equilibrio masico tienden a curvarse durante el enfriamiento posterior a la laminación, desarrollando deformaciones residuales que comprometen su funcionalidad. Las investigaciones y prácticas industriales han confirmado que la distribución de masas más apropiada es aquella donde la cabeza constituye del 35-40% de la masa total, el alma del 27-32%, y el patín del 38%.
-![[98c7935d5d819fda4438b27f4effa4cb_MD5.webp|401x430]]
+![98c7935d5d819fda4438b27f4effa4cb_MD5]({{ site.baseurl }}/assets/images/98c7935d5d819fda4438b27f4effa4cb_MD5.webp|401x430)
 
 Independientemente de su configuración geométrica, la característica esencial que define a un carril es su peso por unidad de longitud, expresado convencionalmente en kilogramos por metro lineal (o en libras por yarda en países anglófonos y estadounidenses).
 
@@ -153,19 +153,19 @@ Complementariamente, es recomendable que se garantice que el conjunto carril-tra
 |  | $60 \mathrm{~kg} / \mathrm{m}$ | Traviesa de hormigón |
 | T.B.R. > 35.000 | $60 \mathrm{~kg} / \mathrm{m}$ | Traviesa de hormigón |
 
-![[13e105c7bbcdfd329508f1eb0ed04d75_MD5.webp]]
+![13e105c7bbcdfd329508f1eb0ed04d75_MD5]({{ site.baseurl }}/assets/images/13e105c7bbcdfd329508f1eb0ed04d75_MD5.webp)
 
 #### II.3.3. Otros tipos de carril
 
 Además de los dos tipos principales mencionados, existen perfiles especializados de carriles diseñados para aplicaciones específicas en diferentes contextos operacionales. Entre los más notables se encuentran:
 
 El carril Phoenix, denominado también carril de garganta o carril portuario, constituye una solución especial diseñada para situaciones donde es necesario permitir que vehículos de carretera circulen sobre la misma plataforma sin obstáculos. Su configuración geométrica evita la interferencia con la rodadura normal de los vehículos de transporte por carretera al disponerse de forma estratégica respecto al nivel de circulación. La utilización del carril **Phoenix** resulta económicamente más ventajosa que la alternativa tradicional de instalar contracarriles adicionales para resolver este conflicto de uso mixto.
-![[4a9564138e5fd1cbd963ca99300bfa6d_MD5.webp|493x531]]
+![4a9564138e5fd1cbd963ca99300bfa6d_MD5]({{ site.baseurl }}/assets/images/4a9564138e5fd1cbd963ca99300bfa6d_MD5.webp|493x531)
 
 El carril Brunel, caracterizado por una altura considerablemente reducida comparada con los carriles Vignole estándar, representa una versión simplificada que elimina prácticamente el alma del carril. Este tipo se utiliza preferentemente en dispositivos accesorios de vía de naturaleza secundaria, tales como placas giratoria y puentes giratorios, donde los requerimientos de resistencia son significativamente menores que en la vía principal.
 
-![[326dfb6fcaec15e970393497fbca604d_MD5.webp]]
-![[225ca49a9b9b8d83bde108560c451fbc_MD5.webp]]
+![326dfb6fcaec15e970393497fbca604d_MD5]({{ site.baseurl }}/assets/images/326dfb6fcaec15e970393497fbca604d_MD5.webp)
+![225ca49a9b9b8d83bde108560c451fbc_MD5]({{ site.baseurl }}/assets/images/225ca49a9b9b8d83bde108560c451fbc_MD5.webp)
 
 ### II.4. Exigencias que se demandan al carril
 
@@ -179,7 +179,7 @@ Complementariamente, existen exigencias funcionales adicionales que condicionan 
 ### II.5. Composición
 
 Desde aproximadamente mediados del siglo XIX, el material estructural utilizado en la fabricación de carriles es el acero. No obstante, las propiedades requeridas en el acero ferroviario presentan entre sí requisitos contradictorios y a menudo conflictivos. Un acero que debe poseer una elevada resistencia al desgaste debe necesariamente ser duro en su estructura cristalina, característica que inherentemente conlleva una tendencia hacia la fragilidad y dificulta significativamente su capacidad de soldadura. En consecuencia, el acero utilizado en carriles debe representar necesariamente un compromiso cuidadosamente equilibrado entre estas exigencias que se contradicen mutuamente.
-![[20881ba2451df7d5a1f9884458fb982a_MD5.webp]]
+![20881ba2451df7d5a1f9884458fb982a_MD5]({{ site.baseurl }}/assets/images/20881ba2451df7d5a1f9884458fb982a_MD5.webp)
 
 Sin profundizar en el análisis siderúrgico completo del acero utilizado en carriles, la composición química típica del acero ferroviario incluye los siguientes elementos principales:
 
@@ -239,7 +239,7 @@ Las marcas grabadas en el alma del carril contienen información técnica codifi
 | HORNO ELECTRICO $\square$ |
 | POR SOPLADO ALOXIGENO □ |
 
-![[78604aad36232eeac267aa69ae3995a6_MD5.webp]]
+![78604aad36232eeac267aa69ae3995a6_MD5]({{ site.baseurl }}/assets/images/78604aad36232eeac267aa69ae3995a6_MD5.webp)
 
 ### II.8. Transporte
 
@@ -251,10 +251,10 @@ El transporte marítimo mediante barcos resulta económicamente viable para carr
 
 El transporte ferroviario, utilizando vagones especializados del propio sistema ferroviario, constituye la opción más eficiente económicamente para carriles de mayor longitud. Permite el transporte de barras elementales de hasta 108-120 metros de largo, y de forma especialmente relevante, posibilita el transporte de barras largas soldadas con longitudes de hasta 270-288 metros, constituyendo estas últimas la estrategia de máxima economía para distribución de grandes cantidades de carril.
 
-![[b0966afba9f470041b578e04216f9aa7_MD5.webp]]
+![b0966afba9f470041b578e04216f9aa7_MD5]({{ site.baseurl }}/assets/images/b0966afba9f470041b578e04216f9aa7_MD5.webp)
 Camión de Caja Cerrada
 
-![[8c6bd127eb6ed75c93ac84175838fb2b_MD5.webp|359x539]]
+![8c6bd127eb6ed75c93ac84175838fb2b_MD5]({{ site.baseurl }}/assets/images/8c6bd127eb6ed75c93ac84175838fb2b_MD5.webp|359x539)
 Barco
 
 <iframe width="560" height="315" src="https://youtube.com/embed/TC2XqiTn40w?si=1owvEZQeRkTka4Ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -298,7 +298,7 @@ Ensayos de choque o impacto para evaluar el comportamiento del material ante car
 Se designa como defecto del carril a cualquier anomalía estructural, dimensional o metalúrgica que presente el perfil ferroviario. El control riguroso de defectos es de importancia vital, no solamente desde una perspectiva puramente económica de maximizar la vida útil, sino fundamentalmente por razones de seguridad operacional. La existencia de defectos puede derivar, bajo la acción de las solicitaciones cíclicas producidas por el tráfico circulante, en averías progresivas e incluso en roturas catastróficas del carril que comprometan la seguridad de las circulaciones.
 
 Los defectos de los carriles pueden clasificarse en dos categorías fundamentales: aquellos originados durante el proceso de fabricación en la acería, y aquellos que se generan y desarrollan durante el servicio operativo de la infraestructura.
-![[a92dfa7f425af995de22059c372d6fbd_MD5.webp]]
+![a92dfa7f425af995de22059c372d6fbd_MD5]({{ site.baseurl }}/assets/images/a92dfa7f425af995de22059c372d6fbd_MD5.webp)
 
 **Defectos debidos a la fabricación:**
 
@@ -309,60 +309,60 @@ El rechupe secundario resulta del apresuramiento excesivo de las operaciones de 
 Las segregaciones (tanto central como inversa) se generan por la presencia de impurezas, particularmente fósforo y azufre, que no se distribuyen uniformemente durante la solidificación. Estas pueden derivar en la formación de grietas longitudinales profundas con desprendimiento parcial de la cabeza del carril.
 
 Las inclusiones sólidas y gaseosas constituyen otro tipo grave de defecto. Las inclusiones sólidas consisten en escorias y óxidos de manganeso y azufre, así como silicatos de hierro y manganeso que pueden provocar la destrucción repentina y localizada de la cabeza del carril. Las inclusiones gaseosas se originan por gases que quedan atrapados en el lingote durante la solidificación, formando burbujas alargadas que pueden generar futuras grietas bajo solicitación cíclica.
-![[0d96d2e0c1b831ad7022086bac10ec99_MD5.webp]]
-![[8e969def3a9d3a1f28d7a1e624521cf3_MD5.webp]]
-![[3933abf619022b319aa9e34338c22cf7_MD5.webp]]
+![0d96d2e0c1b831ad7022086bac10ec99_MD5]({{ site.baseurl }}/assets/images/0d96d2e0c1b831ad7022086bac10ec99_MD5.webp)
+![8e969def3a9d3a1f28d7a1e624521cf3_MD5]({{ site.baseurl }}/assets/images/8e969def3a9d3a1f28d7a1e624521cf3_MD5.webp)
+![3933abf619022b319aa9e34338c22cf7_MD5]({{ site.baseurl }}/assets/images/3933abf619022b319aa9e34338c22cf7_MD5.webp)
 
 La fisura transversal, denominada también mancha gris o mancha oval plateada, constituye el defecto de fabricación más grave. Se produce por la existencia de heterogeneidad interna debida a diversos factores: la presencia de burbujas gaseosas que se generan cuando el enfriamiento del acero es excesivamente rápido, impidiendo la eliminación ordenada del hidrógeno y formando burbujas de gas; la presencia de inclusiones sólidas no metálicas; y las tensiones internas que se desarrollan durante el enfriamiento de los carriles, ya que cuando el interior del material está a temperaturas elevadas, el metal en estado plástico ofrece una resistencia muy débil a la tracción.
 
 Una vez que se inicia una fisura de este tipo, su propagación es rápida y casi inevitable, especialmente en la zona de la cabeza del carril donde los esfuerzos cortantes alcanzan variaciones en magnitud particularmente grandes. La propagación de la fisura se produce mediante la formación de anillos o capas concéntricas de crecimiento. Durante el paso repetido de las cargas, las superficies internas de la fisura se comprimen y se descomprimen alternativamente, lo que causa el pulido mutuo de estas superficies, otorgando el aspecto plateado característico que identifica visualmente este tipo de defecto.
-![[168c4b6aaaebbff74da8ebb2035a20aa_MD5.webp]]
-![[c7e24ee79941daea73a578b0230b4517_MD5.webp]]
-![[98e50f29dea21dddc170254c6e277840_MD5.webp]]
-![[29287ce57f8604a4e15c1d7980134571_MD5.webp]]
+![168c4b6aaaebbff74da8ebb2035a20aa_MD5]({{ site.baseurl }}/assets/images/168c4b6aaaebbff74da8ebb2035a20aa_MD5.webp)
+![c7e24ee79941daea73a578b0230b4517_MD5]({{ site.baseurl }}/assets/images/c7e24ee79941daea73a578b0230b4517_MD5.webp)
+![98e50f29dea21dddc170254c6e277840_MD5]({{ site.baseurl }}/assets/images/98e50f29dea21dddc170254c6e277840_MD5.webp)
+![29287ce57f8604a4e15c1d7980134571_MD5]({{ site.baseurl }}/assets/images/29287ce57f8604a4e15c1d7980134571_MD5.webp)
 
 El shelling constituye un defecto análogo en naturaleza pero diferente en localización y manifestación. Se produce en la tabla de rodadura de los carriles que conforman el hilo exterior de curvas horizontales, donde la cabeza del carril se desconcha o incluso se rompe parcialmente. Este defecto ocurre principalmente en curvas donde, para mitigar desgastes excesivos, se han instalado engrasadores de carril en cantidad excesiva. Esta situación crea una zona de concentración permanente de tensiones máximas que nunca se redistribuye por desgaste, resultando en fatiga localizada y desprendimiento de material.
-![[59fa0ebfd49a42aa70ff0c6d9553076a_MD5.webp]]
-![[bc83fc37c6b8e7d3efe2e50c1ab4e762_MD5.webp]]
-![[d328508f22ba64c3c3780f91180bb76c_MD5.webp]]
+![59fa0ebfd49a42aa70ff0c6d9553076a_MD5]({{ site.baseurl }}/assets/images/59fa0ebfd49a42aa70ff0c6d9553076a_MD5.webp)
+![bc83fc37c6b8e7d3efe2e50c1ab4e762_MD5]({{ site.baseurl }}/assets/images/bc83fc37c6b8e7d3efe2e50c1ab4e762_MD5.webp)
+![d328508f22ba64c3c3780f91180bb76c_MD5]({{ site.baseurl }}/assets/images/d328508f22ba64c3c3780f91180bb76c_MD5.webp)
 
 **Defectos originados por el servicio:**
 
 Los choques y flexiones producidos en las juntas del carril constituyen una importante fuente de defectos durante el servicio. En los extremos de los carriles, donde existe una discontinuidad geométrica debida a la presencia de la junta, el paso de los ejes del material rodante produce un aplastamiento progresivo de la superficie de la cabeza. Este aplastamiento genera una desnivelación de la tabla de rodadura que progresa rápidamente conforme aumenta el tráfico. La deformación localizada incrementa progresivamente la "cala" (depresión) en la zona de la junta, se produce el aplastamiento de los bordes de apoyo de las bridas de unión. Además, los tornillos de sujeción de las bridas mantienen un contacto repetitivo con las inmediaciones de los taladros del carril, lo que endurece y fragiliza localmente el material acero.
 
 Esta cascada de deterioros progresivos crea un juego mecánico cada vez mayor en la conexión junta-carril. El incremento del juego aumenta la fatiga cíclica del material y provoca la nucleación y propagación de grietas, particularmente en los taladros de las bridas y también en las zonas de acuerdo geométrico entre el patín y la cabeza.
-![[21db206b38735441eb01b0b8d5e7b193_MD5.webp]]
-![[4601ff869a9eb959be7d10247284b2ef_MD5.webp]]
+![21db206b38735441eb01b0b8d5e7b193_MD5]({{ site.baseurl }}/assets/images/21db206b38735441eb01b0b8d5e7b193_MD5.webp)
+![4601ff869a9eb959be7d10247284b2ef_MD5]({{ site.baseurl }}/assets/images/4601ff869a9eb959be7d10247284b2ef_MD5.webp)
 
 El autotemple superficial constituye un fenómeno de degradación metalúrgica producido por el patinaje de las ruedas o su bloqueo durante operaciones de frenado. Durante este fenómeno, el acero del carril se calienta por fricción a temperaturas que superan el punto crítico de transformación de fase, sufre un estiramiento rápido por compresión, y se enfría bruscamente por convección hacia la masa de acero más fría adyacente. Este ciclo térmico produce temple local en la zona afectada, lo que origina la formación de grietas superficiales frágiles en el camino de rodadura, creando un aspecto muy característico denominado "piel de serpiente". Estas grietas superficiales pueden propagarse progresivamente hacia el interior del material, comprometiendo su integridad estructural.
 
 Esta avería típicamente se presenta en las zonas de arranque de trenes muy pesados, frecuentemente localizadas inmediatamente antes de las señales ferroviarias donde comienza la aceleración. Puede generar desnivelaciones locales en la cabeza del carril de hasta 4 milímetros de profundidad distribuidas en una longitud de varios centímetros. Cuando se alcanza esta magnitud de deterioro, resulta necesario proceder a la sustitución del carril.
-![[f7a021751642768724fcc110bfc6363d_MD5.webp]]
-![[4385264d63635c0ed2b47177a11b459b_MD5.webp]]
+![f7a021751642768724fcc110bfc6363d_MD5]({{ site.baseurl }}/assets/images/f7a021751642768724fcc110bfc6363d_MD5.webp)
+![4385264d63635c0ed2b47177a11b459b_MD5]({{ site.baseurl }}/assets/images/4385264d63635c0ed2b47177a11b459b_MD5.webp)
 
 El aplastamiento de la superficie de rodadura constituye otro defecto de servicio importante, aunque con características distintas al autotemple. El paso repetido de las cargas sobre el carril actúa como un proceso de laminación en frío: compacta el grano cristalino, similar a cualquier operación de forja, endurece la superficie del carril en la tabla de rodadura y produce grietas superficiales por fatiga.
 
 Sin embargo, estas grietas no se propagan rápidamente hacia el interior del carril, haciéndolo menos peligroso comparativamente que el autotemple. Asimismo, no genera la alteración profunda de la estructura cristalina superficial característica del autotemple.
-![[ee0e361d7343be044062827f57ea2b9a_MD5.webp]]
-![[33bb9cbc91ef3712ae196c14da4daa75_MD5.webp]]
+![ee0e361d7343be044062827f57ea2b9a_MD5]({{ site.baseurl }}/assets/images/ee0e361d7343be044062827f57ea2b9a_MD5.webp)
+![33bb9cbc91ef3712ae196c14da4daa75_MD5]({{ site.baseurl }}/assets/images/33bb9cbc91ef3712ae196c14da4daa75_MD5.webp)
 
 010501 Aplastamiento de la superficie de rodadura leve [10]
-![[83412470d5b1b03e181542450c97b376_MD5.webp]]
+![83412470d5b1b03e181542450c97b376_MD5]({{ site.baseurl }}/assets/images/83412470d5b1b03e181542450c97b376_MD5.webp)
 
 010503 Aplastamiento de la superficie de rodadura severo [40]
 
 010502 Aplastamiento de la superficie de rodadura moderado [40]
-![[348af3120b08d95f64b541a0fbf3ed1a_MD5.webp]]
+![348af3120b08d95f64b541a0fbf3ed1a_MD5]({{ site.baseurl }}/assets/images/348af3120b08d95f64b541a0fbf3ed1a_MD5.webp)
 
 010504 Aplastamiento de la superficie de rodadura muy severo con desprendimientos [40]
 
 Las roturas debidas a los planos (defectos de forma) de las ruedas constituyen una causa significativa de daño acelerado en los carriles. Las normativas de conservación de material rodante establecen umbrales de tolerancia para estos planos: se permiten hasta 3 milímetros de flecha en los vagones de mercancías, mientras que en los coches de pasajeros se limita a 1 milímetro. Un caso histórico ilustrativo ocurrió el 30 de enero de 1947 en la línea Montpellier-Nimes, donde un coche con una rueda que presentaba un plano de 20 milímetros de flecha en una cuerda de 18 centímetros provocó 267 roturas simultáneas de carril. Este incidente ocurrió a una temperatura de -10°C, condición bajo la cual la fragilidad del acero duro se incrementa dramáticamente, multiplicando la severidad del impacto.
-![[4917e2f25634800b7e79b86f0e791f9c_MD5.webp]]
+![4917e2f25634800b7e79b86f0e791f9c_MD5]({{ site.baseurl }}/assets/images/4917e2f25634800b7e79b86f0e791f9c_MD5.webp)
 
-![[d6153eb394586d727a62fd3917539849_MD5.webp]]
-![[92522c9a32b80aad56a8bfa95c85bcce_MD5.webp]]
-![[1e309c3f3ed1b22b1644a442cbb95f32_MD5.webp]]
-![[5a4dc0e0836241850606cc09d5ebb127_MD5.webp]]
+![d6153eb394586d727a62fd3917539849_MD5]({{ site.baseurl }}/assets/images/d6153eb394586d727a62fd3917539849_MD5.webp)
+![92522c9a32b80aad56a8bfa95c85bcce_MD5]({{ site.baseurl }}/assets/images/92522c9a32b80aad56a8bfa95c85bcce_MD5.webp)
+![1e309c3f3ed1b22b1644a442cbb95f32_MD5]({{ site.baseurl }}/assets/images/1e309c3f3ed1b22b1644a442cbb95f32_MD5.webp)
+![5a4dc0e0836241850606cc09d5ebb127_MD5]({{ site.baseurl }}/assets/images/5a4dc0e0836241850606cc09d5ebb127_MD5.webp)
 
 ### II.11. Desgaste de los carriles
 
@@ -405,13 +405,13 @@ El desgaste de onda media es una condición intermedia entre los extremos de ond
 El desgaste de onda larga presenta longitudes de onda en el rango de 60 centímetros a 2 metros. Es de difícil observación en inspecciones visuales simples puesto que el carril no presenta una zona de temple que haya sufrido cementación observable a simple vista.
 
 El desgaste ondulatorio de onda corta es el de mayor incidencia práctica en las líneas ferroviarias actuales. Genera vibraciones en la superestructura de la vía y simultáneamente en los vehículos que circulan sobre ella, perjudicando ambos elementos y aumentando significativamente los costes de mantenimiento. Conforme se incrementa la velocidad de circulación, las cargas dinámicas derivadas de las ondulaciones se incrementan, pudiendo llegar a igualarse en magnitud con las cargas estáticas en ciertas circunstancias. A pesar de que los esfuerzos generados se amortiguan relativamente rápido en las traviesas, producen consecuencias deteriorantes muy severas sobre las traviesas mismas y sobre el carril que sobre los problemas de nivelación general de la vía.
-![[e30689a1909127dea22e7337cced6eb4_MD5.webp]]
+![e30689a1909127dea22e7337cced6eb4_MD5]({{ site.baseurl }}/assets/images/e30689a1909127dea22e7337cced6eb4_MD5.webp)
 
 El desgaste de onda media generalmente aparece en curvas de radio inferior a 500 metros, particularmente en el hilo bajo de la curva. Afecta principalmente a líneas por las que circulan vehículos con cargas por eje muy elevadas.
 
 Se puede afirmar con solidez que la existencia del desgaste ondulatorio en el carril reduce de forma apreciable la vida útil completa de la superestructura de la vía y del material rodante, incrementa significativamente los niveles de ruido, disminuye marcadamente el confort percibido por los pasajeros, incrementa la fuerza de tracción necesaria para remolcar el material rodante, multiplica los costes de conservación del sistema integrado rueda-carril, y reduce el factor de seguridad operacional de las circulaciones.
-![[03e81dc2b14c939a00d665e06bec140d_MD5.webp]]
-![[321e06e011aafa16c98535f9d9016f31_MD5.webp]]
+![03e81dc2b14c939a00d665e06bec140d_MD5]({{ site.baseurl }}/assets/images/03e81dc2b14c939a00d665e06bec140d_MD5.webp)
+![321e06e011aafa16c98535f9d9016f31_MD5]({{ site.baseurl }}/assets/images/321e06e011aafa16c98535f9d9016f31_MD5.webp)
 
 
 ## Capítulo III La traviesa
@@ -426,13 +426,13 @@ Una segunda función fundamental es asegurar y mantener el ancho de vía requeri
 
 Una tercera función importante en carriles Vignole es proporcionar la inclinación necesaria del carril (típicamente 1/20 hacia el interior de la curva en líneas curvas). Esta inclinación es obligatoria en sistemas ferroviarios que utilizan llantas troncocónicas en sus ruedas, inclinación que compensa la tendencia natural del vehículo al vuelco derivada de la geometría de la llanta. Esta función puede realizarse mediante dos metodologías: el cajeado (rebaje directo en la traviesa) o mediante placas de asiento especialmente fabricadas.
 
-![[47208e8bcc0b9590ca48fe3c96cee4e7_MD5.webp]]
+![47208e8bcc0b9590ca48fe3c96cee4e7_MD5]({{ site.baseurl }}/assets/images/47208e8bcc0b9590ca48fe3c96cee4e7_MD5.webp)
 Cajeo inclinado
 
-![[17d2c70710f03d40e9f5fe77168255d9_MD5.webp]]
+![17d2c70710f03d40e9f5fe77168255d9_MD5]({{ site.baseurl }}/assets/images/17d2c70710f03d40e9f5fe77168255d9_MD5.webp)
 Placa de asiento
 
-![[dc3522d00432c7de07a549fe250f5f72_MD5.webp]]
+![dc3522d00432c7de07a549fe250f5f72_MD5]({{ site.baseurl }}/assets/images/dc3522d00432c7de07a549fe250f5f72_MD5.webp)
 
 Más allá de estas funciones específicas, la traviesa debe mantener la estabilidad general de la vía en todas sus direcciones: tanto en el plano horizontal (considerando desplazamientos longitudinales y transversales) como en el plano vertical. Esta estabilidad debe ser efectiva frente a esfuerzos estáticos procedentes del peso propio de la estructura y variaciones térmicas que producen dilataciones y contracciones, así como frente a esfuerzos dinámicos derivados del paso de trenes cargados a velocidad. En líneas ferroviarias equipadas con circuitos de señalización, la traviesa debe cumplir una función adicional: el aislamiento eléctrico de los dos hilos de carril para permitir el funcionamiento de los sistemas de detección de ocupación de vía y sistemas de control de tráfico.
 
@@ -444,8 +444,8 @@ Respecto a la estabilidad geométrica de la vía, las dimensiones a considerar d
 Desde los orígenes del ferrocarril moderno en el siglo XIX, tras un breve período inicial en que se utilizaron bloques de piedra natural como elementos de soporte de los carriles, la madera se impuso como el material predominante para la construcción de traviesas. Las especies de madera empleadas históricamente incluyen roble, haya, pino, abeto, abedul, cedro, eucalipto y una variedad de maderas tropicales especialmente aptas para este uso. La madera demostró poseer propiedades ideales para esta aplicación ferroviaria.
 
 Solamente en períodos de escasez crítica de madera en determinadas regiones o épocas específicas, los ferrocarriles se vieron impulsados a experimentar con materiales substitutos alternativos, tales como acero y hormigón armado. A lo largo del siglo XX, las traviesas de hormigón fueron evolucionando gradualmente en sofisticación técnica, culminando en las actuales traviesas de hormigón pretensado, que ofrecen características de durabilidad y rendimiento muy superiores a las primeras versiones.
-![[eab24bbeb13615742de95b1fd0dceed4_MD5.webp]]
-![[a4a8e4659477f19625af08be330ce664_MD5.webp]]
+![eab24bbeb13615742de95b1fd0dceed4_MD5]({{ site.baseurl }}/assets/images/eab24bbeb13615742de95b1fd0dceed4_MD5.webp)
+![a4a8e4659477f19625af08be330ce664_MD5]({{ site.baseurl }}/assets/images/a4a8e4659477f19625af08be330ce664_MD5.webp)
 
 
 ### III.2. Traviesas de madera
@@ -455,16 +455,16 @@ Las traviesas de madera gozaron de gran aceptación desde los mismos orígenes d
 Adicionalmente, las traviesas de madera presentan una gran resistencia a toda clase de esfuerzos. Cuando se solicitan localmente, como en eventos de descarrilamiento, no se rompen de manera frágil sino que desarrollan entallad uras progresivas. Ofrecen buena resistencia al deslizamiento sobre el balasto mediante una ligera incrustación del material balástico en su superficie. Poseen un peso relativamente reducido que facilita el manejo manual y reduce significativamente los costos de transporte. Pueden ser reutilizadas en vías secundarias o de servicio mediante tratamiento mecánico de recuperación. Su proceso de fabricación es económico y relativamente sencillo. Presentan tenacidad estructural sin ser frágiles, buena resistencia a la intemperie y agentes atmosféricos, y admiten pequeñas deformaciones por flexión en su punto medio sin fracturarse catastróficamente.
 
 Sin embargo, las traviesas de madera presentan también desventajas significativas: envejecimiento progresivo durante el servicio con cambios substanciales de sus características primitivas de elasticidad y resistencia, limitando su vida útil típica a 20-25 años. Son susceptibles a combustión en caso de incendio. Se degradan por ataques de microorganismos, hongos, gusanos de madera y termitas, especialmente en climas húmedos o tropicales. Las sujeciones se debilitan progresivamente con el tiempo. Poseen un peso relativamente bajo (70-80 kilogramos), lo que aunque facilitaría su manejo, resulta insuficiente para proporcionar la estabilidad necesaria en líneas de tráfico muy intenso.
-![[1a0d6f501cb5f8c69b4acaecf6bf25f5_MD5.webp]]
+![1a0d6f501cb5f8c69b4acaecf6bf25f5_MD5]({{ site.baseurl }}/assets/images/1a0d6f501cb5f8c69b4acaecf6bf25f5_MD5.webp)
 
 Las diversas configuraciones geométricas de sección transversal de traviesas de madera están normalizadas en líneas generales por la UIC, exigiendo que la cara inferior sea completamente plana, las caras laterales sensiblemente perpendiculares a esta base, y la cara superior presentando zonas planas horizontales en ubicaciones específicas destinadas a soportar los carriles o para permitir el cajeado inclinado. La forma resultante es aproximadamente paralelepípeda.
 
 La Especificación Técnica UIC establece parámetros dimensionales específicos: la anchura de la cara inferior debe estar comprendida entre 0,26 m y 0,22 m, la altura entre 0,16 m y 0,13 m, y las zonas de apoyo de la cara superior entre 0,20 m y 0,13 m.
 
 
-![[de4df359e8c332a6565be321cc5ae7ea_MD5.webp]]
+![de4df359e8c332a6565be321cc5ae7ea_MD5]({{ site.baseurl }}/assets/images/de4df359e8c332a6565be321cc5ae7ea_MD5.webp)
 
-![[d5bc0350f2f564ee08bd20b18fecf1cd_MD5.webp]]
+![d5bc0350f2f564ee08bd20b18fecf1cd_MD5]({{ site.baseurl }}/assets/images/d5bc0350f2f564ee08bd20b18fecf1cd_MD5.webp)
 [Traviesas de madera Adif ET 03.360.540.3](https://normativatecnica.adif.es/)
 ### III.3. Traviesas metálicas
 
@@ -483,20 +483,20 @@ Las traviesas metálicas presentan problemas graves de corrosión por oxidación
 En líneas equipadas con tracción eléctrica, presentan el inconveniente grave de provocar una conexión a tierra directa ("puesta tierra franca"), que puede resultar en la circulación de corrientes vagabundas dispersas por el terreno y en fenómenos de electrólisis del acero y otros metales enterrados, con los peligros subsecuentes tanto para las estructuras como para la seguridad operacional.
 
 La ventaja principal de las traviesas metálicas es la de una considerable durabilidad temporal. Dado que su punto débil estructural son las conexiones de sujeción de los carriles, su vida operativa depende más del número de ciclos de carga (circulaciones) que de su edad calendárica. En principio resultan más ventajosas en líneas de tráfico débil o moderado, donde las traviesas de madera se pudren o pierden significativamente sus características mecánicas antes de haber completado su desgaste mecánico directo por compresión.
-![[53aeb756f27fae15af4f8408fb06b393_MD5.webp|592x334]]
-![[a65411de1f4c45a417a5154dbead6e07_MD5.webp]]
-![[59b462d4efff0deda1dfccc4c33906c2_MD5.webp]]
+![53aeb756f27fae15af4f8408fb06b393_MD5]({{ site.baseurl }}/assets/images/53aeb756f27fae15af4f8408fb06b393_MD5.webp|592x334)
+![a65411de1f4c45a417a5154dbead6e07_MD5]({{ site.baseurl }}/assets/images/a65411de1f4c45a417a5154dbead6e07_MD5.webp)
+![59b462d4efff0deda1dfccc4c33906c2_MD5]({{ site.baseurl }}/assets/images/59b462d4efff0deda1dfccc4c33906c2_MD5.webp)
 [traviesas de acero](https://www.trackopedia.com/en/encyclopedia/infrastructure/superstructure/sleepers/steel-sleepers)
 
 ### III.4. Traviesas de hormigón
 
 El agotamiento de los bosques en una serie de países y el crecimiento del coste de la madera derivado de ello, así como el amplio consumo de madera como materia prima en ramas industriales, como la química, celulosa y papel, muebles, etc., donde su uso es más adecuado, desde el punto de vista económico, mantuvieron un permanente interés hacia los resultados de los ensayos con traviesas de hormigón armado.
-![[f2472e97e88e211ed2677e56c8157238_MD5.webp]]
+![f2472e97e88e211ed2677e56c8157238_MD5]({{ site.baseurl }}/assets/images/f2472e97e88e211ed2677e56c8157238_MD5.webp)
 
 Las pruebas con traviesas de hormigón armado alcanzaron un desarrollo considerable durante la Primera Guerra Mundial, debido a problemas de suministros, pero los resultados fueron insatisfactorios.
 
 Por los mismos motivos, vuelve a desarrollarse el interés durante la Segunda Guerra Mundial, pero ahora con el respaldo que supone para el hormigón armado la técnica del pretensado.
-![[c0f56be2339737a6094315072b72ba36_MD5.webp]]
+![c0f56be2339737a6094315072b72ba36_MD5]({{ site.baseurl }}/assets/images/c0f56be2339737a6094315072b72ba36_MD5.webp)
 
 Al principio de su utilización, imitaron la forma de la traviesa de madera, es decir, eran paralelepipédicas. Problema: con el paso de las cargas, agravado por la gran rigidez de la traviesa, se produce un enrarecimiento del balasto y , por contra, concentración del mismo en el centro de la traviesa. Con el tiempo el fenómeno se acentúa mucho, los extremos de la traviesa asientan más que su parte central y en esta parte surge un gran momento flector negativo, lo que supone que el hormigón trabaja a tracción en la parte central de la traviesa: fisuración.
 
@@ -504,11 +504,11 @@ Para evitar esta situación se idearon varias soluciones:
 
 - Reforzar las armaduras.
 - Se actuó no sobre la traviesa, sino sobre el balasto, practicando un surco longitudinal en la parte central de la vía, para evitar que la traviesa se apoyara en esa zona.
-![[4143ce2deb266f98f1857af3d54ab096_MD5.webp]]
+![4143ce2deb266f98f1857af3d54ab096_MD5]({{ site.baseurl }}/assets/images/4143ce2deb266f98f1857af3d54ab096_MD5.webp)
 - La solución simétrica también se intentó, es decir, crear el surco en la traviesa adelgazando su canto en la parte central .
- ![[d09605020093228e35e611013b75aa44_MD5.webp]]
+ ![d09605020093228e35e611013b75aa44_MD5]({{ site.baseurl }}/assets/images/d09605020093228e35e611013b75aa44_MD5.webp)
 - La solución simétrica también se intentó, es decir, crear el surco en la traviesa adelgazando su canto en la parte central .
-![[53a5fafa7c536d21049b41f0f872782d_MD5.webp]]
+![53a5fafa7c536d21049b41f0f872782d_MD5]({{ site.baseurl }}/assets/images/53a5fafa7c536d21049b41f0f872782d_MD5.webp)
 - Adelgazar la parte central de la traviesa, no su canto, sino su ancho, por lo que debido al reparto de las reacciones de apoyo del balasto sobre la traviesa, el momento flector en la parte central disminuye.
 
 Las ventajas de las traviesas de hormigón sonñ
@@ -523,10 +523,10 @@ Los inconvenientes respecto a la traviesa de madera:
 - Son más caras.
 - Conducen mejor la corriente eléctrica, con el subsiguiente problema de aislamiento de los dos hilos de carriles cuanto éste es necesario por la existencia de circuitos de vía.
 
-![[f95ca5357e83816f4096a18ab4c0c500_MD5.webp]]
+![f95ca5357e83816f4096a18ab4c0c500_MD5]({{ site.baseurl }}/assets/images/f95ca5357e83816f4096a18ab4c0c500_MD5.webp)
 Ensayo Conductividad
 
-![[b6de345bc9de7006b34f79b559696716_MD5.webp]]
+![b6de345bc9de7006b34f79b559696716_MD5]({{ site.baseurl }}/assets/images/b6de345bc9de7006b34f79b559696716_MD5.webp)
 [Ensayo Dinámico](https://www.mecacisa.com/es/portfolio/ensayos-sobre-traviesas-de-hormigon/)
 
 ### III.5. Traviesas mixtas de dos bloques
@@ -543,16 +543,16 @@ Sin bien son simples de construcción lo que ha motivado su importante desarroll
 
 Aparecen hacia 1925, y entre ellas se encuentran la traviesa Vagneux, que es una traviesa mixta de acero y hormigón de tipo semirrígido. La parte central es una viga metálica, de perfil en doble T, empotrada por adherencia en dos bloques o cabezas de hormigón armado, de 70 cm de longitud por 25 a 35 cm de anchura.
 
-![[75a2c7f699a636266f8505b56fe14fda_MD5.webp]]
+![75a2c7f699a636266f8505b56fe14fda_MD5]({{ site.baseurl }}/assets/images/75a2c7f699a636266f8505b56fe14fda_MD5.webp)
 
 
 En España en 1965 se comenzaron en RENFE las primeras experiencias sobre traviesas de dos bloques, de hormigón armado, tipo R.S. (en la imagen). Posteriormente se desarrollaron variaciones: Traviesas bibloque - RENFE (BR-94); Traviesas polivalentes bibloque (PB-91) que pueden instalarse en ambos anchos de vía; Traviesas especiales, en placa de hormigón, monovalentes Stedef, para ancho RENFE o para ancho internacional; Traviesas especiales, en placa de hormigón, polivalentes Stedef, para vía ancha de 1.668 mm y para vía internacional de 1.435 mm .
 
-![[8ddf6f69a5b561c412d8fe00666e3e34_MD5.webp]]
+![8ddf6f69a5b561c412d8fe00666e3e34_MD5]({{ site.baseurl }}/assets/images/8ddf6f69a5b561c412d8fe00666e3e34_MD5.webp)
 ALZADO-SEMISECCIÓN
 
 ALZADO-SEMISECCIÓN
-![[a3f813756c5cc79199b84ccb6b939918_MD5.webp]]
+![a3f813756c5cc79199b84ccb6b939918_MD5]({{ site.baseurl }}/assets/images/a3f813756c5cc79199b84ccb6b939918_MD5.webp)
 
 ### III.8. Traviesas monoblock de hormigón pretensado
 
@@ -561,7 +561,7 @@ Aparecen hacia 1950 y es una solución seductora, puesto que permite:
 - Obtener una mejor resistencia a los esfuerzos alternados, puesto que el hormigón trabaja siempre a compresión.
 - Disminuye el espesor de las traviesas (respecto de las monobloque), particularmente en su centro, puesto que las armaduras no deben, como en el hormigón armado ordinario, estar situadas lo más lejos posible de la fibra neutra. El riesgo de la concentración del balasto en la parte central, lo que era muy grave en la monobloque de hormigón armado, está muy reducido en esta traviesa. La posición muy próxima de la fibra neutra de los hilos de la armadura, permite rebajar de forma notable la cara interior de la traviesa en su parte central.
 - Disminuyen el acero necesario
-![[4ac15af489c64302bd7624f1073bfce3_MD5.webp]]
+![4ac15af489c64302bd7624f1073bfce3_MD5]({{ site.baseurl }}/assets/images/4ac15af489c64302bd7624f1073bfce3_MD5.webp)
 
 #### III.8.1. Características:
 
@@ -575,16 +575,16 @@ Aparecen hacia 1950 y es una solución seductora, puesto que permite:
 - Necesidad de placas de asiento elásticas
 
 Con el fin de solucionar los problemas que presentaban la traviesa R.S., y al mismo tiempo para satisfacer las superiores necesidades que la infraestructura presenta frente a las previsiones de velocidad, tráfico y confort, Renfe decidió adoptar la traviesa monobloque (monobloc) y entre las existentes, por razones técnico-económicas, la traviesa alemana Dywidag (D.W.) y la sujeción de la casa Vosslh Werke, tipo HM, que es directa y elástica.
-![[8ea960cbe24615574f94bd2966f0f377_MD5.webp]]
+![8ea960cbe24615574f94bd2966f0f377_MD5]({{ site.baseurl }}/assets/images/8ea960cbe24615574f94bd2966f0f377_MD5.webp)
 
 Al objeto de poder realizar la operación de cambio del ancho de vía de la red española de 1.668 mm a 1.435 mm , se han desarrollado una serie de diseños de traviesas polivalentes, cuya característica principal es que permiten la fijación de los dos hilos del carril en dos posiciones distintas, quedando en una de ellas la vía con ancho nacional ( 1.668 mm ) y en la otra con ancho internacional ( 1.435 mm ).
 
 También existen las traviesas de tres hilos, que permiten el ancho de vía ibérico y el internacional a la vez (No son polivalentes). Unos
-![[185621accf0cfb3d3d999fe52bd01b40_MD5.webp]]
-![[5d4dce3ec03177fe66e74e359bdb1412_MD5.webp]]
-![[216d72822946f810ad6be7f0f8f8ad29_MD5.webp]]
-![[92cacc43e4622edc68bbbdda46fb0bf9_MD5.webp]]
-![[3a8911d217378721582dba05bab9c4c8_MD5.webp]]
+![185621accf0cfb3d3d999fe52bd01b40_MD5]({{ site.baseurl }}/assets/images/185621accf0cfb3d3d999fe52bd01b40_MD5.webp)
+![5d4dce3ec03177fe66e74e359bdb1412_MD5]({{ site.baseurl }}/assets/images/5d4dce3ec03177fe66e74e359bdb1412_MD5.webp)
+![216d72822946f810ad6be7f0f8f8ad29_MD5]({{ site.baseurl }}/assets/images/216d72822946f810ad6be7f0f8f8ad29_MD5.webp)
+![92cacc43e4622edc68bbbdda46fb0bf9_MD5]({{ site.baseurl }}/assets/images/92cacc43e4622edc68bbbdda46fb0bf9_MD5.webp)
+![3a8911d217378721582dba05bab9c4c8_MD5]({{ site.baseurl }}/assets/images/3a8911d217378721582dba05bab9c4c8_MD5.webp)
 
 Para Alta Velocidad en ancho internacional, la traviesa empleada es la AI 04.
 
@@ -610,17 +610,17 @@ Para Alta Velocidad en ancho internacional, la traviesa empleada es la AI 04.
 |  | Combinación carga por eje (t) / velocidad (km/h) | 25/160 ó 22,5/350 | 25/160 ó 22,5/350 | 25/160 ó 22,5/350 | 22,5/220 | 20/120 |
 
 Nota: cuando el perfil de carril sea 54E1, las circulaciones de 25t/eje no podrán superar los $150 \mathrm{~km} / \mathrm{h}$
-![[269d9762810be9786db6eff583547d0d_MD5.webp]]
+![269d9762810be9786db6eff583547d0d_MD5]({{ site.baseurl }}/assets/images/269d9762810be9786db6eff583547d0d_MD5.webp)
 
 DETALLE Y
-![[055a6bba4a018fa62784e19189d9945d_MD5.webp]]
+![055a6bba4a018fa62784e19189d9945d_MD5]({{ site.baseurl }}/assets/images/055a6bba4a018fa62784e19189d9945d_MD5.webp)
 
-![[6356e995923c7955510bbfaa9f2cf40c_MD5.webp]]
+![6356e995923c7955510bbfaa9f2cf40c_MD5]({{ site.baseurl }}/assets/images/6356e995923c7955510bbfaa9f2cf40c_MD5.webp)
 
-![[7710b0ba39277a61637ead7905271ffe_MD5.webp]]
+![7710b0ba39277a61637ead7905271ffe_MD5]({{ site.baseurl }}/assets/images/7710b0ba39277a61637ead7905271ffe_MD5.webp)
 Traviesa Al-04
 
-![[1ec032159333596589b751d533451e07_MD5.webp]]
+![1ec032159333596589b751d533451e07_MD5]({{ site.baseurl }}/assets/images/1ec032159333596589b751d533451e07_MD5.webp)
 
 #### III.8.2. Traviesa PR-01
 
@@ -628,14 +628,14 @@ Entre los diversos diseños de traviesas monoblock pretensadas desarrolladas par
 
 La geometría de la traviesa PR-01 ha sido optimizada para proporcionar una simetría que facilite su orientación en el sentido de la marcha, reduciendo así los errores de instalación. La estructura interna de los hilos de pretensado sigue un patrón cuidadosamente calculado para distribuir uniformemente las tensiones compresivas en el interior del hormigón, garantizando un comportamiento consistente independientemente de la posición de montaje elegida. El diseño de los anclajes permite acomodar sistemas de sujeción directa y elástica, facilitando la fijación segura del carril en cualquiera de las dos posiciones de ancho.
 
-![[983f0d3648a9fa4be016975f8392d189_MD5.webp]]
+![983f0d3648a9fa4be016975f8392d189_MD5]({{ site.baseurl }}/assets/images/983f0d3648a9fa4be016975f8392d189_MD5.webp)
 
 DETALLE DE MONTAJE EN ANCHO RENFE
 
-![[3bd26d7462ba2c531f493e42142a2193_MD5.webp]]
-![[ddb790ebf8a487b760adb4caf6fcdd18_MD5.webp]]
+![3bd26d7462ba2c531f493e42142a2193_MD5]({{ site.baseurl }}/assets/images/3bd26d7462ba2c531f493e42142a2193_MD5.webp)
+![ddb790ebf8a487b760adb4caf6fcdd18_MD5]({{ site.baseurl }}/assets/images/ddb790ebf8a487b760adb4caf6fcdd18_MD5.webp)
 
-![[c5e94ebec9c3cb8c8b9c4b3c33cb3754_MD5.webp]]
+![c5e94ebec9c3cb8c8b9c4b3c33cb3754_MD5]({{ site.baseurl }}/assets/images/c5e94ebec9c3cb8c8b9c4b3c33cb3754_MD5.webp)
 HILO DOBLE CARRIL 60
 
 ESCALA 1:5

@@ -27,9 +27,9 @@ En el contexto de la ingeniería ferroviaria, se define como material rodante la
 Cuando nos referimos a un tren, estamos hablando de una configuración integrada de uno o más vehículos destinados al transporte ferroviario, los cuales se encuentran mecánicamente conectados y operan sobre una infraestructura ferroviaria común. Estas composiciones pueden adoptar diferentes configuraciones según sus funciones específicas:
 
 - Unidades autónomas constituidas por un único vehículo, que puede ser una locomotora o un automotor autopropulsado
-![[998bb0a49c5c258004d0e32e1a6b1169_MD5.webp]]
+![998bb0a49c5c258004d0e32e1a6b1169_MD5]({{ site.baseurl }}/assets/images/998bb0a49c5c258004d0e32e1a6b1169_MD5.webp)
 - Composiciones compuestas por una o varias unidades motrices que ejercen función tractora sobre un conjunto de vehículos remolcados, ya sean coches de viajeros o vagones de mercancías
-![[7eff4e5aa85ba04ed99e23356b6dfd84_MD5.webp]]
+![7eff4e5aa85ba04ed99e23356b6dfd84_MD5]({{ site.baseurl }}/assets/images/7eff4e5aa85ba04ed99e23356b6dfd84_MD5.webp)
 - Formaciones múltiples constituidas por diversos sistemas autopropulsados que operan de forma coordinada y conectada entre sí.
 
 **CLASIFICACIÓN POR TIPO DE SERVICIO**
@@ -38,7 +38,7 @@ La clasificación fundamental del material rodante se basa en la función operat
 
 **SERVICIO DE TRANSPORTE DE VIAJEROS**
 
-![[e83479afc850e8324ef63c4bd77130da_MD5.webp]]
+![e83479afc850e8324ef63c4bd77130da_MD5]({{ site.baseurl }}/assets/images/e83479afc850e8324ef63c4bd77130da_MD5.webp)
 
 
 Los trenes destinados al transporte de personas se caracterizan por una serie de parámetros operacionales y técnicos específicos que condicionan su diseño y operación:
@@ -53,7 +53,7 @@ Los trenes destinados al transporte de personas se caracterizan por una serie de
 
 **SERVICIO DE TRANSPORTE DE MERCANCÍAS**
 
-![[582465030b986846c0920cb6d3733937_MD5.webp]]
+![582465030b986846c0920cb6d3733937_MD5]({{ site.baseurl }}/assets/images/582465030b986846c0920cb6d3733937_MD5.webp)
 
 Los sistemas dedicados al transporte de carga presentan un conjunto diferente de especificaciones técnicas y operacionales orientadas a maximizar la capacidad y la rentabilidad:
 
@@ -83,7 +83,7 @@ La evaluación de prestaciones se estructura en varios niveles jerárquicos de a
   - Las prestaciones operativas que engloban la capacidad de operación en perfiles de línea complejos, los tiempos de recorrido proyectados, la capacidad de transporte de pasajeros, la capacidad de arrastre de carga, los indicadores RAMS (confiabilidad, disponibilidad, mantenibilidad y seguridad), y el análisis del costo de ciclo de vida (LCC)
 
 
-![[066c0a6174046af4e0e310d759d44528_MD5.webp]]
+![066c0a6174046af4e0e310d759d44528_MD5]({{ site.baseurl }}/assets/images/066c0a6174046af4e0e310d759d44528_MD5.webp)
 
 ## Capítulo II. Tracción
 
@@ -134,26 +134,26 @@ La forma en que se transmite la potencia del motor diésel a las ruedas motrices
 
 **LOCOMOTORA DIESEL DMU (DIESEL MULTIPLE UNIT)**
 
-![[35b8443aaa602c591851dcf18277a797_MD5.webp]]
+![35b8443aaa602c591851dcf18277a797_MD5]({{ site.baseurl }}/assets/images/35b8443aaa602c591851dcf18277a797_MD5.webp)
 
 #### II.2.1. TRANSMISIÓN DIÉSEL-MECÁNICA (DMU)
 
 Este sistema de transmisión transmite la potencia del motor directamente a través de componentes mecánicos como engranajes y embragues. La característica fundamental es la conexión mecánica directa entre el motor de combustión y los ejes motrices, lo que permite una transmisión inmediata de fuerzas.
 
 
-![[6d9efd6379485f286a3ad0e9973e6e47_MD5.webp]]
+![6d9efd6379485f286a3ad0e9973e6e47_MD5]({{ site.baseurl }}/assets/images/6d9efd6379485f286a3ad0e9973e6e47_MD5.webp)
 
 #### II.2.2. TRANSMISIÓN DIÉSEL-HIDRÁULICA (DMU)
 
 En este sistema, la potencia del motor se transmite mediante un medio fluido, típicamente aceite bajo presión, que actúa en componentes hidráulicos como bombas y motores. Este tipo de transmisión ofrece una transición más suave entre velocidades y una mejor adaptación del motor a las condiciones de operación variables.
 
-![[06c75af8ea8bf24b77bd0c45a27d0e4f_MD5.webp]]
+![06c75af8ea8bf24b77bd0c45a27d0e4f_MD5]({{ site.baseurl }}/assets/images/06c75af8ea8bf24b77bd0c45a27d0e4f_MD5.webp)
 
 #### II.2.3. TRANSMISIÓN DIÉSEL-ELÉCTRICA (DEMU)
 
 En este enfoque, el motor diésel actúa como generador de energía eléctrica, que posteriormente es convertida en movimiento por motores eléctricos de tracción. Este sistema ofrece una flexibilidad significativa en el control del esfuerzo de tracción y ha demostrado ser muy eficiente en múltiples aplicaciones ferroviarias.
 
-![[0d7385b2c0b66eade6d610837665e007_MD5.webp]]
+![0d7385b2c0b66eade6d610837665e007_MD5]({{ site.baseurl }}/assets/images/0d7385b2c0b66eade6d610837665e007_MD5.webp)
 
 ### II.3. POR TIPO DE TRACCIÓN → ELÉCTRICA
 
@@ -170,8 +170,8 @@ Las ventajas principales del sistema eléctrico incluyen: un rendimiento energé
 
 Sin embargo, también presenta desventajas importantes: el costo inicial muy elevado asociado a la electrificación de la infraestructura; la contaminación visual y paisajística generada por la instalación de catenarias y estructuras asociadas; y la dependencia de la disponibilidad de fuentes de energía eléctrica.
 
-![[4a9bcbcf9b8664b5f2ee338b19ff44ee_MD5.webp]]
-![[38a9ab80bb589b6c6fe1eb1f2a925c88_MD5.webp]]
+![4a9bcbcf9b8664b5f2ee338b19ff44ee_MD5]({{ site.baseurl }}/assets/images/4a9bcbcf9b8664b5f2ee338b19ff44ee_MD5.webp)
+![38a9ab80bb589b6c6fe1eb1f2a925c88_MD5]({{ site.baseurl }}/assets/images/38a9ab80bb589b6c6fe1eb1f2a925c88_MD5.webp)
 
 **CLASIFICACIÓN DE SISTEMAS ELÉCTRICOS POR TIPO DE CORRIENTE**
 
@@ -180,7 +180,7 @@ La naturaleza del sistema de corriente utilizado constituye una clasificación f
 - **TRACCIÓN ELÉCTRICA EN CORRIENTE CONTINUA (DC)**: Utiliza voltaje directo constante
 - **TRACCIÓN ELÉCTRICA EN CORRIENTE ALTERNA (AC)**: Utiliza voltaje alterno
 
-![[8546ee02f9f3b6b3344908e4f484a29b_MD5.webp]]
+![8546ee02f9f3b6b3344908e4f484a29b_MD5]({{ site.baseurl }}/assets/images/8546ee02f9f3b6b3344908e4f484a29b_MD5.webp)
 
 **UNIDADES MÚLTIPLES ELÉCTRICAS (EMU - ELECTRIC MULTIPLE UNIT)**
 
@@ -206,8 +206,8 @@ Con el avance de la electrónica de potencia, particularmente el desarrollo de s
 
 
 
-![[cfb4d50bb5dbaea9a572900492d2a129_MD5.webp]]
-![[f2de90940a558755880bdc02a9c313e5_MD5.webp]]
+![cfb4d50bb5dbaea9a572900492d2a129_MD5]({{ site.baseurl }}/assets/images/cfb4d50bb5dbaea9a572900492d2a129_MD5.webp)
+![f2de90940a558755880bdc02a9c313e5_MD5]({{ site.baseurl }}/assets/images/f2de90940a558755880bdc02a9c313e5_MD5.webp)
 ### II.4. POR TIPO DE TRACCIÓN → HIDRÓGENO
 
 ## Capítulo III. PROPULSIÓN POR HIDRÓGENO: TECNOLOGÍA EMERGENTE PARA EL FUTURO FERROVIARIO
@@ -223,8 +223,8 @@ El hidrógeno en estado gaseoso es sometido a una reacción química controlada 
 
 El conjunto del sistema es gestionado por unidades de control electrónico que optimizan el flujo de energía y el desempeño del vehículo de acuerdo a los perfiles operacionales requeridos.
 
-![[54f6b32a1adf6cdee3b88b1616fcce47_MD5.webp]]
-![[6ec3de348042000856e61502053aba2c_MD5.webp]]
+![54f6b32a1adf6cdee3b88b1616fcce47_MD5]({{ site.baseurl }}/assets/images/54f6b32a1adf6cdee3b88b1616fcce47_MD5.webp)
+![6ec3de348042000856e61502053aba2c_MD5]({{ site.baseurl }}/assets/images/6ec3de348042000856e61502053aba2c_MD5.webp)
 
 ### III.1. APLICACIONES COMERCIALES Y PROTOTIPOS: ALSTOM CORADIA iLINT
 
@@ -244,8 +244,8 @@ El vehículo está constituido por una composición de dos coches unidos mecáni
 - Tiempo de repostaje: 15 minutos
 - Velocidad máxima operacional: 140 km/h
 
-![[45539131d8eed50a6c1658e499e4eab4_MD5.webp]]
-![[d8f2a3302fd2f1ebe72d50f4179aaca3_MD5.webp]]
+![45539131d8eed50a6c1658e499e4eab4_MD5]({{ site.baseurl }}/assets/images/45539131d8eed50a6c1658e499e4eab4_MD5.webp)
+![d8f2a3302fd2f1ebe72d50f4179aaca3_MD5]({{ site.baseurl }}/assets/images/d8f2a3302fd2f1ebe72d50f4179aaca3_MD5.webp)
 
 **DESVENTAJAS Y LIMITACIONES DEL SISTEMA DE PROPULSIÓN POR HIDRÓGENO**
 
@@ -287,11 +287,11 @@ Con la proliferación de los sistemas autopropulsados, la distinción tradiciona
 
 **a) Trenes de tracción concentrada**: En estos sistemas, toda la capacidad motriz se concentra en una o varias locomotoras (también denominadas unidades motrices) que están acopladas permanentemente a la composición. Aunque los vehículos motrices están integrados de forma permanente, conservan su identidad como componentes separados. Ejemplos representativos de esta configuración incluyen algunas composiciones del sistema de Alta Velocidad (AVE) español y el tren Euromed.
 
-![[341a13bd848d62a847d82f6f498a5465_MD5.webp]]
+![341a13bd848d62a847d82f6f498a5465_MD5]({{ site.baseurl }}/assets/images/341a13bd848d62a847d82f6f498a5465_MD5.webp)
 
 **b) Trenes de tracción distribuida**: En esta arquitectura alternativa, los sistemas de tracción no se concentran en locomotoras específicas, sino que se distribuyen en varios vehículos de la composición denominados coches-motor. Estos coches-motor son vehículos que simultáneamente alojan pasajeros o carga y proporcionan capacidad motriz. Ejemplos representativos incluyen la Serie 103, el tren Civia, el Alaris y otros sistemas modernos de transporte regional.
 
-![[c6ccfbdeb5f129115cd83ea1573216d4_MD5.webp]]
+![c6ccfbdeb5f129115cd83ea1573216d4_MD5]({{ site.baseurl }}/assets/images/c6ccfbdeb5f129115cd83ea1573216d4_MD5.webp)
 
 **CONSIDERACIONES DE DISEÑO PARA ALTA VELOCIDAD**
 
@@ -323,7 +323,7 @@ Los ejes y las ruedas constituyen los elementos finales de la cadena de transmis
 Los ejes son componentes estructurales que albergan los sistemas de rodadura (ruedas) y transmiten las fuerzas longitudinales (tracción y freno) y laterales. Las ruedas son los elementos circulares que ruedan sobre los carriles, transfiriendo el peso del vehículo y permitiendo el desplazamiento controlado sobre la vía.
 
 Partes
-![[6495be2590eb9856cd508c377fd6fd1a_MD5.webp]]
+![6495be2590eb9856cd508c377fd6fd1a_MD5]({{ site.baseurl }}/assets/images/6495be2590eb9856cd508c377fd6fd1a_MD5.webp)
 
 ## Capítulo VI. Especificaciones de Gálibos: Envolventes Dimensionales de Vehículos Ferroviarios
 
@@ -339,19 +339,19 @@ En el contexto ferroviario español, la Orden FOM/1630/2015 de 14 de julio, por 
 
 **ÁMBITO DE APLICACIÓN**
 
-![[3acb3ca831c2cdd7ebbdfd55329badce_MD5.webp]]
+![3acb3ca831c2cdd7ebbdfd55329badce_MD5]({{ site.baseurl }}/assets/images/3acb3ca831c2cdd7ebbdfd55329badce_MD5.webp)
 
 La instrucción es aplicable a las líneas ferroviarias integradas en la red ferroviaria de interés general, independientemente del ancho de vía utilizado: ancho ibérico (1668 mm), ancho estándar europeo (1435 mm), o ancho métrico (1000 mm).
 
-![[24183ebc96ea2d43c199694d2bdd9fc0_MD5.webp]]
-![[c21882e111e63c19102cd70e52c9fd78_MD5.webp]]
+![24183ebc96ea2d43c199694d2bdd9fc0_MD5]({{ site.baseurl }}/assets/images/24183ebc96ea2d43c199694d2bdd9fc0_MD5.webp)
+![c21882e111e63c19102cd70e52c9fd78_MD5]({{ site.baseurl }}/assets/images/c21882e111e63c19102cd70e52c9fd78_MD5.webp)
 ### VI.1. Concepto de Gálibo Dinámico: Envolvente Dimensional Completa
 
 **DEFINICIÓN TÉCNICA**
 
 El gálibo dinámico constituye la envolvente geométrica que define el espacio máximo que puede ocupar un vehículo ferroviario durante todas las fases de su operación. Esta envolvente no es simplemente la proyección geométrica estática del vehículo, sino que incluye todos los desplazamientos posibles que pueden experimentar los puntos del vehículo debidos a causas múltiples. La envolvente integra tanto los desplazamientos predecibles (cuasiestáticos) derivados de fenómenos como la fuerza centrífuga en curvas, los efectos del peralte de la vía, y las oscilaciones predecibles debidas a irregularidades de la infraestructura, como los desplazamientos aleatorios (oscilaciones aleatorias del material en circulación) que resultan de la interacción impredecible vía-vehículo y de los posibles movimientos laterales, elásticos o permanentes de la superestructura de vía.
 
-![[b4d6b7f81944e32163617d6b9a7bad6e_MD5.webp]]
+![b4d6b7f81944e32163617d6b9a7bad6e_MD5]({{ site.baseurl }}/assets/images/b4d6b7f81944e32163617d6b9a7bad6e_MD5.webp)
 (1) Gálibo de implantación de obstáculos
 (2) Perfil constructivo máximo del material
 (3) Suma de los movimientos del vehículo y de los fenómenos de interacción con la infraestructura
@@ -400,8 +400,8 @@ La especificación normativa utiliza una serie de parámetros y referencias téc
 - Márgenes complementarios laterales: $M_{3b}$ que proporciona espacios de seguridad adicionales
 - Gálibo nominal de implantación de obstáculos: Límite final de operación
 
-![[86179c8558f4a8181a366f427617454c_MD5.webp]]
-![[a842329cc7f320f4fa2298771d86377e_MD5.webp]]
+![86179c8558f4a8181a366f427617454c_MD5]({{ site.baseurl }}/assets/images/86179c8558f4a8181a366f427617454c_MD5.webp)
+![a842329cc7f320f4fa2298771d86377e_MD5]({{ site.baseurl }}/assets/images/a842329cc7f320f4fa2298771d86377e_MD5.webp)
 
 **PARÁMETROS DE ALTURA EN ACUERDOS VERTICALES**
 
@@ -415,27 +415,27 @@ $h_{\text{umin}}$: La altura mínima considerada para el desplazamiento vertical
 $h_{\text{omin}}$: La altura mínima considerada para el desplazamiento vertical del material rodante por encima del contorno de referencia cuando circula en acuerdos verticales convexos. Este parámetro define cuánto puede "elevarse" el vehículo
 $R_{\text{vmin}}$: El radio de curvatura mínimo del acuerdo vertical que debe considerarse en el diseño de la infraestructura
 
-![[527f0fdd7c6fcd8602a92cc297ce0b45_MD5.webp]]
+![527f0fdd7c6fcd8602a92cc297ce0b45_MD5]({{ site.baseurl }}/assets/images/527f0fdd7c6fcd8602a92cc297ce0b45_MD5.webp)
 
 **EJEMPLOS DE GÁLIBOS NORMALIZADOS ESPAÑOLES**
 
 En el contexto de la normativa ferroviaria española, se definen varios gálibos específicos según el ancho de vía y la naturaleza (nuevo o histórico) del vehículo:
 
 Gálibo GEA16 (Ancho ibérico 1668mm, vehículos nuevos de mayor envergadura):
-![[5aba2e01c05629c16055df02aa85c637_MD5.webp]]
+![5aba2e01c05629c16055df02aa85c637_MD5]({{ site.baseurl }}/assets/images/5aba2e01c05629c16055df02aa85c637_MD5.webp)
 
 Gálibo GEE10 (Ancho métrico 1000mm, vehículos nuevos):
-![[7b8ece239e80e549afaf2d23f6ffa669_MD5.webp]]
+![7b8ece239e80e549afaf2d23f6ffa669_MD5]({{ site.baseurl }}/assets/images/7b8ece239e80e549afaf2d23f6ffa669_MD5.webp)
 
 ## Capítulo VII. Especificaciones de Gálibos de Partes Bajas: Envolventes Inferiores de Vehículos
 
 Las especificaciones de gálibos para las partes bajas del vehículo constituyen un aspecto técnico especializado que requiere consideraciones particulares. Estas envolventes definen los límites dimensionales de los componentes y sistemas situados en las zonas bajas del vehículo que podrían entrar en contacto con obstáculos, elementos de vía o infraestructura adyacente.
 
-![[661e6fc871bb8ed08c2e18f1a001a138_MD5.webp]]
+![661e6fc871bb8ed08c2e18f1a001a138_MD5]({{ site.baseurl }}/assets/images/661e6fc871bb8ed08c2e18f1a001a138_MD5.webp)
 
 **GÁLIBO GEI1**
 
-![[bb78f1a5b95d77e7844ef11d3ff1be8d_MD5.webp]]
+![bb78f1a5b95d77e7844ef11d3ff1be8d_MD5]({{ site.baseurl }}/assets/images/bb78f1a5b95d77e7844ef11d3ff1be8d_MD5.webp)
 
 **GÁLIBO GEI2**
 
@@ -454,10 +454,10 @@ El sistema de rodadura de un vehículo ferroviario define cómo se transmiten y 
 **CONFIGURACIONES DE RODADURA EN COCHES**
 
 En los vehículos de pasajeros, existen dos configuraciones fundamentales de sistemas de ejes y bogies:
-![[c772b47b997ab19566acc97fef0abdd3_MD5.webp]]
+![c772b47b997ab19566acc97fef0abdd3_MD5]({{ site.baseurl }}/assets/images/c772b47b997ab19566acc97fef0abdd3_MD5.webp)
 **Coches de ejes/rodales simples**: En esta configuración, el vehículo descansa directamente sobre ejes simples sin que exista un bogie intermedio. Esta es una configuración más simple y económica, pero con limitaciones en velocidad y confort.
 
-![[c99af4fe8d15e569876c54cfc05cfdb9_MD5.webp]]
+![c99af4fe8d15e569876c54cfc05cfdb9_MD5]({{ site.baseurl }}/assets/images/c99af4fe8d15e569876c54cfc05cfdb9_MD5.webp)
 
 **Coches de bogies**: En esta configuración más moderna y convencional, el vehículo descansa sobre dos bogies, típicamente de dos ejes cada uno. Esta configuración proporciona mejor comportamiento dinámico, mayor capacidad de velocidad, y mejor confort de los viajeros.
 
@@ -466,21 +466,21 @@ En los vehículos de pasajeros, existen dos configuraciones fundamentales de sis
 Más allá del tipo de rodadura, los coches pueden clasificarse según su disposición longitudinal:
 
 **Coches no articulados**: Vehículos independientes que se unen mecánicamente con otros vehículos mediante sistemas de enganches estándar. Cada coche tiene su propia estructura completa independiente.
-![[0aa15f2726e6e08e018abb3d497aec84_MD5.webp]]
-![[b3531d7d5ef0a8d77f7f9d5ec2d2e211_MD5.webp]]
+![0aa15f2726e6e08e018abb3d497aec84_MD5]({{ site.baseurl }}/assets/images/0aa15f2726e6e08e018abb3d497aec84_MD5.webp)
+![b3531d7d5ef0a8d77f7f9d5ec2d2e211_MD5]({{ site.baseurl }}/assets/images/b3531d7d5ef0a8d77f7f9d5ec2d2e211_MD5.webp)
 
 
 **Coches articulados**: En esta configuración especial, dos coches comparten un bogie común. El bogie central actúa como elemento de soporte para ambos vehículos, lo que permite reducir peso, mejorar la eficiencia espacial y optimizar la dinámica de la composición.
 
-![[d0d91445df7191dbd78f91982331dc47_MD5.webp]]
-![[98ca7b7285bec34afd0172ee64005547_MD5.webp]]
+![d0d91445df7191dbd78f91982331dc47_MD5]({{ site.baseurl }}/assets/images/d0d91445df7191dbd78f91982331dc47_MD5.webp)
+![98ca7b7285bec34afd0172ee64005547_MD5]({{ site.baseurl }}/assets/images/98ca7b7285bec34afd0172ee64005547_MD5.webp)
 
 ### VIII.1. Análisis Detallado de Ejes, Ruedas y Configuraciones de Rodadura
 
 **TIPOS DE CONFIGURACIÓN DE EJES**
 
-![[d889d8527b5386abbf63f9d6d08052fc_MD5.webp]]
-![[2531ac6a70b8f96f6972b28594f54bcb_MD5.webp]]
+![d889d8527b5386abbf63f9d6d08052fc_MD5]({{ site.baseurl }}/assets/images/d889d8527b5386abbf63f9d6d08052fc_MD5.webp)
+![2531ac6a70b8f96f6972b28594f54bcb_MD5]({{ site.baseurl }}/assets/images/2531ac6a70b8f96f6972b28594f54bcb_MD5.webp)
 Material rígido con ejes paralelos sin desplazamientos.
 
 En esta configuración, los ejes del vehículo están dispuestos de forma paralela sin posibilidad de desplazamiento relativo. Esta es una configuración simple pero limitada.
@@ -488,8 +488,8 @@ En esta configuración, los ejes del vehículo están dispuestos de forma parale
 
 
 
-![[49c6b20fa275dbb7b228eaab521e9e1d_MD5.webp]]
-![[f8e9a8a8a4eb366904388e9e8cd17222_MD5.webp]]
+![49c6b20fa275dbb7b228eaab521e9e1d_MD5]({{ site.baseurl }}/assets/images/49c6b20fa275dbb7b228eaab521e9e1d_MD5.webp)
+![f8e9a8a8a4eb366904388e9e8cd17222_MD5]({{ site.baseurl }}/assets/images/f8e9a8a8a4eb366904388e9e8cd17222_MD5.webp)
 Material rígido con ejes paralelos con desplazamiento.
 
 En esta configuración mejorada, aunque los ejes permanecen fundamentalmente paralelos, el sistema permite cierto desplazamiento controlado que mejora la inscripción en curvas.
@@ -498,23 +498,23 @@ En esta configuración mejorada, aunque los ejes permanecen fundamentalmente par
 
 El bogie constituye el elemento fundamental para la suspensión y guía del vehículo ferroviario. Su diseño y configuración determinan en gran medida el comportamiento dinámico, la velocidad máxima permitida, y el confort de operación.
 
-![[872f8569bc5b9a32c48700e2e81b5acf_MD5.webp]]
+![872f8569bc5b9a32c48700e2e81b5acf_MD5]({{ site.baseurl }}/assets/images/872f8569bc5b9a32c48700e2e81b5acf_MD5.webp)
 
 **COMPONENTES PRINCIPALES DEL BOGIE**
 
-![[95b13cbf6718dadf4cf985017132c1de_MD5.webp]]
-![[3b427a4a74f810d406891a36e4a02ee2_MD5.webp]]
+![95b13cbf6718dadf4cf985017132c1de_MD5]({{ site.baseurl }}/assets/images/95b13cbf6718dadf4cf985017132c1de_MD5.webp)
+![3b427a4a74f810d406891a36e4a02ee2_MD5]({{ site.baseurl }}/assets/images/3b427a4a74f810d406891a36e4a02ee2_MD5.webp)
 
 El bogie moderno integra múltiples subsistemas que trabajan de forma coordinada para proporcionar soporte, control y tracción eficiente. Estos componentes incluyen la estructura portante, los sistemas de suspensión primaria y secundaria, los motores de tracción, los reductores de velocidad, y los mecanismos de freno especializados.
 
-![[558580ea525a09510a507edc2c0329d1_MD5.webp]]
+![558580ea525a09510a507edc2c0329d1_MD5]({{ site.baseurl }}/assets/images/558580ea525a09510a507edc2c0329d1_MD5.webp)
 
 
 **BOGIES COMPARTIDOS: EFICIENCIA EN COMPOSICIONES ARTICULADAS**
 
 En las composiciones articuladas modernas, particularmente en sistemas como el Civia, se utiliza la configuración de bogie compartido entre vagones. Este bogie centralizado actúa como elemento de soporte para dos coches adyacentes, lo que presenta ventajas significativas en términos de reducción de peso, optimización espacial, y mejora de la dinámica general de la composición.
 
-![[a5337f2b0905a326d456acc1980bda32_MD5.webp]]
+![a5337f2b0905a326d456acc1980bda32_MD5]({{ site.baseurl }}/assets/images/a5337f2b0905a326d456acc1980bda32_MD5.webp)
 Bogie compartido
 
 ## Capítulo IX. Locomotoras: Clasificación, Nomenclatura y Configuraciones de Ejes
@@ -547,14 +547,14 @@ El sistema de nomenclatura UIC (Unión Internacional de Ferrocarriles) proporcio
 
 
 - **Bo'Bo'**: Esta es la configuración más común en locomotoras eléctricas y diésel modernas de velocidad media y media-alta. Consiste en dos bogies idénticos, cada uno con dos ejes motores impulsados individualmente. Esta configuración proporciona un balance óptimo entre capacidad de tracción, velocidad y adaptabilidad a diferentes líneas.
-![[75ffd89f13af5bb2475d7f0f9f0dcd78_MD5.webp]]
+![75ffd89f13af5bb2475d7f0f9f0dcd78_MD5]({{ site.baseurl }}/assets/images/75ffd89f13af5bb2475d7f0f9f0dcd78_MD5.webp)
 - **Co'Co'**: Esta configuración se utiliza en locomotoras de mercancías pesadas donde se requiere máxima capacidad de tracción. Consiste en dos bogies idénticos, cada uno con tres ejes motores impulsados individualmente. Esta configuración proporciona la máxima adherencia y capacidad de arrastre, aunque a costa de una velocidad máxima inferior.
-![[54ad1859f7d198eea50f2021d036f0f7_MD5.webp]]
+![54ad1859f7d198eea50f2021d036f0f7_MD5]({{ site.baseurl }}/assets/images/54ad1859f7d198eea50f2021d036f0f7_MD5.webp)
 **EJEMPLOS DE NOTACIÓN UIC DE LOCOMOTORAS EN USO**
 
 Diversos ejemplos de notación UIC aplicados a locomotoras reales de diferentes tipos y épocas, mostrando la flexibilidad y claridad del sistema de clasificación.
 
-![[8c192a5618c49549c03792be23431ecb_MD5.webp]]
+![8c192a5618c49549c03792be23431ecb_MD5]({{ site.baseurl }}/assets/images/8c192a5618c49549c03792be23431ecb_MD5.webp)
 
 Más ejemplos de configuraciones UIC que demuestran la diversidad de diseños de locomotoras existentes en la red ferroviaria europea y mundial.
 
@@ -566,8 +566,8 @@ Los tractores constituyen una categoría especial de vehículos ferroviarios dis
 
 Se denominan tractores a máquinas, normalmente de tracción diésel, que se emplean específicamente para maniobras en playas de vías, talleres de reparación y cocheras de mantenimiento. Su diseño enfatiza la capacidad de generación de fuerza tractora más que la velocidad de circulación. La potencia disponible se orienta primordialmente hacia la generación de un esfuerzo de tracción muy elevado, permitiendo el movimiento de cargas muy pesadas o la maniobra de composiciones completas en espacios restringidos.
 
-![[ab0b220e2dd0fa8328516f99014100cf_MD5.webp]]
-![[dee68f0066ee298a8c6fc53efd1104a5_MD5.webp]]
+![ab0b220e2dd0fa8328516f99014100cf_MD5]({{ site.baseurl }}/assets/images/ab0b220e2dd0fa8328516f99014100cf_MD5.webp)
+![dee68f0066ee298a8c6fc53efd1104a5_MD5]({{ site.baseurl }}/assets/images/dee68f0066ee298a8c6fc53efd1104a5_MD5.webp)
 
 Estos vehículos especializados representan una categoría operacional importante que permite la función crítica de movimiento y posicionamiento de equipos ferroviarios cuando no se encuentran en servicio, facilitando así las operaciones de mantenimiento, almacenamiento y distribución dentro de la infraestructura ferroviaria.
 
@@ -583,10 +583,10 @@ Se denomina "vagones" específicamente a los vehículos diseñados para el trans
 
 En ambos tipos de material remolcado, la caja o carrocería del vehículo se encuentra montada sobre un bastidor portante que actúa como estructura de soporte y transmisión de cargas. Este bastidor, a su vez, descansa sobre el tren de rodado, que está constituido por ejes simples o por bogies, típicamente de dos ejes cada uno. Esta estructura modular permite adaptar la capacidad de carga y las características operacionales del vehículo a las necesidades específicas de cada aplicación.
 
-![[f795d0808b5303b40dd1de8fbcb87924_MD5.webp]]
-![[c2537d68ca73f7ba5941c32ee2c3efa6_MD5.webp]]
-![[ad07e008aa5da1537f04ec0d9c5a5342_MD5.webp]]
-![[e33c75f3ba449ceb56257649997e7e9b_MD5.webp]]
+![f795d0808b5303b40dd1de8fbcb87924_MD5]({{ site.baseurl }}/assets/images/f795d0808b5303b40dd1de8fbcb87924_MD5.webp)
+![c2537d68ca73f7ba5941c32ee2c3efa6_MD5]({{ site.baseurl }}/assets/images/c2537d68ca73f7ba5941c32ee2c3efa6_MD5.webp)
+![ad07e008aa5da1537f04ec0d9c5a5342_MD5]({{ site.baseurl }}/assets/images/ad07e008aa5da1537f04ec0d9c5a5342_MD5.webp)
+![e33c75f3ba449ceb56257649997e7e9b_MD5]({{ site.baseurl }}/assets/images/e33c75f3ba449ceb56257649997e7e9b_MD5.webp)
 
 ## Capítulo XII. Mercancías: Tipología, Características y Composiciones de Vagones de Carga
 
@@ -622,59 +622,59 @@ La diversidad de vagones modernos resulta de la especialización del transporte 
 - **Según la actividad comercial especializada**: Abiertos, cerrados, plataformas, cisternas, portacontenedores, tolvas, refrigerados, y múltiples configuraciones especiales
 
 
-![[8fa1d5149acd45fb83ef92b3b0db8a79_MD5.webp]]
+![8fa1d5149acd45fb83ef92b3b0db8a79_MD5]({{ site.baseurl }}/assets/images/8fa1d5149acd45fb83ef92b3b0db8a79_MD5.webp)
 
 
 ### XII.1. Vagón de Mercancías Cerrado: Protección de Carga Frente a Intemperie
 
 Este tipo de vagón está específicamente diseñado para el transporte de mercancías pesadas que requieren protección contra las condiciones climáticas adversas. La cubierta integral protege la carga de lluvia, viento y polvo. Ejemplos típicos de mercancías transportadas incluyen bobinas metálicas, barras de aluminio y otros productos metalúrgicos sensibles a la oxidación y corrosión provocada por la humedad.
 
-![[559e36b1673cdf95cf42fbfc380ed51b_MD5.webp]]
+![559e36b1673cdf95cf42fbfc380ed51b_MD5]({{ site.baseurl }}/assets/images/559e36b1673cdf95cf42fbfc380ed51b_MD5.webp)
 
-![[3f432f0671cb4c497d07d4ec60c50af6_MD5.webp]]
+![3f432f0671cb4c497d07d4ec60c50af6_MD5]({{ site.baseurl }}/assets/images/3f432f0671cb4c497d07d4ec60c50af6_MD5.webp)
 ### XII.2. Vagón de Mercancías a Granel: Transporte de Cereales y Productos Similares
 
 Este tipo de vagón está especializado en el transporte eficiente de productos agrícolas y cereales en su forma granulada. El diseño de tolva permite la carga y descarga rápida mediante sistemas de gravedad o neumáticos. Los productos típicamente transportados mediante este tipo de vagón incluyen diversos tipos de cereales (trigo, centeno, avena, cebada, maíz) que requieren protección contra la humedad pero permiten operaciones de carga/descarga rápidas.
-![[165cd592996695ee4d6cba4a614d68ff_MD5.webp]]
-![[e8c5231260e4a126c80756658e050a6d_MD5.webp]]
+![165cd592996695ee4d6cba4a614d68ff_MD5]({{ site.baseurl }}/assets/images/165cd592996695ee4d6cba4a614d68ff_MD5.webp)
+![e8c5231260e4a126c80756658e050a6d_MD5]({{ site.baseurl }}/assets/images/e8c5231260e4a126c80756658e050a6d_MD5.webp)
 
 ### XII.2.1. Vagón de Mercancías de Bordes o Caja Abierta: Carga a Granel Pesada
 
 Este tipo de vagón presenta una estructura abierta en la parte superior, permitiendo carga y descarga conveniente desde arriba mediante grúas o excavadoras. La ausencia de cobertura permite cargar materiales granel de gran densidad. El transporte típico mediante este tipo de vagón incluye materiales como carbón mineral, coque metalúrgico, lastre ferroviario, grava de construcción, y chatarra metálica reciclada.
 
-![[45b81b09c355038f50acf093306ef13b_MD5.webp]]
-![[1345cebf9bddc53983358a93e204b930_MD5.webp]]
+![45b81b09c355038f50acf093306ef13b_MD5]({{ site.baseurl }}/assets/images/45b81b09c355038f50acf093306ef13b_MD5.webp)
+![1345cebf9bddc53983358a93e204b930_MD5]({{ site.baseurl }}/assets/images/1345cebf9bddc53983358a93e204b930_MD5.webp)
 
 ### XII.3. Vagón de Mercancías Plano: Transporte de Carga de Gran Volumen
 
 Los vagones de plataforma se caracterizan por una estructura fundamentalmente abierta, con piso plano a baja altura, ideal para cargas voluminosas que se distribuyen transversalmente. La ausencia de paredes permite una flexibilidad máxima en la forma y tamaño de la carga. Este tipo de vagón transporta típicamente tuberías de acero, máquinas pesadas, barras y perfiles de acero, y productos de madera en forma de tablones o vigas.
 
-![[e8b067e3b6b80786835ab9998762c199_MD5.webp]]
-![[289d9c3bc4cbf6c14b108baf0beadc44_MD5.webp]]
+![e8b067e3b6b80786835ab9998762c199_MD5]({{ site.baseurl }}/assets/images/e8b067e3b6b80786835ab9998762c199_MD5.webp)
+![289d9c3bc4cbf6c14b108baf0beadc44_MD5]({{ site.baseurl }}/assets/images/289d9c3bc4cbf6c14b108baf0beadc44_MD5.webp)
 
 ### XII.4. Vagón de Mercancías Cisterna: Transporte de Líquidos y Gases
 
 Los vagones cisterna están diseñados específicamente para el transporte seguro y eficiente de productos en estado líquido o gaseoso. La estructura consiste en depósitos de acero sometidos a presión controlada, provistos de sistemas especializados de carga y descarga. La diversidad de productos transportados mediante cisternas ferroviarias es muy amplia e incluye productos químicos industriales, aceites minerales refinados, gases bajo presión en estado licuado (como propano o butano), y otros productos especializados.
 
-![[0dc291620568a6e1f82f2757a16de1d0_MD5.webp]]
+![0dc291620568a6e1f82f2757a16de1d0_MD5]({{ site.baseurl }}/assets/images/0dc291620568a6e1f82f2757a16de1d0_MD5.webp)
 
 Una subcategoría especial de vagones cisterna está dedicada al transporte de materiales de construcción y perfilería estructural metálica que requiere protección durante el tránsito:
 
-![[4425140392d16f89bc6dc53751018c8f_MD5.webp]]
-![[5d70f465bd135b9eb8a5b43a357e6a67_MD5.webp]]
+![4425140392d16f89bc6dc53751018c8f_MD5]({{ site.baseurl }}/assets/images/4425140392d16f89bc6dc53751018c8f_MD5.webp)
+![5d70f465bd135b9eb8a5b43a357e6a67_MD5]({{ site.baseurl }}/assets/images/5d70f465bd135b9eb8a5b43a357e6a67_MD5.webp)
 
 ### XII.5. Vagón de Mercancías Porta-Contenedores: Transporte Intermodal Normalizado
 
 Este tipo de vagón ha revolucionado la operación del transporte ferroviario mediante su compatibilidad con contenedores ISO normalizados. Los vagones porta-contenedores disponen de sistemas de fijación estandarizados que permiten el transporte seguro de contenedores de múltiples tamaños (20', 40', etc.). Esta configuración facilita la transferencia intermodal entre transporte ferroviario, transporte de carretera mediante camiones, y transporte marítimo mediante buques porta-contenedores.
 
-![[af1faa31de6a3df471f0d9cd8abe4785_MD5.webp]]
-![[b0c7f5c0f632e54de31ac128f25c411c_MD5.webp]]
+![af1faa31de6a3df471f0d9cd8abe4785_MD5]({{ site.baseurl }}/assets/images/af1faa31de6a3df471f0d9cd8abe4785_MD5.webp)
+![b0c7f5c0f632e54de31ac128f25c411c_MD5]({{ site.baseurl }}/assets/images/b0c7f5c0f632e54de31ac128f25c411c_MD5.webp)
 
 ### XII.6. Vagón de Mercancías Refrigerado: Preservación de Productos Perecederos
 
 Este tipo de vagón incorpora sistemas activos de refrigeración que permiten mantener temperaturas controladas durante todo el recorrido. Estos vagones están especialmente diseñados para el transporte de productos alimentarios perecederos, incluyendo alimentos frescos, productos cárnicos, pescado congelado, frutas y verduras, y otros productos que requieren cadena de frío controlada.
 
-![[b71653d28d22b612e5a7f9372c6b1c18_MD5.webp]]
+![b71653d28d22b612e5a7f9372c6b1c18_MD5]({{ site.baseurl }}/assets/images/b71653d28d22b612e5a7f9372c6b1c18_MD5.webp)
 
 ### XII.6.1. Vagones de Mercancías Especiales o Personalizados
 
@@ -682,26 +682,26 @@ Dentro del portafolio de vagones disponibles, existe una categoría importante d
 
 El transporte ferroviario customizado de productos especializados permite adaptar la configuración del vagón a las necesidades muy particulares del cliente, optimizando la eficiencia operacional y reduciendo los riesgos de daño durante el tránsito:
 
-![[c972fbd81acb40786306b8c19f93a7eb_MD5.webp]]
-![[28b40f2ca4efe0249bf7baf46ab5e6ca_MD5.webp]]
+![c972fbd81acb40786306b8c19f93a7eb_MD5]({{ site.baseurl }}/assets/images/c972fbd81acb40786306b8c19f93a7eb_MD5.webp)
+![28b40f2ca4efe0249bf7baf46ab5e6ca_MD5]({{ site.baseurl }}/assets/images/28b40f2ca4efe0249bf7baf46ab5e6ca_MD5.webp)
 
 ### XII.7. Vagon portacoches
-![[2297418a1542661c801810c593dcadce_MD5.webp]]
-![[c00f9c69a3ab053e844edd4d7418ddab_MD5.webp]]
+![2297418a1542661c801810c593dcadce_MD5]({{ site.baseurl }}/assets/images/2297418a1542661c801810c593dcadce_MD5.webp)
+![c00f9c69a3ab053e844edd4d7418ddab_MD5]({{ site.baseurl }}/assets/images/c00f9c69a3ab053e844edd4d7418ddab_MD5.webp)
 
 ### XII.8. Vagón de Mercancías 'Schnabel': Transporte de Cargas Extraordinarias
 
 El nombre alemán "schnabel" (que significa "pico") describe la forma característica de este vagón especializado. Está diseñado específicamente para el transporte de cargas pesadas y sobredimensionadas que excedan los límites estándar de altura o peso. La configuración permite reducir la altura de la carga mediante posicionamiento especial dentro de gálibos dimensionales restrictivos.
 
-![[878abfbf9cda3798ce7705bc3824c820_MD5.webp]]
-![[bc4d58765c9376315119624c4416fcc8_MD5.webp]]
+![878abfbf9cda3798ce7705bc3824c820_MD5]({{ site.baseurl }}/assets/images/878abfbf9cda3798ce7705bc3824c820_MD5.webp)
+![bc4d58765c9376315119624c4416fcc8_MD5]({{ site.baseurl }}/assets/images/bc4d58765c9376315119624c4416fcc8_MD5.webp)
 
 ### XII.9. Vagón Extremo de Mercancías 'Caboose': Tradición Operacional Norteamericana
 
 El término "caboose" de origen norteamericano describe un tipo de vagón especial que se acoplaba al final (extremo) de los trenes de mercancías tradicionales. Su función era proporcionar alojamiento para la tripulación ferroviaria y servir como punto de observación desde el que los trabajadores pudieran ayudar en operaciones de maniobra, vigilancia de la composición durante el recorrido, y garantizar la seguridad del tren. Con la modernización de los sistemas ferroviarios y la implementación de controles remotos, este tipo de vagón ha dejado de ser común, aunque representa un elemento histórico importante en la evolución del transporte ferroviario.
 
-![[dff61e7048669fde108704d86fca1de1_MD5.webp]]
-![[d2af8e81be90ca1a1404a122aa7a0092_MD5.webp]]
+![dff61e7048669fde108704d86fca1de1_MD5]({{ site.baseurl }}/assets/images/dff61e7048669fde108704d86fca1de1_MD5.webp)
+![d2af8e81be90ca1a1404a122aa7a0092_MD5]({{ site.baseurl }}/assets/images/d2af8e81be90ca1a1404a122aa7a0092_MD5.webp)
 
 ### XII.10. Composiciones de Trenes de Mercancías: Especificaciones Técnicas de Composiciones Tipo
 
@@ -719,7 +719,7 @@ Las siguientes tablas presentan especificaciones técnicas normalizadas para com
 
 Para líneas con inclinaciones de hasta 12 milésimas (rampas moderadas), las composiciones están configuradas con los siguientes parámetros:
 
-![[bca28605dfc933f6cedac26490667dbb_MD5.webp]]
+![bca28605dfc933f6cedac26490667dbb_MD5]({{ site.baseurl }}/assets/images/bca28605dfc933f6cedac26490667dbb_MD5.webp)
 
 **Composiciones de Mercancías con Rampa del 18‰**
 
@@ -797,8 +797,8 @@ La selección del número de niveles es una decisión de diseño fundamental que
 
 - Los coches de un piso convencional son la configuración más tradicional, maximizando el confort de los pasajeros y simplificando el acceso
 - Los coches de dos pisos aumentan la capacidad de transporte de pasajeros (típicamente en 35-40%) al utilizar más eficientemente el espacio disponible, aunque con algunas limitaciones en confort y restricciones en líneas con gálibos limitados
-![[78f7881d44ed6a8d45cb34063b421b74_MD5.webp]]
-![[f76e20bf07c6f5267617d48334161606_MD5.webp]]
+![78f7881d44ed6a8d45cb34063b421b74_MD5]({{ site.baseurl }}/assets/images/78f7881d44ed6a8d45cb34063b421b74_MD5.webp)
+![f76e20bf07c6f5267617d48334161606_MD5]({{ site.baseurl }}/assets/images/f76e20bf07c6f5267617d48334161606_MD5.webp)
 
 
 **Cajas de ancho estándar versus cajas ampliadas**
@@ -809,7 +809,7 @@ La dimensión lateral de la caja representa un compromiso entre capacidad, acces
 - Los coches de caja ancha (dentro de los gálibos permitidos) proporcionan mayor espacio interior para pasajeros y servicios, mejorando significativamente el confort
 
 
-![[4cd5ce99fd635ac11eb99eabfbe82721_MD5.webp]]
+![4cd5ce99fd635ac11eb99eabfbe82721_MD5]({{ site.baseurl }}/assets/images/4cd5ce99fd635ac11eb99eabfbe82721_MD5.webp)
 
 
 **Sistemas de suspensión: Coches rígidos, basculantes y pendulares**
@@ -820,13 +820,13 @@ La capacidad de inclinación en curvas constituye un parámetro operacional impo
 - **Coches basculantes**: Incorporan sistemas activos o semiactivos que permiten una inclinación controlada del interior de la caja en curvas, mejorando significativamente el confort y permitiendo mayores velocidades sin incomodidad
 - **Coches pendulares**: Utilizan mecanismos avanzados que permiten máxima inclinación aprovechando el peralte de la vía, permitiendo operación a velocidades superiores en líneas curvas
 
-![[207100db0c0b04bf72a73ef4edf7cd06_MD5.webp]]
+![207100db0c0b04bf72a73ef4edf7cd06_MD5]({{ site.baseurl }}/assets/images/207100db0c0b04bf72a73ef4edf7cd06_MD5.webp)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DbJfSDG_dYU?si=S1LDYZV8iFoq5HQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 SISTEMA ACTIVO PENDOLINO
-![[cd85b1ce1ad829705c6eb72951e34e05_MD5.webp]]
+![cd85b1ce1ad829705c6eb72951e34e05_MD5]({{ site.baseurl }}/assets/images/cd85b1ce1ad829705c6eb72951e34e05_MD5.webp)
 
-![[8970700e91f558c83e5f94e9f3854524_MD5.webp]]
+![8970700e91f558c83e5f94e9f3854524_MD5]({{ site.baseurl }}/assets/images/8970700e91f558c83e5f94e9f3854524_MD5.webp)
 SISTEMA PASIVO TALGO
 
 ### XIV.1. Coches de Viajeros: Características de Diseño y Configuración Operacional
@@ -839,10 +839,10 @@ El diseño de un coche de viajeros se estructura alrededor de varios parámetros
 - **Número y anchura de puertas**: Determina la capacidad de embarque y desembarque de pasajeros, afectando directamente los tiempos de estación
 - **Distribución y configuración de asientos**: Define la capacidad de pasajeros sentados versus de pie, el confort general, y la versatilidad para diferentes servicios
 
-![[226c2c450ffcbdab3da6aeea2932efc4_MD5.webp]]
-![[d26a15601ae89a43b141cfefe34bc126_MD5.webp]]
-![[74390899e9623d9de53f2688e630b514_MD5.webp]]
-![[97452ae0d1d25340c34e9c9d225d0633_MD5.webp]]
+![226c2c450ffcbdab3da6aeea2932efc4_MD5]({{ site.baseurl }}/assets/images/226c2c450ffcbdab3da6aeea2932efc4_MD5.webp)
+![d26a15601ae89a43b141cfefe34bc126_MD5]({{ site.baseurl }}/assets/images/d26a15601ae89a43b141cfefe34bc126_MD5.webp)
+![74390899e9623d9de53f2688e630b514_MD5]({{ site.baseurl }}/assets/images/74390899e9623d9de53f2688e630b514_MD5.webp)
+![97452ae0d1d25340c34e9c9d225d0633_MD5]({{ site.baseurl }}/assets/images/97452ae0d1d25340c34e9c9d225d0633_MD5.webp)
 
 **TIPOLOGÍAS DE COCHES ESPECIALIZADOS**
 
@@ -856,7 +856,7 @@ El transporte de pasajeros ferroviario ha desarrollado múltiples tipologías es
 - **Coches panorámicos**: Equipados con ventanas ampliadas o vistas al exterior para observación del paisaje, típicos en líneas turísticas
 - Múltiples configuraciones especializadas según necesidades operacionales
 
-![[1e5c2b77749b18bf42afb0d9f40facdb_MD5.webp]]
+![1e5c2b77749b18bf42afb0d9f40facdb_MD5]({{ site.baseurl }}/assets/images/1e5c2b77749b18bf42afb0d9f40facdb_MD5.webp)
 
 
 
@@ -872,15 +872,15 @@ Los sistemas de ferrocarril español y europeo presentan una característica ope
 - **Sistemas de ancho fijo**: Diseñados para un ancho específico, optimizados para rendimiento pero con limitaciones de interoperabilidad
 - **Sistemas de ancho variable**: Equipados con sistemas de ruedas adaptables que permiten circulación en vías de diferentes anchos, proporcionando máxima flexibilidad pero con ligeras reducciones en rendimiento
 
-![[78e8f1827579ad4906a4f9dc4e4adfd7_MD5.webp]]
+![78e8f1827579ad4906a4f9dc4e4adfd7_MD5]({{ site.baseurl }}/assets/images/78e8f1827579ad4906a4f9dc4e4adfd7_MD5.webp)
 
-![[7116d911f9c4fe83c4ce9a6e739e9bac_MD5.webp]]
+![7116d911f9c4fe83c4ce9a6e739e9bac_MD5]({{ site.baseurl }}/assets/images/7116d911f9c4fe83c4ce9a6e739e9bac_MD5.webp)
 
 **ANCHO FIJO**
 
-![[2ca8d9c19be803f64242917ce875f5e6_MD5.webp]]
+![2ca8d9c19be803f64242917ce875f5e6_MD5]({{ site.baseurl }}/assets/images/2ca8d9c19be803f64242917ce875f5e6_MD5.webp)
 
-![[ea4e8fc7c77c23176a24a077b1a19d37_MD5.webp]]
+![ea4e8fc7c77c23176a24a077b1a19d37_MD5]({{ site.baseurl }}/assets/images/ea4e8fc7c77c23176a24a077b1a19d37_MD5.webp)
 
 **ANCHO VARIABLE**
 
@@ -888,33 +888,33 @@ Los sistemas de ferrocarril español y europeo presentan una característica ope
 
 Los trenes de alta velocidad representan la frontera máxima de prestaciones en transporte ferroviario. Diseñados específicamente para operación a velocidades superiores a 300 km/h en líneas de infraestructura muy precisa:
 
-![[af0133f7ae6eb33cd05ef06cf1dc9031_MD5.webp]]
-![[8c2c771f2cbbc68a4e0c031b9f344aaf_MD5.webp]]
+![af0133f7ae6eb33cd05ef06cf1dc9031_MD5]({{ site.baseurl }}/assets/images/af0133f7ae6eb33cd05ef06cf1dc9031_MD5.webp)
+![8c2c771f2cbbc68a4e0c031b9f344aaf_MD5]({{ site.baseurl }}/assets/images/8c2c771f2cbbc68a4e0c031b9f344aaf_MD5.webp)
 Los sistemas de alta velocidad requieren una precisión geométrica extraordinaria en la infraestructura ferroviaria y sistemas de tracción y control muy sofisticados. Las prestaciones dinámicas y el confort del viajero alcanzan niveles sin precedentes.
 
-![[152385cc7ac741d6228dd80711fd2adb_MD5.webp]]
-![[411e2b8a9e425f909c98263d68728793_MD5.webp]]
+![152385cc7ac741d6228dd80711fd2adb_MD5]({{ site.baseurl }}/assets/images/152385cc7ac741d6228dd80711fd2adb_MD5.webp)
+![411e2b8a9e425f909c98263d68728793_MD5]({{ site.baseurl }}/assets/images/411e2b8a9e425f909c98263d68728793_MD5.webp)
 
 #### XIV.2.2. Trenes Alvia: Compatibilidad Multistandar de Larga Distancia
 
 Los trenes Alvia representan una solución operacional importante para servicios de larga distancia que requieren circular en múltiples tramos de infraestructura con diferentes características (velocidades, anchos de vía, electrificación):
 
-![[23966bba569c04c040863bdeba1e81f3_MD5.webp]]
+![23966bba569c04c040863bdeba1e81f3_MD5]({{ site.baseurl }}/assets/images/23966bba569c04c040863bdeba1e81f3_MD5.webp)
 
 **Serie 120 CAF**: Representan un diseño español de tracción diésel multistandar muy exitoso
 
 **Serie 130 Talgo/Bombardier**: Otra solución importante para servicios de larga distancia con compatibilidad de múltiples sistemas
 
-![[043dd9272845bed22685711491ee131e_MD5.webp]]
+![043dd9272845bed22685711491ee131e_MD5]({{ site.baseurl }}/assets/images/043dd9272845bed22685711491ee131e_MD5.webp)
 
 #### XIV.2.3. Trenes Avant: Servicios de Media Distancia Optimizados
 
 Los trenes Avant están específicamente diseñados para servicios de media distancia, proporcionando un equilibrio entre prestaciones, confort y eficiencia operacional:
 
-![[a47be2d172acc0245fd21985670465d2_MD5.webp]]
-![[2ca8d9c19be803f64242917ce875f5e6_MD5.webp]]
+![a47be2d172acc0245fd21985670465d2_MD5]({{ site.baseurl }}/assets/images/a47be2d172acc0245fd21985670465d2_MD5.webp)
+![2ca8d9c19be803f64242917ce875f5e6_MD5]({{ site.baseurl }}/assets/images/2ca8d9c19be803f64242917ce875f5e6_MD5.webp)
 
-![[95657b4ad78508d972f0f7685ad24391_MD5.webp]]
+![95657b4ad78508d972f0f7685ad24391_MD5]({{ site.baseurl }}/assets/images/95657b4ad78508d972f0f7685ad24391_MD5.webp)
 
 **Serie 104 Alstom/CAF**: Diseño moderno de media distancia combinando tracción diésel o eléctrica con capacidad versátil de configuración
 
@@ -922,9 +922,9 @@ Los trenes Avant están específicamente diseñados para servicios de media dist
 
 Los servicios de media distancia representan un segmento operacional crítico en redes europeas, proporcionando conectividad regional entre ciudades principales. Las composiciones están diseñadas para operación con frecuencias moderadas pero sobre distancias más extensas que cercanías:
 
-![[9218e51805d66b2bb610f488cac72fbe_MD5.webp]]
-![[311f89fd1f7638c91629e377fa53a329_MD5.webp]]
-![[30a8981552f6b012c6754b635a894cd1_MD5.webp]]
+![9218e51805d66b2bb610f488cac72fbe_MD5]({{ site.baseurl }}/assets/images/9218e51805d66b2bb610f488cac72fbe_MD5.webp)
+![311f89fd1f7638c91629e377fa53a329_MD5]({{ site.baseurl }}/assets/images/311f89fd1f7638c91629e377fa53a329_MD5.webp)
+![30a8981552f6b012c6754b635a894cd1_MD5]({{ site.baseurl }}/assets/images/30a8981552f6b012c6754b635a894cd1_MD5.webp)
 
 Las características operacionales de servicios de media distancia incluyen:
 - Recorridos típicos de 150-400 km con paradas intermedias en ciudades regionales
@@ -955,7 +955,7 @@ Características operacionales fundamentales:
 
 El éxito de la plataforma Civia ha permitido el desarrollo de múltiples variantes adaptadas a requisitos específicos de diferentes operadores y sistemas ferroviarios:
 
-![[7c6f44e591593d1826d69e37b096f406_MD5.webp]]
+![7c6f44e591593d1826d69e37b096f406_MD5]({{ site.baseurl }}/assets/images/7c6f44e591593d1826d69e37b096f406_MD5.webp)
 
 Variantes principales incluyen:
 - **Civia Standard Renfe**: Versión base operada principalmente en Renfe con configuración de 4-6 coches
@@ -967,7 +967,7 @@ Variantes principales incluyen:
 
 Más allá de la familia Civia, existen composiciones complementarias diseñadas para funciones específicas de cercanías:
 
-![[4dff0a24d56e393bf3f8f816fce3f7af_MD5.webp]]
+![4dff0a24d56e393bf3f8f816fce3f7af_MD5]({{ site.baseurl }}/assets/images/4dff0a24d56e393bf3f8f816fce3f7af_MD5.webp)
 
 La serie S-447 y sus variantes proporcionan:
 - Capacidades alternativas de pasajeros (típicamente 600-750 en composiciones de menor longitud)
@@ -978,26 +978,26 @@ La serie S-447 y sus variantes proporcionan:
 
 Las líneas españolas de ancho métrico (1000 mm), aunque limitadas en extensión, requieren composiciones especializadas adaptadas a estos gálibos más restrictos:
 
-![[f6ce4873a5810073cffde5567edfbb12_MD5.webp]]
+![f6ce4873a5810073cffde5567edfbb12_MD5]({{ site.baseurl }}/assets/images/f6ce4873a5810073cffde5567edfbb12_MD5.webp)
 
 **UTDH-2600 - Primera Generación de Diésel Métrico**
 
 La serie UTDH-2600 constituyó la primera generación de unidades de tren de diésel en ancho métrico, proporcionando soluciones de transporte regional para líneas de menor volumen:
 
-![[61391205e85bba52f0b0e8996389894d_MD5.webp]]
+![61391205e85bba52f0b0e8996389894d_MD5]({{ site.baseurl }}/assets/images/61391205e85bba52f0b0e8996389894d_MD5.webp)
 
 Características operacionales:
 - Tracción diésel-hidráulica optimizada para pendientes pronunciadas en líneas de montaña
 - Capacidad reducida respecto a sistemas de ancho estándar (típicamente 150-200 pasajeros)
 - Configuración flexible para servicios de pasajeros y pequeños volúmenes de carga
 
-![[a2334eb2681eb4ee177d5f5a5f85a9dd_MD5.webp]]
+![a2334eb2681eb4ee177d5f5a5f85a9dd_MD5]({{ site.baseurl }}/assets/images/a2334eb2681eb4ee177d5f5a5f85a9dd_MD5.webp)
 
 **UTDH-2900 (Bicabina) - Segunda Generación con Doble Cabina de Conducción**
 
 La serie UTDH-2900 representó una evolución significativa, incorporando dos cabinas de conducción (permitiendo operación sin vuelta de locomotora en terminales) y sistemas modernizados:
 
-![[62a2eecf3613ff67bf12796627f0842b_MD5.webp]]
+![62a2eecf3613ff67bf12796627f0842b_MD5]({{ site.baseurl }}/assets/images/62a2eecf3613ff67bf12796627f0842b_MD5.webp)
 
 Mejoras operacionales incluyen:
 - Doble cabina de conducción para eficiencia de terminales
@@ -1005,7 +1005,7 @@ Mejoras operacionales incluyen:
 - Automatización de procesos operacionales reduciendo requisitos de personal
 - Mejora significativa en confort de pasajeros respecto a generación anterior
 
-![[348f318192dec57b9ae77a6ac43e4c51_MD5.webp]]
+![348f318192dec57b9ae77a6ac43e4c51_MD5]({{ site.baseurl }}/assets/images/348f318192dec57b9ae77a6ac43e4c51_MD5.webp)
 
 **UTE-3800 y UTE-3600 - Generaciones Modernas de Tracción Eléctrica**
 
@@ -1020,8 +1020,8 @@ Ambas series incorporan:
 - Interfaces de control compatible con sistemas europeos de señalización
 - Piso bajo integral facilitando acceso sin barreras
 
-![[e0f3984bd9cd4d1871812a7da1ec7d78_MD5.webp]]
-![[0d68640ae870ed73f1dc0863944b5fc6_MD5.webp]]
+![e0f3984bd9cd4d1871812a7da1ec7d78_MD5]({{ site.baseurl }}/assets/images/e0f3984bd9cd4d1871812a7da1ec7d78_MD5.webp)
+![0d68640ae870ed73f1dc0863944b5fc6_MD5]({{ site.baseurl }}/assets/images/0d68640ae870ed73f1dc0863944b5fc6_MD5.webp)
 ## Capítulo XV. Bibliografía
 
 La presente documentación técnica ha sido desarrollada basándose en referencias académicas, normativas de operación ferroviaria, y especificaciones técnicas de fabricantes reconocidos en el sector:

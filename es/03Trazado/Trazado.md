@@ -60,8 +60,8 @@ El segundo enfoque describe el peralte mediante la inclinación transversal expr
 En términos de configuración geométrica práctica de la vía, cuando las dos cabezas de carril se encontraran situadas en un mismo plano horizontal, la fuerza centrífuga actuaría impulsar la composición hacia el exterior de la curva, originando una distribución heterogénea de las cargas entre ambas cabezas de carril. Esta situación generaría condiciones de riesgo de descarrilamiento, movimiento inestable de rodadura, aceleraciones laterales de considerable magnitud y deficiencias significativas en los niveles de confort para pasajeros y carga. La solución técnica contempla la inclinación del plano de la vía hacia el interior de la curva, modificando la orientación de la resultante de las fuerzas que actúan sobre la masa vehicular. Esta resultante debe situarse idealmente lo más cercana posible al eje longitudinal de la vía, manteniendo siempre su punto de aplicación entre las áreas de apoyo de las ruedas. Esta configuración permite que la reacción del carril exterior resista el momento de vuelco potencial.
 
 
-![[ec5f2b6b1cc2209cf7b710419368d3cc_MD5.webp|263x297]]
-![[7ff5894a80602f37fddd5f1305dbdc43_MD5.webp|280x292]]
+![ec5f2b6b1cc2209cf7b710419368d3cc_MD5]({{ site.baseurl }}/assets/images/ec5f2b6b1cc2209cf7b710419368d3cc_MD5.webp|263x297)
+![7ff5894a80602f37fddd5f1305dbdc43_MD5]({{ site.baseurl }}/assets/images/7ff5894a80602f37fddd5f1305dbdc43_MD5.webp|280x292)
 [Ferrocarriles metropolitanos: tranvías, metros ligeros y metros convencionales. Manuel Melis](https://www.casadellibro.com/libro-ferrocarriles-metropolitanos-tranvias-metros-ligeros-y-metros-c-onvencionales/9788438002155/834727?srsltid=AfmBOoqHTSmWcrQ8IAJo9HKfczQIgJ63ibvgMAugypBX2CqleJAaC4pz)
 ### II.1 Peralte Teórico
 
@@ -76,7 +76,7 @@ $$
 \sin \alpha=\frac{z}{a} \rightarrow \tan \alpha=\frac{z}{\sqrt{a^{2}-z^{2}}}
 $$
 
-![[65f0e2b9bb95c5013a69de0923012a03_MD5.webp|506x478]]
+![65f0e2b9bb95c5013a69de0923012a03_MD5]({{ site.baseurl }}/assets/images/65f0e2b9bb95c5013a69de0923012a03_MD5.webp|506x478)
 [Ferrocarriles metropolitanos: tranvías, metros ligeros y metros convencionales. Manuel Melis](https://www.casadellibro.com/libro-ferrocarriles-metropolitanos-tranvias-metros-ligeros-y-metros-c-onvencionales/9788438002155/834727?srsltid=AfmBOoqHTSmWcrQ8IAJo9HKfczQIgJ63ibvgMAugypBX2CqleJAaC4pz)
 
 En sistemas ferroviarios españoles bajo la administración de RENFE, operando con carriles UIC 60 que presentan una anchura de cabeza de 72 milímetros, el ancho de vía resulta ser:
@@ -138,7 +138,7 @@ Esta situación heterogénea evidencia la necesidad de implementar un peralte de
 
 Desde el punto de vista del análisis de fuerzas, supongamos que una composición requiere un ángulo de peralte $\alpha$ (correspondiente a un desnivel z), pero la vía implementa únicamente un ángulo $\beta$ (desnivel $\boldsymbol{z}_{\boldsymbol{p}}$). En este análisis, la fuerza centrífuga total se representa mediante el segmento AC, mientras que el peralte implementado compensa solamente una porción de dicha fuerza, correspondiente al segmento AB que representa la fuerza centrífuga parcialmente compensada $(\mathbf{F}_{\mathbf{c}})$.
 
-![[a3ba82dc74052ffa54d333f6cc7c4007_MD5.webp|459x416]]
+![a3ba82dc74052ffa54d333f6cc7c4007_MD5]({{ site.baseurl }}/assets/images/a3ba82dc74052ffa54d333f6cc7c4007_MD5.webp|459x416)
 [Ferrocarriles metropolitanos: tranvías, metros ligeros y metros convencionales. Manuel Melis](https://www.casadellibro.com/libro-ferrocarriles-metropolitanos-tranvias-metros-ligeros-y-metros-c-onvencionales/9788438002155/834727?srsltid=AfmBOoqHTSmWcrQ8IAJo9HKfczQIgJ63ibvgMAugypBX2CqleJAaC4pz)
 
 La fuerza centrífuga que permanece sin compensación se designa como $\boldsymbol{F}_{\boldsymbol{c}, \mathbf{s c}}$ y corresponde al segmento BC del diagrama de fuerzas. Mediante análisis vectorial podemos establecer las siguientes relaciones:
@@ -153,7 +153,7 @@ Por consiguiente, la aceleración sin compensar $\alpha_{s c}$ que experimenta l
 
 $\alpha_{s c}=\frac{V^{2}}{R}-\frac{g \cdot z_{p}}{a}$
 
-![[b1b2f06c7c6b23a7140abe6c56460302_MD5.webp]]
+![b1b2f06c7c6b23a7140abe6c56460302_MD5]({{ site.baseurl }}/assets/images/b1b2f06c7c6b23a7140abe6c56460302_MD5.webp)
 
 ### II.3 Insuficiencia de peralte
 
@@ -165,7 +165,7 @@ $\tan \alpha=\frac{F}{W}=\frac{m \cdot \frac{V^{2}}{R}}{m \cdot g}=\frac{V^{2}}{
 La geometría del peralte implementado con insuficiencia se expresa mediante:
 $\sin \alpha=\frac{z_{p}+I}{a} \approx \tan \alpha$ (cuando $\alpha$ es un ángulo pequeño)
 
-![[f4fafd23747f45cae48bcc1dbd9efe2f_MD5.webp]]
+![f4fafd23747f45cae48bcc1dbd9efe2f_MD5]({{ site.baseurl }}/assets/images/f4fafd23747f45cae48bcc1dbd9efe2f_MD5.webp)
 
 Igualando ambas expresiones para ángulos pequeños, donde la aproximación $\tan \alpha \approx \sin \alpha$ es válida:
 
@@ -191,7 +191,7 @@ $$
 I=\alpha_{S C} \cdot \frac{a}{g}
 $$
 
-![[6cf709c43555374bcdad6dd82fb22357_MD5.webp]]
+![6cf709c43555374bcdad6dd82fb22357_MD5]({{ site.baseurl }}/assets/images/6cf709c43555374bcdad6dd82fb22357_MD5.webp)
 
 ### II.4 Exceso de peralte
 
@@ -207,7 +207,7 @@ $$
 E=\frac{\alpha_{S C} \cdot a}{g}
 $$
 
-![[11cf9b19467aec1f535870c97f984899_MD5.webp]]
+![11cf9b19467aec1f535870c97f984899_MD5]({{ site.baseurl }}/assets/images/11cf9b19467aec1f535870c97f984899_MD5.webp)
 
 Es conveniente señalar que en contextos operacionales prácticos, las composiciones de movimiento lento, particularmente los trenes de transporte de carga, constituyen tipos de tráfico para los cuales no es necesario imponer limitaciones estrictas en la aceleración sin compensar, ya que el confort de los pasajeros no constituye una consideración determinante.
 
@@ -749,7 +749,7 @@ Valores característicos del acuerdo vertical:
 $\mathrm{K}_{\mathrm{v}}$ es positivo en un acuerdo cóncavo, y negativo en uno convexo.
 
 Propiedades del acuerdo vertical parabólico:
-![[3f1cef6dba25769ab878c652668ed18c_MD5.webp]]
+![3f1cef6dba25769ab878c652668ed18c_MD5]({{ site.baseurl }}/assets/images/3f1cef6dba25769ab878c652668ed18c_MD5.webp)
 
 La distribución geométrica de los puntos de tangencia de entrada y salida respecto del vértice del acuerdo vertical es completamente simétrica, cumpliéndose que: $T = L/2$.
 

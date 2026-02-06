@@ -33,7 +33,7 @@ En el contexto internacional, es práctica común que los diversos estados imple
 
 En el caso específico de España, esta protección se materializa a través de dos instrumentos legislativos fundamentales: la Ley de Ordenación del Transporte Terrestre (LOTT) promulgada el 30 de julio de 1987, complementada posteriormente por su Reglamento de desarrollo (RLOTT) de fecha 28 de septiembre de 1990. Estos marcos normativos establecen criterios técnicos y administrativos que permiten una regulación ordenada del dominio ferroviario. La legislación vigente define conceptualmente la explanación en los siguientes términos, según lo establecido en el artículo 280 del RLOTT:
 
-![[8c863605b1ad407effe9f269b26a5a3a_MD5.webp]]
+![8c863605b1ad407effe9f269b26a5a3a_MD5]({{ site.baseurl }}/assets/images/8c863605b1ad407effe9f269b26a5a3a_MD5.webp)
 Zonas de protección de la explanación (según LOTT y RLOTT). [Ministerio de Transportes, movilidad y agenda urbana, 2022](https://www.vitoria-gasteiz.org/docs/wb021/contenidosEstaticos/adjuntos/es/06/40/100640.pdf)
 
 > "Se considera explanación la franja de terreno en la que se ha modificado la topografía natural del suelo y sobre la que se construye la línea férrea, se disponen sus elementos funcionales y se ubican sus instalaciones ".
@@ -52,7 +52,7 @@ El marco regulatorio para la protección de la explanación ferroviaria se suste
 
 - REAL DECRETO 1211/1990, de 28 de septiembre, REGLAMENTO DE LA LEY DE ORDENACIÓN DE LOS TRANSPORTES TERRESTRES. (BOE, número 241 , de 8 de oct. de 1990): Este instrumento reglamentario desarrolla en detalle los principios contenidos en la ley de ordenación, proporcionando especificaciones técnicas y procedimentales para su aplicación práctica en la gestión del espacio ferroviario.
 
-![[eeef5182fb725aac03d2335033c5ad48_MD5.webp]]
+![eeef5182fb725aac03d2335033c5ad48_MD5]({{ site.baseurl }}/assets/images/eeef5182fb725aac03d2335033c5ad48_MD5.webp)
 
 Dentro de estas normativas se establecen definiciones precisas de los elementos constitutivos del dominio ferroviario: La EXPLANACIÓN se define como aquella franja de terreno sobre la cual se ha modificado la topografía natural del suelo y que sirve de base para la construcción de la línea férrea, la disposición de sus elementos funcionales y la ubicación de sus instalaciones complementarias. La ARISTA EXTERIOR DE LA EXPLANACIÓN, por su parte, representa la línea imaginaria que marca la intersección entre el pie del talud del terraplén, o alternativamente la línea de coronación de trinchera o desmonte, o en su caso, los muros de sostenimiento con el terreno natural circundante.
 
@@ -68,7 +68,7 @@ La Zona de Afección constituye un área territorial complementaria formada por 
 
 Para una comprensión integral de la infraestructura ferroviaria y sus requerimientos espaciales, es fundamental analizar en detalle las distintas dimensiones que componen la explanación. A continuación se presenta un esquema que desglosa cada uno de estos componentes:
 
-![[0aabbc67146738de1cfe64be665b26ad_MD5.webp]]
+![0aabbc67146738de1cfe64be665b26ad_MD5]({{ site.baseurl }}/assets/images/0aabbc67146738de1cfe64be665b26ad_MD5.webp)
 Dimensiones de la explanación. Esquema. [NAP 1-2-1.0 Diseño del trazado ferroviario](https://normativatecnica.adif.es/)
 
 Dentro de esta configuración, los distintos parámetros dimensionales se definen según los siguientes criterios técnicos:
@@ -97,7 +97,7 @@ Desde una perspectiva de clasificación constructiva, es posible categorizar la 
 - **Plataformas artificiales**: Aquellas constituidas sobre obras de fábrica y estructuras ingenieriles específicamente diseñadas, como pilotes, vigas de atado y sistemas de cimentación profunda.
 
 Estas tres categorías representan distintos niveles de complejidad constructiva y responden a diferentes condiciones geotécnicas y topográficas del terreno en cuestión.
-![[c8422b63fa008141d15f1cd10ac2ea48_MD5.webp]]
+![c8422b63fa008141d15f1cd10ac2ea48_MD5]({{ site.baseurl }}/assets/images/c8422b63fa008141d15f1cd10ac2ea48_MD5.webp)
 
 
 ### II.1. Misiones de la Plataforma
@@ -122,7 +122,7 @@ En el contexto actual, la realidad operacional ha cambiado drásticamente. Ahora
 
 En la representación gráfica que se presenta a continuación se ilustran los patologías y problemas más recurrentes que se manifiestan en las plataformas ferroviarias de antigüedad considerable. Estos problemas constituyen manifestaciones concretas de los procesos de deterioro derivados de los cambios en los parámetros operacionales mencionados anteriormente.
 
-![[519cd99da0d451b238c4eb444ef45992_MD5.webp]]
+![519cd99da0d451b238c4eb444ef45992_MD5]({{ site.baseurl }}/assets/images/519cd99da0d451b238c4eb444ef45992_MD5.webp)
 
 #### II.2.2. Soluciones Problemas Plataformas Antiguas
 
@@ -294,8 +294,8 @@ El valor de los espesores de balasto y de la capa sub-balasto se establece respe
 
 Para determinar estos espesores óptimos en renovaciones de vía existente, es imperativo conocer previamente la capacidad portante de la plataforma vigente y mejorarla cuando sea técnicamente factible, ya que se obtienen mejores resultados mejorando esta capacidad portante que simplemente disponiendo mayor espesor en la capa de balasto.
 
-![[a66cd8b1e7faf33c68111d224638fbc7_MD5.webp]]
-![[a6d30c9e859c0fae9f14e6042b8956e0_MD5.webp]]
+![a66cd8b1e7faf33c68111d224638fbc7_MD5]({{ site.baseurl }}/assets/images/a66cd8b1e7faf33c68111d224638fbc7_MD5.webp)
+![a6d30c9e859c0fae9f14e6042b8956e0_MD5]({{ site.baseurl }}/assets/images/a6d30c9e859c0fae9f14e6042b8956e0_MD5.webp)
 
 Leyenda:
 - TRAVIESA DE MADERA
@@ -310,7 +310,7 @@ Leyenda:
 
 Para asegurar que la vía ferroviaria desarrolle sus funciones de manera óptima y que mantenga la durabilidad en el servicio, es necesario dimensionar adecuadamente todas las capas que constituyen la banqueta en función de los parámetros operacionales de cada línea. La normativa N.R.V. 3-4-1.0 proporciona especificaciones detalladas para los espesores de las capas de asiento:
 
-![[4961e64e23622a23bd2b44fc34aa30d4_MD5.webp]]
+![4961e64e23622a23bd2b44fc34aa30d4_MD5]({{ site.baseurl }}/assets/images/4961e64e23622a23bd2b44fc34aa30d4_MD5.webp)
 Esta matriz permite determinar, en función de la clase de capacidad de carga alcanzada en la plataforma y de la calidad del suelo soporte, qué grupos de categoría ferroviaria son compatibles con cada combinación.
 
 ## Capítulo III La Banqueta
@@ -335,7 +335,7 @@ Históricamente, los primeros ferrocarriles carecían completamente de banqueta,
 
 El dimensionamiento y la configuración técnica de la banqueta requiere la identificación clara de cada uno de sus componentes constructivos. La figura siguiente ilustra los elementos constitutivos fundamentales:
 
-![[542176725f512177be9b71a94ac4ebee_MD5.webp]]
+![542176725f512177be9b71a94ac4ebee_MD5]({{ site.baseurl }}/assets/images/542176725f512177be9b71a94ac4ebee_MD5.webp)
 
 Cada uno de estos elementos se define técnicamente conforme a:
 
@@ -350,7 +350,7 @@ Según las especificaciones técnicas requeridas por la administración ferrovia
 
 **Dimensiones de la banqueta exigidas por ADIF (Vía Simple)**
 
-![[fdf452bc44adfbad536d27ab1dc11128_MD5.webp]]
+![fdf452bc44adfbad536d27ab1dc11128_MD5]({{ site.baseurl }}/assets/images/fdf452bc44adfbad536d27ab1dc11128_MD5.webp)
 
 | Dimensiones | Grupos.1AyIB | Grupos.IBylC | Grupos.ICy 2 | Grupos 2y 3 A | Grupos 3 Ay 3 B | Grupos 3 By 4 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -361,7 +361,7 @@ Según las especificaciones técnicas requeridas por la administración ferrovia
 
 **VIA DOBLE**
 
-![[eccdf324ee0dcaab5a88cb53a9307407_MD5.webp]]
+![eccdf324ee0dcaab5a88cb53a9307407_MD5]({{ site.baseurl }}/assets/images/eccdf324ee0dcaab5a88cb53a9307407_MD5.webp)
 
 | Dimensiones | Grupos IAyIB | Grupos IBylC | Grupos ICy 2 | Grupos 2 y 3 A | Grupos 3Ay3B | Grupos 3 By 4 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -498,7 +498,7 @@ En cada uno de estos tamices debe retenerse una cantidad variable de piedra que 
 
 La representación gráfica de estas tolerancias en un diagrama cartesiano donde en el eje de abscisas se representan los tamaños de tamiz en escala logarítmica, y en el eje de ordenadas se representan los porcentajes acumulados de material que pasa (retenido), da lugar a los denominados **husos granulométricos**, que definen la envolvente aceptable para la distribución de tamaños:
 
-![[8a221378849243b1a66fa34e69bff8c9_MD5.webp]]
+![8a221378849243b1a66fa34e69bff8c9_MD5]({{ site.baseurl }}/assets/images/8a221378849243b1a66fa34e69bff8c9_MD5.webp)
 [Huso Granulometrico ET 03.360.004.0 Adif Especificación técnica balasto](https://normativatecnica.adif.es/)
 
 | Curva granulométrica del balasto |  |

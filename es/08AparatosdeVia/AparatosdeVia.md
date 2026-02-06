@@ -43,7 +43,7 @@ Durante los siglos posteriores, la tecnología ferroviaria ha experimentado una 
 - Elevar significativamente los niveles de seguridad en la operación de los sistemas ferroviarios
 - Posibilitar la circulación de los convoyes a velocidades cada vez más altas
 - Extender considerablemente la durabilidad y la vida útil de los aparatos de vía
-![[79f2b1137794b4b7f46e7d43579c7edd_MD5.webp]]
+![79f2b1137794b4b7f46e7d43579c7edd_MD5]({{ site.baseurl }}/assets/images/79f2b1137794b4b7f46e7d43579c7edd_MD5.webp)
 
 ## Capítulo II DEFINICIONES GENERALES
 
@@ -54,7 +54,7 @@ Los aparatos de vía se componen mediante combinaciones de únicamente dos tipos
 1. **El desvío**: se define como un aparato de vía especializado que permite la bifurcación de una vía férrea en dos o más ramales, de manera que los ejes de estas nuevas vías convergen tangencialmente con el eje de la vía principal o forman un ángulo muy reducido con respecto al mismo. Esto permite que el material rodante transite de forma suave desde una trayectoria a otra.
 
 2. **La travesía**: constituye un dispositivo que facilita el cruce perpendicular de dos vías distintas. En este caso, los ejes de ambas vías se interceptan entre sí, permitiendo que los convoyes transiten en las cuatro direcciones posibles.
-![[a7557e214463b95a178c4d4fddbac4f5_MD5.webp]]
+![a7557e214463b95a178c4d4fddbac4f5_MD5]({{ site.baseurl }}/assets/images/a7557e214463b95a178c4d4fddbac4f5_MD5.webp)
 
 La construcción de los desvíos y travesías se realiza mediante la combinación estratégica de tres elementos estructurales fundamentales, que se encuentran interconectados por segmentos de vía convencional conocidos como carriles intermedios.
 
@@ -62,13 +62,13 @@ Estos tres elementos constituyentes son:
 
 - **El cambio**: es el componente responsable de asegurar la continuidad de cada uno de los recorridos que divergen a partir del punto de bifurcación, garantizando que el material rodante siga la trayectoria correcta según su posición.
 
-![[8971eb32b10bc68d3e430bf99865eb82_MD5.webp]]
+![8971eb32b10bc68d3e430bf99865eb82_MD5]({{ site.baseurl }}/assets/images/8971eb32b10bc68d3e430bf99865eb82_MD5.webp)
 
 
 - **El cruzamiento**: permite la intersección de dos hilos de carril correspondientes a vías que se cruzan en sentidos opuestos, de manera que las ruedas pueden pasar de una vía a otra.
 
 - **El cruzamiento doble**: constituye una variante más compleja que posibilita la intersección de dos hilos de carril del mismo lado o mano, permitiendo configuraciones geométricas más complejas.
-![[8315a7379b8e6f7ff2edd935da527c00_MD5.webp]]
+![8315a7379b8e6f7ff2edd935da527c00_MD5]({{ site.baseurl }}/assets/images/8315a7379b8e6f7ff2edd935da527c00_MD5.webp)
 
 Estructuralmente, los desvíos se conforman mediante la unión de un cambio y un cruzamiento simple, conectados por los carriles intermedios mencionados anteriormente.
 
@@ -92,7 +92,7 @@ Dimensionalmente, un desvío se delimita mediante seis juntas estratégicamente 
 
 Desde el punto de vista de su clasificación, los desvíos pueden categorizarse según diversos criterios de diseño y funcionalidad:
 
-![[101554aa56869e60dc8a019e716c3465_MD5.webp|700x228]]
+![101554aa56869e60dc8a019e716c3465_MD5]({{ site.baseurl }}/assets/images/101554aa56869e60dc8a019e716c3465_MD5.webp|700x228)
 
 
 <iframe width="315" height="560" src="https://youtube.com/embed/-TR3oNG0TU8?si=4UO_GCSHjgsR8i-Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -112,7 +112,7 @@ El cambio es un mecanismo esencial en la estructura de los aparatos de vía, cuy
 **4. Los cerrojos de agujas**: dispositivos de seguridad que mantienen la unión inmóvil entre la aguja y la contraaguja. Previenen que estas piezas se separen durante el paso de los convoyes, evitando descarrilamientos.
 
 Adicionalmente, el cambio posee otras características mecánicas importantes:
-![[f34ae409732ee09bd2c8a62efb504176_MD5.webp]]
+![f34ae409732ee09bd2c8a62efb504176_MD5]({{ site.baseurl }}/assets/images/f34ae409732ee09bd2c8a62efb504176_MD5.webp)
 
 **5. La punta**: es la región mecanizada y libre de la aguja, localizada en el extremo anterior. Esta zona es la que efectivamente guía a la rueda hacia su trayectoria correcta.
 
@@ -126,10 +126,10 @@ Durante su operación, la aguja se desplaza lateralmente para dejar paso libre a
 
 
 Es importante aclarar que en los esquemas de representación, los trazos más gruesos no representan los ejes teóricos de los carriles, sino el borde activo de cada uno de ellos. Se define como borde activo la línea situada sobre la cara lateral del carril (denominada cara activa) que tiene contacto potencial con la pestaña de la rueda para realizar su función guía, ubicada a una profundidad de $\mathbf{15 ~ mm}$ bajo el borde superior del carril.
-![[4fa6fdbf4cf012fa3e79481135fb7103_MD5.webp]]
+![4fa6fdbf4cf012fa3e79481135fb7103_MD5]({{ site.baseurl }}/assets/images/4fa6fdbf4cf012fa3e79481135fb7103_MD5.webp)
 
 **Definiciones geométricas y funcionales del cambio:**
-![[3b3f9a2347e77cb6c9b737fcd31b69a6_MD5.webp|700x228]]
+![3b3f9a2347e77cb6c9b737fcd31b69a6_MD5]({{ site.baseurl }}/assets/images/3b3f9a2347e77cb6c9b737fcd31b69a6_MD5.webp|700x228)
 
 - **Punta matemática de una aguja (PMA)**: representa el punto teórico de convergencia de los bordes activos de los elementos que conforman el cambio, es decir, donde los bordes activos de la aguja y la contraaguja se interceptarían geométricamente.
 
@@ -143,7 +143,7 @@ Es importante aclarar que en los esquemas de representación, los trazos más gr
 
 Las agujas de los cambios pueden ser accionadas mediante diversos procedimientos tecnológicos que se adaptan a las diferentes necesidades operacionales: sistemas manuales mediante palancas, sistemas mecánicos con conexiones rígidas, sistemas hidráulicos con fluidos a presión, o sistemas eléctricos con motores de baja tensión. Estos sistemas pueden desplazar las agujas simultáneamente o con pequeños intervalos de tiempo controlados. Una vez que la aguja se acopla correctamente con su contraaguja, la inmovilidad se mantiene mediante un dispositivo de bloqueo denominado cerrojo o encerrojamiento. Durante su desplazamiento, las agujas se deslizan sobre superficies lubricadas especiales llamadas cojinetes de resbalamiento o resbaladeras, hasta que se adaptan perfectamente a su posición de reposo.
 
-![[9d69477910315ee3a6fd7f7335c3a2c6_MD5.webp]]
+![9d69477910315ee3a6fd7f7335c3a2c6_MD5]({{ site.baseurl }}/assets/images/9d69477910315ee3a6fd7f7335c3a2c6_MD5.webp)
 
 Los cambios estándar operan con los siguientes parámetros técnicos:
 
@@ -155,8 +155,8 @@ Los cambios estándar operan con los siguientes parámetros técnicos:
 | Anchos de vía | Se puede utilizar independientemente del ancho de vía |
 
 Operacionalmente, se establece que de forma simultánea, excepto durante las operaciones de maniobra, una de las agujas debe estar acoplada y en contacto pleno con su contraaguja, mientras que la otra debe estar abierta y separada.
-![[37fadedac7625302c65f579d7ee0c8b1_MD5.webp]]
-![[5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5.webp]]
+![37fadedac7625302c65f579d7ee0c8b1_MD5]({{ site.baseurl }}/assets/images/37fadedac7625302c65f579d7ee0c8b1_MD5.webp)
+![5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5]({{ site.baseurl }}/assets/images/5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5.webp)
 **Accionamientos específicos del cambio:**
 
 Los cambios pueden operarse de forma manual mediante una palanca ubicada al pie del aparato, la cual actúa sobre el mecanismo de maniobra de la aguja. Dependiendo de su configuración, estas palancas pueden tener una única posición de equilibrio (simple efecto) o dos posiciones (doble efecto). En los sistemas de doble efecto, se utilizan contrapesos especiales (denominados "quesos") para determinar automáticamente la posición de las agujas.
@@ -169,12 +169,12 @@ Para operación a distancia, existen diferentes sistemas de transmisión: sistem
 ## Capítulo V EL PERFIL DEL CARRIL DE LAS AGUJAS
 
 Históricamente, la fabricación de las agujas se realizaba mediante procesos de maquinado de carriles ordinarios, donde se procedía a cepillar adecuadamente tanto la cabeza como el patín del carril para obtener la geometría específica requerida.
-![[eac31ea0d073870f8c8cf2baf38b99a7_MD5.webp]]
+![eac31ea0d073870f8c8cf2baf38b99a7_MD5]({{ site.baseurl }}/assets/images/eac31ea0d073870f8c8cf2baf38b99a7_MD5.webp)
 
 En la industria ferroviaria, aunque se ha experimentado en algún momento con el carril Brunnel (visible en la figura adjunta), la práctica estándar es utilizar carriles Vignole, que son carriles de patín convencional, pero con secciones de alma más amplias que proporcionan una mayor rigidez y resistencia mecánica.
 
 
-![[5345cf4e1a5741396a65b8e8982aee75_MD5.webp]]
+![5345cf4e1a5741396a65b8e8982aee75_MD5]({{ site.baseurl }}/assets/images/5345cf4e1a5741396a65b8e8982aee75_MD5.webp)
 
 
 
@@ -188,17 +188,17 @@ La variedad de perfiles de agujas que existe actualmente en el mercado internaci
 - **Perfil asimétrico**: proveniente de la tecnología de los ferrocarriles alemanes y austriacos
 
 En la siguiente figura se realiza una comparación sistemática de estos tres perfiles con el perfil de carril normal utilizado en vías convencionales:
-![[5989ff3bcf51955d419a896f92513846_MD5.webp]]
+![5989ff3bcf51955d419a896f92513846_MD5]({{ site.baseurl }}/assets/images/5989ff3bcf51955d419a896f92513846_MD5.webp)
 
-![[d56db894cfdd9f15592bf8e5985f1af2_MD5.webp]]
+![d56db894cfdd9f15592bf8e5985f1af2_MD5]({{ site.baseurl }}/assets/images/d56db894cfdd9f15592bf8e5985f1af2_MD5.webp)
 
-![[7f770bae75de61f3d2f91144e55b01c3_MD5.webp]]
+![7f770bae75de61f3d2f91144e55b01c3_MD5]({{ site.baseurl }}/assets/images/7f770bae75de61f3d2f91144e55b01c3_MD5.webp)
 Perfil alto simétrico
 
-![[1de9db32dc22b2109d5451803654ae62_MD5.webp]]
+![1de9db32dc22b2109d5451803654ae62_MD5]({{ site.baseurl }}/assets/images/1de9db32dc22b2109d5451803654ae62_MD5.webp)
 Perfil bajo simétrico
 
-![[de8e4b519712e0c2bc0ee9734daec6c3_MD5.webp]]
+![de8e4b519712e0c2bc0ee9734daec6c3_MD5]({{ site.baseurl }}/assets/images/de8e4b519712e0c2bc0ee9734daec6c3_MD5.webp)
 Perfil asimétrico
 
 **Criterios de selección del tipo de carril:**
@@ -218,7 +218,7 @@ r>G-(B+e)
 $$
 
 Al realizar estos cálculos, es fundamental aplicar todas las tolerancias en el sentido más desfavorable, además de considerar la posibilidad de desgaste lateral de los carriles a lo largo de la vida operativa.
-![[d6690ac7fcdb4b677b03bb51d2b567de_MD5.webp]]
+![d6690ac7fcdb4b677b03bb51d2b567de_MD5]({{ site.baseurl }}/assets/images/d6690ac7fcdb4b677b03bb51d2b567de_MD5.webp)
 
 Los valores típicamente empleados en la práctica están en el rango de: $r=55-65 \mathrm{~mm}$.
 
@@ -246,10 +246,10 @@ La adopción de la inclinación 1:20 responde a varias razones técnicas y opera
 En la zona de cambio, la aguja debe colocarse verticalmente para facilitar su desplazamiento suave sobre las resbaladeras. Por esta razón, los proyectistas deben elegir entre dos configuraciones constructivas, cada una con ventajas e inconvenientes específicos:
 
 **Contraaguja Vertical**: tiene la ventaja de permitir el uso de cojinetes de deslizamiento sencillos con placa resbaladera horizontal. Para lograr esta configuración, es necesario realizar una transición del carril de su inclinación 1:20 a completamente vertical. Esta transición se efectúa mediante juegos de placas de asiento de inclinación variable especial que van rotando progresivamente el carril a lo largo de 3 o 4 traviesas, de forma que el cambio angular sea gradual y uniforme en cada traviesa.
-![[a885fe145b22850aa35c120a73207849_MD5.webp]]
+![a885fe145b22850aa35c120a73207849_MD5]({{ site.baseurl }}/assets/images/a885fe145b22850aa35c120a73207849_MD5.webp)
 
 **Contraaguja Inclinada**: presenta la ventaja de no modificar el plano de rodadura de los vehículos (efecto que resulta especialmente significativo a velocidades altas) durante el paso del tren por la vía directa del cambio, que es la trayectoria más frecuentemente utilizada. El inconveniente radica en la complejidad constructiva de los cojinetes de deslizamiento. Una alternativa técnicamente elegante, aunque costosa, es utilizar contraagujas colocadas verticalmente pero fabricadas con un perfil especial cuya alma presenta una inclinación de 1:20.
-![[aef3a78f1d98e1e00fcd4015ff5891d9_MD5.webp]]
+![aef3a78f1d98e1e00fcd4015ff5891d9_MD5]({{ site.baseurl }}/assets/images/aef3a78f1d98e1e00fcd4015ff5891d9_MD5.webp)
 
 ### V.4. PROBLEMA DE UNIR Y ACORDAR EN EL TALON EL PERFIL DE LA AGUJA
 
@@ -268,7 +268,7 @@ Desde la perspectiva de procesos de fabricación, los perfiles simétricos prese
 ### V.6. NECESIDAD DE REDUCIR EL ESFUERZO DE MANIOBRA
 
 El proceso de flexión de la aguja en la proximidad de su talón requiere la aplicación de un esfuerzo mecánico importante. Por esta razón, en las zonas donde se concentra esta flexión se realiza típicamente un maquinado del patín del carril, reduciendo su espesor en una longitud aproximada de un metro.
-![[a885fe145b22850aa35c120a73207849_MD5.webp]]
+![a885fe145b22850aa35c120a73207849_MD5]({{ site.baseurl }}/assets/images/a885fe145b22850aa35c120a73207849_MD5.webp)
 ### V.7. FACILIDAD DE DISEÑO DEL MONTAJE AGUJA-CONTRAAGUJA
 
 Los perfiles más bajos (simétricos o asimétricos) permiten mantener la geometría completa de la contraaguja, preservando especialmente la integridad íntegra del patín. Esta característica facilita incluso la posibilidad de establecer sujeciones interiores elásticas de la contraaguja, mediante sistemas alojados en el interior de la placa resbaladera. Esto permite mantener las propiedades de elasticidad características de la vía normal incluso dentro del cambio, función que no es alcanzable con perfiles altos simétricos, donde es necesario mecanizar los patines interiores de ambas piezas. En estos casos, para mantener la estabilidad de la contraaguja se requieren sujeciones rígidas que atraviesan el alma del perfil.
@@ -281,7 +281,7 @@ La ingeniería de aparatos de vía contempla diversas clasificaciones de cambios
 ### VI.1. ACCIONAMIENTO
 
 **Operación a pie de aparato:** Los cambios pueden ser manipulados manualmente mediante una palanca de maniobra ubicada en el mismo sitio del aparato. Esta palanca actúa directamente sobre el mecanismo de transmisión de la aguja. Dependiendo de su configuración mecánica, estas palancas pueden poseer una única posición de equilibrio (denominadas de simple efecto) o bien dos posiciones diferenciadas (de doble efecto). En los cambios de doble efecto, se utilizan contrapesos especiales, coloquialmente llamados "quesos", para estabilizar y determinar automáticamente la posición en reposo de las agujas.
-![[c86ed28b18218aed160ab13640117350_MD5.webp]]
+![c86ed28b18218aed160ab13640117350_MD5]({{ site.baseurl }}/assets/images/c86ed28b18218aed160ab13640117350_MD5.webp)
 
 **Operación a distancia:** Para aplicaciones donde se requiere control remoto desde puestos de maniobra centralizados, existen múltiples alternativas tecnológicas de transmisión:
 
@@ -295,7 +295,7 @@ La ingeniería de aparatos de vía contempla diversas clasificaciones de cambios
 En términos del movimiento del material rodante a través de los cambios, estos pueden ser tomados desde diferentes direcciones, lo que conlleva distintas consideraciones de seguridad:
 
 Un cambio puede ser transitado desde la zona del cambio propiamente dicho (punta), en cuyo caso el material rodante toma la dirección que impone la posición actual de las agujas. Alternativamente, el convoy puede ingresar por el talón del cambio. Si la maniobra se ha ejecutado correctamente, el tren encontrará la vía expedita para circular según corresponda. Sin embargo, si la maniobra no se realizó adecuadamente y el cambio permanece en configuración cerrada para ese itinerario específico, las pestañas de las ruedas se introducirán en el espacio entre la aguja y la contraaguja, provocando su separación forzada y rompiéndose los tirantes que mantienen la correcta separación entre ambas piezas.
-![[247539d6b73a02522e8f9a7e85513ed5_MD5.webp]]
+![247539d6b73a02522e8f9a7e85513ed5_MD5]({{ site.baseurl }}/assets/images/247539d6b73a02522e8f9a7e85513ed5_MD5.webp)
 
 Se denomina **talonamiento** a este evento donde el material rodante fuerza la apertura de un cambio que no estaba preparado para recibirlo por esa dirección. El proceso comienza con la deformación o ruptura de los tirantes, seguido por la separación forzada de las agujas.
 
@@ -305,8 +305,8 @@ En ciertos tipos de ferrocarriles de menor importancia o tráfico reducido, exis
 ## Capítulo VII EL CRUZAMIENTO
 
 El cruzamiento representa el componente más complejo y crítico del desvío, siendo el lugar donde se produce la superposición geométrica de los dos itinerarios ferroviarios. Su estructura está constituida por tres componentes fundamentales: el corazón, los contracarriles, y los carriles colaterales.
-![[063e248cb4180743b84f7ae5dcd5b265_MD5.webp]]
-![[5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5.webp]]
+![063e248cb4180743b84f7ae5dcd5b265_MD5]({{ site.baseurl }}/assets/images/063e248cb4180743b84f7ae5dcd5b265_MD5.webp)
+![5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5]({{ site.baseurl }}/assets/images/5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5.webp)
 
 
 
@@ -315,7 +315,7 @@ El cruzamiento representa el componente más complejo y crítico del desvío, si
 Se define como corazón la zona constructiva donde se produce la unión física de los dos carriles que se interceptan. Los hilos de la vía directa y de la vía desviada forman, al cortarse mutuamente, la línea característica denominada punta del corazón. El punto PM (punta matemática) marca la posición teórica e ideal donde se interceptarían geométricamente ambos hilos de carril; el punto PR (punta real) materializa la posición física efectiva donde comienza la unión de los dos carriles. La punta real del corazón suele estar ligeramente rebajada o conformada para conseguir un ascenso suave y gradual de la rueda sobre esta zona crítica.
 
 El corazón constituye la zona más solicitada del cruzamiento, ya que recibe continuamente los impactos de las ruedas de los vehículos durante el paso de los convoyes. Se denomina talón del corazón al extremo de esta zona que coincide con el final del desvío.
-![[d175505d302dde1253661f7a4553edef_MD5.webp]]
+![d175505d302dde1253661f7a4553edef_MD5]({{ site.baseurl }}/assets/images/d175505d302dde1253661f7a4553edef_MD5.webp)
 
 **Características constructivas para paso seguro:**
 
@@ -359,14 +359,14 @@ h_{1}=G-(B+e)=G-m
 $$
 
 Donde m se conoce como **cota mínima de protección de la punta del corazón**, siendo un parámetro fundamental en el cálculo y diseño de cruzamientos.
-![[1e71aad84e52ea747f378efd762f07aa_MD5.webp]]
+![1e71aad84e52ea747f378efd762f07aa_MD5]({{ site.baseurl }}/assets/images/1e71aad84e52ea747f378efd762f07aa_MD5.webp)
 
 ## Capítulo VIII PROYECTO SIMPLIFICADO DE UN CORAZÓN RECTO
 
 En el desarrollo proyectual de un cruzamiento, se parte del conocimiento de la tangente del ángulo de cruzamiento tg(α), a partir del cual se pueden calcular y determinar los restantes elementos geométricos que definen completamente la estructura.
 
 La longitud total del corazón Lt se determina en función de la abertura mínima b necesaria para realizar el embridado y conexión correcta con los carriles colaterales, siendo c la anchura del perfil de carril utilizado.
-![[66d885b4d6304adde528e773954096b5_MD5.webp]]
+![66d885b4d6304adde528e773954096b5_MD5]({{ site.baseurl }}/assets/images/66d885b4d6304adde528e773954096b5_MD5.webp)
 
 Los parámetros geométricos fundamentales se calculan mediante las siguientes expresiones:
 
@@ -441,12 +441,12 @@ Para abordar específicamente la problemática de la laguna en cruzamientos de A
 **Corazón de punta móvil:** Su funcionamiento se basa en un principio similar al del cambio, donde una punta móvil se acopla a una contrapunta fija. El movimiento de la punta del corazón se realiza aprovechando su flexibilidad inherente, facilitada por la presencia de una junta lateral estratégicamente ubicada. Este sistema elimina la laguna al permitir que la punta acompañe el paso de la rueda.
 
 **Corazón de patas de liebre móviles:** En esta solución, las dos patas de liebre se desplazan simultáneamente mediante un mecanismo coordinado, creando entrecalle en un lado para permitir el paso de la pestaña de la rueda, mientras que simultáneamente la suprimen en el otro lado. Esto asegura continuidad en la superficie de rodadura.
-![[c8b02e0f788e50bea678bea290627932_MD5.webp]]
+![c8b02e0f788e50bea678bea290627932_MD5]({{ site.baseurl }}/assets/images/c8b02e0f788e50bea678bea290627932_MD5.webp)
 
 ### X.3. ANCHO IBERICO
 
 Los desvíos para el ancho de vía ibérico (1.668 m) se clasifican en diferentes tipos según su capacidad operacional y características técnicas:
-![[3449481d242a328c64433623da80e784_MD5.webp]]
+![3449481d242a328c64433623da80e784_MD5]({{ site.baseurl }}/assets/images/3449481d242a328c64433623da80e784_MD5.webp)
 
 #### X.3.1. DESVÍOS TIPO A
 
@@ -481,7 +481,7 @@ Los desvíos tipo V constituyen una categoría especializada que permite el paso
 Se fabrican únicamente para vías con carril modelo UIC 60, limitando su aplicación a las líneas más modernas. Actualmente se asientan sobre traviesas de madera, aunque se anticipa su evolución hacia soportes de hormigón.
 
 ### X.4. ANCHO INTERNACIONAL
-![[f131d80a02bb3d5a9893b2d8fc2eff99_MD5.webp]]
+![f131d80a02bb3d5a9893b2d8fc2eff99_MD5]({{ site.baseurl }}/assets/images/f131d80a02bb3d5a9893b2d8fc2eff99_MD5.webp)
 #### X.4.1. DESVÍOS TIPO A
 
 Los desvíos tipo A para ancho internacional aprovechan los componentes (cambios y corazones) de los desvíos tipo A de vía ancha, adaptándolos al ancho internacional de 1.435 m.
@@ -550,7 +550,7 @@ Estos aparatos facilitan la intersección de dos vías que se cruzan a ángulo r
 - Otras piezas menores de conexión y soporte
 
 Estos aparatos se fabrican típicamente como piezas monobloque unitarias.
-![[fc3fe7b3c09bb07825baa07d18a064f6_MD5.webp]]
+![fc3fe7b3c09bb07825baa07d18a064f6_MD5]({{ site.baseurl }}/assets/images/fc3fe7b3c09bb07825baa07d18a064f6_MD5.webp)
 
 ### XI.1. Travesías sencillas oblicuas:
 
@@ -561,7 +561,7 @@ Las travesías oblicuas permiten el cruce de dos vías con un ángulo diferente 
 - Carriles de conexión y otras piezas especializadas
 
 Típicamente se fabrican como piezas monobloque unitarias.
-![[6ff099bee634493537bf604d29741f65_MD5.webp]]
+![6ff099bee634493537bf604d29741f65_MD5]({{ site.baseurl }}/assets/images/6ff099bee634493537bf604d29741f65_MD5.webp)
 
 ### XI.2. Travesías sencillas curvas:
 
@@ -576,7 +576,7 @@ Las travesías de unión doble constituyen una configuración especializada que 
 Este ahorro de espacio resulta especialmente valioso en las restricciones de terreno típicas de zonas de servicio y maniobra en estaciones. Sin embargo, no se aconsejan velocidades de circulación superiores a los 70 km/h en estas travesías.
 
 Debido a estas limitaciones de velocidad, su uso se restringe principalmente a las zonas de servicio y maniobra de las estaciones.
-![[71432d6cc7e8faa8141e27a1c47e6821_MD5.webp]]
+![71432d6cc7e8faa8141e27a1c47e6821_MD5]({{ site.baseurl }}/assets/images/71432d6cc7e8faa8141e27a1c47e6821_MD5.webp)
 
 Están formadas por los siguientes componentes:
 
@@ -606,11 +606,11 @@ Los escapes entre vías son dispositivos conectadores que unen dos vías adyacen
 
 **Escape normal:** permite el paso del material rodante de una vía a otra en un único sentido de circulación, proporcionando una conexión unidireccional entre vías paralelas.
 
-![[7fb8e3522536e51a76b6ec35c549a0c2_MD5.webp]]
+![7fb8e3522536e51a76b6ec35c549a0c2_MD5]({{ site.baseurl }}/assets/images/7fb8e3522536e51a76b6ec35c549a0c2_MD5.webp)
 
 **Escape cruzado:** una configuración más versátil que permite el paso en ambos sentidos, facilitando maniobras más complejas entre líneas adyacentes.
 
-![[5214d3c06fc856e3fd9aff49d74dec05_MD5.webp]]
+![5214d3c06fc856e3fd9aff49d74dec05_MD5]({{ site.baseurl }}/assets/images/5214d3c06fc856e3fd9aff49d74dec05_MD5.webp)
 
 ### XII.2. PLACAS O PUENTES GIRATORIOS
 
@@ -630,7 +630,7 @@ Este dispositivo ocupa mas espacio que los puentes giratorios, permitiendo el gi
 Triangulos de vía $\left\{\begin{array}{c}\text { Simétricos }\left\{\begin{array}{l}\text { con vía principal en recta } \\ \text { con vía principal en curva }\end{array}\right. \\ \text { Asimétricos }\left\{\begin{array}{l}\text { con vía principal en recta } \\ \text { con vía principal en curva }\end{array}\right.\end{array}\right.$
 Para establecer estos dispositivos debe hacerse un estudio que relacione espacio ocupado y capacidad diaria.
 
-![[8fad552096c2157ad6f663d9b42930d9_MD5.webp]]
+![8fad552096c2157ad6f663d9b42930d9_MD5]({{ site.baseurl }}/assets/images/8fad552096c2157ad6f663d9b42930d9_MD5.webp)
 
 
 
@@ -652,18 +652,18 @@ Se distinguen dos categorías principales según su modo de funcionamiento:
 **Instalación Ferroviaria de Absorción de Energía (IFAE):**
 
 Este sistema especial representa una solución más sofisticada para la absorción de energía cinética. Su funcionamiento se basa en transformar la energía cinética del tren en calor de forma controlada. Estos sistemas tienen la capacidad de detener convoyes de 1200 toneladas de peso cuando circulan a velocidades de 10 km/h.
-![[b2dc754b2c64b4348817a865c352eea3_MD5.webp]]
+![b2dc754b2c64b4348817a865c352eea3_MD5]({{ site.baseurl }}/assets/images/b2dc754b2c64b4348817a865c352eea3_MD5.webp)
 
 ### XIII.2. BASCULAS
 
 Las básculas ferroviarias son instalaciones especializadas que se instalan en vías dedicadas (no en vías generales de tráfico), diseñadas específicamente para realizar el control y verificación del peso del material rodante y su carga. Tienen importancia especial en estaciones de mercancías, apartaderos especializados, y en zonas portuarias donde el control de peso es crítico para la seguridad y la tarificación correcta.
 
-![[3e5c4943844fa916033ab39ab88473c2_MD5.webp]]
+![3e5c4943844fa916033ab39ab88473c2_MD5]({{ site.baseurl }}/assets/images/3e5c4943844fa916033ab39ab88473c2_MD5.webp)
 ### XIII.3. CALCES DE SEGURIDAD
 
 Los calces de seguridad son pequeños dispositivos mecánicos anclados permanentemente al carril, típicamente instalados en las estaciones ferroviarias. Se colocan estratégicamente en los accesos de vías secundarias a la vía principal, con el propósito de impedir que el material rodante estacionado en vías secundarias pueda desplazarse hacia la vía principal sin control.
 
-![[7ddac05aa9eef60ca0b8d1147946c1d4_MD5.webp]]
+![7ddac05aa9eef60ca0b8d1147946c1d4_MD5]({{ site.baseurl }}/assets/images/7ddac05aa9eef60ca0b8d1147946c1d4_MD5.webp)
 ### XIII.4. AGUJA DESCARRILADORA
 <iframe width="560" height="315" src="https://youtube.com/embed/esc_qwOm7yg?si=4Zp81ZI8MR3iXO-C)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -676,13 +676,13 @@ La representación gráfica de los aparatos de vía en planos técnicos sigue co
 **Elementos de representación:**
 
 - **La vía directa**: se dibuja mediante su eje longitudinal, representando la trayectoria principal del desvío.
-![[629683d50befdcb42faef58b6a0b6dc8_MD5.webp]]
+![629683d50befdcb42faef58b6a0b6dc8_MD5]({{ site.baseurl }}/assets/images/629683d50befdcb42faef58b6a0b6dc8_MD5.webp)
 
 - **La vía desviada**: se representa por medio de la tangente de su eje al final del desvío. El punto donde esta tangente de la vía desviada intersecta el eje de la vía directa recibe el nombre de **nudo del desvío (ND)**.
-![[44b2e11df46e2bc64f326b19ba78d08d_MD5.webp]]
+![44b2e11df46e2bc64f326b19ba78d08d_MD5]({{ site.baseurl }}/assets/images/44b2e11df46e2bc64f326b19ba78d08d_MD5.webp)
 
 - **El nudo del desvío**: se representa gráficamente mediante un pequeño círculo en el plano, marcando la intersección teórica de ambas vías.
-![[076138ad95354f47aa350e2acb6004e9_MD5.webp]]
+![076138ad95354f47aa350e2acb6004e9_MD5]({{ site.baseurl }}/assets/images/076138ad95354f47aa350e2acb6004e9_MD5.webp)
 
 - **El comienzo del desvío (CD)**: queda definido por la proyección sobre el eje de la vía de la junta de cada contraaguja, representándose mediante un trazo vertical corto.
 
@@ -693,7 +693,7 @@ La representación gráfica de los aparatos de vía en planos técnicos sigue co
 **Representación de desvíos curvos:**
 
 En los desvíos curvos, tanto la vía directa como la desviada se representan mediante ejes curvos que reflejan la geometría real del aparato.
-![[7702b3780e6a4fa26455be468a50dc26_MD5.webp]]
+![7702b3780e6a4fa26455be468a50dc26_MD5]({{ site.baseurl }}/assets/images/7702b3780e6a4fa26455be468a50dc26_MD5.webp)
 
 ### XIV.2. NOMENCLATURA
 

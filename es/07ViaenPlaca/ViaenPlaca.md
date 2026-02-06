@@ -27,27 +27,27 @@ parent: Inicio
 La vía en placa representa una alternativa innovadora a los sistemas tradicionales de superestructura ferroviaria. Puede caracterizarse como un sistema de vía en el cual el balasto convencional ha sido reemplazado por una o más capas de materiales estructurales de diversa rigidez, que comprenden capas de hormigón, bases de asfalto o soportes metálicos.
 
 Las soluciones constructivas de la losa portante pueden ejecutarse tanto mediante hormigonado in situ como mediante la utilización de elementos prefabricados que se ensamblan en el sitio de la obra. En el caso de las bases asfálticas, la construcción procede mediante compactación continua del material durante su colocación. Se debe señalar que en determinadas aplicaciones, además de sustituir el balasto, también se prescinde de las traviesas tradicionales, integrando sus funciones en otros componentes del sistema.
-![[59c07e79f54497f0016487f6e3e18c38_MD5.webp]]
+![59c07e79f54497f0016487f6e3e18c38_MD5]({{ site.baseurl }}/assets/images/59c07e79f54497f0016487f6e3e18c38_MD5.webp)
 En esta configuración, la totalidad de las funciones que originalmente desempeñaban el balasto y las traviesas debe ser asumida por los diversos componentes que conforman la estructura de la vía en placa.
 
-![[47c9b923e385758fbf4585ba30270987_MD5.webp]]
+![47c9b923e385758fbf4585ba30270987_MD5]({{ site.baseurl }}/assets/images/47c9b923e385758fbf4585ba30270987_MD5.webp)
 El propósito fundamental de la implementación de sistemas de vía en placa radica en la consecución de infraestructuras de alta calidad mediante mecanismos que permiten reducir significativamente los gastos operacionales y los tiempos requeridos para labores de mantenimiento. Al disminuir el número de intervenciones necesarias, se incrementa la disponibilidad de las instalaciones para la explotación real del transporte.
 
-![[de1a62705fd9b180e1c6005c6ff0a32c_MD5.webp]]
+![de1a62705fd9b180e1c6005c6ff0a32c_MD5]({{ site.baseurl }}/assets/images/de1a62705fd9b180e1c6005c6ff0a32c_MD5.webp)
 
 Aunque este enfoque requiere inversiones capitales iniciales considerables, es importante destacar que los costes de conservación representan entre el 15% y el 20% de los costes totales de explotación. Para ilustrar la relevancia de esta cuestión, consideremos el caso del metro de Bilbao, donde el 85% de las reparaciones anuales de vía se concentran en segmentos con balasto, a pesar de que estos representan solamente el 39% de la extensión total de la red. Esta disparidad subraya la necesidad de evaluar estas soluciones desde una perspectiva de amortización a largo plazo, donde los ahorros acumulativos en mantenimiento justifican la inversión inicial más elevada.
 
 Los sistemas de vía en placa están compuestos por una serie de elementos que interactúan de manera integrada para proporcionar el soporte estructural y el funcionamiento adecuado de la superestructura ferroviaria.
-![[a95878167383f542608bc8776be23483_MD5.webp]]
+![a95878167383f542608bc8776be23483_MD5]({{ site.baseurl }}/assets/images/a95878167383f542608bc8776be23483_MD5.webp)
 
 Nota: todas las partes pueden ser prescindibles excepto el apoyo elástico bajo carril y la losa portante
 
 ### I.1. Antecedentes
 
 El desarrollo histórico de la tecnología de vía en placa constituye un proceso gradual de innovación que se extiende a lo largo de más de un siglo. Los primeros ensayos con esta tecnología fueron llevados a cabo en Japón en 1924, durante una época en que la ingeniería ferroviaria exploraba alternativas a los métodos constructivos tradicionales.
-![[8625cb4316c20285bb16c557164b5d30_MD5.webp]]
+![8625cb4316c20285bb16c557164b5d30_MD5]({{ site.baseurl }}/assets/images/8625cb4316c20285bb16c557164b5d30_MD5.webp)
 
-![[5a54a296e825a74cb5093fcecb95aca5_MD5.webp]]
+![5a54a296e825a74cb5093fcecb95aca5_MD5]({{ site.baseurl }}/assets/images/5a54a296e825a74cb5093fcecb95aca5_MD5.webp)
 
 En 1972, Alemania realizó una contribución significativa con el desarrollo del sistema Rheda en la estación que le da nombre, introduciendo una configuración donde traviesas prefabricadas se encuentran interconectadas mediante armadura longitudinal y ancladas dentro de una losa de hormigón armado apoyada sobre dos capas de subbases rígidas. Durante la década de 1970, Francia y Gran Bretaña desarrollaron independientemente los sistemas Stedef y PACT, respectivamente, ampliando así el abanico de soluciones disponibles.
 
@@ -71,8 +71,8 @@ En este capítulo se presentan los principales sistemas de vía en placa desarro
 
 
 
-![[ce62718588cc147573d00922f8e18b77_MD5.webp]]
-![[1ed929091524416510338e3b8d8dba32_MD5.webp]]
+![ce62718588cc147573d00922f8e18b77_MD5]({{ site.baseurl }}/assets/images/ce62718588cc147573d00922f8e18b77_MD5.webp)
+![1ed929091524416510338e3b8d8dba32_MD5]({{ site.baseurl }}/assets/images/1ed929091524416510338e3b8d8dba32_MD5.webp)
 
 
 
@@ -88,20 +88,20 @@ Entre la artesa soporte y la losa que contiene las traviesas se coloca una capa 
 
 Dentro de la familia de sistemas RHEDA, existen múltiples variantes adaptadas a diferentes contextos de aplicación. El modelo City ha sido específicamente desarrollado para soportar tráfico de tranvías, manteniendo la construcción monolítica de la losa e incorporando traviesas bíbloque de hormigón. El sistema MRT, destinado a servir líneas de cercanías y transporte metropolitano, representa una versión aligerada del RHEDA 2000, prescindiendo de la artesa de soporte mientras mantiene la integración monolítica entre traviesa y losa.
 
-![[b25d5d7960682d84f3fc5e1351f1e12d_MD5.webp]]
+![b25d5d7960682d84f3fc5e1351f1e12d_MD5]({{ site.baseurl }}/assets/images/b25d5d7960682d84f3fc5e1351f1e12d_MD5.webp)
 Rheda 2000
 
-![[b2cda7cb498942d9e176b32e3a2fa83e_MD5.webp]]
+![b2cda7cb498942d9e176b32e3a2fa83e_MD5]({{ site.baseurl }}/assets/images/b2cda7cb498942d9e176b32e3a2fa83e_MD5.webp)
 Rheda City. 
-![[ca41f01bb43d022725d6154322f08014_MD5.webp]]
+![ca41f01bb43d022725d6154322f08014_MD5]({{ site.baseurl }}/assets/images/ca41f01bb43d022725d6154322f08014_MD5.webp)
 
 Rheda City with embedded road surface asphalt
 
-![[9ce356a317f807488cddddabd69f603c_MD5.webp]]
+![9ce356a317f807488cddddabd69f603c_MD5]({{ site.baseurl }}/assets/images/9ce356a317f807488cddddabd69f603c_MD5.webp)
 Rheda Dywidag
 
-![[16d4f5baf9a63fa046a2ea03ad1cf3c9_MD5.webp]]
-![[7982e97b0a18923f6b87240d139dbf54_MD5.webp]]
+![16d4f5baf9a63fa046a2ea03ad1cf3c9_MD5]({{ site.baseurl }}/assets/images/16d4f5baf9a63fa046a2ea03ad1cf3c9_MD5.webp)
+![7982e97b0a18923f6b87240d139dbf54_MD5]({{ site.baseurl }}/assets/images/7982e97b0a18923f6b87240d139dbf54_MD5.webp)
 
 
 
@@ -110,10 +110,10 @@ Rheda Dywidag
 
 El modelo Züblin representa un enfoque alternativo a la metodología RHEDA. En esta solución, el hormigón no es vertido entre traviesas de una estructura previa, sino que las traviesas se integran directamente dentro del hormigón fresco de la losa principal durante su hormigonado in situ. Este proceso requiere equipamiento especialmente diseñado que permite insertar las traviesas de hormigón bajo presión mientras se vibra el material fresco, asegurando su correcta posición y penetración en la mezcla.
 
-![[369fe39b2f1d74fb9e07deaf6b59bb7a_MD5.webp]]
+![369fe39b2f1d74fb9e07deaf6b59bb7a_MD5]({{ site.baseurl }}/assets/images/369fe39b2f1d74fb9e07deaf6b59bb7a_MD5.webp)
 
 
-![[5ec5a2235b1401d1413fde51be479bf1_MD5.webp]]
+![5ec5a2235b1401d1413fde51be479bf1_MD5]({{ site.baseurl }}/assets/images/5ec5a2235b1401d1413fde51be479bf1_MD5.webp)
 
 ### ΙΙ.3. Segmentos de hormigón prefabricados
 #### II.3.1 Sistema SHINKANSEN
@@ -125,13 +125,13 @@ La variabilidad en el diseño de placas responde fundamentalmente a dos parámet
 
 La interface entre la solera y cada placa prefabricada se completa con la introducción de mortero autonivelante, que proporciona aislamiento del suelo base y mejora significativamente la durabilidad ante ciclos repetidos de congelación y descongelación. El posicionamiento de las placas se logra encajándolas entre cilindros de hormigón vertical, denominados "stoppers", que emergen de la solera. Estos elementos cumplen funciones estructurales múltiples: proporcionan conexión entre losas contiguas, vinculan cada placa con la solera, y al estar revestidos de mortero de resina, actúan como elementos de dilatación térmica del hormigón. El carril se monta sobre una almohadilla de asiento ubicada en una placa de apoyo que está directamente fijada a la losa.
 
-![[a8b2ebf4ff141de805ab5c9bc53f33a7_MD5.webp]]
-![[e0fd4ea06b3445ab48516f04ddb3318b_MD5.webp]]
+![a8b2ebf4ff141de805ab5c9bc53f33a7_MD5]({{ site.baseurl }}/assets/images/a8b2ebf4ff141de805ab5c9bc53f33a7_MD5.webp)
+![e0fd4ea06b3445ab48516f04ddb3318b_MD5]({{ site.baseurl }}/assets/images/e0fd4ea06b3445ab48516f04ddb3318b_MD5.webp)
 
 **Estructura de la Vía en Placa**
 
 
-![[d1353cbfcc90a4bd13b7a792a49aeedb_MD5.webp]]
+![d1353cbfcc90a4bd13b7a792a49aeedb_MD5]({{ site.baseurl }}/assets/images/d1353cbfcc90a4bd13b7a792a49aeedb_MD5.webp)
 
 
 #### II.3.2. Sistema ÖBB-PORR
@@ -145,7 +145,7 @@ The system is built on the principle of **unbonded construction**, which allows 
 - **Elastic Layer:** A specialized elastic coating (usually an elastomer) is applied to the bottom of the slab. This acts as a vibration damper and creates a defined separation between the slab and the self-compacting concrete (SCC) poured beneath it.
 - **Tapered Cones:** The slabs feature large, tapered openings. During installation, SCC is pumped into these holes, anchoring the slab to the hydraulic bonded layer (HBL) below.
     
-![[d9f2f43218d3956732231647176d9048_MD5.webp]]
+![d9f2f43218d3956732231647176d9048_MD5]({{ site.baseurl }}/assets/images/d9f2f43218d3956732231647176d9048_MD5.webp)
 ##### II.3.2.2. Key Advantages
 
 The PORR system is favored for projects like the HS2 in the UK and various Alpine tunnels for several reasons:
@@ -185,7 +185,7 @@ El sistema AFTRAV se compone de una estructura multicapa:
 - **Capa de nivelación:** Se utiliza hormigón autocompactante o morteros especiales para solidarizar la placa prefabricada con la base y asegurar la cota exacta.
 - **Fijaciones:** Incorpora sistemas de sujeción (habitualmente de la marca **Pandrol**) que van anclados directamente a la placa. Estas fijaciones permiten una alta regulación (hasta +26 mm en vertical y ±10 mm en horizontal), fundamental para corregir desviaciones tras el montaje.
 - **Elementos elásticos:** Se incluyen almohadillas bajo el carril o bajo la propia placa (dependiendo del diseño específico para control de vibraciones) para proporcionar la elasticidad que en la vía convencional aporta el balasto.
-![[e9042a06fa055db1fc384be243d9c841_MD5.webp]]
+![e9042a06fa055db1fc384be243d9c841_MD5]({{ site.baseurl }}/assets/images/e9042a06fa055db1fc384be243d9c841_MD5.webp)
 ##### II.3.3.3. Ventajas Principales
 
 - **Idoneidad para Viaductos:** Es el sistema de referencia para puentes de gran longitud (como los de la **LAV Madrid-Galicia** o el **Paso de Pajares**), ya que permite un comportamiento dinámico excelente y reduce las cargas muertas en comparación con el balasto.
@@ -213,28 +213,28 @@ Tanto el sistema **Bögl** (Max Bögl) como el **PORR** (Slab Track Austria) par
 | **Estructura**        | Hormigón pretensado biaxialmente.                                                               | Hormigón armado o pretensado con "huecos" (pockets) integrados.                                |
 
 
-![[ff3513337f9c55e05731381ffcc62e76_MD5.webp]]
-![[d812e90fadbb85e3d604e0e9a0ba67ff_MD5.webp]]
+![ff3513337f9c55e05731381ffcc62e76_MD5]({{ site.baseurl }}/assets/images/ff3513337f9c55e05731381ffcc62e76_MD5.webp)
+![d812e90fadbb85e3d604e0e9a0ba67ff_MD5]({{ site.baseurl }}/assets/images/d812e90fadbb85e3d604e0e9a0ba67ff_MD5.webp)
 
 ### II.4. Segmentos de hormigón in situ sin traviesas
 
 Este sistema, que guarda similitudes con los planteamientos japoneses, se desarrolló como una alternativa para contextos donde se busca una mayor flexibilidad en el diseño. La estructura se fundamenta en una plataforma de hormigón que actúa como losa de cimentación, ejecutada in situ con juntas de dilatación espaciadas cada 30 metros. Sobre esta base, y mediando una capa de mortero bituminoso de 5 centímetros de espesor, se colocan placas de hormigón pretensado de un espesor algo menor que en el sistema SHINKANSEN (15 centímetros comparado con los 16-22 centímetros del sistema japonés).
 
 Para completar la sección transversal de la vía, se rellena con balasto para reconstitución de las banquetas laterales. En el caso particular de su aplicación en túneles, la sección se completa mediante elementos prefabricados colocados en la entrevía y en los laterales, permitiendo obtener un plano de rodadura adecuado para el tráfico de vehículos equipados con neumáticos.
-![[848a29316715f52d51e6b75865ead2ed_MD5.webp]]
+![848a29316715f52d51e6b75865ead2ed_MD5]({{ site.baseurl }}/assets/images/848a29316715f52d51e6b75865ead2ed_MD5.webp)
 
 ### II.3. Segmentos de hormigón in situ sin traviesas: fijación directa
 
 Esta solución se fundamenta en el hormigonado integral in situ de la vía, combinado con un sistema de anclaje directo del carril. La característica distintiva de este enfoque es que la mayor parte de la rigidez del sistema proviene de la estructura de hormigón, mientras que la elasticidad necesaria para el amortiguamiento y la acomodación de deformaciones es proporcionada completamente por el sistema de sujeción.
 
 La estructura consiste en dos capas de hormigón: una capa inferior de hormigón de baja resistencia que actúa como base, sobre la cual se ejecuta una segunda capa de hormigón armado de mayores prestaciones, construida sin juntas de dilatación. El carril se apoya sobre una placa elastomérica que proporciona la interfase elástica entre el carril y la estructura rígida. El sistema de sujeción está conformado por múltiples componentes integrados: un soporte anclado al hormigón mediante mortero de resinas epoxi, un clip elástico que presiona el carril, y un elemento aislante que incluye una placa de fundición y una funda de nylon que envuelve la grapa, asegurando el contacto controlado con el patín del carril.
-![[93cd5a0d66e242cf0d9b5f6b60fd2217_MD5.webp]]
+![93cd5a0d66e242cf0d9b5f6b60fd2217_MD5]({{ site.baseurl }}/assets/images/93cd5a0d66e242cf0d9b5f6b60fd2217_MD5.webp)
 
 
 ### II.4. Sistemas de carril embebido
 
 En estos sistemas, el carril opera sin apoyos discretos en traviesas, sino que se apoya de forma continua a lo largo de toda su longitud sobre la estructura portante. Esta configuración elimina la flexión intermitente que sufre el carril entre apoyos discretos, reduciendo significativamente las tensiones de fatiga en el mismo. Consecuentemente, se produce una mejora substancial en la distribución de cargas, tanto en condiciones estáticas como dinámicas.
-![[c8bb67cd98225bd50b8d0f1ea96b5b45_MD5.webp]]
+![c8bb67cd98225bd50b8d0f1ea96b5b45_MD5]({{ site.baseurl }}/assets/images/c8bb67cd98225bd50b8d0f1ea96b5b45_MD5.webp)
 
 El concepto fundamental consiste en una losa de hormigón armado sobre la cual se ejecutan canaletas longitudinales. En estas acanaladuras se introduce el carril y se fija mediante tacos de madera que mantienen la inclinación especificada (típicamente 1/20). Posteriormente, el carril se embebe completamente en un material elastomérico que le proporciona tanto fijación como elasticidad y amortiguamiento necesarios para su correcto funcionamiento durante la explotación. Con el propósito de optimizar el uso de material elastomérico, se insertan tubos de PVC en ambos lados del alma del carril.
 
@@ -255,9 +255,9 @@ El posicionamiento del carril se realiza con precisión en su ubicación correct
 El sistema VIESA representa una solución basada en bloques prefabricados que permiten una flexibilidad en el diseño y construcción. Este sistema se caracteriza por utilizar bloques de hormigón con cazoletas elásticas integradas, facilitando la instalación del carril con las características de elasticidad requeridas.
 
 BLOQUES (VIESA).
-![[d830ba6fbc66d9510f96990e3c0a89c7_MD5.webp]]
-![[ac3c2d2b38c7180d2b8e7d27ff6645d2_MD5.webp]]
-![[22d38a35f06a3f8ab5be5087c85ea849_MD5.webp]]
+![d830ba6fbc66d9510f96990e3c0a89c7_MD5]({{ site.baseurl }}/assets/images/d830ba6fbc66d9510f96990e3c0a89c7_MD5.webp)
+![ac3c2d2b38c7180d2b8e7d27ff6645d2_MD5]({{ site.baseurl }}/assets/images/ac3c2d2b38c7180d2b8e7d27ff6645d2_MD5.webp)
+![22d38a35f06a3f8ab5be5087c85ea849_MD5]({{ site.baseurl }}/assets/images/22d38a35f06a3f8ab5be5087c85ea849_MD5.webp)
 
 #### II.6.2. SATEBA
 Sateba es un fabricante europeo líder (ahora parte del **Grupo Vossloh**) especializado en soluciones de hormigón prefabricado para **vía en placa** (conocida en inglés como _slab track_ o _ballastless track_).
@@ -307,21 +307,21 @@ Sateba fabrica "escaleras" de hormigón prefabricado (vigas longitudinales conec
 - **Grand Paris Express, Francia:** Instalación de miles de traviesas monobloque para las nuevas líneas de metro.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hk0q-rJFsYA?si=vJ_zuR4I7hb31WKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![[image-9.webp]]
-![[image-10.webp]]
+![image-9]({{ site.baseurl }}/assets/images/image-9.webp)
+![image-10]({{ site.baseurl }}/assets/images/image-10.webp)
 #### II.6.3. TRANOSA
 
 El sistema TRANOSA representa otra aproximación de bloques prefabricados para vía en placa, fundamentado en componentes modulares que integran elementos elásticos. Los bloques de este sistema se diseñan con cazoletas elásticas que proporcionan las condiciones de amortiguamiento requeridas para el correcto desempeño de la vía.
 
 BLOQUES (TRANOSA).
-![[fd4ffe6e23d7e1b6cdb553d2785fa96a_MD5.webp]]
-![[71fb8914b36babe62428d258e9ad792d_MD5.webp]]
+![fd4ffe6e23d7e1b6cdb553d2785fa96a_MD5]({{ site.baseurl }}/assets/images/fd4ffe6e23d7e1b6cdb553d2785fa96a_MD5.webp)
+![71fb8914b36babe62428d258e9ad792d_MD5]({{ site.baseurl }}/assets/images/71fb8914b36babe62428d258e9ad792d_MD5.webp)
 
 **Bloque con cazoleta elástica**
 
 
 
-![[0b7e315ca0b21079a2f9f76749e9abff_MD5.webp]]
+![0b7e315ca0b21079a2f9f76749e9abff_MD5]({{ site.baseurl }}/assets/images/0b7e315ca0b21079a2f9f76749e9abff_MD5.webp)
 
 
 #### II.6.3. Low Vibration Track System LVT (Gotthard)
@@ -357,10 +357,10 @@ The Gotthard tunnel presents a hostile environment for track: high temperatures,
 > **Fun Fact:** There are over **380,000 LVT blocks** installed throughout the Gotthard Base Tunnel, covering both tubes and the cross-passages.
 
 
-![[dcf8ecdc3e444024b77fe0ff9e64e671_MD5.webp]]
-![[eb2a9922467425ae98de20f3d267161a_MD5.webp]]
+![dcf8ecdc3e444024b77fe0ff9e64e671_MD5]({{ site.baseurl }}/assets/images/dcf8ecdc3e444024b77fe0ff9e64e671_MD5.webp)
+![eb2a9922467425ae98de20f3d267161a_MD5]({{ site.baseurl }}/assets/images/eb2a9922467425ae98de20f3d267161a_MD5.webp)
 
-![[68a9945eff067f592ecfd501942ed406_MD5.webp]]
+![68a9945eff067f592ecfd501942ed406_MD5]({{ site.baseurl }}/assets/images/68a9945eff067f592ecfd501942ed406_MD5.webp)
 
 #### II.6.4. Edilon
 The **Edilon Sedra Embedded Rail System (ERS)** is a ballastless track solution where the rail is continuously supported and "floating" within a channel, rather than being fixed to sleepers (ties) with traditional clips.
@@ -395,22 +395,22 @@ The ERS is often the "go-to" for urban environments and heavy-duty infrastructur
 4. **Curing:** Once the resin hardens, the jigs are removed, and the track is ready for service.
 
 
-![[6978656c2b782c9b44ddc8242505e031_MD5.webp]]
-![[b08c4dbfe8317f1c05b8ac570e24bfdb_MD5.webp]]
-![[1089b3639f7e0a29f5edac2be10e6b32_MD5.webp]]
+![6978656c2b782c9b44ddc8242505e031_MD5]({{ site.baseurl }}/assets/images/6978656c2b782c9b44ddc8242505e031_MD5.webp)
+![b08c4dbfe8317f1c05b8ac570e24bfdb_MD5]({{ site.baseurl }}/assets/images/b08c4dbfe8317f1c05b8ac570e24bfdb_MD5.webp)
+![1089b3639f7e0a29f5edac2be10e6b32_MD5]({{ site.baseurl }}/assets/images/1089b3639f7e0a29f5edac2be10e6b32_MD5.webp)
 ### II.7. Apoyo directo de traviesas 
 #### II.7.1ATD
 
 El sistema ATD (AsphalTragschicht mit Direktauflagerung) constituye una solución alternativa que utiliza capas asfálticas como elemento base de la superestructura. La composición constructiva comienza con una capa de 40 centímetros de subbalasto sobre la cual se extiende una capa uniforme de 30 centímetros de material granular cementado (grava-cemento). Subsecuentemente, se colocan cuatro capas de asfalto, siendo la capa superior mejorada con adición de polímeros para incrementar sus propiedades de durabilidad y elasticidad. Una vez que las capas asfálticas han alcanzado su estabilidad térmica y estructural, se posicionan las traviesas sobre el asfalto. La fijación de las traviesas se logra mediante inyección de una masilla sintética a través de orificios específicamente practicados en la parte superior de cada traviesa.
 
 
-![[70ad55f0de34e24d0b491023e61d8258_MD5.webp]]
+![70ad55f0de34e24d0b491023e61d8258_MD5]({{ site.baseurl }}/assets/images/70ad55f0de34e24d0b491023e61d8258_MD5.webp)
 
 **SECCIÓN TIPO SISTEMA ATD**
 
-![[40ff47f887dc04d537b56f328052196c_MD5.webp]]
-![[22d38a35f06a3f8ab5be5087c85ea849_MD5.webp]]
-![[94988b73cd757926553e46859b678b13_MD5.webp]]
+![40ff47f887dc04d537b56f328052196c_MD5]({{ site.baseurl }}/assets/images/40ff47f887dc04d537b56f328052196c_MD5.webp)
+![22d38a35f06a3f8ab5be5087c85ea849_MD5]({{ site.baseurl }}/assets/images/22d38a35f06a3f8ab5be5087c85ea849_MD5.webp)
+![94988b73cd757926553e46859b678b13_MD5]({{ site.baseurl }}/assets/images/94988b73cd757926553e46859b678b13_MD5.webp)
 #### II.7.2. Getrac
 
 El sistema Getrac se fundamenta en una arquitectura de capas donde la placa soporte consiste en aglomerado asfáltico de alta calidad, sobre la cual se posiciona una traviesa monobloque de hormigón. El paquete total de aglomerado asfáltico se apoya sobre una base de material granular cementado (grava-cemento), alcanzando un espesor aproximado de 30 centímetros para la estructura de soporte.
@@ -421,8 +421,8 @@ La estructura multicapa permite una distribución eficiente de las cargas. La pr
 
 **SECCIÓN TIPO SISTEMA GETRAC**
 
-![[dbefa72d732beb072a2698d36e9aabc2_MD5.webp]]
-![[acdd86f0ad99c50cc64cfb53948753b5_MD5.webp]]
+![dbefa72d732beb072a2698d36e9aabc2_MD5]({{ site.baseurl }}/assets/images/dbefa72d732beb072a2698d36e9aabc2_MD5.webp)
+![acdd86f0ad99c50cc64cfb53948753b5_MD5]({{ site.baseurl }}/assets/images/acdd86f0ad99c50cc64cfb53948753b5_MD5.webp)
 ### II.13. Comportamiento
 
 A la hora de seleccionar el sistema de vía en placa más adecuado para una determinada aplicación, es fundamental comprender las características de comportamiento que cada tipología ofrece. Las construcciones en capas o monolíticas reducen efectivamente las tensiones derivadas de las cargas transmitidas a través de la estructura, facilitando las operaciones de reparación cuando éstas son necesarias. Sin embargo, presentan la limitación de tener un único plano de elasticidad, lo que puede originar problemáticas acústicas.
@@ -433,7 +433,7 @@ Los sistemas con carril embebido logran una reducción efectiva de tensiones al 
 
 Las losas flotantes ofrecen la mayor reducción de ruido y vibraciones al contar con múltiples planos de elasticidad. El uso de elementos prefabricados permite una sistematización eficiente del proceso constructivo, aunque requiere un control muy estricto del posicionamiento de los componentes. Su costo inicial es considerablemente mayor que otras soluciones.
 
-![[ad88150a44460f9c46fddf1573099c97_MD5.webp]]
+![ad88150a44460f9c46fddf1573099c97_MD5]({{ site.baseurl }}/assets/images/ad88150a44460f9c46fddf1573099c97_MD5.webp)
 
 ## Capítulo III Montaje de Via en Placa
 
@@ -483,7 +483,7 @@ Complementariamente a lo anterior, se recomienda enfáticamente la utilización 
 | SUBBALASTO | No Aplica | $\mathrm{E}_{\mathrm{v} 2}>1.200 \mathrm{~kg} / \mathrm{cm}^{2}$ |
 | CAPA DE FORMA (Material QS3) | 100\% Proctor Modificado | $\mathrm{E}_{\mathrm{v} 2}>800 \mathrm{~kg} / \mathrm{cm}^{2}$ |
 | SUELO CALIDAD QS3/QS2 (Desmonte) /QS1 (Desmonte) | 95\% Proctor Modificado | $\mathrm{E}_{\mathrm{v} 2}>600 \mathrm{~kg} / \mathrm{cm}^{2}$ |
-![[3aeed7443afe5e224a2ef4af8f3008fe_MD5.webp]]
+![3aeed7443afe5e224a2ef4af8f3008fe_MD5]({{ site.baseurl }}/assets/images/3aeed7443afe5e224a2ef4af8f3008fe_MD5.webp)
 ### III.4. Vía en placa sobre viaductos
 
 La incorporación de vía en balasto convencional sobre estructuras de viaducto introduce una serie de problemáticas que pueden ser significativamente mitigadas mediante la adopción de sistemas de vía en placa.
@@ -507,24 +507,24 @@ Por el contrario, los túneles constituyen la infraestructura más compatible pa
 
 La estabilidad térmica en el interior del túnel usualmente implica que no existan movimientos transversales o longitudinales significativos de la estructura, eliminando así la necesidad de compatibilizar movimientos complejos entre distintos componentes. Finalmente, es esencial que se diseñe e implemente un sistema adecuado de impermeabilización y drenaje específicamente dimensionado para las características de la vía en placa en contexto de túnel.
 
-![[9012749d6f592ee342831902f95592e5_MD5.webp]]
-![[5c6532c05e797022e0f323e2ae26a22e_MD5.webp]]
-![[106614739ef28c778cccdf37c4f58c93_MD5.webp]]
+![9012749d6f592ee342831902f95592e5_MD5]({{ site.baseurl }}/assets/images/9012749d6f592ee342831902f95592e5_MD5.webp)
+![5c6532c05e797022e0f323e2ae26a22e_MD5]({{ site.baseurl }}/assets/images/5c6532c05e797022e0f323e2ae26a22e_MD5.webp)
+![106614739ef28c778cccdf37c4f58c93_MD5]({{ site.baseurl }}/assets/images/106614739ef28c778cccdf37c4f58c93_MD5.webp)
 
 ## Capítulo IV Procedimientos constructivos
 
 La ejecución de vías en placa requiere procedimientos constructivos altamente sistematizados y controlados. El presente capítulo examina en detalle las operaciones típicas involucradas en la instalación de un sistema RHEDA 2000, que constituye uno de los sistemas más ampliamente utilizados en proyectos españoles y europeos. Los procedimientos aquí descritos ilustran los principios generales aplicables a otros sistemas, aunque con adaptaciones específicas según sus características particulares.
 
 Secciones tipo (1).
-![[c49b44958157cfba184a705997a5e720_MD5.webp]]
+![c49b44958157cfba184a705997a5e720_MD5]({{ site.baseurl }}/assets/images/c49b44958157cfba184a705997a5e720_MD5.webp)
 
 Secciones tipo (2).
-![[ce78e155de599fc694970899c612a0f1_MD5.webp]]
+![ce78e155de599fc694970899c612a0f1_MD5]({{ site.baseurl }}/assets/images/ce78e155de599fc694970899c612a0f1_MD5.webp)
 
 
 
 Topografía Bases de Replanteo
-![[4ba8890794d36867e1b2bc052da297f1_MD5.webp]]
+![4ba8890794d36867e1b2bc052da297f1_MD5]({{ site.baseurl }}/assets/images/4ba8890794d36867e1b2bc052da297f1_MD5.webp)
 
 
 
@@ -534,25 +534,25 @@ Las operaciones iniciales de replanteo constituyen la base sobre la cual descans
 
 Una vez obtenida la información topográfica del soporte, se procede al ajuste del trazado de la vía, verificando que el espesor resultante entre la solera existente y la cota del eje central del carril se mantenga dentro de las tolerancias especificadas (típicamente 0,493 milímetros). El encaje del trazado de vía en planta y alzado requiere validación simultánea de múltiples parámetros: tanto parámetros geométricos fundamentales (alineación, peralte, pendiente longitudinal) como parámetros funcionales (radios de curvatura, transiciones de peralte). Concurrentemente, deben verificarse los gálibos de la infraestructura contra las normativas vigentes de seguridad y funcionamiento.
 
-![[acf93258f3607c36ed3798ac01e0d344_MD5.webp]]
+![acf93258f3607c36ed3798ac01e0d344_MD5]({{ site.baseurl }}/assets/images/acf93258f3607c36ed3798ac01e0d344_MD5.webp)
 
 ### IV.3. Preparación de la solera y posicionamiento de traviesas
 
 La primera fase constructiva comprende la ejecución de la solera de hormigón en masa de clase HM-20. Esta capa constituye la base sobre la cual descansa toda la superestructura. En los casos donde es necesario mantener o ajustar el peralte del trazado, se puede diseñar una solera peraltada que proporciona ya la inclinación necesaria del carril, facilitando posteriores operaciones de montaje.
 
 Una vez alcanzada la resistencia del hormigón de la solera, se procede al posicionamiento preciso de las traviesas sobre ella, considerando el trazado geométrico previamente validado. El posicionamiento de traviesas constituye una operación crítica, ya que define la posición definitiva del carril en la estructura final.
-![[5284bd3a0af27c7e59984c737ba0cf7e_MD5.webp]]
+![5284bd3a0af27c7e59984c737ba0cf7e_MD5]({{ site.baseurl }}/assets/images/5284bd3a0af27c7e59984c737ba0cf7e_MD5.webp)
 
 La descarga del carril en el sitio de la obra constituye una operación que requiere cuidado para evitar daños. El carril se suministra en tramos o barras largas que se descargan utilizando equipos apropiados. El montaje del carril sobre las traviesas se realiza siguiendo procedimientos precisos, con posterior clavado de la vía para asegurar la posición inicial durante las operaciones subsecuentes de nivelación y ajuste.
 La operación de nivelación de la vía constituye un paso crítico en la secuencia constructiva. Se utilizan husillos (tornillos de elevación) colocados a intervalos aproximados de 1,80 metros para ajustar tanto la alineación horizontal como la nivelación vertical de la vía. Estos husillos permiten aproximar la posición del carril a sus valores teóricos especificados, considerando tanto los parámetros en planta (alineación) como los parámetros en alzado (nivelación).
-![[d63fba8227c921e3b356b74f9eb9895a_MD5.webp]]
+![d63fba8227c921e3b356b74f9eb9895a_MD5]({{ site.baseurl }}/assets/images/d63fba8227c921e3b356b74f9eb9895a_MD5.webp)
 
-![[87e038edf2e211a369a196877253651a_MD5.webp]]
+![87e038edf2e211a369a196877253651a_MD5]({{ site.baseurl }}/assets/images/87e038edf2e211a369a196877253651a_MD5.webp)
 
 Ajuste topográfico (1).
-![[eb02f45122351131ce7b07fa41af27b0_MD5.webp]]
-![[9e234d1ad2e7ae2b4e57594eab579ba5_MD5.webp]]
-![[7647896d875c8f53a561ce969ee4b6cb_MD5.webp]]
+![eb02f45122351131ce7b07fa41af27b0_MD5]({{ site.baseurl }}/assets/images/eb02f45122351131ce7b07fa41af27b0_MD5.webp)
+![9e234d1ad2e7ae2b4e57594eab579ba5_MD5]({{ site.baseurl }}/assets/images/9e234d1ad2e7ae2b4e57594eab579ba5_MD5.webp)
+![7647896d875c8f53a561ce969ee4b6cb_MD5]({{ site.baseurl }}/assets/images/7647896d875c8f53a561ce969ee4b6cb_MD5.webp)
 
 ### IV.4. Armado y hormigonado
 
@@ -589,30 +589,30 @@ Adicionalmente, se recomienda la utilización de vía en placa en estaciones fer
 #### V.2.1. En túneles:
 
 La infraestructura de túneles constituye uno de los ámbitos de aplicación más extensos para sistemas de vía en placa en el contexto español. El sistema RHEDA 2000 se encuentra implementado en una extensión de 79,99 kilómetros, representando la solución más ampliamente desplegada en infraestructuras subterráneas. La variante RHEDA 2000 Polivalente, diseñada para proporcionar mayor versatilidad en contextos complejos, ha sido instalada en 34,4 kilómetros. De mayor envergadura es la implementación del sistema VPA/A, que alcanza 405,6 kilómetros, constituyendo la solución de placa predominante en túneles de la red española.
-![[fbd023e6f97a121a1a90289f6427f0f4_MD5.webp]]
+![fbd023e6f97a121a1a90289f6427f0f4_MD5]({{ site.baseurl }}/assets/images/fbd023e6f97a121a1a90289f6427f0f4_MD5.webp)
 #### V.2.2. En estaciones:
 
 Los espacios de estaciones ferroviarias han experimentado una diversificación de sistemas de vía en placa adaptados a los requerimientos específicos de operación e integración urbana. El sistema Carril Embebido Edilon representa la solución más extendida en estaciones, con 2,66 kilómetros de implementación. Complementando esta solución, se encuentran diversos sistemas especializados: el sistema STEDEF ha sido instalado en 900 metros, la modalidad EDILON EDF-FF en 450 metros, el sistema de Bloques TRANOSA en 450 metros, y finalmente el sistema DFF en 900 metros, reflejando la multiplicidad de enfoques técnicos disponibles para este contexto operacional.
 
-![[a1fe6635a9d7ef0698c2c564bcba018e_MD5.webp]]
+![a1fe6635a9d7ef0698c2c564bcba018e_MD5]({{ site.baseurl }}/assets/images/a1fe6635a9d7ef0698c2c564bcba018e_MD5.webp)
 
 
-![[fdc0fb6ef250f7b47e5d380e312c5f61_MD5.webp]]
-![[2418caddd30fda5eb55fa6e55d6cfd00_MD5.webp]]
+![fdc0fb6ef250f7b47e5d380e312c5f61_MD5]({{ site.baseurl }}/assets/images/fdc0fb6ef250f7b47e5d380e312c5f61_MD5.webp)
+![2418caddd30fda5eb55fa6e55d6cfd00_MD5]({{ site.baseurl }}/assets/images/2418caddd30fda5eb55fa6e55d6cfd00_MD5.webp)
 ### V.3. Kilómetros de vía sin balasto instalados en España
 
 #### V.3.1. En viaductos:
 
 La implementación en estructuras de viaductos ha seguido una aproximación selectiva y experimental. El sistema DFF ha sido instalado en 450 metros de viaductos españoles, constituyendo una aplicación piloto de esta solución. El sistema SFC representa otra alternativa desplegada, alcanzando 573 metros, confirmando la viabilidad técnica de sistemas de placa en contextos de estructura elevada.
 
-![[34025cbedf0260eca00700d7e2e6e222_MD5.webp]]
+![34025cbedf0260eca00700d7e2e6e222_MD5]({{ site.baseurl }}/assets/images/34025cbedf0260eca00700d7e2e6e222_MD5.webp)
 
 #### V.3.2. En desmonte/terraplén (tramos de pruebas):
 
 Las secciones de desmonte y terraplén constituyen ámbitos donde se han desarrollado extensos tramos de prueba con diversos sistemas de vía en placa, permitiendo acumular experiencia operacional antes de decisiones de implementación a mayor escala. El sistema Carril Embebido Edilon fue evaluado en 432 metros, proporcionando datos sobre comportamiento en contextos de terreno variable. El sistema RHEDA DYWIDAG alcanzó similar longitud de prueba (432 metros) para evaluar sus características en estas condiciones. El sistema RHEDA 2000, como solución de referencia, fue evaluado también en 432 metros de este tipo de infraestructura. El sistema STEDEF completó evaluaciones en 432 metros, permitiendo comparativas técnicas en iguales condiciones. El sistema GETRAC fue igualmente probado en 432 metros en estos contextos, al igual que el sistema ATD, que constituyó su extensión de validación en terraplén y desmonte.
 
-![[83f9994a57a5b6808a770afeff2fe05b_MD5.webp]]
-![[f7dffa6080fd289c54c235368e3e783b_MD5.webp]]
+![83f9994a57a5b6808a770afeff2fe05b_MD5]({{ site.baseurl }}/assets/images/83f9994a57a5b6808a770afeff2fe05b_MD5.webp)
+![f7dffa6080fd289c54c235368e3e783b_MD5]({{ site.baseurl }}/assets/images/f7dffa6080fd289c54c235368e3e783b_MD5.webp)
 
 ## Capítulo VI Ventajas e inconvenientes
 
@@ -626,7 +626,7 @@ Concerniente al mantenimiento, estos sistemas preservan la geometría de vía en
 
 La altura total de construcción requerida es notablemente inferior a la de sistemas convencionales sobre balasto. En ciertos casos, la rigidez permite el tránsito de vehículos con ruedas neumáticas. Finalmente, mejoran significativamente la limpieza de la infraestructura y la eficiencia de los elementos de seguridad.
 
-![[64e627f5285cc193ffb410204157ffdf_MD5.webp]]
+![64e627f5285cc193ffb410204157ffdf_MD5]({{ site.baseurl }}/assets/images/64e627f5285cc193ffb410204157ffdf_MD5.webp)
 ### VI.2. Limitaciones y desventajas
 
 Junto a las ventajas substanciales que ofrecen los sistemas de vía en placa, es importante reconocer una serie de desafíos técnicos y económicos que deben considerarse en el proceso de selección:
@@ -667,26 +667,26 @@ Los sistemas de sujeción de traviesa tienen especificaciones técnicas detallad
 
 Los costes de implantación de sistemas de vía en placa varían significativamente según la solución tecnológica seleccionada y los requerimientos específicos de cada proyecto. El análisis detallado de los sistemas de sujeción para vía en placa, ilustrado en la siguiente documentación gráfica, permite evaluar estas diferencias.
 
-![[b00eaaef0ecb070c86e3bbdd1cf6550c_MD5.webp]]
+![b00eaaef0ecb070c86e3bbdd1cf6550c_MD5]({{ site.baseurl }}/assets/images/b00eaaef0ecb070c86e3bbdd1cf6550c_MD5.webp)
 
 El sistema de carril enchaquetado constituye una solución de relativo bajo coste, con un valor de 450 euros por metro lineal. Esta configuración integra todas las operaciones de montaje necesarias para la puesta en servicio de la infraestructura.
 
-![[27e5c391ff57e4fb09d14c57aef3f1b1_MD5.webp]]
-![[311dd57ec47c29eca4c09508890971e5_MD5.webp]]
-![[f06a1fdfd1e1988c2c13caf08bb35648_MD5.webp]]
+![27e5c391ff57e4fb09d14c57aef3f1b1_MD5]({{ site.baseurl }}/assets/images/27e5c391ff57e4fb09d14c57aef3f1b1_MD5.webp)
+![311dd57ec47c29eca4c09508890971e5_MD5]({{ site.baseurl }}/assets/images/311dd57ec47c29eca4c09508890971e5_MD5.webp)
+![f06a1fdfd1e1988c2c13caf08bb35648_MD5]({{ site.baseurl }}/assets/images/f06a1fdfd1e1988c2c13caf08bb35648_MD5.webp)
 
 La modalidad prefabricada de carril enchaquetado representa una opción de mayor costo inicial, situándose en 1.000 euros por metro lineal. Este incremento de inversión se justifica por la inclusión de losa prefabricada de hormigón en la configuración completa del sistema, que mejora los tiempos de construcción y la garantía de calidad en el proceso de fabricación.
 
-![[bc2ec0c8f1b06e9dda35d76332de29f7_MD5.webp]]
-![[e82c96a191b8fd70dfd31812d5c1f5f5_MD5.webp]]
+![bc2ec0c8f1b06e9dda35d76332de29f7_MD5]({{ site.baseurl }}/assets/images/bc2ec0c8f1b06e9dda35d76332de29f7_MD5.webp)
+![e82c96a191b8fd70dfd31812d5c1f5f5_MD5]({{ site.baseurl }}/assets/images/e82c96a191b8fd70dfd31812d5c1f5f5_MD5.webp)
 
 El sistema RHEDA CITY ofrece una solución con coste intermedio de 500 euros por metro lineal, proporcionando un equilibrio entre inversión inicial y capacidad técnica.
 
-![[b796dc616e4e960063d8df245736a064_MD5.webp]]
+![b796dc616e4e960063d8df245736a064_MD5]({{ site.baseurl }}/assets/images/b796dc616e4e960063d8df245736a064_MD5.webp)
 
 Para aplicaciones que requieren máxima reducción de vibraciones y mayor durabilidad, el sistema de losa flotante representa la solución de más elevado coste unitario, con un valor de 1.400 euros por metro lineal. Esta configuración incluye losa prefabricada de hormigón con sistema de aislamiento flotante, lo que justifica el incremento significativo de inversión.
 
-![[c1964a5f3fbacd886b1036921e16dafa_MD5.webp]]
+![c1964a5f3fbacd886b1036921e16dafa_MD5]({{ site.baseurl }}/assets/images/c1964a5f3fbacd886b1036921e16dafa_MD5.webp)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RwFGigQqcsY?si=SNFaC7prAW7TV_ge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### VI.4. Comparativa costes medios
