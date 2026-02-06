@@ -41,7 +41,7 @@ b) La superestructura: el conjunto integrado por los elementos de rodadura y fij
 La superestructura merece un análisis más detallado, ya que se compone de varios elementos esenciales: dos filas paralelas de carriles que proporcionan la trayectoria para las ruedas de los trenes, traviesas (elementos estructurales orientados de forma transversal al eje de la vía que actúan como elementos de sujeción para los carriles) y balasto (la capa de material granular sobre la cual se apoyan las traviesas, distribuyendo las cargas hacia la infraestructura). Complementariamente, se incorporan diversos elementos auxiliares como placas de asiento, bridas de unión, sistemas de clavazón y otros accesorios que aseguran la cohesión del sistema completo.
 
 Un aspecto notable de la evolución ferroviaria es que la configuración básica de la superestructura ha permanecido prácticamente invariable desde los orígenes del ferrocarril, demostrando la solidez y efectividad del diseño fundamental.
-![[c610b2b944d1e1b4752f24f15a1e172f_MD5.webp]]
+![c610b2b944d1e1b4752f24f15a1e172f_MD5]({{ site.baseurl }}/assets/images/c610b2b944d1e1b4752f24f15a1e172f_MD5.webp)
 
 ### I.2 Funciones
 
@@ -54,7 +54,7 @@ El carril actúa como el elemento estructuralmente más crítico, asumiendo dire
 - Función de guiado directivo: mediante la interacción entre las pestañas laterales de las ruedas y la geometría específica del carril, se logra mantener los vehículos sobre la trayectoria correcta. Sin embargo, este mecanismo de guiado conlleva consecuencias no deseadas, en particular la generación de rozamiento significativo entre las superficies de rodadura y el carril en secciones curvas, así como entre las pestañas y los carriles tanto en alineaciones rectas como curvas. Este fenómeno de fricción constituye una de las principales causas de desgaste prematuro y de los problemas asociados al mantenimiento de la vía y la conservación del material rodante.
 
 Las traviesas, por su parte, desempeñan funciones estructurales igualmente importantes: mantienen y garantizan la separación constante entre los dos carriles (función conocida como arriostramiento lateral) y actúan como elementos de transmisión, canalizando los esfuerzos captados por los carriles hacia la capa de balasto subyacente.
-![[beddbd38ae6ed4394c6687449ff657a7_MD5.webp]]
+![beddbd38ae6ed4394c6687449ff657a7_MD5]({{ site.baseurl }}/assets/images/beddbd38ae6ed4394c6687449ff657a7_MD5.webp)
 [Comportamiento estructural del sistema de via](https://www.researchgate.net/publication/322147560_Railway_ballast_characteristics_selection_criteria_and_performance/figures?lo=1)
 
 - El balasto tiene por función transmitir y repartir sobre la plataforma, lo más uniformemente posible las cargas de los trenes y evacuar lo más rápidamente posible las aguas de lluvia del asiento de las traviesas.
@@ -77,7 +77,7 @@ En España se fijó el ancho de vía en el Pliego General de Condiciones que for
 - También algunas vías de explotación minera o industrial con valores que en algunos casos llegan hasta los 600 mm.
 - Podemos decir que el ancho de vía es una característica fundamental tanto en el trazado como en la explotación de líneas férreas.
 
-![[decedb6b307dcfff083c17af2cc3cb4e_MD5.webp]]
+![decedb6b307dcfff083c17af2cc3cb4e_MD5]({{ site.baseurl }}/assets/images/decedb6b307dcfff083c17af2cc3cb4e_MD5.webp)
 [Ancho de via](https://commons.wikimedia.org/wiki/File:Rail_gauge_EurAsia.png)
 
 ### II.2 Ventajas e inconvenientes
@@ -98,7 +98,7 @@ La eficiencia de este sistema demuestra sus ventajas operacionales: composicione
 
 ### II.5 Cambio de Bogíes
 
-![[b439addf86977dd0035cad3b6dae3ea3_MD5.webp]]
+![b439addf86977dd0035cad3b6dae3ea3_MD5]({{ site.baseurl }}/assets/images/b439addf86977dd0035cad3b6dae3ea3_MD5.webp)
 [Cambiador de boggies](https://en.wikipedia.org/wiki/Bogie_exchange)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1TcU_07rMc?si=aluLMflyRCGTUfGR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -134,7 +134,7 @@ La experiencia operacional acumulada en Europa ha puesto de manifiesto que incli
 
 Por estas razones fundamentadas en la observación empírica, las administraciones ferroviarias europeas han mantenido firmemente la inclinación de $1/20$ como estándar operativo. Existe, sin embargo, una excepción notable en las líneas de Alta Velocidad en Alemania y Japón, que han adoptado la inclinación más moderada de $1/40$ para optimizar el comportamiento dinámico a velocidades extremas y reducir la magnitud de las solicitaciones laterales sobre la superestructura.
 
-![[766a1c0eee9a09a27b52949b63bef6ec_MD5.webp]]
+![766a1c0eee9a09a27b52949b63bef6ec_MD5]({{ site.baseurl }}/assets/images/766a1c0eee9a09a27b52949b63bef6ec_MD5.webp)
 [Geometry of track](https://www.mdpi.com/2076-3417/15/6/2970)
 
 ### III.2 Tolerancia en el ancho de vía
@@ -143,7 +143,7 @@ A pesar de que los estándares de construcción especifican la necesidad de esta
 
 Los sobreanchos pueden manifestarse indistintamente en traviesas de madera o de hormigón, presentando una multiplicidad de causas generatrices:
 
-![[f483341516a648d4329bdaa595caa8f5_MD5.webp]]
+![f483341516a648d4329bdaa595caa8f5_MD5]({{ site.baseurl }}/assets/images/f483341516a648d4329bdaa595caa8f5_MD5.webp)
 [Sujeciones](https://www.chinarailfastener.com/rail-fastener-system/e-clip-fastening-system.html)
 
 a) Erosión y pérdida de material de la cabeza del carril en su superficie interior, producto del continuo contacto con las llantas de las ruedas.
@@ -258,7 +258,7 @@ La densidad de traviesas a lo largo de la vía constituye un parámetro de dise�
 
 En la terminología especializada de vías ferroviarias, se designa como traviesa de junta a aquella que se posiciona inmediatamente contigua a los extremos de los carriles individuales, mientras que las traviesas consecutivas reciben la denominación de traviesas de contrajunta. La característica esencial de estas traviesas especiales es su espaciamiento más reducido comparativamente con el resto de la estructura, medida que resulta crítica para la estabilidad estructural. La omisión o deficiencia en la aplicación de este principio de concentración conduce a fenómenos perjudiciales: los extremos libres de los carriles experimentan hundimiento progresivo bajo la acción de cargas repetitivas si el espaciamiento es excesivo, mientras que si el espaciamiento se reduce en exceso, se observa un fenómeno inverso de levantamiento de los extremos de los carriles, comprometiendo nuevamente la geometría prescrita.
 
-![[2848481e96e3ef779814ede33d13e711_MD5.webp]]
+![2848481e96e3ef779814ede33d13e711_MD5]({{ site.baseurl }}/assets/images/2848481e96e3ef779814ede33d13e711_MD5.webp)
 
 
 ### III.4 Posición de las juntas
@@ -295,7 +295,7 @@ $$
 
 Donde $L$ representa la longitud nominal del carril exterior, $L'$ la longitud reducida del carril interior, $R$ denota el radio de curvatura, y $a$ es el ancho de vía. Esta formulación permite determinar con precisión la reducción de longitud requerida para mantener la concordancia geométrica de juntas en curvas.
 
-![[30a5a36ccb699eac249908205a61e24c_MD5.webp|359x412]]
+![30a5a36ccb699eac249908205a61e24c_MD5]({{ site.baseurl }}/assets/images/30a5a36ccb699eac249908205a61e24c_MD5.webp|359x412)
 Diferenciade longitud entre carril interior y exterior
 
 Cabe destacar la influencia significativa que el ancho de la vía ejerce sobre estos cálculos geométricos, factor que determina en última instancia las correcciones requeridas en las longitudes de carril.
@@ -355,8 +355,8 @@ Los valores de las **cargas no suspendidas** que solicitan la vía constituyen u
 
 Actualmente, uno de los desafíos centrales de la ingeniería de vías consiste en lograr una configuración de diseño que sea simultáneamente suficientemente rígida para soportar cargas extremas en los componentes no suspendidos, y simultáneamente capaz de absorber las vibraciones complejas originadas por la circulación a velocidades elevadas. Este dilema de ingeniería busca producir una rodadura suave que atenuada significativamente la transmisión de choques dinámicos y ruidos hacia el material rodante y sus ocupantes, mejorando tanto la seguridad como el confort operativo.
 
-![[b0c7f5c0f632e54de31ac128f25c411c_MD5.webp]]
-![[3bd0b420125acbd6ed3fa72326867955_MD5.webp]]
+![b0c7f5c0f632e54de31ac128f25c411c_MD5]({{ site.baseurl }}/assets/images/b0c7f5c0f632e54de31ac128f25c411c_MD5.webp)
+![3bd0b420125acbd6ed3fa72326867955_MD5]({{ site.baseurl }}/assets/images/3bd0b420125acbd6ed3fa72326867955_MD5.webp)
 [Jacksonville Florida](https://en.wikipedia.org/wiki/Double-stack_rail_transport)
 ### IV.3 Continuidad
 
@@ -384,7 +384,7 @@ La geometría de la superficie de contacto entre la rueda y el carril constituye
 
 Se designan como características mixtas aquellas propiedades geométricas y funcionales definidas conjuntamente por parámetros de la vía y características del vehículo en forma interdependiente, donde la especificación de una requiere información del otro. En esta categoría se incluyen aquellas características cuya presencia en la vía es una exigencia técnica impuesta por las propiedades del material rodante que circula sobre ella. Ejemplos paradigmáticos de estas características mixtas incluyen el juego de vía y el sobreancho, ambas inherentemente vinculadas a la interacción dinámica y geométrica entre vehículo e infraestructura.
 
-![[70d3451a80f688b38fbff44d30d56c2e_MD5.webp]]
+![70d3451a80f688b38fbff44d30d56c2e_MD5]({{ site.baseurl }}/assets/images/70d3451a80f688b38fbff44d30d56c2e_MD5.webp)
 [Ancho de via frente a ancho de solapa](https://www.researchgate.net/publication/288188982_Modification_of_wheel-rail_contact_parameters_by_wear/figures?lo=1)
 
 **Plano de Rodadura:** Se define como la superficie de rodadura del carril que efectivamente se encuentra en contacto físico con la llanta de la rueda durante la operación.
@@ -403,7 +403,7 @@ $$
 \mathrm{J}+2^{\star}(30-22)=\mathrm{J}+16 \mathrm{~mm}
 $$
 
-![[cfd45b89c97035533dc9d3e5c677fc50_MD5.webp]]
+![cfd45b89c97035533dc9d3e5c677fc50_MD5]({{ site.baseurl }}/assets/images/cfd45b89c97035533dc9d3e5c677fc50_MD5.webp)
 
 La metodología normalizada para la medición del juego de vía se expresa mediante la relación algebraica:
 
@@ -452,7 +452,7 @@ $$
 1435-9-2^{*} 30+2^{*} 70=1506 \mathrm{~mm}
 $$
 
-![[af71c0e150a35581be1489f82f79a1bd_MD5.webp]]
+![af71c0e150a35581be1489f82f79a1bd_MD5]({{ site.baseurl }}/assets/images/af71c0e150a35581be1489f82f79a1bd_MD5.webp)
 
 ### VI.2 Sobreancho
 
@@ -527,10 +527,10 @@ El concepto de gálibo en ingeniería ferroviaria se define como el perfil trans
 
 **Gálibo PPI (Passe-Partout International):** Se designa así el gálibo de carga estática correspondiente a una posición específica del vehículo, que constituye el perfil máximo permitido bajo condiciones de reposo.
 
-![[8c334df4c48330350a3d45b634536c1c_MD5.webp]]
+![8c334df4c48330350a3d45b634536c1c_MD5]({{ site.baseurl }}/assets/images/8c334df4c48330350a3d45b634536c1c_MD5.webp)
 
 [Orden FOM/1630/2015, de 14 de julio, por la que se aprueba la "Instrucción ferroviaria de gálibos"](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8765)
-![[b002d2fd10fb33e1d3286d2bf2a6feed_MD5.webp]]
+![b002d2fd10fb33e1d3286d2bf2a6feed_MD5]({{ site.baseurl }}/assets/images/b002d2fd10fb33e1d3286d2bf2a6feed_MD5.webp)
 
 En 1973, la Unión Internacional de Ferrocarriles (UIC) estabeleció una clasificación normalizada de gálibos, designados mediante las letras A, B y C. Esta clasificación permite armonizar los estándares internacionales y facilitar el tráfico transfronterizo. La tabla adjunta sintetiza las características principales y posibilidades de carga comercial asociadas con cada gálibo:
 
@@ -550,18 +550,18 @@ En 1986, la administración ferroviaria francesa desarrolló una variante mejora
 
 ### VIII.1 Gálibo de carga A, B Y C
 
-![[ee9d5c5cb0983f07f5bf82d05b3ceb8d_MD5.webp]]
+![ee9d5c5cb0983f07f5bf82d05b3ceb8d_MD5]({{ site.baseurl }}/assets/images/ee9d5c5cb0983f07f5bf82d05b3ceb8d_MD5.webp)
 [UIC static and kinematic gauge](https://blogs.upm.es/catedra-adif/wp-content/uploads/sites/1103/2024/07/S2_02_MADRID_Curso-galibos-updated-SG.pdf)
 
 En la planificación de nuevas infraestructuras ferroviarias, se adopta preferentemente el gálibo C para líneas de nueva construcción, proporcionando las máximas posibilidades de transporte de carga. Para aquellas líneas especializadas donde se contempla una explotación en tráfico mixto combinando servicios de alta velocidad para viajeros con circulación de trenes de mercancías, se especifica un gálibo mejorado que permite el transporte de camiones convencionales montados sobre vagones especiales. Este gálibo elevado recibe la denominación de gálibo AF (que corresponde a autopista ferroviaria), conceptualmente diseñado para maximizar la utilización operativa de la infraestructura mediante la combinación de modalidades de transporte.
 
-![[f3d99c0da08144c5077c74a145f0f4aa_MD5.webp]]
+![f3d99c0da08144c5077c74a145f0f4aa_MD5]({{ site.baseurl }}/assets/images/f3d99c0da08144c5077c74a145f0f4aa_MD5.webp)
 
 ### VIII.2 Entrevía
 
 En los sistemas de ferrocarril de doble vía o vía múltiple, es inevitable que se presente la situación donde dos trenes circulan simultáneamente sobre vías adyacentes en la misma sección transversal de la línea. Esta configuración operativa introduce la necesidad técnica de especificar la distancia mínima horizontal que debe existir entre los ejes de dos vías contiguas. Este parámetro geométrico se designa como entreeje, definido como la distancia medida en dirección transversal entre los ejes de dos vías adyacentes pertenecientes a una línea de doble vía o superior. Es importante notar que la nomenclatura técnica difiere entre administraciones: algunas designan como entreeje a este parámetro completo $E$, mientras que denominan entrevía a las distancias parciales $e$ y $e'$ componentes, como se ilustra en la figura 35.
 
-![[863a4769ff9b6fd8c2e2cf0ea14a4c61_MD5.webp]]
+![863a4769ff9b6fd8c2e2cf0ea14a4c61_MD5]({{ site.baseurl }}/assets/images/863a4769ff9b6fd8c2e2cf0ea14a4c61_MD5.webp)
 Gálibo de túnel para vía doble 
 
 En trazados rectilíneos en planta, la entrevía puede mantenerse constante a lo largo de toda la extensión de la vía, salvo en puntos específicos donde se requiere incrementar su valor. Los incrementos de entrevía se justifican típicamente por la necesidad de instalar andenes de estación en la zona intermedia entre dos vías, o por la existencia de obras de fábrica individuales (por ejemplo, pilas de puentes) que requieren espacio diferenciado para cada vía.
