@@ -1,7 +1,7 @@
 title: 10 Dias De Python con IA
 description: Una guía de inicio rápido para programadores de Vibe sin experiencia en codificación
-#theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs # Uncomment this when running locally in development mode,
+#remote_theme: just-the-docs/just-the-docs # Comment this when running locally in development mode,
 
 url: https://just-the-docs.github.io
 baseurl: "/Rail" # Use this for production
@@ -13,8 +13,8 @@ aux_links:
 
 permalink: pretty
 
-plugins:
-  - jekyll-remote-theme
+#plugins:
+  #- jekyll-remote-theme # Comment this when running locally in development mode, as it will cause an error due to GitHub Pages not allowing remote themes in development
 
 # External navigation links
 nav_external_links:

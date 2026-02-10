@@ -1,18 +1,18 @@
 ---
 layout: home   # or 'Inicio', or 'home', whatever your main index uses
-title: 4. Platform and Ballast    # Spanish title
+title: 4. Subgrade and Ballast
 lang: en          # <--- THIS IS THE KEY PART
 permalink: /en/04PlatformBallast/   # Fixed to avoid conflict
 nav_order: 4
 parent: Start
 ---
 
-# Fundamentos de la Infraestructura Inferior: Plataforma Ferroviaria y Capa de Balasto
+# Fundamentals of Lower Infrastructure: Railway Subgrade and Ballast Layer
 
 ---
 <details open markdown="block">
 <summary>
-Índice de contenidos
+Table of Contents
 </summary>
 {: .text-delta }
 1. TOC
@@ -21,175 +21,174 @@ parent: Start
 
 ---
 
-## Capítulo I Explanación
+## Chapter I Earthworks (Formation)
 
-Dentro del contexto de la ingeniería ferroviaria, la explanación constituye el espacio territorial, ya sea de origen natural o sometido a procesos de preparación, que ha sido concebido específicamente para albergar el conjunto integral de componentes ferroviarios (infraestructura de vías, sistemas de electrificación, instalaciones edilicias y demás estructuras complementarias). 
+Within the context of railway engineering, the formation constitutes the territorial space, whether of natural origin or subjected to preparation processes, which has been specifically conceived to house the integral set of railway components (track infrastructure, electrification systems, building installations, and other complementary structures).
 
-Cuando se examina una sección específica de la vía férrea en su trayecto operacional, se denomina **explanación** a aquel segmento del terreno delimitado por los límites externos de las **obras de tierra** que constituyen el sistema de soporte fundamental del ferrocarril. Es importante destacar que esta definición conceptual no aplica a zonas especiales como túneles, puentes, viaductos y complejos de estaciones, los cuales presentan características constructivas y funcionales distintas.
+When examining a specific section of the railway track in its operational path, **formation** (explanación) is termed as that segment of the land delimited by the external limits of the **earthworks** that constitute the fundamental support system of the railway. It is important to highlight that this conceptual definition does not apply to special zones such as tunnels, bridges, viaducts, and station complexes, which present distinct constructive and functional characteristics.
 {: .highlight }
 
-### I.1. Protección Legal de la Explanación
+### I.1. Legal Protection of the Formation
 
-En el contexto internacional, es práctica común que los diversos estados implementen mecanismos legales y administrativos para proteger tanto al sistema ferroviario como a otros modos de transporte, extendiendo particularmente esta protección al dominio territorial que constituye la explanación. 
+In the international context, it is common practice for various states to implement legal and administrative mechanisms to protect both the railway system and other modes of transport, particularly extending this protection to the territorial domain that constitutes the formation.
 
-En el caso específico de España, esta protección se materializa a través de dos instrumentos legislativos fundamentales: la **Ley de Ordenación del Transporte Terrestre (LOTT)** promulgada el 30 de julio de 1987, complementada posteriormente por su **Reglamento de desarrollo (RLOTT)** de fecha 28 de septiembre de 1990. Estos marcos normativos establecen criterios técnicos y administrativos que permiten una regulación ordenada del dominio ferroviario. La legislación vigente define conceptualmente la explanación en los siguientes términos, según lo establecido en el artículo 280 del RLOTT:
+In the specific case of Spain, this protection materializes through two fundamental legislative instruments: the **Land Transport Management Law (LOTT)** promulgated on July 30, 1987, subsequently supplemented by its **Development Regulation (RLOTT)** dated September 28, 1990. These regulatory frameworks establish technical and administrative criteria that allow for an orderly regulation of the railway domain. The current legislation conceptually defines the formation in the following terms, according to what is established in article 280 of the RLOTT:
 
 ![8c863605b1ad407effe9f269b26a5a3a_MD5]({{ site.baseurl }}/assets/images/8c863605b1ad407effe9f269b26a5a3a_MD5.webp)
-Zonas de protección de la explanación (según LOTT y RLOTT). [Ministerio de Transportes, movilidad y agenda urbana, 2022](https://www.vitoria-gasteiz.org/docs/wb021/contenidosEstaticos/adjuntos/es/06/40/100640.pdf)
+Formation protection zones (according to LOTT and RLOTT). [Ministry of Transport, Mobility and Urban Agenda, 2022](https://www.vitoria-gasteiz.org/docs/wb021/contenidosEstaticos/adjuntos/es/06/40/100640.pdf)
 
-> "Se considera explanación la franja de terreno en la que se ha modificado la topografía natural del suelo y sobre la que se construye la línea férrea, se disponen sus elementos funcionales y se ubican sus instalaciones ".
+> "Formation is considered the strip of land on which the natural topography of the ground has been modified and on which the railway line is built, its functional elements are arranged, and its facilities are located."
 
-A fin de materializar eficazmente la defensa del dominio ferroviario, las normativas LOTT y RLOTT establecen un sistema integral de protección territorial mediante la configuración de tres bandas diferenciadas de resguardo, las cuales se extienden simétricamente a ambos costados de la explanación, conforme se ilustra en la siguiente figura:
+In order to effectively materialize the defense of the railway domain, the LOTT and RLOTT regulations establish a comprehensive system of territorial protection through the configuration of three differentiated safety bands, which extend symmetrically to both sides of the formation, as illustrated in the following figure:
 
-### I.2. ZONA DE DOMINIO PUBLICO
+### I.2. PUBLIC DOMAIN ZONE
 
-La **Zona de Dominio Público** se configura como el espacio territorial que comprende la explanación propiamente dicha más una franja perimetral de **ocho metros** de ancho que se proyecta linealmente a ambos lados de esta última. Dentro de los límites de la **Zona de Dominio Público**, se prohíbe expresamente la realización de cualquier tipo de actividad comercial, construcción de obras civiles o instalación de infraestructuras de naturaleza diversa. Sin embargo, se exceptúan de esta prohibición general aquellas estructuras cuya finalidad específica es la protección y preservación de la propia red ferroviaria y sus elementos constitutivos.
+The **Public Domain Zone** is configured as the territorial space comprising the formation itself plus a perimeter strip of **eight meters** in width that projects linearly on both sides of the latter. Within the limits of the **Public Domain Zone**, the carrying out of any type of commercial activity, construction of civil works, or installation of infrastructures of diverse nature is expressly prohibited. However, those structures whose specific purpose is the protection and preservation of the railway network itself and its constituent elements are excepted from this general prohibition.
 
-### I.3. Protección Legal de la Explanación
+### I.3. Legal Protection of the Formation
 
-El marco regulatorio para la protección de la explanación ferroviaria se sustenta en dos instrumentos normativos de carácter nacional:
+The regulatory framework for the protection of the railway formation is supported by two normative instruments of national character:
 
-- LEY 16/1987, de 30 de julio, DE ORDENACIÓN DE LOS TRANSPORTES TERRESTRES. (BOE, número 182, de 31 de julio de 1988): Este texto legislativo establece los principios fundamentales que rigen la organización y operación de los modos de transporte terrestre en territorio español, incluyendo disposiciones específicas relativas a la protección del dominio ferroviario.
+- LAW 16/1987, of July 30, ON LAND TRANSPORT MANAGEMENT. (BOE, number 182, of July 31, 1988): This legislative text establishes the fundamental principles governing the organization and operation of land transport modes in Spanish territory, including specific provisions relating to the protection of the railway domain.
 
-- REAL DECRETO 1211/1990, de 28 de septiembre, REGLAMENTO DE LA LEY DE ORDENACIÓN DE LOS TRANSPORTES TERRESTRES. (BOE, número 241 , de 8 de oct. de 1990): Este instrumento reglamentario desarrolla en detalle los principios contenidos en la ley de ordenación, proporcionando especificaciones técnicas y procedimentales para su aplicación práctica en la gestión del espacio ferroviario.
+- ROYAL DECREE 1211/1990, of September 28, REGULATION OF THE LAND TRANSPORT MANAGEMENT LAW. (BOE, number 241, of Oct. 8, 1990): This regulatory instrument develops in detail the principles contained in the management law, providing technical and procedural specifications for their practical application in the management of railway space.
 
 ![eeef5182fb725aac03d2335033c5ad48_MD5]({{ site.baseurl }}/assets/images/eeef5182fb725aac03d2335033c5ad48_MD5.webp)
 
-Dentro de estas normativas se establecen definiciones precisas de los elementos constitutivos del dominio ferroviario: La **EXPLANACIÓN** se define como aquella franja de terreno sobre la cual se ha modificado la topografía natural del suelo y que sirve de base para la construcción de la línea férrea, la disposición de sus elementos funcionales y la ubicación de sus instalaciones complementarias. La **ARISTA EXTERIOR DE LA EXPLANACIÓN**, por su parte, representa la línea imaginaria que marca la intersección entre el pie del talud del terraplén, o alternativamente la línea de coronación de trinchera o desmonte, o en su caso, los muros de sostenimiento con el terreno natural circundante.
+Within these regulations, precise definitions of the constituent elements of the railway domain are established: The **FORMATION** (EXPLANACIÓN) is defined as that strip of land on which the natural topography of the ground has been modified and which serves as the base for the construction of the railway line, the arrangement of its functional elements, and the location of its complementary facilities. The **OUTER EDGE OF THE FORMATION** (ARISTA EXTERIOR), on the other hand, represents the imaginary line that marks the intersection between the toe of the embankment slope, or alternatively the crown line of a cutting or excavation, or where appropriate, the retaining walls with the surrounding natural ground.
 
-#### I.3.1. ZONA DE SERVIDUMBRE
+#### I.3.1. SERVITUDE ZONE (EASEMENT ZONE)
 
-La **Zona de Servidumbre** se configura como un área territorial dividida en dos franjas paralelas, ubicadas en ambos costados de la línea férrea. Estas franjas presentan un límite interior marcado por la **Zona de Dominio Público** y se extienden hacia el exterior hasta alcanzar dos líneas imaginarias que corren paralelas a las aristas exteriores de la explanación, situadas a una distancia de **veinte metros** de dichas aristas. Dentro de los límites de esta zona, las actividades que se deseen realizar requieren de autorización expresa de la compañía explotadora del ferrocarril, y solamente pueden efectuarse en aquellos casos en los que tal ejecución no implique una cesión o transferencia de derechos ferroviarios fundamentales.
+The **Servitude Zone** is configured as a territorial area divided into two parallel strips, located on both sides of the railway line. These strips present an inner limit marked by the **Public Domain Zone** and extend outwards until reaching two imaginary lines running parallel to the outer edges of the formation, situated at a distance of **twenty meters** from said edges. Within the limits of this zone, activities wishing to be carried out require express authorization from the railway operating company, and can only be carried out in cases where such execution does not imply a cession or transfer of fundamental railway rights.
 
-#### I.3.2. ZONA DE AFECCIÓN
+#### I.3.2. AFFECTION ZONE (VICINITY ZONE)
 
-La **Zona de Afección** constituye un área territorial complementaria formada por dos bandas laterales adicionales, cuyo límite exterior se marca mediante líneas paralelas al borde perimetral de la explanación, distanciadas **cincuenta metros** de estos bordes. En el caso de que se pretenda desarrollar trabajos, ejecutar obras civiles u otras actividades dentro de esta **zona de afección**, resulta imperativo obtener la autorización previa de la Compañía Ferroviaria responsable de la explotación de la línea. Una característica diferenciadora importante es que el nivel de exigencia regulatoria y administrativa que la administración estatal e incluso las propias compañías ferroviarias ejercen en esta Zona de Afección resulta considerablemente menor comparado con las restricciones y controles aplicables en la Zona de Servidumbre, permitiendo así un régimen más flexible en la gestión de actividades en este espacio territorial.
+The **Affection Zone** constitutes a complementary territorial area formed by two additional lateral bands, whose outer limit is marked by lines parallel to the perimeter edge of the formation, distanced **fifty meters** from these edges. In the event that it is intended to develop work, execute civil works, or other activities within this **affection zone**, it is imperative to obtain prior authorization from the Railway Company responsible for the operation of the line. An important differentiating characteristic is that the level of regulatory and administrative requirement that the state administration and even the railway companies themselves exercise in this Affection Zone results considerably less compared to the restrictions and controls applicable in the Servitude Zone, thus allowing a more flexible regime in the management of activities in this territorial space.
 
-### I.4. Dimensiones de la Explanación
+### I.4. Dimensions of the Formation
 
-Para una comprensión integral de la infraestructura ferroviaria y sus requerimientos espaciales, es fundamental analizar en detalle las distintas dimensiones que componen la explanación. A continuación se presenta un esquema que desglosa cada uno de estos componentes:
+For a comprehensive understanding of railway infrastructure and its spatial requirements, it is essential to analyze in detail the different dimensions that make up the formation. Below is a scheme breaking down each of these components:
 
 ![0aabbc67146738de1cfe64be665b26ad_MD5]({{ site.baseurl }}/assets/images/0aabbc67146738de1cfe64be665b26ad_MD5.webp)
-Dimensiones de la explanación. Esquema. [NAP 1-2-1.0 Diseño del trazado ferroviario](https://normativatecnica.adif.es/)
+Dimensions of the formation. Schema. [NAP 1-2-1.0 Railway layout design](https://normativatecnica.adif.es/)
 
-Dentro de esta configuración, los distintos parámetros dimensionales se definen según los siguientes criterios técnicos:
+Within this configuration, the different dimensional parameters are defined according to the following technical criteria:
 
-- **a**: Ancho de vía en Renfe = 1.668 mm (ancho ibérico)
-- **b**: Cimentación de la electrificación = de 1 a 2 m (infraestructura de soporte para líneas electrificadas)
-- **c**: Ancho de la cuneta (drenaje lateral) = de 0,5 a 1 m (para evacuación de aguas superficiales)
-- **d**: Derrame de la banqueta = oscila de 0,5 a 1 m, según la altura de la banqueta (talud natural del material de balasto)
-- **e**: Entrevia (separación entre rieles) = de 2,1 a 3 m, según las necesidades operacionales específicas
-- **h**: Hombro de la banqueta = de 0,8 a 1 m, dimensionado según las necesidades de estabilidad lateral
-- **n**: Gálibo de electrificación = distancia mínima entre la cara activa del carril y los postes = 2,1 m (parámetro crítico de seguridad)
-- **p**: Paseos (espacios laterales de circulación) = pueden ser uno o dos corredores de 0,7 a 1 m de ancho cada uno
+- **a**: Track gauge in Renfe = 1,668 mm (Iberian gauge)
+- **b**: Electrification foundation = from 1 to 2 m (support infrastructure for electrified lines)
+- **c**: Ditch width (lateral drainage) = from 0.5 to 1 m (for surface water evacuation)
+- **d**: Ballast slope spread (Derrame) = ranges from 0.5 to 1 m, depending on the height of the ballast bed (natural slope of the ballast material)
+- **e**: Track spacing (Entrevia - separation between rails) = from 2.1 to 3 m, according to specific operational needs
+- **h**: Ballast shoulder = from 0.8 to 1 m, dimensioned according to lateral stability needs
+- **n**: Electrification gauge = minimum distance between the active face of the rail and the posts = 2.1 m (critical safety parameter)
+- **p**: Walkways (lateral circulation spaces) = can be one or two corridors of 0.7 to 1 m wide each
 
-Observando detenidamente esta representación esquemática, podemos constatar que una explanación debidamente configurada, medida entre cunetas, debe alcanzar dimensiones que oscilan entre 12,70 metros y 17,40 metros para una configuración de vía doble electrificada, considerando un único paseo lateral y sin incorporar aún los requerimientos adicionales de señalización ferroviaria, ni los taludes de estabilización, ni los sistemas de saneamiento e drenaje complementarios.
+Looking closely at this schematic representation, we can verify that a properly configured formation, measured between ditches, must reach dimensions ranging between 12.70 meters and 17.40 meters for a double electrified track configuration, considering a single lateral walkway and not yet incorporating the additional requirements of railway signaling, nor stabilization slopes, nor complementary sanitation and drainage systems.
 
-En la práctica constructiva ferroviaria contemporánea se reconoce un principio técnico fundamental: Tradicionalmente se ha considerado que el espacio territorial que demanda el ferrocarril para desarrollar su función logística es significativamente menor en comparación con los requerimientos espaciales de otros modos de transporte competitivos. No obstante, cuando esta premisa se ha llevado al extremo, ha generado con frecuencia la construcción de líneas ferroviarias sobre franjas de terreno insuficiente, lo cual ha comprometido la capacidad de realizar las operaciones ferroviarias con la holgura y eficiencia que demanda el tráfico moderno. Para una mejor visualización y comprensión de la distribución espacial de todas las instalaciones ferroviarias, la figura anterior dimensiona de manera esquemática y aproximada el conjunto de elementos que integran la infraestructura ferroviaria, permitiendo así una asimilación más clara de todo lo expuesto en este apartado.
+In contemporary railway construction practice, a fundamental technical principle is recognized: Traditionally, it has been considered that the territorial space demanded by the railway to develop its logistical function is significantly smaller compared to the spatial requirements of other competitive modes of transport. However, when this premise has been taken to the extreme, it has frequently generated the construction of railway lines on strips of insufficient land, which has compromised the ability to carry out railway operations with the slack and efficiency demanded by modern traffic. For a better visualization and understanding of the spatial distribution of all railway facilities, the previous figure schematically and approximately dimensions the set of elements that make up the railway infrastructure, thus allowing a clearer assimilation of everything exposed in this section.
 
-## Capítulo II Plataforma
+## Chapter II Subgrade
 
-La **plataforma** constituye el **estrato más profundo** de la infraestructura vial, funcionando como el elemento estructural responsable de absorber, distribuir y resistir de manera definitiva todos los esfuerzos mecánicos generados por la dinámica de circulación de los trenes, así como por el propio peso de la superestructura de vía que descansa sobre ella.
+The **subgrade** constitutes the **deepest stratum** of the track infrastructure, functioning as the structural element responsible for absorbing, distributing, and definitively resisting all mechanical forces generated by the dynamics of train circulation, as well as by the self-weight of the track superstructure resting on it.
 {: .highlight }
 
-Desde una perspectiva de clasificación constructiva, es posible categorizar la plataforma según su naturaleza y proceso de conformación en tres tipologías fundamentales:
+From a constructive classification perspective, it is possible to categorize the subgrade according to its nature and formation process into three fundamental typologies:
 
-- **Plataformas naturales**: Aquellas que se aprovechan del terreno existente con un mínimo de intervención o preparación superficial.
-- **Plataformas preparadas**: Las que resultan de trabajos de acondicionamiento, mejora y tratamiento del suelo natural mediante técnicas de estabilización, compactación y refuerzo geotécnico.
-- **Plataformas artificiales**: Aquellas constituidas sobre obras de fábrica y estructuras ingenieriles específicamente diseñadas, como pilotes, vigas de atado y sistemas de cimentación profunda.
+- **Natural subgrades**: Those that take advantage of the existing terrain with a minimum of intervention or surface preparation.
+- **Prepared subgrades**: Those resulting from conditioning, improvement, and treatment works of the natural soil through stabilization, compaction, and geotechnical reinforcement techniques.
+- **Artificial subgrades**: Those constituted on masonry works and specifically designed engineering structures, such as piles, tie beams, and deep foundation systems.
 
-Estas tres categorías representan distintos niveles de complejidad constructiva y responden a diferentes condiciones geotécnicas y topográficas del terreno en cuestión.
+These three categories represent different levels of constructive complexity and respond to different geotechnical and topographic conditions of the terrain in question.
 ![c8422b63fa008141d15f1cd10ac2ea48_MD5]({{ site.baseurl }}/assets/images/c8422b63fa008141d15f1cd10ac2ea48_MD5.webp)
 
 
-### II.1. Misiones de la Plataforma
-**capacidad de carga** y **resistencia mecánica** suficiente para soportar tanto los esfuerzos estáticos originados por el peso propio de la superestructura y su contenido, como los esfuerzos dinámicos derivados de la circulación de los trenes, con sus correspondientes cargas impulsivas y vibratorias.
+### II.1. Missions of the Subgrade
+**Load capacity** and **mechanical resistance** sufficient to support both static forces originating from the self-weight of the superstructure and its content, as well as dynamic forces derived from train circulation, with their corresponding impulsive and vibratory loads.
 
-Adicionalmente, la plataforma debe cumplir una **función hidráulica fundamental**
-Adicionalmente, la plataforma debe cumplir una función hidráulica fundamental: evacuar eficientemente las aguas que de otro modo se infiltrarían y permanecerían en contacto prolongado con la banqueta y la propia plataforma, causando daños significativos. La presencia de agua en la estructura de la plataforma genera múltiples efectos perjudiciales que comprometen su durabilidad y funcionalidad:
+Additionally, the subgrade must fulfill a **fundamental hydraulic function**: efficiently evacuate the waters that would otherwise infiltrate and remain in prolonged contact with the ballast bed and the subgrade itself, causing significant damage. The presence of water in the subgrade structure generates multiple detrimental effects that compromise its durability and functionality:
 
-- **Expansión de arcillas**: La presencia de agua provoca la expansión volumétrica incontrolada de materiales arcillosos, simultáneamente contaminando las capas de balasto con finos que cierran los intersticios.
-- **Efecto de heladas**: El agua acumulada experimenta ciclos de congelación y descongelación, disgregando progresivamente el material de la plataforma mediante la acción cicloidal del hielo.
-- **Colapso de terraplenes**: En configuraciones de terraplenes y medias laderas, la infiltración de agua llega a interrumpir completamente la continuidad de la plataforma, generando hundimientos catastróficos y cortes de vía que paralizan la operación ferroviaria.
+- **Clay expansion**: The presence of water causes uncontrolled volumetric expansion of clay materials, simultaneously contaminating ballast layers with fines that close the interstices.
+- **Micro-cracking effect**: Accumulated water undergoes freezing and thawing cycles, progressively disintegrating the subgrade material through the cycloidal action of ice.
+- **Embankment collapse**: In embankment and side-hill configurations, water infiltration can completely interrupt the continuity of the subgrade, generating catastrophic subsidence and track cuts that paralyze railway operation.
 
-### II.2. La Plataforma en Líneas Antiguas
+### II.2. The Subgrade in Old Lines
 
-La herencia constructiva de las líneas ferroviarias contemporáneas presenta un desafío importante que requiere comprensión histórica. Los ingenieros ferroviarios de mediados del siglo diecinueve (período de construcción de prácticamente todas las líneas actuales de la red española) se conformaban con diseñar y ejecutar las plataformas según los requisitos mínimos impuestos por la nivelación longitudinal de las vías, sin considerar otros parámetros fundamentales.
+The constructive heritage of contemporary railway lines presents a significant challenge requiring historical understanding. Railway engineers of the mid-nineteenth century (the construction period of practically all current lines of the Spanish network) were content with designing and executing subgrades according to the minimum requirements imposed by the longitudinal leveling of the tracks, without considering other fundamental parameters.
 
-Consecuentemente, realizaban los desmontes y terraplenes necesarios únicamente para conseguir la rasante altimétrica deseada, sin dirigir atención específica a la calidad geotécnica del terreno ni a su capacidad portante bajo cargas dinámicas. Este enfoque constructivo simplista permitió que se heredaran plataformas ejecutadas en épocas donde los parámetros de operación ferroviaria eran radicalmente distintos: las cargas por eje eran muy reducidas, las velocidades de circulación de los trenes resultaban notablemente inferiores, y las intensidades de tráfico permanecían a fracciones de los valores contemporáneos.
+Consequently, they carried out the necessary cuts and embankments solely to achieve the desired altimetric grade, without directing specific attention to the geotechnical quality of the ground or its bearing capacity under dynamic loads. This simplistic constructive approach allowed subgrades executed in eras where railway operation parameters were radically different to be inherited: axle loads were very reduced, train circulation speeds were notably lower, and traffic intensities remained at fractions of contemporary values.
 
-En el contexto actual, la realidad operacional ha cambiado drásticamente. Ahora, con cargas por eje que alcanzan **22 toneladas**, velocidades máximas cercanas a los **200 km/h** en líneas de alta velocidad, e intensidades de tráfico que oscilan entre **100.000 y 200.000 toneladas diarias**, estas plataformas antiguas presentan problemas estructurales muy numerosos y de solución técnicamente incierta. Las reparaciones y refuerzos requeridos constituyen obras civiles complejas, costosas y difíciles de ejecutar, particularmente porque deben realizarse sin suprimir el tráfico de trenes en circulación y respetando las rasantes primitivas de diseño de la vía, lo que restringe significativamente las opciones constructivas disponibles.
+In the current context, operational reality has changed drastically. Now, with axle loads reaching **22 tons**, maximum speeds close to **200 km/h** on high-speed lines, and traffic intensities ranging between **100,000 and 200,000 tons daily**, these old subgrades present very numerous structural problems of technically uncertain solution. The required repairs and reinforcements constitute complex civil works, costly and difficult to execute, particularly because they must be carried out without suppressing traffic of circulating trains and respecting the primitive design grades of the track, which significantly restricts available constructive options.
 
-#### II.2.1. Problemas Plataformas Antiguas
+#### II.2.1. Problems in Old Subgrades
 
-En la representación gráfica que se presenta a continuación se ilustran los patologías y problemas más recurrentes que se manifiestan en las plataformas ferroviarias de antigüedad considerable. Estos problemas constituyen manifestaciones concretas de los procesos de deterioro derivados de los cambios en los parámetros operacionales mencionados anteriormente.
+In the graphical representation presented below, the most recurrent pathologies and problems manifesting in railway subgrades of considerable antiquity are illustrated. These problems constitute concrete manifestations of deterioration processes derived from changes in the operational parameters mentioned above.
 
 ![519cd99da0d451b238c4eb444ef45992_MD5]({{ site.baseurl }}/assets/images/519cd99da0d451b238c4eb444ef45992_MD5.webp)
 
-#### II.2.2. Soluciones Problemas Plataformas Antiguas
+#### II.2.2. Solutions to Old Platform Problems
 
-Para hacer frente a la diversidad de patologías que afectan a estas plataformas antiguas, se han desarrollado y aplicado estrategias ingenieriles específicas que se adaptan a cada tipo de problema identificado. A continuación se detallan los procedimientos técnicos habitualmente empleados:
+To face the diversity of pathologies affecting these old platforms, specific engineering strategies adapted to each type of identified problem have been developed and applied. The technical procedures usually employed are detailed below:
 
-**A. Desprendimientos en las trincheras:**
-Estos problemas requieren un enfoque multifacético que incluye:
-1. Ejecución de desmontes masivos para eliminar material inestable
-2. Limpieza exhaustiva del talud para remover piedras suelta y material meterorizado
-3. Construcción de muros de recubrimiento para contención
-4. Recubrimiento con redes de protección y geomallas
-5. Colocación de vallado especializado tipo caza-piedras
-6. Ejecución de escolleras o muros de sostenimiento de mayor envergadura
-7. En casos extremos, construcción de túneles artificiales para cubrir la zona
+**A. Landslides in cuts:**
+These problems require a multifaceted approach including:
+1. Execution of massive excavations to eliminate unstable material.
+2. Exhaustive cleaning of the slope to remove loose stones and weathered material.
+3. Construction of cladding walls for containment.
+4. Covering with protection nets and geogrids.
+5. Placement of specialized rock-catch fencing.
+6. Execution of riprap or retaining walls of greater magnitude.
+7. In extreme cases, construction of artificial tunnels to cover the zone.
 
-**B. Roturas y caídas de muros:**
-Frente a fallos estructurales de muros existentes, se aplican:
-1. Demolición completa del muro dañado y construcción de uno nuevo
-2. Desmontes masivos del terreno adyacente para aliviar cargas sobre el muro
+**B. Breakage and fall of walls:**
+Facing structural failures of existing walls, the following are applied:
+1. Complete demolition of the damaged wall and construction of a new one.
+2. Massive excavations of adjacent land to relieve loads on the wall.
 
-**C. Inundaciones y problemas de drenaje:**
-La gestión del agua requiere intervenciones continuas:
-1. Limpiezas periódicas del sistema de saneamiento para mantener permeabilidad
-2. Ampliación y ahondamiento de las cunetas laterales para mayor capacidad
-3. Multiplicación de los puntos y secciones de desagüe transversal
+**C. Flooding and drainage problems:**
+Water management requires continuous interventions:
+1. Periodic cleaning of the sanitation system to maintain permeability.
+2. Widening and deepening of lateral ditches for greater capacity.
+3. Multiplication of transverse drainage points and sections.
 
-**D y E. Baches arcillosos y descomposición del suelo:**
-Para restaurar la capacidad portante se implementan:
-1. Instalación de sistemas de drenaje (drenas) bajo la plataforma y a sus laterales
-2. Mejoras del suelo mediante técnicas múltiples: eliminación del material incompetente, aportación de zahorras, colocación de geotextiles, suministro de arenas, estabilización con cal, inyecciones de cemento, etc.
-3. Mejoría y rediseño integral de las cunetas
-4. Rebaje de los paseos laterales y establecimiento de sistemas específicos para eliminación del agua acumulada
+**D and E. Clay pockets and soil decomposition:**
+To restore bearing capacity, the following are implemented:
+1. Installation of drainage systems (drains) under the platform and on its sides.
+2. Soil improvements through multiple techniques: removal of incompetent material, contribution of graded aggregates, placement of geotextiles, supply of sands, stabilization with lime, cement injections, etc.
+3. Improvement and integral redesign of ditches.
+4. Lowering of lateral walkways and establishment of specific systems for elimination of accumulated water.
 
-**F. Corte y hundimiento de los terraplenes:**
-La solución de estos problemas críticos requiere:
-1. Construcción de escolleras en el pie del terraplén con relleno de la zona hundida
-2. Implementación alternativa de muros en el pie del terraplén
-3. Montaje de pantallas de carriles mediante técnicas de hincado
-4. Sistemas de saneamiento mediante pantallas-dren longitudinales o transversales
-5. Recomposición completa del terraplén mediante aportación de áridos mejorados y eliminación de tierras primitivas
+**F. Cutting and sinking of embankments:**
+The solution to these critical problems requires:
+1. Construction of riprap at the toe of the embankment with filling of the sunken zone.
+2. Alternative implementation of walls at the toe of the embankment.
+3. Assembly of rail barriers using pile driving techniques.
+4. Sanitation systems through longitudinal or transverse drainage screens.
+5. Complete recomposition of the embankment through contribution of improved aggregates and elimination of primitive soils.
 
-### II.3. Plataformas de Nueva Construcción
+### II.3. New Construction Platforms
 
-En el proceso de diseño y especificación de la plataforma más apropiada para una nueva línea férrea, es imprescindible recopilar y analizar un conjunto de datos técnicos fundamentales que determinarán las características de la solución constructiva:
+In the process of design and specification of the most appropriate platform for a new railway line, it is essential to collect and analyze a set of fundamental technical data that will determine the characteristics of the constructive solution:
 
-- **Calidad geotécnica del suelo natural existente**: Determinación mediante estudios estratigráficos de la **capacidad portante** y características de compresibilidad del terreno
-- **Categoría técnica de la línea a construir**: Función de la velocidad máxima de operación prevista y del volumen de tráfico que se espera
-- **Capacidad portante deseada**: El valor del índice **CBR (California Bearing Ratio)** objetivo para la plataforma terminada
+- **Geotechnical quality of existing natural soil**: Determination through stratigraphic studies of **bearing capacity** and compressibility characteristics of the ground.
+- **Technical category of the line to be built**: Function of the maximum planned operating speed and the expected volume of traffic.
+- **Desired bearing capacity**: The target **CBR (California Bearing Ratio)** index value for the finished platform.
 
-**1. Determinación de la calidad del suelo:**
+**1. Determination of soil quality:**
 
-Los suelos se clasifican en cuatro categorías distintas según las especificaciones de la Unión Internacional de Ferrocarriles (UIC):
+Soils are classified into four distinct categories according to the specifications of the International Union of Railways (UIC):
 
-- **QS0**: Suelos de muy difícil mejora (materiales orgánicos, suelos con sustancias solubles, arcillas altamente expansivas, etc.)
-- **QS1**: Suelos malos (conteniendo entre 40% y 15% de partículas finas, rocas muy erosionables, margas con bajo índice de portancia, etc.)
-- **QS2**: Suelos medianos (conteniendo menos del 15% de partículas finas y rocas de dureza media)
-- **QS3**: Suelos buenos (conteniendo menos del 5% de partículas finas y rocas de características duras y resistentes)
+- **QS0**: Very difficult to improve soils (organic materials, soils with soluble substances, highly expansive clays, etc.).
+- **QS1**: Bad soils (containing between 40% and 15% fine particles, highlyerodible rocks, marls with low bearing index, etc.).
+- **QS2**: Medium soils (containing less than 15% fine particles and rocks of medium hardness).
+- **QS3**: Good soils (containing less than 5% fine particles and rocks of hard and resistant characteristics).
 
-Este sistema de clasificación requiere que se realice previamente un estudio geotécnico exhaustivo para categorizar el suelo existente en una de las cuatro divisiones mencionadas.
+This classification system requires a previously exhaustive geotechnical study to categorize the existing soil into one of the four divisions mentioned.
 
-**2. Elección de la categoría de la línea:**
+**2. Choice of line category:**
 
-Las líneas ferroviarias se clasifican en categorías conforme al volumen de tráfico que soportan y a la velocidad máxima operacional que se desarrolla en ellas. En la administración ferroviaria española ADIF, las líneas se han clasificado en siete categorías diferentes:
+Railway lines are classified into categories according to the volume of traffic they support and the maximum operational speed developed on them. In the Spanish railway administration ADIF, lines have been classified into seven different categories:
 
-| CATEGORIA |  | TRAFICO FICTICIO DIARIO |
+| CATEGORY |  | FICTITIOUS DAILY TRAFFIC |
 | :--- | :--- | :--- |
 | 1 | A | $$85.000 \geq \mathrm{Tf} \geq 50.000$$ |
 |  | B | $$50.000>\mathrm{Tf} \geq 28.000$$ |
@@ -199,63 +198,63 @@ Las líneas ferroviarias se clasifican en categorías conforme al volumen de tr�
 |  | B | $$3.500>\mathrm{Tf} \geq 1.500$$ |
 | 4 |  | $$1.500 \geq \mathrm{Tf}$$ |
 
-El cálculo del tráfico ficticio diario se realiza mediante la siguiente expresión normalizada:
+The calculation of fictitious daily traffic is performed using the following standardized expression:
 
 $$T_{f}=\left(T_{v}+T_{m} \cdot K_{m}+T_{t} \cdot K_{t}\right) \cdot S$$
 
-Donde los parámetros se definen conforme a:
+Where parameters are defined according to:
 
-- $$\mathrm{T}_{v}$$ = Volumen anual de tráfico de viajeros expresado en toneladas equivalentes
-- $$\mathrm{T}_{\mathrm{m}}$$ = Volumen anual de tráfico de mercancías en toneladas
-- $$\mathrm{T}_{\mathrm{t}}$$ = Volumen anual de tráfico de locomotoras de tracción en toneladas
-- $$\mathrm{K}_{\mathrm{m}}$$ = Coeficiente de mayoración por características del tráfico de mercancías. Su valor estándar es 1,15; salvo para vías que soportan tráfico preponderante de ejes de 20 toneladas, en que adopta el valor de 1,30
-- $$\mathrm{K}_{\mathrm{t}}$$ = Coeficiente de mayoración por circulación de locomotoras de tracción (factor fijo de 1,40)
-- $$\mathrm{S}$$ = Coeficiente adimensional de calidad de la vía que varía de 1,00 a 1,25, determinado según:
-  - $$S=1,00$$ para líneas sin tráfico de viajeros o con tráfico esencialmente local
-  - $$S=1,10$$ para líneas cuyo tráfico de viajeros utiliza trenes de velocidad máxima $$\leq 120 \mathrm{Km} / \mathrm{h}$$
-  - $$S=1,20$$ para líneas cuyo tráfico de viajeros utiliza trenes con velocidades comprendidas en el rango $$120<v \leq 140 \mathrm{Km} / \mathrm{h}$$
-  - $$S=1,25$$ para líneas cuyo tráfico de viajeros utiliza trenes con velocidad máxima $$>140 \mathrm{Km} / \mathrm{h}$$
+- $$\mathrm{T}_{v}$$ = Annual volume of passenger traffic expressed in equivalent tons
+- $$\mathrm{T}_{\mathrm{m}}$$ = Annual volume of freight traffic in tons
+- $$\mathrm{T}_{\mathrm{t}}$$ = Annual volume of traction locomotives traffic in tons
+- $$\mathrm{K}_{\mathrm{m}}$$ = Enhancement coefficient for freight traffic characteristics. Its standard value is 1.15; except for tracks supporting preponderant traffic of 20-ton axles, where it adopts the value of 1.30
+- $$\mathrm{K}_{\mathrm{t}}$$ = Enhancement coefficient for circulation of traction locomotives (fixed factor of 1.40)
+- $$\mathrm{S}$$ = Dimensionless track quality coefficient varying from 1.00 to 1.25, determined according to:
+  - $$S=1,00$$ for lines without passenger traffic or with essentially local traffic
+  - $$S=1,10$$ for lines whose passenger traffic uses trains with maximum speed $$\leq 120 \mathrm{Km} / \mathrm{h}$$
+  - $$S=1,20$$ for lines whose passenger traffic uses trains with speeds included in the range $$120<v \leq 140 \mathrm{Km} / \mathrm{h}$$
+  - $$S=1,25$$ for lines whose passenger traffic uses trains with maximum speed $$>140 \mathrm{Km} / \mathrm{h}$$
 
-**3. Elección de la capacidad portante:**
+**3. Choice of bearing capacity:**
 
-Conforme a la capacidad portante que se desea obtener en el suelo tratado, se clasifican las diferentes opciones de plataforma en tres grupos diferenciados:
+According to the bearing capacity desired in the treated soil, the different platform options are classified into three differentiated groups:
 
-- **P1**: Plataformas malas, con índice CBR $$<5$$ (limitada capacidad portante)
-- **P2**: Plataformas medias, con índice CBR comprendido entre $$5<\mathrm{CBR}<20$$ (capacidad portante moderada)
-- **P3**: Plataformas buenas, con índice CBR $$>20$$ (excelente capacidad portante)
+- **P1**: Bad platforms, with CBR index $$<5$$ (limited bearing capacity)
+- **P2**: Medium platforms, with CBR index comprised between $$5<\mathrm{CBR}<20$$ (moderate bearing capacity)
+- **P3**: Good platforms, with CBR index $$>20$$ (excellent bearing capacity)
 
-En la matriz de decisión presentada a continuación se desarrolla el proceso de diseño para obtener la plataforma deseada (P1, P2 o P3) mediante la construcción de la capa de forma (estrato superior de la plataforma) a partir de un suelo sin tratar o ya mejorado previamente (categorías QS0, QS1, QS2 o QS3).
+The decision matrix presented below develops the design process to obtain the desired platform (P1, P2, or P3) through the construction of the capping layer (upper stratum of the platform) from untreated or previously improved soil (categories QS0, QS1, QS2, or QS3).
 
-### II.4. Espesor de la capa de forma (UIC 719 R)
+### II.4. Formation (Capping) Layer Thickness (UIC 719 R)
 
-El dimensionamiento de la **capa de forma** que constituye el estrato superior de la plataforma requiere consultar matrices de diseño normalizadas que relacionan la calidad del suelo inicial con el espesor y características de los materiales a utilizar. La siguiente tabla **UIC 719 R** especifica los espesores mínimos requeridos para obtener distintos niveles de capacidad portante:
+The dimensioning of the **capping layer** forming the upper stratum of the platform requires consulting standardized design matrices relating initial soil quality to thickness and characteristics of materials to be used. The following **UIC 719 R** table specifies minimum thicknesses required to obtain different levels of bearing capacity:
 
-**CAPACIDAD PORTANTE DE UNA PLATAFORMA**
+**BEARING CAPACITY OF A PLATFORM**
 
-| Calidad del suelo soporte | Capa de forma a constituir para obtener una plataforma con capacidad portante determinada |  | Capacidad portante obtenida en la plataforma |
+| Support Soil Quality | Capping layer to constitute to obtain a platform with determined bearing capacity |  | Bearing capacity obtained in the platform |
 | :--- | :--- | :--- | :--- |
-|  | Calidad del suelo | Espesor mínimo en m |  |
+|  | Soil Quality | Minimum Thickness in m |  |
 | QS1 | QS1 | - | P1 |
-|  | QS2 | 0,50 | P2 |
-|  | QS3 | 0,35 | P2 |
-|  | QS3 | 0,50 | P3 |
+|  | QS2 | 0.50 | P2 |
+|  | QS3 | 0.35 | P2 |
+|  | QS3 | 0.50 | P3 |
 | QS2 | QS2 | - | P2 |
-|  | QS3 | 0,35 | P3 |
+|  | QS3 | 0.35 | P3 |
 | QS3 | QS3 | - | P3 |
 
-Esta tabla debe interpretarse de la siguiente manera: Si el suelo natural existente pertenece a la categoría QS1 (malo) y se desea obtener una plataforma de clase P3 (buena), es necesario construir una capa de forma con material de calidad QS3 con un espesor mínimo de 50 centímetros.
+This table should be interpreted as follows: If existing natural soil belongs to category QS1 (bad) and it is desired to obtain a class P3 platform (good), it is necessary to construct a capping layer with QS3 quality material with a minimum thickness of 50 centimeters.
 
-### II.5. Espesor de la capa de forma (NRV 3-4-1.0)
+### II.5. Formation (Capping) Layer Thickness (NRV 3-4-1.0)
 
-La normativa española vigente establecida por la administración ferroviaria (**Norma de Renfe-Vía NRV 3-4-1.0**) proporciona especificaciones complementarias para el dimensionamiento de la **capa de forma**, con criterios técnicos que pueden resultar más exigentes que los estándares UIC en algunos casos:
+The current Spanish regulation established by the railway administration (**Renfe-Track Norm NRV 3-4-1.0**) provides complementary specifications for dimensioning the **capping layer**, with technical criteria that may result more demanding than UIC standards in some cases:
 
-**N.R.V. 3-4-1.0 - ESPESOR DE CAPA DE FORMA SEGÚN CALIDAD DEL SUELO Y CLASE DE CARGA REQUERIDA**
+**N.R.V. 3-4-1.0 - CAPPING LAYER THICKNESS ACCORDING TO SOIL QUALITY AND REQUIRED LOAD CLASS**
 
-| CALIDAD DEL SUELO SOPORTE | CAPA DE FORMA PARA OBTENER LA CLASE DE CAPACIDAD DE CARGA DE LA PLATAFORMA,QUE MARCA ESTE CUADRO |  | CLASE DE CAPACIDAD DE CARGA DE LA PLATAFORMA |
+| SUPPORT SOIL QUALITY | CAPPING LAYER TO OBTAIN THE PLATFORM LOAD CAPACITY CLASS, MARKED BY THIS TABLE |  | PLATFORM LOAD CAPACITY CLASS |
 | :--- | :--- | :--- | :--- |
-|  | CALIDAD DEL SUELO | ESPESOR MINIMO EN METROS |  |
+|  | SOIL QUALITY | MINIMUM THICKNESS IN METERS |  |
 | Q S1 | Q SI | - | P. 1 |
-|  | SUELO FINO TRATADO CON LIGANTES | 0.30 | P. 2 |
+|  | FINE SOIL TREATED WITH BINDERS | 0.30 | P. 2 |
 |  | Q S2 | 0.55 | P. 2 |
 |  | Q S3 | 0.40 | P. 2 |
 |  | Q S3 | 0.60 | P. 3 |
@@ -263,396 +262,395 @@ La normativa española vigente establecida por la administración ferroviaria (*
 |  | Q S3 | 0.40 | Pi 3 |
 | Q S 3 | Q S3 | - | P. 3 |
 
-Donde las clasificaciones de capacidad portante se definen como:
+Where bearing capacity classifications are defined as:
 
-- **P. 1** : $$\mathrm{CBR} \leq 5$$ (Plataforma de baja capacidad portante)
-- **P. 2** : $$5<C B R \leq 20$$ (Plataforma de capacidad portante media)
-- **P. 3** : $$20<C B R$$ (Plataforma de alta capacidad portante)
+- **P. 1** : $$\mathrm{CBR} \leq 5$$ (Low bearing capacity platform)
+- **P. 2** : $$5<C B R \leq 20$$ (Medium bearing capacity platform)
+- **P. 3** : $$20<C B R$$ (High bearing capacity platform)
 
-Observando ambas normas, se aprecia que la especificación NRV española introduce el concepto de **"suelo fino tratado con ligantes"** como alternativa economizadora de espesor cuando se trabaja con suelos deficientes, permitiendo reducir espesores mediante estabilización con cemento o cal.
+Observing both norms, it is appreciated that the Spanish NRV specification introduces the concept of **"fine soil treated with binders"** as an economizing alternative for thickness when working with deficient soils, allowing thickness reduction through stabilization with cement or lime.
 
-### II.6. Espesor de la capa de Balasto
+### II.6. Ballast Layer Thickness
 
-La determinación del espesor óptimo que debe presentar la capa de balasto constituye una cuestión central en el diseño estructural de la vía ferroviaria. Existen numerosos estudios científicos y técnicos desarrollados a lo largo de décadas que abordan la cuantificación del espesor apropiado para la capa de balasto o para el conjunto combinado de balasto más sub-balasto cuando éste último se posiciona directamente bajo las traviesas. Notablemente, los resultados cuantitativos obtenidos mediante investigaciones teóricas rigurosas coinciden sustancialmente con los criterios empíricos que la experiencia acumulada ha sedimentado a través de los años.
+The determination of the optimal thickness that the ballast layer must present constitutes a central issue in the structural design of the railway track. There are numerous scientific and technical studies developed over decades addressing the quantification of the appropriate thickness for the ballast layer or for the combined set of ballast plus sub-ballast when the latter is positioned directly under the sleepers. Notably, quantitative results obtained through rigorous theoretical investigations coincide substantially with empirical criteria that accumulated experience has sedimented over the years.
 
-El **espesor de la capa de balasto** está determinado primariamente por parámetros operacionales: el número total de trenes que circulan diariamente, la carga máxima transportada por cada eje de los vehículos, y la velocidad de operación de las composiciones, todos los cuales se sintetizan en el concepto de categoría de la línea (recordar que esta categoría se determina mediante el concepto de **tráfico ficticio diario Tf** calculado anteriormente).
+The **ballast layer thickness** is primarily determined by operational parameters: the total number of trains circulating daily, the maximum load transported by each vehicle axle, and the operating speed of compositions, all of which are synthesized in the concept of line category (recalling that this category is determined through the concept of **fictitious daily traffic Tf** calculated previously).
 
-Adicionalmente, el espesor requerido depende de la calidad del suelo o más precisamente de la calidad conseguida tras la conformación de la plataforma. Sin embargo, una vez que se ha alcanzado la configuración de plataforma tipo **P3 (excelente capacidad portante)**, el espesor de balasto dependerá principalmente de la categoría de la línea, de acuerdo con los siguientes valores normalizados:
+Additionally, the required thickness depends on soil quality or more precisely on the quality achieved after platform formation. However, once the **P3 type (excellent bearing capacity)** platform configuration has been reached, ballast thickness will depend mainly on the line category, in accordance with the following standardized values:
 
-- **Grupo 1A** (máximo tráfico y velocidad): $$e=45$$ centímetros
-- **Grupo 1B**: $$e=40$$ centímetros
-- **Grupo 1C**: $$e=40$$ centímetros
-- **Grupo 2**: $$e=35$$ centímetros
-- **Grupo 3A**: $$e=30$$ centímetros
-- **Grupo 3B**: $$e=25$$ centímetros
-- **Grupo 4** (mínimo tráfico y velocidad): $$e=25$$ centímetros
+- **Group 1A** (maximum traffic and speed): $$e=45$$ centimeters
+- **Group 1B**: $$e=40$$ centimeters
+- **Group 1C**: $$e=40$$ centimeters
+- **Group 2**: $$e=35$$ centimeters
+- **Group 3A**: $$e=30$$ centimeters
+- **Group 3B**: $$e=25$$ centimeters
+- **Group 4** (minimum traffic and speed): $$e=25$$ centimeters
 
-El valor de los espesores de balasto y de la capa sub-balasto se establece respetando las siguientes restricciones técnicas fundamentales:
+The value of ballast and sub-ballast layer thicknesses is established respecting the following fundamental technical restrictions:
 
-- El espesor mínimo de la capa sub-balasto debe ser al menos la mitad del espesor total e indicado en el ábaco. Cuando el espesor de balasto deba ser superior a la mitad de e, el espesor del sub-balasto se incrementará proporcionalmente en la misma cantidad.
-- En líneas de gran velocidad ferroviaria (que sobrepasan los 200 km/h), el espesor total e no debe descender de 60 centímetros en circunstancias normales, aunque excepcionalmente puede adoptarse el valor de 50 centímetros en casos justificados.
-- El espesor de la capa de forma debe corresponderse con los valores especificados en las tablas anteriores.
-- Según la calidad técnica de la plataforma alcanzada, deben disponerse las capas de asiento específicas indicadas en la Norma 2-1-0.1 de ADIF.
+- The minimum thickness of the sub-ballast layer must be at least half of the total thickness e indicated in the chart. When ballast thickness must be greater than half of e, sub-ballast thickness will be proportionally increased by the same amount.
+- In high-speed railway lines (exceeding 200 km/h), total thickness e must not descend below 60 centimeters in normal circumstances, although exceptionally the value of 50 centimeters may be adopted in justified cases.
+- Capping layer thickness must correspond to values specified in previous tables.
+- Depending on technical platform quality achieved, specific seating layers indicated in ADIF Standard 2-1-0.1 must be arranged.
 
-Para determinar estos espesores óptimos en renovaciones de vía existente, es imperativo conocer previamente la capacidad portante de la plataforma vigente y mejorarla cuando sea técnicamente factible, ya que se obtienen mejores resultados mejorando esta capacidad portante que simplemente disponiendo mayor espesor en la capa de balasto.
+To determine these optimal thicknesses in existing track renewals, it is imperative to previously know the bearing capacity of the current platform and improve it when technically feasible, as better results are obtained by improving this bearing capacity than simply providing greater thickness in the ballast layer.
 
 ![a66cd8b1e7faf33c68111d224638fbc7_MD5]({{ site.baseurl }}/assets/images/a66cd8b1e7faf33c68111d224638fbc7_MD5.webp)
 ![a6d30c9e859c0fae9f14e6042b8956e0_MD5]({{ site.baseurl }}/assets/images/a6d30c9e859c0fae9f14e6042b8956e0_MD5.webp)
 
-Leyenda:
-- TRAVIESA DE MADERA
-- TRAVIESA DE HORMIGÓN DE LONGITUD $$\ell \geq 2,40 \mathrm{~m}$$
-- TRAVIESA DE HORMIGÓN DE $$2,20 \leq \ell<2,40 \mathrm{~m}$$
+Legend:
+- WOODEN SLEEPER
+- CONCRETE SLEEPER OF LENGTH $$\ell \geq 2,40 \mathrm{~m}$$
+- CONCRETE SLEEPER OF $$2,20 \leq \ell<2,40 \mathrm{~m}$$
 
-(1) $$T_{f_{2}}=$$ Tráfico ficticio diario
-[NRV 3-4-1.0 para cálculo de espesor de balasto](https://normativatecnica.adif.es/)
+(1) $$T_{f_{2}}=$$ Daily Fictitious Traffic
+[NRV 3-4-1.0 for ballast thickness calculation](https://normativatecnica.adif.es/)
 
 
-### II.7. Secciones de la Banqueta
+### II.7. Ballast Bed Sections
 
-Para asegurar que la vía ferroviaria desarrolle sus funciones de manera óptima y que mantenga la durabilidad en el servicio, es necesario dimensionar adecuadamente todas las capas que constituyen la banqueta en función de los parámetros operacionales de cada línea. La normativa N.R.V. 3-4-1.0 proporciona especificaciones detalladas para los espesores de las capas de asiento:
+To ensure the railway track optimally develops its functions and maintains service durability, it is necessary to adequately dimension all layers constituting the ballast bed based on operational parameters of each line. N.R.V. 3-4-1.0 regulation provides detailed specifications for seating layer thicknesses:
 
 ![4961e64e23622a23bd2b44fc34aa30d4_MD5]({{ site.baseurl }}/assets/images/4961e64e23622a23bd2b44fc34aa30d4_MD5.webp)
-Esta matriz permite determinar, en función de la clase de capacidad de carga alcanzada en la plataforma y de la calidad del suelo soporte, qué grupos de categoría ferroviaria son compatibles con cada combinación.
+This matrix allows determining, based on load capacity class achieved in the platform and support soil quality, which railway category groups are compatible with each combination.
 
-## Capítulo III La Banqueta
+## Chapter III The Ballast Bed (Banqueta)
 
-La **banqueta** constituye la **capa de material granular** que forma la superficie de apoyo inmediata sobre la cual se dispone todo el armazón estructural de la vía (el conjunto formado por traviesas, carriles y sistemas de sujeción que unen ambos elementos). Esta capa se compone típicamente de áridos seleccionados que envuelven las traviesas y las mantienen empotradas, siendo los materiales componentes diversos según disponibilidad regional: arenas, tierras mejoradas, grava, balasto de distintas características, escorias de industrias siderúrgicas machacadas, y otros áridos compatibles con los requisitos técnicos.
+The **ballast bed** constitutes the **layer of granular material** that forms the immediate support surface on which the entire structural framework of the track (the set formed by sleepers, rails, and fastening systems joining both elements) is arranged. This layer is typically composed of selected aggregates that envelop the sleepers and keep them embedded, with component materials varying according to regional availability: sands, improved soils, gravel, ballast of distinct characteristics, slag from crushed steel industries, and other aggregates compatible with technical requirements.
 {: .highlight }
 
-Geométricamente, la sección transversal de la banqueta presenta forma trapezoidal característica, con la base de mayor dimensión apoyada sobre la plataforma y dimensiones específicas que se describen en las figuras posteriores (en este contexto refiriéndose específicamente a banquetas constituidas por balasto). La capacidad de la banqueta para mantener las traviesas en su posición relativa se logra fundamentalmente mediante el rozamiento interno generado entre los áridos constitutivos, complementado por el rozamiento producido entre las traviesas y estos mismos materiales.
+Geometrically, the cross-section of the ballast bed presents a characteristic trapezoidal shape, with the larger base resting on the platform and specific dimensions described in subsequent figures (in this context referring specifically to beds constituted by ballast). The capacity of the ballast bed to maintain sleepers in their relative position is achieved primarily through internal friction generated between constituent aggregates, complemented by friction produced between sleepers and these same materials.
 
-La banqueta debe cumplir con una serie de misiones funcionales críticas para la operación segura y eficiente:
+The ballast bed must fulfill a series of critical functional missions for safe and efficient operation:
 
-- **Arriostramiento y estabilidad**: Mantener las traviesas debidamente arriostradas y por extensión los carriles sujetados a ellas, impidiendo movimientos longitudinales no deseados y movimientos transversales que comprometan el ancho de vía, manteniendo constantemente la nivelación longitudinal y el alineamiento horizontal de la vía.
-- **Amortiguación de impactos**: Amortiguar y disipar las acciones dinámicas de los trenes sobre el armado de la vía, reduciendo transmisión de cargas impulsivas.
-- **Distribución de cargas**: Repartir las cargas verticales aplicadas por las traviesas sobre la plataforma de manera gradual y homogénea.
-- **Drenaje y evacuación de agua**: Facilitar el paso del agua a través de la matriz de áridos para que sea evacuada eficientemente de la plataforma, evitando así la formación de charcos y baches que pudieran deshacer la estructura de la banqueta.
-- **Protección de plataforma**: Proteger la plataforma de los efectos de las heladas y de la descomposición de su capa de forma superior.
-- **Mantenimiento de geometría**: Permitir mediante trabajos de mantenimiento sencillos y económicamente viables, la recuperación de la alineación y nivelación de la vía cuando estas características se degraden por uso (banquetas bateables con vibrobaterías).
-- **Recuperación de forma**: Permitir que la banqueta recupere su geometría inicial mediante trabajos de perfilado sencillo para que la vía continúe manteniendo sus características técnicas durante todo su ciclo de utilización (banquetas perfilables).
+- **Bracing and stability**: Keep sleepers properly braced and by extension rails fastened to them, preventing unwanted longitudinal movements and transverse movements compromising track gauge, constantly maintaining longitudinal leveling and horizontal alignment of the track.
+- **Impact damping**: Damp and dissipate dynamic actions of trains on the track assembly, reducing transmission of impulsive loads.
+- **Load distribution**: Distribute vertical loads applied by sleepers onto the platform gradually and homogeneously.
+- **Drainage and water evacuation**: Facilitate water passage through the aggregate matrix so it is efficiently evacuated from the platform, thus avoiding formation of puddles and potholes that could undo the ballast bed structure.
+- **Platform protection**: Protect the platform from frost effects and decomposition of its upper capping layer.
+- **Geometry maintenance**: Allow, through simple and economically viable maintenance works, recovery of track alignment and leveling when these characteristics degrade due to use (tampable beds with vibro-tampers).
+- **Shape recovery**: Allow the ballast bed to recover its initial geometry through simple profiling works so the track continues maintaining its technical characteristics throughout its utilization cycle (profilable beds).
 
-Históricamente, los primeros ferrocarriles carecían completamente de banqueta, disponiendo las traviesas directamente sobre la explanación o enterrándolas en el terreno. Cuando se constataron problemas graves de nivelación causados por insuficiencia de la capacidad portante de los suelos, se decidió experimentar con el depósito de capas de grava o arena que actuaran como distribuidoras de cargas y facilitadoras de la nivelación.
+Historically, early railways completely lacked a ballast bed, arranging sleepers directly on the formation or burying them in the ground. When serious leveling problems caused by insufficient soil bearing capacity were noted, it was decided to experiment with depositing layers of gravel or sand acting as load distributors and leveling facilitators.
 
-### III.1. Secciones de la Banqueta
+### III.1. Ballast Bed Sections
 
-El dimensionamiento y la configuración técnica de la banqueta requiere la identificación clara de cada uno de sus componentes constructivos. La figura siguiente ilustra los elementos constitutivos fundamentales:
+Dimensioning and technical configuration of the ballast bed require clear identification of each of its constructive components. The following figure illustrates fundamental constituent elements:
 
 ![542176725f512177be9b71a94ac4ebee_MD5]({{ site.baseurl }}/assets/images/542176725f512177be9b71a94ac4ebee_MD5.webp)
 
-Cada uno de estos elementos se define técnicamente conforme a:
+Each of these elements is technically defined according to:
 
-- **Capa de enrase**: La superficie superior que define el perfil exterior del volumen de balasto que constituye la banqueta, situada a profundidad específica bajo el nivel del patín del carril.
-- **Capa de forma**: El estrato de terminación de la plataforma ubicado inmediatamente bajo la banqueta, que constituye la interfaz entre el balasto y el suelo mejorado o natural.
-- **Hombro de la banqueta**: La distancia horizontal medida entre la arista superior de la banqueta y el punto más próximo del carril de la vía (generalmente el patín exterior).
-- **Derrame**: La superficie lateral inclinada de la banqueta, determinada por el ángulo natural de reposo del material árido que constituye la banqueta (talud natural).
-- **Sobrebanqueta**: Una elevación adicional de material de balasto dispuesto específicamente para reforzar y estabilizar el hombro lateral de la banqueta.
-- **Espesor de balasto**: La dimensión vertical medida desde la cara inferior de la traviesa hasta la capa de forma, asumiendo que toda la banqueta esté constituida por balasto sin capas intermedias.
+- **Top level layer (Capa de enrase)**: The upper surface defining the external profile of ballast volume constituting the bed, situated at specific depth under rail bottom level.
+- **Capping layer (Capa de forma)**: The platform termination stratum located immediately under the ballast bed, constituting the interface between ballast and improved or natural soil.
+- **Ballast shoulder (Hombro)**: The horizontal distance measured between upper edge of the ballast bed and nearest point of track rail (generally outer foot).
+- **Slope (Derrame)**: The inclined lateral surface of the ballast bed, determined by natural angle of repose of aggregate material constituting the bed (natural slope).
+- **Sur-ballast (Sobrebanqueta)**: An additional elevation of ballast material arranged specifically to reinforce and stabilize the lateral shoulder of the bed.
+- **Ballast thickness**: Vertical dimension measured from bottom face of sleeper to capping layer, assuming entire bed is constituted by ballast without intermediate layers.
 
-Según las especificaciones técnicas requeridas por la administración ferroviaria ADIF, se han establecido dimensiones estándar para las banquetas según la categoría de la línea:
+According to technical specifications required by railway administration ADIF, standard dimensions for ballast beds have been established according to line category:
 
-**Dimensiones de la banqueta exigidas por ADIF (Vía Simple)**
+**Ballast bed dimensions required by ADIF (Single Track)**
 
 ![fdf452bc44adfbad536d27ab1dc11128_MD5]({{ site.baseurl }}/assets/images/fdf452bc44adfbad536d27ab1dc11128_MD5.webp)
 
-| Dimensiones | Grupos.1AyIB | Grupos.IBylC | Grupos.ICy 2 | Grupos 2y 3 A | Grupos 3 Ay 3 B | Grupos 3 By 4 |
+| Dimensions | Groups.1AyIB | Groups.IBylC | Groups.ICy 2 | Groups 2y 3 A | Groups 3 Ay 3 B | Groups 3 By 4 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Espesores: $$\mathrm{e}_{\mathrm{b}}=\mathrm{e}_{\mathrm{sb}}$$ | 23 cm | 23 cm | 20 cm | 18 cm | 15 cm | 13 cm |
-| Capa de enrase | Superficie: 2 cm por debajo del punto más bajo del patín del carril |  |  |  |  |  |
-| Hombro: H | 105 cm | 105 cm | 100 cm | 100 cm | 95 cm | 90 cm |
-| Pendiente transversal: i | 5\% | 5\% | 5\% | 3\% | 3\% | 3\% |
+| Thicknesses: $$\mathrm{e}_{\mathrm{b}}=\mathrm{e}_{\mathrm{sb}}$$ | 23 cm | 23 cm | 20 cm | 18 cm | 15 cm | 13 cm |
+| Top level layer | Surface: 2 cm below lowest point of rail foot |  |  |  |  |  |
+| Shoulder: H | 105 cm | 105 cm | 100 cm | 100 cm | 95 cm | 90 cm |
+| Transverse slope: i | 5\% | 5\% | 5\% | 3\% | 3\% | 3\% |
 
-**VIA DOBLE**
+**DOUBLE TRACK**
 
 ![eccdf324ee0dcaab5a88cb53a9307407_MD5]({{ site.baseurl }}/assets/images/eccdf324ee0dcaab5a88cb53a9307407_MD5.webp)
 
-| Dimensiones | Grupos IAyIB | Grupos IBylC | Grupos ICy 2 | Grupos 2 y 3 A | Grupos 3Ay3B | Grupos 3 By 4 |
+| Dimensions | Groups IAyIB | Groups IBylC | Groups ICy 2 | Groups 2 y 3 A | Groups 3Ay3B | Groups 3 By 4 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Espesor: $$\mathrm{e}_{\mathrm{b}}=\mathrm{e}_{\mathrm{sb}}$$ | 23 cm | 23 cm | 20 cm | 18 cm | 15 cm | 13 cm |
-| Capa de enrase | Superficie: 2 cm por debajo del punto más bajo del patín del carril. |  |  |  |  |  |
-| Hombro: H | 105 cm | 105 cm | 100 cm | 100 cm | 95 cm | 90 cm |
-| Ancho de entrevia: gen | 234 cm | 234 cm | 230 cm | $$\mathbf{2 3 0 ~ c m}$$ | $$\mathbf{2 2 0 ~ c m}$$ | 210 cm |
-| Pendiente transversal: i | 5\% | 5\% | 5\% | 3\% | 3\% | 3\% |
+| Thickness: $$\mathrm{e}_{\mathrm{b}}=\mathrm{e}_{\mathrm{sb}}$$ | 23 cm | 23 cm | 20 cm | 18 cm | 15 cm | 13 cm |
+| Top level layer | Surface: 2 cm below lowest point of rail foot. |  |  |  |  |  |
+| Shoulder: H | 105 cm | 105 cm | 100 cm | 100 cm | 95 cm | 90 cm |
+| Inter-track width: gen | 234 cm | 234 cm | 230 cm | $$\mathbf{2 3 0 ~ c m}$$ | $$\mathbf{2 2 0 ~ c m}$$ | 210 cm |
+| Transverse slope: i | 5\% | 5\% | 5\% | 3\% | 3\% | 3\% |
 
-Estas especificaciones técnicas aseguran que independientemente de la categoría de la línea, las banquetas proporcionen el arriostramiento adecuado, manteniendo coherencia con los requisitos de drenaje y estabilidad establecidos.
+These technical specifications ensure that regardless of line category, ballast beds provide adequate bracing, maintaining coherence with established drainage and stability requirements.
 
-## Capítulo IV El Balasto
-**balasto** constituye un árido específicamente preparado y seleccionado, cuya composición base es piedra o roca machacada y clasificada mediante cribado conforme a especificaciones técnicas normalizadas que cada administración ferroviaria ha desarrollado para su aplicación en obras ferroviarias. En términos generales, el balasto moderno consiste en una grava limpia y de granulometría controlada, cuyos elementos componentes presentan un tamaño medio comprendido entre **30 y 60 milímetros**
-El balasto constituye un árido específicamente preparado y seleccionado, cuya composición base es piedra o roca machacada y clasificada mediante cribado conforme a especificaciones técnicas normalizadas que cada administración ferroviaria ha desarrollado para su aplicación en obras ferroviarias. En términos generales, el balasto moderno consiste en una grava limpia y de granulometría controlada, cuyos elementos componentes presentan un tamaño medio comprendido entre 30 y 60 milímetros de diámetro equivalente.
+## Chapter IV Ballast
 
-Según las especificaciones normalizadas, ciertos límites de granulometría deben ser respetados obligatoriamente. El porcentaje de elementos con dimensiones comprendidas entre 25 y 16 milímetros, determinado mediante ensayos de tamizado normalizados, no debe exceder el 27 por ciento en peso respecto al total de la muestra analizada. Similarmente, el porcentaje de elementos con dimensiones inferiores a 16 milímetros no debe superar el 5 por ciento en peso respecto a la muestra total, conforme lo especificado en el anexo B de la norma UNE 146147.
+**Ballast** constitutes a specifically prepared and selected aggregate, whose base composition is crushed stone or rock classified through screening according to standardized technical specifications developed by each railway administration for application in railway works. generally, modern ballast consists of clean, controlled granulometry gravel, whose component elements present an average size comprised between **30 and 60 millimeters** equivalent diameter.
 
-En las configuraciones modernas de vías ferroviarias, el balasto constituye el material base para la construcción de las banquetas, por lo que debe existir una correlación tecnológica clara y funcional entre los requisitos que se establecen para las banquetas y las características técnicas del balasto elegido para su formación.
+According to standardized specifications, certain granulometry limits must be mandatorily respected. The percentage of elements with dimensions comprised between 25 and 16 millimeters, determined through standardized sieving tests, must not exceed 27 percent by weight relative to total analyzed sample. Similarly, percentage of elements with dimensions inferior to 16 millimeters must not exceed 5 percent by weight relative to total sample, as specified in annex B of standard UNE 146147.
 
-### IV.1. Forma del Balasto
+In modern railway track configurations, ballast constitutes base material for construction of ballast beds, so there must exist clear and functional technological correlation between requirements established for ballast beds and technical characteristics of ballast chosen for their formation.
 
-La geometría de los elementos constitutivos del balasto (las piedras individuales) es un aspecto crítico del rendimiento de la banqueta. Estos elementos deben poseer aristas vivas y pronunciadas, característica fundamental que, una vez que la banqueta ha alcanzado su estado de consolidación operacional tras el paso repetido de trenes, favorece el máximo rozamiento interno entre las partículas, mejorando significativamente la estabilidad longitudinal y transversal de toda la vía.
+### IV.1. Shape of Ballast
 
-Más específicamente, los elementos de balasto deben presentar una **forma geométrica poliédrica** (aproximadamente cúbica), con múltiples caras y aristas. Por el contrario, debe evitarse completamente el balasto con formas **lajosas** (planas y extendidas) o **aciculares** (alargadas y puntiagudas). Estos elementos de forma deficiente presentan un comportamiento mecánico indeseable: los elementos aciculares y lajosos tienden a romperse bajo las cargas cíclicas de operación, alterando irreversiblemente la granulometría original del árido y creando zonas plásticas dentro de la banqueta que comprometen su función portante y de arriostramiento.
+Shape of ballast constituent elements (individual stones) is a critical aspect of bed performance. These elements must possess sharp and pronounced edges, a fundamental characteristic that, once bed has reached its operational consolidation state after repeated train passage, favors maximum internal friction between particles, significantly improving longitudinal and transverse stability of entire track.
 
-### IV.2. Estudio petrográfico
+More specifically, ballast elements must present a **polyhedral geometric shape** (approximately cubic), with multiple faces and edges. Conversely, ballast with **flat** (slab-like) or **acicular** (elongated and needle-like) shapes must be completely avoided. These deficiently shaped elements present undesirable mechanical behavior: acicular and slab-like elements tend to break under cyclic operation loads, irreversibly altering aggregate original granulometry and creating plastic zones within bed that compromise its bearing and bracing function.
 
-La caracterización técnica adecuada del balasto requiere un análisis geológico integral del material, complementado con investigaciones petrográficas específicas. El estudio geológico-geotécnico realizado en la cantera de extracción debe ir acompañado obligatoriamente de un análisis petrográfico detallado de muestras representativas del material procedente de esa cantera, con el propósito específico de efectuar la clasificación petrológica (mineralógica) de la roca madre y evaluar las posibles alteraciones que hayan experimentado los minerales componentes. 
+### IV.2. Petrographic Study
 
-Este estudio petrográfico revela también las características fundamentales que determinan de manera significativa el comportamiento físico, químico y mecánico de la roca bajo las condiciones operacionales de servicio.
+Adequate technical characterization of ballast requires integral geological analysis of material, complemented with specific petrographic investigations. Geological-geotechnical study carried out in extraction quarry must be mandatorily accompanied by detailed petrographic analysis of representative samples of material from that quarry, with specific purpose of effecting petrological (mineralogical) classification of parent rock and evaluating possible alterations experienced by component minerals.
 
-El análisis petrográfico debe constar de dos partes diferenciadas:
+This petrographic study also reveals fundamental characteristics determining significantly physical, chemical, and mechanical behavior of rock under operational service conditions.
 
-- **Descripción macroscópica**: Evaluación visual detallada de la roca según las pautas contenidas en la norma UNE-EN 932-3, donde se registran características como color, textura aparente, discontinuidades, signos de meteorización, etc.
-- **Descripción microscópica**: Estudio mediante microscopio petrográfico de láminas delgadas pulidas de la roca, que permite identificar la composición mineral específica, texturas cristalinas, existencia de fracturas intergranulares, y evidencias de alteración.
+Petrographic analysis must consist of two differentiated parts:
 
-De manera complementaria, cuando se estime técnicamente necesario por encontrarse evidencias de mineralogía compleja o ambigua, se llevará a cabo un análisis por difracción de rayos X, que proporciona identificación inequívoca de fases cristalinas presentes.
+- **Macroscopic description**: Detailed visual evaluation of rock according to guidelines contained in standard UNE-EN 932-3, recording characteristics such as color, apparent texture, discontinuities, signs of weathering, etc.
+- **Microscopic description**: Study through petrographic microscope of polished thin sections of rock, allowing identification of specific mineral composition, crystalline textures, existence of intergranular fractures, and evidences of alteration.
 
-### IV.3. Homogeneidad
+Complementarily, when technically deemed necessary due to finding evidences of complex or ambiguous mineralogy, X-ray diffraction analysis will be carried out, providing unequivocal identification of crystalline phases present.
 
-El **ensayo de homogeneidad** constituye un control de calidad esencial que se ejecuta cuando, durante el proceso de muestreo inicial de balasto para ensayos de caracterización, se observa la presencia evidente de partículas que evidencian meteorización o componentes blandos en una proporción estimada visualmente superior al **5%** del total de la muestra examinada.
+### IV.3. Homogeneity
 
-En los casos donde se detecte heterogeneidad, es necesario proceder a la recolección de múltiples muestras, en cantidad suficiente para que, tras su tamizado empleando tamices normalizados con aberturas de **50 mm**, **40 mm** y **31,5 mm**, se obtenga una masa mínima de **100 kg** de material retenido en el tamiz de **31,5 mm**, complementado con otros **100 kg** adicionales retenidos en el tamiz de **40 mm**.
+The **homogeneity test** constitutes an essential quality control executed when, during initial ballast sampling process for characterization tests, evident presence of particles evidencing weathering or soft components is observed in proportion visually estimated superior to **5%** of total examined sample.
 
-De cada una de estas fracciones granulométricas se procede a una selección visual cuidadosa de aquellas piedras que presenten mayor evidencia de meteorización o blandura, seleccionando material hasta alcanzar exactamente el **5%** de cada fracción (**5 kg ± 50 g**). Esta masa seleccionada se consolida en una muestra única de **10 kg** que se someterá al ensayo de desgaste Los Ángeles, procedimiento que se describe detalladamente en los apartados posteriores. Si el coeficiente de desgaste Los Ángeles obtenido cumple con los valores límite establecidos para balasto, se considera que la homogeneidad es satisfactoria y el balasto resulta apto para uso. En caso contrario, el balasto será rechazado como inaceptable.
+In cases where heterogeneity is detected, it is necessary to proceed to collection of multiple samples, in sufficient quantity so that, after their sieving employing standardized sieves with openings of **50 mm**, **40 mm** and **31.5 mm**, minimum mass of **100 kg** of material retained on **31.5 mm** sieve is obtained, complemented with other **100 kg** additional retained on **40 mm** sieve.
 
-Alternativamente, puede optarse por una metodología simplificada que consiste en la extracción manual directo de fragmentos visiblemente meteorizados o blandos de una muestra seca de ensayo de masa mínima de **40 kg**. En este procedimiento alternativo, se considera que el balasto presenta homogeneidad adecuada cuando la masa total de fragmentos meteorizados o blandos no supera el **5%** de la masa total de la muestra de 40 kg.
+From each of these granulometric fractions, careful visual selection of stones presenting greatest evidence of weathering or softness proceeds, selecting material until reaching exactly **5%** of each fraction (**5 kg ± 50 g**). This selected mass is consolidated into unique **10 kg** sample submitted to Los Angeles abrasion test, procedure described in detail in subsequent sections. If Los Angeles abrasion coefficient obtained complies with limit values established for ballast, homogeneity is considered satisfactory and ballast results suitable for use. Otherwise, ballast will be rejected as unacceptable.
 
-En este procedimiento alternativo, debe además recolectarse una muestra complementaria adicional de **15 kg** de material alterado procedente del mismo lote que la muestra de 40 kg, por si resultara necesario en fases posteriores efectuar el ensayo de desgaste Los Ángeles sobre esta muestra complementaria para validación.
+Alternatively, simplified methodology consisting of direct manual extraction of visibly weathered or soft fragments from minimal **40 kg** mass dry test sample can be opted for. In this alternative procedure, ballast is considered to present adequate homogeneity when total mass of weathered or soft fragments does not exceed **5%** of total mass of 40 kg sample.
 
-### IV.4. Dureza y Resistencia del Balasto
+In this alternative procedure, additional complementary sample of **15 kg** of altered material proceeding from same lot as 40 kg sample must also be collected, in case it results necessary in later phases to effect Los Angeles abrasion test on this complementary sample for validation.
 
-La presencia de **aristas vivas y pronunciadas** en los elementos del balasto le confiere también una **característica de elasticidad** fundamental: los elementos se acoplan y entrelazan entre sí al paso repetido de trenes, permitiendo redistribuciones microestructurales que mantienen la estabilidad dimensional de la banqueta. Para que esta elasticidad se mantenga durante el largo período de vida operacional de la vía, es imperativo que los elementos del balasto posean una **dureza específica a la compresión** amplia, así como una **resistencia muy elevada al desgaste** abrasivo y a la rotura por impacto.
+### IV.4. Hardness and Resistance of Ballast
 
-Simultáneamente, las operaciones de mantenimiento rutinario y modernización de vía emplean maquinaria pesada especializada (baterías vibrobatidoras, etc.) que somete el balasto a ciclos intensivos de impacto y fricción. Esta realidad operacional exige que las piedras de balasto posean una resistencia extraordinariamente alta al desgaste, tanto por abrasión como por rotura frágil, para evitar la creación rápida de finos que comprometan la funcionalidad de la banqueta.
+Presence of **sharp and pronounced edges** in ballast elements also confers fundamental **elasticity characteristic**: elements couple and interlock with each other upon repeated train passage, allowing microstructural redistributions maintaining bed dimensional stability. For this elasticity to be maintained during track long operational life period, it is imperative that ballast elements possess ample **specific compressive hardness**, as well as **very elevated resistance to abrasive wear** and impact breakage.
 
-### IV.5. Limpieza del Balasto
+Simultaneously, routine maintenance and track modernization operations employ specialized heavy machinery (vibro-tamping batteries, etc.) subjecting ballast to intensive impact and friction cycles. This operational reality demands ballast stones possess extraordinarily high wear resistance, both by abrasion and brittle fracture, to avoid rapid creation of fines compromising bed functionality.
 
-Una característica crítica del balasto de calidad es que debe estar prácticamente libre de partículas finas (polvo y arena) que de otro modo obstruirían progresivamente los espacios intersticiales que quedan entre los elementos mayores de balasto, fenómeno conocido como colmatación. Cuando estos poros se bloquean con finos, se compromete fundamentalmente la capacidad de drenaje de la banqueta, creándose zonas de comportamiento plástico donde se acumula agua, que genera los problemas descriptos anteriormente.
+### IV.5. Cleanliness of Ballast
 
-De manera complementaria, debe evitarse completamente que se generen finos nuevos durante la operación de la banqueta, situación que ocurriría si las piedras del balasto sufrieran degradación mecánica significativa por fragilidad. Si la roca base es de naturaleza débil o tiene escasa resistencia al impacto, el choque cíclico entre piedras al paso de los trenes causaría fragmentación, generando polvo que rellena los espacios vacíos. Esta consecuencia (generación de finos internos) resultaría tan perjudicial como la contaminación inicial, motivo por el cual la resistencia al desgaste es un parámetro absolutamente crítico en la especificación del balasto.
+A critical characteristic of quality ballast is that it must be practically free of fine particles (dust and sand) that would otherwise progressively obstruct interstitial spaces remaining between larger ballast elements, phenomenon known as clogging. When these pores are blocked with fines, bed drainage capacity is fundamentally compromised, creating plastic behavior zones where water accumulates, generating previously described problems.
 
-### IV.6. Naturaleza del Balasto
+Complementarily, generation of new fines during bed operation must be completely avoided, situation occurring if ballast stones suffered significant mechanical degradation by brittleness. If base rock is of weak nature or has scarce impact resistance, cyclic shock between stones upon train passage would cause fragmentation, generating dust filling empty spaces. This consequence (internal fines generation) would result as harmful as initial contamination, reason for which wear resistance is absolutely critical parameter in ballast specification.
 
-La selección de la roca madre de la cual se extraerá el balasto constituye una decisión crítica de ingeniería. Las rocas cuyo material se emplee para balasto deben presentar características de homogeneidad mineral significativa y no pueden tener facilidad inherente para disgregarse bajo la acción del tiempo, la meteorización o los ciclos de humedad y temperatura. Por estas razones fundamentales, no se emplean areniscas, pizarras u otras rocas sedimentarias similares que son inherentemente débiles.
+### IV.6. Nature of Ballast
 
-Tampoco resultan aceptables rocas que presenten susceptibilidad a procesos de oxidación química o que sean vulnerables al ataque químico por agua pura o por iones disueltos en el agua (carbonatos, sulfatos, etc.), situaciones que degradarían progresivamente la resistencia mecánica bajo las condiciones climáticas de servicio.
+Selection of parent rock from which ballast will be extracted constitutes critical engineering decision. Rocks whose material is employed for ballast must present significant mineral homogeneity characteristics and cannot have inherent ease to disintegrate under action of time, weathering, or humidity and temperature cycles. For these fundamental reasons, sandstones, shales, or other similar sedimentary rocks inherently weak are not employed.
 
-El balasto destinado a uso ferroviario debe proceder específicamente de operaciones de extracción minera en cantera, seguidas de las operaciones de machaqueo (fragmentación controlada), cribado (clasificación granulométrica) y selección con o sin tratamiento industrial complementario que implique modificación térmica (calcinación, etc.).
+Neither acceptable are rocks presenting susceptibility to chemical oxidation processes or vulnerable to chemical attack by pure water or by ions dissolved in water (carbonates, sulfates, etc.), situations that would progressively degrade mechanical resistance under service climatic conditions.
 
-Las características geológicas de la roca madre de balasto requieren que posea **naturaleza silícea** (rica en sílice) y preferiblemente **origen ígneo** (volcánico o plutónico) o metamórfico. En consecuencia, **no se admitirán rocas de naturaleza caliza** (carbonato cálcico) ni dolomítica (carbonato de calcio y magnesio), aunque estas sean más económicas de extraer.
+Ballast destined for railway use must proceed specifically from mining extraction operations in quarry, followed by crushing (controlled fragmentation), screening (granulometric classification), and selection operations with or without complementary industrial treatment implying thermal modification (calcination, etc.).
 
-El balasto resulta inaceptable si contiene fragmentos de madera, material orgánico, metales, plásticos, rocas fácilmente alterables o meteorizables, materiales de comportamiento tixotrópico, sustancias expansivas o solubles, materiales putrescibles, compuestos combustibles, o cualquier contaminante de origen industrial (desechos, residuos contaminantes, etc.).
+Geological characteristics of ballast parent rock require it to possess **siliceous nature** (rich in silica) and preferably **igneous origin** (volcanic or plutonic) or metamorphic. Consequently, **rocks of calcareous nature** (calcium carbonate) or dolomitic (calcium and magnesium carbonate) **will not be admitted**, although these may be more economical to extract.
 
-Debido al elevado costo que implica la extracción de rocas silíceas de elevada dureza, en banquetas con exigencias técnicas menos rigurosas (vías secundarias, ferrocarriles de bajo tráfico) se permite ocasionalmente el empleo de balasto procedente de calizas duras y resistentes, material que se designa como "balasto de segunda calidad" o "balasto B". Los procedentes de rocas silíceas o ácidas se clasifican como "balastos de tipo A", siendo estos los de máxima exigencia. Para resumir esta clasificación:
+Ballast results unacceptable if containing fragments of wood, organic material, metals, plastics, easily alterable or weatherable rocks, thixotropic behavior materials, expansive or soluble substances, putrescible materials, combustible compounds, or any contaminant of industrial origin (wastes, polluting residues, etc.).
 
-- **Balastos A**: De naturaleza ácida, composición silícea (rocas silíceas de calidad)
-- **Balastos B**: De naturaleza básica o alcalina, composición caliza (deben evitarse en la medida de lo posible)
+Due to high cost implied by extraction of high hardness siliceous rocks, in beds with less rigorous technical demands (secondary tracks, low traffic railways), employment of ballast proceeding from hard and resistant limestones is occasionally allowed, material designated as "second quality ballast" or "ballast B". Those proceeding from siliceous or acidic rocks are classified as "type A ballasts", being these of maximum requirement. To summarize this classification:
 
-### IV.7. Valoración de las Características del Balasto
+- **Ballasts A**: Acidic nature, siliceous composition (quality siliceous rocks)
+- **Ballasts B**: Basic or alkaline nature, limestone composition (must be avoided as much as possible)
 
-Todas las administraciones ferroviarias han establecido sistemas rigurosos de control y verificación de calidad para las características técnicas del balasto suministrado. Estos protocolos de aseguramiento de calidad incluyen:
+### IV.7. Assessment of Ballast Characteristics
 
-**Ensayos principales de caracterización:**
-1. Ensayos de resistencia mecánica
-2. Ensayos de análisis de forma geométrica
-3. Ensayos de granulometría (distribución de tamaños)
+All railway administrations have established rigorous quality control and verification systems for technical characteristics of supplied ballast. These quality assurance protocols include:
 
-**Procedimientos de muestreo y control:**
-Se recolectan muestras de los siguientes puntos en la cadena de suministro:
-- De las propias canteras de extracción (validación en origen)
-- De los acopios donde se almacena el balasto antes de su utilización
-- Incluso de los propios vagones que transportan estas piedras en tránsito
+**Main characterization tests:**
+1. Mechanical resistance tests
+2. Geometric shape analysis tests
+3. Granulometry tests (size distribution)
 
-En todos los casos resulta crítico indicar con precisión el origen y procedencia del material muestreado, para poder rastrear cualquier no-conformidad de calidad hasta su fuente.
+**Sampling and control procedures:**
+Samples are collected from following points in supply chain:
+- From extraction quarries themselves (origin validation)
+- From stockpiles where ballast is stored before utilization
+- Even from wagons themselves transporting these stones in transit
 
-### IV.8. Ensayo a compresión simple
+In all cases results critical to indicate with precision origin and provenance of sampled material, to be able to trace any quality non-conformity to its source.
 
-Este ensayo experimental permite evaluar y cuantificar el comportamiento elasto-plástico de cada piedra individual bajo carga axial, información que se correlaciona directamente con la degradación progresiva que experimentará el balasto durante su vida de servicio operacional.
+### IV.8. Simple Compression Test
 
-El ensayo se efectúa sometiendo una probeta cilíndrica normalizada (dimensiones: 10 cm de altura y 5 cm de diámetro exterior) a una carga axial compresiva aplicada uniformemente sobre sus dos caras planas paralelas. Se incrementa la carga gradualmente hasta alcanzar el punto de rotura frágil del espécimen. La carga por unidad de área de sección transversal en el momento exacto de la rotura constituye el parámetro de resistencia que se busca cuantificar.
+This experimental test allows evaluating and quantifying elasto-plastic behavior of each individual stone under axial load, information correlating directly with progressive degradation ballast will experience during its operational service life.
 
-La administración ferroviaria española ADIF especifica un requisito mínimo de resistencia: el valor debe exceder los **1.200 kilopondios por centímetro cuadrado (kp/cm²)**, que corresponde aproximadamente a 117,7 megapascales (MPa) en unidades del Sistema Internacional.
+Test is effected subjecting standardized cylindrical specimen (dimensions: 10 cm height and 5 cm outer diameter) to compressive axial load applied uniformly on its two parallel flat faces. Load is increased gradually until reaching specimen brittle fracture point. Load per unit of cross-sectional area at exact moment of breakage constitutes resistance parameter sought to quantify.
 
-### IV.9. Resistencia de la piedra al choque y desgaste
+Spanish railway administration ADIF specifies minimum resistance requirement: value must exceed **1,200 kiloponds per square centimeter (kp/cm²)**, corresponding approximately to 117.7 megapascals (MPa) in International System units.
 
-El proceso de desgaste del balasto, provocado tanto por el impacto repetido como por la abrasión, ejerce dos efectos perjudiciales diferenciados sobre las características funcionales de la banqueta que resultan igualmente dañinos:
+### IV.9. Resistance of Stone to Impact and Wear
 
-- **Generación de polvo**: La producción de partículas finas (polvo) derivada del desgaste tiende a rellenar los intersticios que quedan entre las piedras mayores, obstruyendo la libre circulación y drenaje del agua. Esta obstrucción genera zonas húmedas dentro de la banqueta que se comportan como lechos plásticos deformables, comprometiendo la función de arriostramiento y nivelación.
-- **Pérdida de aristas**: La rotura progresiva y el desgaste de las aristas agudas de las piedras causa una pérdida gradual de elasticidad de la banqueta, disminuyendo la capacidad de acomodación microestructural bajo cargas cíclicas.
+Ballast wear process, provoked both by repeated impact and abrasion, exerts two differentiated detrimental effects on bed functional characteristics resulting equally harmful:
 
-En síntesis, cuanto mayor sea la resistencia intrínseca de la roca del balasto al desgarre superficial y al choque mecánico, mayor será el período durante el cual se mantienen intactas las características técnicas funcionales de la banqueta.
+- **Dust generation**: Production of fine particles (dust) derived from wear tends to fill interstices remaining between larger stones, obstructing free circulation and drainage of water. This obstruction generates humid zones within bed behaving as deformable plastic beds, compromising bracing and leveling function.
+- **Loss of edges**: Progressive breakage and wear of stone sharp edges causes gradual loss of bed elasticity, decreasing microstructural accommodation capacity under cyclic loads.
 
-El ensayo de resistencia al desgarre utilizado universalmente es el denominado **ensayo de Los Ángeles**, procedimiento que determina un parámetro numérico denominado **coeficiente C (coeficiente de Los Ángeles)**, que mide cuantitativamente la característica de resistencia al desgarre del material.
+In synthesis, greater intrinsic resistance of ballast rock to surface tearing and mechanical shock, longer period during which bed functional technical characteristics remain intact.
 
-Este coeficiente se define como el porcentaje en masa de partículas finas que se producen cuando una muestra de piedra normalizada en granulometría y masa es molturada (fragmentada por impacto repetido) junto con un número específico de bolas de acero dentro de un cilindro que rota alrededor de su eje de revolución. Las variables del ensayo (diámetro y peso de las bolas, dimensiones del cilindro, número de revoluciones, velocidad de rotación) se fijan normalizadamente conforme al tipo y severidad del ensayo requerido.
+Tearing resistance test universally utilized is denominated **Los Angeles test**, procedure determining numerical parameter denominated **C coefficient (Los Angeles coefficient)**, measuring quantitatively material tearing resistance characteristic.
 
-El protocolo de ensayo más frecuentemente utilizado en la industria ferroviaria es aquel que emplea 10 kg de piedra fragmentada en dos fracciones granulométricas (5 kg de piedra entre 1" y 1½" de diámetro, y otros 5 kg entre 3/4" y 1"), dentro de un cilindro de 508 mm de longitud y 711 mm de diámetro, con doce bolas de acero idénticas cuya masa total suma 5 kg. El número de revoluciones del cilindro es de 1.000, ejecutadas a una velocidad angular comprendida entre 188 y 208 rad/s (equivalente a 30-33 revoluciones por minuto).
+This coefficient is defined as mass percentage of fine particles produced when standardized granulometry and mass stone sample is milled (fragmented by repeated impact) together with specific number of steel balls inside cylinder rotating around its revolution axis. Test variables (balls diameter and weight, cylinder dimensions, number of revolutions, rotation speed) are fixed standardized according to type and severity of required test.
 
-Específicamente para aplicación en balasto ferroviario se exige un **coeficiente de Los Ángeles máximo del 19%**, límite que asegura una resistencia al desgarre suficiente para vida útil aceptable.
+Most frequently utilized test protocol in railway industry is that employing 10 kg of stone fragmented in two granulometric fractions (5 kg stone between 1" and 1½" diameter, and another 5 kg between 3/4" and 1"), inside cylinder of 508 mm length and 711 mm diameter, with twelve identical steel balls whose total mass sums 5 kg. Number of cylinder revolutions is 1,000, executed at angular speed comprised between 188 and 208 rad/s (equivalent to 30-33 revolutions per minute).
 
-### IV.10. Valoración de la granulometría
+Specifically for application in railway ballast, **maximum Los Angeles coefficient of 19%** is demanded, limit ensuring sufficient tearing resistance for acceptable useful life.
 
-El balasto cuya distribución granulométrica sea técnicamente adecuada debe poseer la capacidad simultánea de cumplir con dos funciones que, a primera vista, parecen contradictorias:
+### IV.10. Granulometry Assessment
 
-- **Primera función**: Sujetar eficazmente y arriostrar las traviesas de manera firme, característica que requiere la presencia de piedras de dimensiones grandes que generen rozamiento y trabazón. Esta exigencia implica rechazar completamente la presencia de piedras pequeñas.
-- **Segunda función**: Permitir el movimiento libre de los bates (equipos vibrantes) en operaciones de bateo mecanizado de vía, y conseguir una nivelación durable de la vía. Esta segunda característica requiere la presencia de piedras relativamente pequeñas, pero que sean lo suficientemente grandes para que resistan sin desmembrarse bajo la vibración intensa de los bates, ya que se conoce que las piedras muy pequeñas se desmenuzan más fácilmente.
+Ballast whose granulometric distribution is technically adequate must possess simultaneous capacity to fulfill two functions that, at first sight, seem contradictory:
 
-Compaginando y balanceando todas estas necesidades técnicas conflictivas, se ha llegado a especificar una distribución granulométrica particular y exigente para el balasto. Este ensayo de granulometría se realiza conforme a los procedimientos técnicos contenidos en la norma **UNE-EN 933-1**, utilizando tamizado por vía seca.
+- **First function**: Effectively hold and brace sleepers firmly, characteristic requiring presence of large dimension stones generating friction and interlocking. This requirement implies completely rejecting presence of small stones.
+- **Second function**: Allow free movement of tampers (vibrating equipment) in mechanized track tamping operations, and achieve durable track leveling. This second characteristic requires presence of relatively small stones, but sufficiently large to resist without dismembering under intense vibration of tampers, as it is known very small stones crumble more easily.
 
-La serie de tamices a utilizar es: **63 mm - 50 mm - 40 mm - 31,5 mm - 22,4 mm**.
+Combining and balancing all these conflicting technical needs, particular and demanding granulometric distribution has been specified for ballast. This granulometry test is performed according to technical procedures contained in standard **UNE-EN 933-1**, utilizing dry sieving.
 
-En cada uno de estos tamices debe retenerse una cantidad variable de piedra que debe estar comprendida obligatoriamente dentro de unos porcentajes mínimos y máximos establecidos por especificación técnica.
+Sieve series to utilize is: **63 mm - 50 mm - 40 mm - 31.5 mm - 22.4 mm**.
 
-La representación gráfica de estas tolerancias en un diagrama cartesiano donde en el eje de abscisas se representan los tamaños de tamiz en escala logarítmica, y en el eje de ordenadas se representan los porcentajes acumulados de material que pasa (retenido), da lugar a los denominados **husos granulométricos**, que definen la envolvente aceptable para la distribución de tamaños:
+In each of these sieves variable quantity of stone must be retained which must match mandatorily within minimum and maximum percentages established by technical specification.
+
+Graphic representation of these tolerances in Cartesian diagram where in abscissa axis sieve sizes are represented in logarithmic scale, and in ordinate axis accumulated percentages of passing material (retained) are represented, gives rise to denominated **granulometric spindles**, defining acceptable envelope for size distribution:
 
 ![8a221378849243b1a66fa34e69bff8c9_MD5]({{ site.baseurl }}/assets/images/8a221378849243b1a66fa34e69bff8c9_MD5.webp)
-[Huso Granulometrico ET 03.360.004.0 Adif Especificación técnica balasto](https://normativatecnica.adif.es/)
+[Granulometric Spindle ET 03.360.004.0 Adif Technical specification ballast](https://normativatecnica.adif.es/)
 
-| Curva granulométrica del balasto |  |
+| Ballast granulometric curve |  |
 | :--- | :--- |
-| Tamaño de tamiz (mm) | \% que pasa (en peso) |
+| Sieve size (mm) | \% passing (by weight) |
 | 63 | 100 |
 | 50 | 70-99 |
 | 40 | 30-65 |
-| 31,5 | 1-25 |
-| 22,4 | 0-3 (para recepción de lotes situados en el centro de producción) |
-|  | 0-5 (para recepción de lotes situados en obra o acopio intermedio) |
+| 31.5 | 1-25 |
+| 22.4 | 0-3 (for reception of lots situated in production center) |
+|  | 0-5 (for reception of lots situated in work or intermediate stockpile) |
 
-### IV.11. Ensayos de Forma
+### IV.11. Shape Tests
 
-#### IV.11.1. ELEMENTOS DE ESPESOR MÍNIMO
+#### IV.11.1. ELEMENTS OF MINIMUM THICKNESS
 
-Este ensayo se lleva a cabo conforme a los procedimientos especificados en el anexo B de la norma UNE 146147, norma que establece métodos para identificar y cuantificar elementos que presentan dimensiones mínimas excesivas.
+This test is carried out according to procedures specified in annex B of standard UNE 146147, standard establishing methods to identify and quantify elements presenting excessive minimum dimensions.
 
-El porcentaje de elementos con dimensiones comprendidas entre 25 y 16 milímetros, determinado mediante este análisis de tamizado normalizad, no debe superar bajo ninguna circunstancia el **27%** en masa respecto al total de la muestra analizada.
+Percentage of elements with dimensions comprised between 25 and 16 millimeters, determined through this standardized sieving analysis, must not exceed under any circumstance **27%** in mass relative to total analyzed sample.
 
-Simultáneamente, el porcentaje de elementos cuya dimensión máxima sea inferior a **16 mm** determinado mediante el mismo procedimiento, no debe exceder nunca el **5%** en masa respecto a la muestra total ensayada.
+Simultaneously, percentage of elements whose maximum dimension is inferior to **16 mm** determined through same procedure, must never exceed **5%** in mass relative to total tested sample.
 
-#### IV.11.2. ELEMENTOS CON DIMENSIÓN MÁXIMA ≥ 100 MM
+#### IV.11.2. ELEMENTS WITH MAXIMUM DIMENSION ≥ 100 MM
 
-Este ensayo consiste en la selección visual y manual de todos aquellos elementos individuales cuya dimensión máxima lineal sea mayor de **100 milímetros**. Para efectuar esta identificación se utilizan calibres o plantillas de referencia. Una vez seleccionados y aislados todos estos elementos de tamaño mayor, se procede a su pesaje y se calcula el porcentaje que representan respecto a la masa total de la muestra completa analizada. 
+This test consists of visual and manual selection of all those individual elements whose maximum linear dimension is greater than **100 millimeters**. To effect this identification reference calipers or templates are utilized. Once all these larger size elements are selected and isolated, weighing proceeds and percentage they represent relative to total mass of complete analyzed sample is calculated.
 
-Este porcentaje no debe exceder bajo ningún concepto el **4%** cuando se trata de validación de canteras nuevas, o del **6%** cuando se procede a recepción de balasto ya suministrado para obras.
+This percentage must not exceed under any concept **4%** when dealing with new quarry validation, or **6%** when proceeding to reception of ballast already supplied for works.
 
-Dado que este ensayo requiere examen visual intenso, elemento por elemento, resulta práctico combinar su ejecución simultáneamente con el ensayo de determinación de elementos aciculares y lajosos (sección siguiente), permitiendo eficiencia operativa.
+Given that this test requires intense visual examination, element by element, it results practical to combine its execution simultaneously with acicular and slab-like elements determination test (following section), allowing operational efficiency.
 
-#### IV.11.3. ÍNDICE DE FORMA
+#### IV.11.3. SHAPE INDEX
 
-El índice de forma de las partículas constituye un parámetro que permite cuantificar el porcentaje de elementos que presentan formas no cúbicas (aciculares, lajosos, o de geometría irregular). Se calcula mediante los procedimientos especificados en la norma UNE-EN 933-4, empleando una plantilla móvil específica (según UNE 146147) o un pie de rey de precisión sobre la fracción de balasto retenida en el tamiz de **22,4 mm**.
+Shape index of particles constitutes parameter allowing quantifying percentage of elements presenting non-cubic shapes (acicular, slab-like, or irregular geometry). It is calculated through procedures specified in standard UNE-EN 933-4, employing specific mobile template (according to UNE 146147) or precision caliper on ballast fraction retained on **22.4 mm** sieve.
 
-La especificación establece que la muestra no podrá contener más del **10%** de elementos que presenten formas no cúbicas, es decir, elementos aciculares, lajosos, o con proporciones geométricas fuera del rango de 0,5-2 en relación de dimensiones principales.
+Specification establishes that sample may not contain more than **10%** of elements presenting non-cubic shapes, that is, acicular, slab-like elements, or with geometric proportions outside 0.5-2 range in relation of main dimensions.
 
-#### IV.11.4. PARTÍCULAS FINAS
+#### IV.11.4. FINE PARTICLES
 
-Este ensayo se realiza utilizando como muestra la fracción de balasto que ha pasado a través del tamiz de 22,4 mm de abertura en el ensayo de granulometría descrito anteriormente.
+This test is performed utilizing as sample ballast fraction that has passed through 22.4 mm opening sieve in granulometry test described previously.
 
-Esta fracción fina se tamiza nuevamente a través de un tamiz de abertura de **0,5 mm**. El material que logra pasar (traspasa) por este tamiz fino no debe constituir más del **0,6%** en peso respecto al total de la muestra cuando se procede a validación en cantera, o del **1%** cuando se procede a recepción de balasto en obra o almacenamiento intermedio.
+This fine fraction is sieved again through **0.5 mm** opening sieve. Material managing to pass (pass through) this fine sieve must not constitute more than **0.6%** by weight relative to total sample when proceeding to validation in quarry, or **1%** when proceeding to reception of ballast in work or intermediate storage.
 
-#### IV.11.5. FINOS
+#### IV.11.5. FINES
 
-Este ensayo consiste en un tamizado mojado (por vía húmeda) de una muestra de balasto, siguiendo exactamente los procedimientos contenidos en la norma UNE-EN 933-1, utilizando un tamiz de abertura extremadamente fina de **0,063 mm** (63 micras).
+This test consists of wet sieving (by wet way) of ballast sample, following exactly procedures contained in standard UNE-EN 933-1, utilizing extremely fine opening sieve of **0.063 mm** (63 microns).
 
-La muestra debe ser preparada previamente secándola en estufa durante **10 horas** y dejándola enfriar en desecador durante **2 horas** antes de proceder al lavado mojado conforme indica la norma técnica.
+Sample must be prepared previously drying it in oven during **10 hours** and letting it cool in desiccator during **2 hours** before proceeding to wet washing as technical standard indicates.
 
-El material que pasa a través del tamiz de 0,063 mm no debe constituir más del **0,5%** en peso respecto al total cuando se valida en cantera, o del **0,7%** cuando se recibe en obra, respecto a la masa total de la muestra utilizada en el ensayo original de granulometría.
+Material passing through 0.063 mm sieve must not constitute more than **0.5%** by weight relative to total when validated in quarry, or **0.7%** when received in work, relative to total mass of sample utilized in original granulometry test.
 
-#### IV.11.6. RESISTENCIA A LA ACCIÓN DE LA HELADA
+#### IV.11.6. RESISTANCE TO FROST ACTION
 
-El ensayo de resistencia mide la capacidad de la piedra para soportar ciclos repetidos de congelación y descongelación sin desintegrarse ni perder sus propiedades mecánicas. El balasto es un material granular que, aunque parezca sólido, tiene cierta porosidad. El proceso de deterioro sigue esta lógica:
+Resistance test measures stone capacity to withstand repeated freezing and thawing cycles without disintegrating or losing mechanical properties. Ballast is granular material that, although seeming solid, has certain porosity. Deterioration process follows this logic:
 
-1. **Absorción:** El agua de lluvia o la humedad ambiental penetran en los micro-poros o fisuras de la roca.
+1. **Absorption:** Rainwater or ambient humidity penetrate rock micro-pores or fissures.
     
-2. **Congelación:** Cuando la temperatura baja de **0°C**, el agua se convierte en hielo, aumentando su volumen aproximadamente un **9%**.
+2. **Freezing:** When temperature drops below **0°C**, water turns into ice, increasing volume approximately **9%**.
     
-3. **Presión Interna:** Ese aumento de volumen genera tensiones internas masivas dentro de la piedra.
+3. **Internal Pressure:** That volume increase generates massive internal tensions inside stone.
     
-4. **Fractura:** Si la roca no es lo suficientemente resistente, se fisura, se descama o se rompe en trozos más pequeños.
-Si el balasto no resiste bien las heladas, ocurren los siguientes problemas en la vía:
+4. **Fracture:** If rock is not sufficiently resistant, it cracks, flakes or breaks into smaller pieces.
+If ballast does not resist frosts well, following problems occur in track:
 
-- **Colmatación:** Las piedras se rompen creando "finos" (polvo y fragmentos pequeños) que rellenan los huecos entre las piedras grandes.
+- **Clogging:** Stones break creating "fines" (dust and small fragments) filling gaps between large stones.
     
-- **Pérdida de Drenaje:** Al llenarse de finos, el agua ya no evacúa correctamente, lo que empeora el ciclo de congelación (más agua retenida = más daño).
+- **Drainage Loss:** When filled with fines, water no longer evacuates correctly, worsening freezing cycle (more retained water = more damage).
     
-- **Inestabilidad:** La vía pierde su capacidad de repartir las cargas del tren, lo que puede causar deformaciones peligrosas.
-Para asegurar que una cantera es apta, se realizan pruebas normativas (como la **UNE-EN 1367-1**). Los métodos más comunes son:
+- **Instability:** Track loses capacity to distribute train loads, which can cause dangerous deformations.
+To ensure quarry is suitable, normative tests (like **UNE-EN 1367-1**) are performed. Most common methods are:
 
-- **Ciclos de Hielo-Deshielo:** Se someten muestras de balasto a un número determinado de ciclos (frecuentemente 10 o más) de congelación en aire y descongelación en agua.
+- **Freeze-Thaw Cycles:** Ballast samples are subjected to determined number of cycles (frequently 10 or more) of freezing in air and thawing in water.
     
-- **Ensayo de Sulfato de Magnesio:** Es un método acelerado. Se sumerge la piedra en una solución saturada de esta sal. Al cristalizar dentro de los poros, la sal ejerce una presión similar a la del hielo. Si la pérdida de masa tras el ensayo es superior a un porcentaje pequeño (habitualmente **1% o 2%**), el material se rechaza.
+- **Magnesium Sulfate Test:** Accelerated method. Stone is immersed in saturated solution of this salt. Upon crystallizing inside pores, salt exerts pressure similar to ice. If mass loss after test is superior to small percentage (habitually **1% or 2%**), material is rejected.
 
-#### IV.11.7. ENSAYO DE EBULLICIÓN
-El **Ensayo de Ebullición** es una prueba de "envejecimiento acelerado" que se aplica específicamente a ciertas rocas de origen volcánico (como el basalto o la mofeta) para detectar un fenómeno conocido como **"mal de la piedra"** o meteorización latente.
+#### IV.11.7. BOILING TEST
+**Boiling Test** is "accelerated aging" test applied specifically to certain volcanic origin rocks (like basalt or mofette) to detect phenomenon known as **"Sonnenbrand" (sunburn)** or latent weathering.
 
-A diferencia de otros ensayos que miden la fuerza física, este busca debilidades químicas que podrían hacer que el balasto se deshaga en cuestión de meses al estar expuesto a la intemperie.
+Unlike other tests measuring physical force, this seeks chemical weaknesses that could cause ballast to undo in matter of months upon being exposed to elements.
 
-Algunas rocas volcánicas contienen minerales inestables (como ciertas zeolitas o arcillas expansivas). Estos minerales parecen sólidos y resistentes en la cantera, pero cuando entran en contacto con la humedad y el aire, se hidratan y expanden, provocando que la piedra se agriete o se convierta en arena.
+Some volcanic rocks contain unstable minerals (like certain zeolites or expansive clays). These minerals seem solid and resistant in quarry, but when contacting humidity and air, hydrate and expand, causing stone to crack or turn into sand.
 
-El ensayo de ebullición **acelera este proceso natural**, que tardaría años, para que ocurra en solo unas horas en el laboratorio.
+Boiling test **accelerates this natural process**, which would take years, so it occurs in only hours in laboratory.
 
-El procedimiento del Ensayo (Norma UNE-EN 1367-3) es riguroso y busca estresar la estructura interna de la roca:
+Test Procedure (Standard UNE-EN 1367-3) is rigorous and seeks to stress rock internal structure:
 
-1. **Selección:** Se toma una muestra representativa de piedras de balasto.
+1. **Selection:** Representative sample of ballast stones is taken.
     
-2. **Inmersión y Ebullición:** Las piedras se sumergen en agua destilada que se mantiene en **ebullición continua durante 4 horas**.
+2. **Immersion and Boiling:** Stones are immersed in distilled water maintained in **continuous boiling during 4 hours**.
     
-3. **Observación:** Tras el "cocinado", se dejan enfriar en el agua y se examinan visualmente.
+3. **Observation:** After "cooking", allowed to cool in water and examined visually.
     
-4. **Pesaje y Pérdida de Masa:** Se mide cuánta masa ha perdido la piedra (cuántos trozos se han desprendido).
+4. **Weighing and Mass Loss:** How much mass stone has lost (how many pieces have detached) is measured.
 
-Tras el ensayo, el balasto se clasifica según los daños visibles:
+After test, ballast is classified according to visible damages:
 
-- **Sin daños:** La piedra permanece intacta. Es apta para su uso ferroviario.
-- **Fisuras superficiales:** Aparecen pequeñas grietas, pero la estructura se mantiene.
-- **Desintegración (Estallido):** La piedra se rompe en pedazos o aparecen fisuras profundas ("puntos de sol"). Si la pérdida de masa es superior al valor permitido por la normativa (generalmente el **1%**), el material es rechazado de inmediato.
+- **No damages:** Stone remains intact. Suitable for railway use.
+- **Surface fissures:** Small cracks appear, but structure maintains.
+- **Disintegration (Bursting):** Stone breaks into pieces or deep fissures appear ("sun points"). If mass loss is superior to value allowed by regulation (generally **1%**), material is rejected immediately.
 
-## Capítulo V Subbalasto
+## Chapter V Sub-ballast
 
-Se denomina subbalasto a una capa de material granular ubicada estratégicamente entre la banqueta de balasto y la plataforma, siendo constituida por áridos que presentan exigencias técnicas significativamente menores comparadas con las del balasto propiamente dicho.
+Sub-ballast is denominated as layer of granular material located strategically between ballast bed and platform, being constituted by aggregates presenting significantly lower technical demands compared to those of ballast properly speaking.
 
-El origen histórico del uso del subbalasto proviene del aprovechamiento económico del material de balasto antiguo que resultaba de renovaciones o modernizaciones de líneas ferroviarias existentes. En estos trabajos de rehabilitación, el procedimiento consistía en extender el balasto viejo (ya desgastado y degradado) sobre la plataforma nueva o mejorada, y sobre este lecho de material reciclado se disponía la nueva banqueta de balasto virgen. Cuando este procedimiento demostró resultados técnicos favorables en términos de drenaje, protección de plataforma y distribuición de cargas, se consolidó como práctica estándar el incluir una capa de subbalasto incluso en la construcción de líneas completamente nuevas.
+Historical origin of sub-ballast use comes from economic use of old ballast material resulting from renewals or modernizations of existing railway lines. In these rehabilitation works, procedure consisted of spreading old ballast (already worn and degraded) over new or improved platform, and over this bed of recycled material new virgin ballast bed was arranged. When this procedure demonstrated favorable technical results in terms of drainage, platform protection and load distribution, it consolidated as standard practice including sub-ballast layer even in construction of completely new lines.
 
-### V.1. Principales funciones del Subbalasto
+### V.1. Main functions of Sub-ballast
 
-Las funciones técnicas del subbalasto son complementarias pero distintas a las del balasto superior. Sus misiones principales incluyen:
+Technical functions of sub-ballast are complementary but distinct to those of upper ballast. Main missions include:
 
-- **Protección de plataforma contra erosión**: Constituye un escudo protector de la parte superior de la plataforma contra los daños erosivos que resultarían tanto del punzonamiento directo de los elementos de balasto superior (que, con sus aristas vivas, tienden a penetrar en materiales blandos), como del impacto destructivo del flujo de agua de lluvia durante episodios de precipitación intensa.
+- **Platform protection against erosion**: Constitutes protective shield of platform upper part against erosive damages resulting both from direct punching of upper ballast elements (which, with their sharp edges, tend to penetrate soft materials), and from destructive impact of rainwater flow during intense precipitation episodes.
 
-- **Protección contra ciclos de helada**: Protege la plataforma de los efectos perjudiciales de los ciclos repetidos de congelación y descongelación, que de otro modo causarían disgregación progresiva del material de plataforma, especialmente en zonas climáticas frías.
+- **Protection against frost cycles**: Protects platform from detrimental effects of repeated freezing and thawing cycles, which would otherwise cause progressive disintegration of platform material, especially in cold climatic zones.
 
-- **Distribución espacial de cargas**: Participa en la repartición de las cargas transmitidas desde la superestructura de vía, asegurando que en la parte superior de la plataforma se alcancen únicamente valores de solicitación mecánica que sean técnicamente admisibles considerando la capacidad portante geotécnica del suelo específico.
+- **Spatial load distribution**: Participates in distribution of loads transmitted from track superstructure, ensuring that in upper part of platform only mechanical stress values technically admissible considering geotechnical bearing capacity of specific soil are reached.
 
-El espesor y las características del subbalasto están condicionados por múltiples factores interdependientes:
+Thickness and characteristics of sub-ballast are conditioned by multiple interdependent factors:
 
-- Características intrínsecas del suelo soporte (naturaleza geológica, sensibilidad a ciclos de helada, índice de portancia CBR)
-- Contexto geológico general del lugar de implantación (estratigrafía, composición de acuíferos, etc.)
-- Condiciones climáticas regionalesque determinan intensidad de precipitación, amplitud de ciclos térmicos, y profundidad de penetración de heladas
+- Intrinsic characteristics of support soil (geological nature, sensitivity to frost cycles, CBR bearing index)
+- General geological context of implantation place (stratigraphy, aquifer composition, etc.)
+- Regional climatic conditions determining precipitation intensity, thermal cycle amplitude, and frost penetration depth
 
-## Preguntas de repaso
+## Review Questions
 
 <div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
-   question="¿Qué se entiende por \"explanación\" en ingeniería ferroviaria?"
-   answer="Es la franja de terreno modificada topográficamente (mediante desmontes o terraplenes) sobre la cual se asienta la infraestructura ferroviaria."
+   question="What is understood by \"formation\" (explanación) in railway engineering?"
+   answer="It is the strip of land topographically modified (through cuts or embankments) on which railway infrastructure sits."
 %}
 {% include flashcard.html
-   question="¿Cuáles son las tres zonas de protección definidas por la legislación ferroviaria española?"
-   answer="La **Zona de Dominio Público** (8 m), la **Zona de Servidumbre** (20 m) y la **Zona de Afección** (50 m), medidas desde la arista exterior de la explanación."
+   question="What are the three protection zones defined by Spanish railway legislation?"
+   answer="The **Public Domain Zone** (8 m), the **Servitude Zone** (Easement) (20 m) and the **Affection Zone** (Vicinity) (50 m), measured from the outer edge of the formation."
 %}
 {% include flashcard.html
-   question="¿Qué dos funciones principales debe cumplir la plataforma ferroviaria?"
-   answer="Debe tener suficiente **capacidad portante** para soportar cargas estáticas y dinámicas, y asegurar el **drenaje** eficaz de las aguas."
+   question="What two main functions must the railway platform fulfill?"
+   answer="It must have sufficient **bearing capacity** to support static and dynamic loads, and ensure effective **drainage** of waters."
 %}
 {% include flashcard.html
-   question="¿Qué es el índice CBR y para qué se utiliza en el diseño de plataformas?"
-   answer="Es el **California Bearing Ratio**, un índice que mide la capacidad portante del suelo y sirve para clasificar la calidad de la plataforma (P1, P2, P3)."
+   question="What is the CBR index and what is it used for in platform design?"
+   answer="It is the **California Bearing Ratio**, an index measuring soil bearing capacity and serving to classify platform quality (P1, P2, P3)."
 %}
 {% include flashcard.html
-   question="¿Cuál es la función principal de la capa de subbalasto?"
-   answer="Proteger la plataforma de la erosión y las heladas, además de colaborar en la distribución de las cargas hacia el terreno."
+   question="What is the main function of the sub-ballast layer?"
+   answer="Protect the platform from erosion and frost, besides collaborating in load distribution towards the ground."
 %}
 </div>
 
-## Bibliografía
+## Bibliography
 
-Las fuentes documentales consultadas y sobre las cuales se basa sustancialmente la presente exposición académica son las siguientes:
+Documentary sources consulted and on which present academic exposition is substantially based are following:
 
-- García Díaz de Villegas, José Manuel. *Ferrocarriles. Apuntes de Clase*. Notas técnicas compiladas durante la actividad docente en ingeniería ferroviaria, conteniendo síntesis de experiencia práctica y marco normativo acumulado.
+- García Díaz de Villegas, José Manuel. *Ferrocarriles. Apuntes de Clase* (Railways. Class Notes). Technical notes compiled during teaching activity in railway engineering, containing synthesis of practical experience and accumulated normative framework.
 
-- López Pita, Andrés. *Infraestructuras Ferroviarias*. Obra de referencia que sintetiza principios fundamentales de ingeniería ferroviaria, con énfasis en dimensionamiento de componentes y especificaciones técnicas aplicables.
-
+- López Pita, Andrés. *Infraestructuras Ferroviarias* (Railway Infrastructures). Reference work synthesizing fundamental principles of railway engineering, with emphasis on component dimensioning and applicable technical specifications.

@@ -7,11 +7,11 @@ nav_order: 11
 parent: Start
 ---
 
-# Material Rodante Ferroviario: Conceptos, Clasificación y Tecnologías
+# Railway Rolling Stock: Concepts, Classification and Technologies
 ---
 <details open markdown="block">
 <summary>
-Índice de contenidos
+Table of Contents
 </summary>
 {: .text-delta }
 1. TOC
@@ -20,738 +20,739 @@ parent: Start
 
 ---
 
-## Capítulo I. Introducción
+## Chapter I. Introduction
 
 {: .highlight }
-En el contexto de la ingeniería ferroviaria, se define como **material rodante** la totalidad de vehículos equipados con sistemas de ruedas que tienen la capacidad de desplazarse sobre una infraestructura de vías ferroviarias. Este concepto abarca una amplia gama de equipos especializados diseñados para el transporte eficiente tanto de pasajeros como de mercancías.
+In the context of railway engineering, **rolling stock** is defined as all vehicles equipped with wheel systems capable of moving on railway infrastructure. This concept encompasses a wide range of specialized equipment designed for the efficient transport of both passengers and freight.
 
-Cuando nos referimos a un **tren**, estamos hablando de una configuración integrada de uno o más vehículos destinados al transporte ferroviario, los cuales se encuentran mecánicamente conectados y operan sobre una infraestructura ferroviaria común. Estas composiciones pueden adoptar diferentes configuraciones según sus funciones específicas:
+When we refer to a **train**, we are talking about an integrated configuration of one or more vehicles intended for rail transport, which are mechanically connected and operate on a common railway infrastructure. These compositions can adopt different configurations depending on their specific functions:
 
-- **Unidades autónomas** constituidas por un único vehículo, que puede ser una **locomotora** o un **automotor** autopropulsado
+- **Autonomous units** consisting of a single vehicle, which can be a **locomotive** or a self-propelled **railcar**
 ![998bb0a49c5c258004d0e32e1a6b1169_MD5]({{ site.baseurl }}/assets/images/998bb0a49c5c258004d0e32e1a6b1169_MD5.webp)
-- Composiciones compuestas por una o varias unidades motrices que ejercen función tractora sobre un conjunto de vehículos remolcados, ya sean coches de viajeros o vagones de mercancías
+- Compositions made up of one or more motive units that exert traction on a set of towed vehicles, whether passenger coaches or freight wagons
 ![7eff4e5aa85ba04ed99e23356b6dfd84_MD5]({{ site.baseurl }}/assets/images/7eff4e5aa85ba04ed99e23356b6dfd84_MD5.webp)
-- Formaciones múltiples constituidas por diversos sistemas autopropulsados que operan de forma coordinada y conectada entre sí.
+- Multiple formations consisting of various self-propelled systems operating in a coordinated and connected manner.
 
-**CLASIFICACIÓN POR TIPO DE SERVICIO**
+**CLASSIFICATION BY TYPE OF SERVICE**
 
-La clasificación fundamental del material rodante se basa en la función operativa que desempeña dentro del sistema de transporte ferroviario. Esta diferenciación es crítica para comprender los parámetros de diseño y operación de cada tipología.
+The fundamental classification of rolling stock is based on the operational function it performs within the transport system. This differentiation is critical to understanding the design and operation parameters of each typology.
 
-**SERVICIO DE TRANSPORTE DE VIAJEROS**
+**PASSENGER TRANSPORT SERVICE**
 
 ![e83479afc850e8324ef63c4bd77130da_MD5]({{ site.baseurl }}/assets/images/e83479afc850e8324ef63c4bd77130da_MD5.webp)
 
 
-Los trenes destinados al transporte de personas se caracterizan por una serie de parámetros operacionales y técnicos específicos que condicionan su diseño y operación:
+Trains intended for the transport of people are characterized by a series of specific operational and technical parameters that condition their design and operation:
 
-- Las velocidades máximas de operación permisibles en las líneas de circulación
-- Las características y requisitos de electrificación de la infraestructura
-- Los sistemas de señalización y control de tráfico ferroviario
-- La compatibilidad dimensional con el ancho de vía disponible
-- Las proyecciones de tiempo de recorrido y regularidad en los servicios
-- La distribución y accesibilidad de las estaciones de parada
-- La provisión de servicios y comodidades para los usuarios
+- Maximum permissible operating speeds on circulation lines
+- Infrastructure electrification characteristics and requirements
+- Signaling and traffic control systems
+- Dimensional compatibility with available track gauge
+- Projected travel times and service regularity
+- Distribution and accessibility of stations
+- Provision of services and amenities for users
 
-**SERVICIO DE TRANSPORTE DE MERCANCÍAS**
+**FREIGHT TRANSPORT SERVICE**
 
 ![582465030b986846c0920cb6d3733937_MD5]({{ site.baseurl }}/assets/images/582465030b986846c0920cb6d3733937_MD5.webp)
 
-Los sistemas dedicados al transporte de carga presentan un conjunto diferente de especificaciones técnicas y operacionales orientadas a maximizar la capacidad y la rentabilidad:
+Systems dedicated to cargo transport present a different set of technical and operational specifications aimed at maximizing capacity and profitability:
 
-- Las velocidades mínimas de circulación establecidas según normativas de operación
-- La capacidad de superación de rampas y perfiles altimétricos complejos
-- La longitud máxima de composiciones ferroviarias permisible
-- Los requisitos específicos de electrificación de la infraestructura
-- La compatibilidad dimensional con el ancho de vía existente en la red
-- La disposición de terminales de carga y puntos de transferencia modal
-- Los índices de confiabilidad y disponibilidad operacional del equipo
+- Minimum circulation speeds established by operating regulations
+- Ability to overcome ramps and complex altimetric profiles
+- Maximum permissible train length
+- Specific infrastructure electrification requirements
+- Dimensional compatibility with existing track gauge in the network
+- Arrangement of cargo terminals and modal transfer points
+- Reliability and operational availability indices of the equipment
 
-**Especificaciones de Prestaciones y Desempeño**
+**Performance and Specifications**
 
-Un aspecto fundamental en la definición de prestaciones de cualquier equipo ferroviario es que cada especificación técnica debe incluir tanto el valor numérico requerido como las condiciones ambientales y operacionales específicas en las que dicho valor es válido y debe ser garantizado. Esta práctica asegura que todas las partes interesadas compartan una comprensión clara de lo que se espera del sistema.
+A fundamental aspect in defining the performance of any railway equipment is that each technical specification must include both the required numerical value and the specific environmental and operational conditions under which that value is valid and must be guaranteed. This practice ensures that all stakeholders share a clear understanding of what is expected from the system.
 
-La evaluación de prestaciones se estructura en varios niveles jerárquicos de análisis que van desde componentes individuales hasta el desempeño del vehículo completo:
+Performance evaluation is structured into several hierarchical levels of analysis ranging from individual components to complete vehicle performance:
 
-- **Prestaciones a nivel de subsistemas y componentes individuales**
-  - Por ejemplo: parámetros como la autonomía energética de los sistemas de baterías para equipos abordo, los niveles de iluminación interior, la capacidad térmica de los sistemas de climatización, los ciclos de funcionamiento del compresor neumático para sistemas auxiliares, la capacidad de almacenamiento de información en grabadores de eventos, y las funcionalidades disponibles en los sistemas de información integrados para pasajeros
+- **Performance at subsystem and individual component level**
+  - For example: parameters such as energy autonomy of battery systems for onboard equipment, interior lighting levels, thermal capacity of HVAC systems, compressor duty cycles for auxiliary systems, data storage capacity in event recorders, and functionalities available in integrated passenger information systems
   
-- **Prestaciones del conjunto completo del vehículo**
-  - La resistencia mecánica de la estructura de caja considerando cargas longitudinales y verticales, así como la absorción de energía ante impactos y solicitaciones dinámicas
-  - La robustez estructural de los sistemas de bogies y bastidores portantes
-  - La estabilidad dinámica durante la marcha en diferentes condiciones de vía
-  - Las prestaciones cinemáticas, incluyendo velocidades máximas y perfiles de aceleración disponibles
-  - Las prestaciones dinámicas relacionadas con los esfuerzos internos y externos generados durante la operación
-  - Las prestaciones operativas que engloban la capacidad de operación en perfiles de línea complejos, los tiempos de recorrido proyectados, la capacidad de transporte de pasajeros, la capacidad de arrastre de carga, los indicadores RAMS (confiabilidad, disponibilidad, mantenibilidad y seguridad), y el análisis del costo de ciclo de vida (LCC)
+- **Performance of the complete vehicle assembly**
+  - Mechanical resistance of the body structure considering longitudinal and vertical loads, as well as energy absorption in impacts and dynamic stresses
+  - Structural robustness of bogie and frame systems
+  - Dynamic stability during running under different track conditions
+  - Kinematic performance, including maximum speeds and available acceleration profiles
+  - Dynamic performance related to internal and external forces generated during operation
+  - Operational performance encompassing capability to operate on complex line profiles, projected travel times, passenger transport capacity, load hauling capacity, RAMS indicators (Reliability, Availability, Maintainability, and Safety), and Life Cycle Cost (LCC) analysis
 
 
 ![066c0a6174046af4e0e310d759d44528_MD5]({{ site.baseurl }}/assets/images/066c0a6174046af4e0e310d759d44528_MD5.webp)
 
-## Capítulo II. Tracción
+## Chapter II. Traction
 
-La selección del sistema de tracción constituye una de las decisiones más determinantes en el diseño de cualquier vehículo ferroviario, ya que condiciona directamente la infraestructura requerida, los costos operacionales, la sostenibilidad ambiental y las prestaciones disponibles. A lo largo de la historia ferroviaria, se han desarrollado múltiples tecnologías traccionarias que reflejan la evolución tecnológica y las necesidades operacionales de cada época.
+The selection of the traction system constitutes one of the most determining decisions in the design of any railway vehicle, as it directly conditions the required infrastructure, operational costs, environmental sustainability, and available performance. Throughout railway history, multiple traction technologies have been developed reflecting the technological evolution and operational needs of each era.
 
-### II.1. POR TIPO DE TRACCIÓN → ANIMAL / ATMOSFÉRICO / VAPOR / TURBINA
+### II.1. BY TYPE OF TRACTION → ANIMAL / ATMOSPHERIC / STEAM / TURBINE
 
-**TRACCIÓN ANIMAL**
+**ANIMAL TRACTION**
 
 
 <iframe width="315" height="560" src="https://youtube.com/embed/uy8TGU-4lFU?si=EK8yui4EZL9Dxjxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-La **tracción mediante animales** representa la forma más primitiva de propulsión ferroviaria y marca los orígenes del ferrocarril como sistema de transporte. Aunque actualmente es prácticamente obsoleta, la tracción animal fue fundamental en los primeros ferrocarriles, particularmente en aplicaciones mineras y de transporte de corta distancia donde se aprovechaba la capacidad de carga y la tracción de animales como caballos, mulas y bueyes.
+**Animal traction** represents the most primitive form of railway propulsion and marks the origins of the railway as a transport system. Although currently practically obsolete, animal traction was fundamental in the first railways, particularly in mining applications and short-distance transport where the load capacity and traction of animals such as horses, mules, and oxen were utilized.
 
-**TRACCIÓN ATMOSFÉRICA**
+**ATMOSPHERIC TRACTION**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjUZ-kDxVH0?si=WEIgu16yksHXG9J5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-La **propulsión atmosférica** constituye un capítulo fascinante en la historia de la ingeniería ferroviaria. Este sistema innovador se basaba en la creación de una diferencia de presión entre la atmósfera y un sistema de vacío generado mediante tubos neumáticos dispuestos entre los carriles. El funcionamiento se realizaba mediante motores de vacío que aprovechaban esta diferencia de presión para generar movimiento. Aunque representó un avance tecnológico importante, esta tecnología fue eventualmente abandonada debido a limitaciones inherentes, problemas operacionales y desventajas económicas que hicieron inviable su continuidad frente a soluciones más prácticas.
+**Atmospheric propulsion** constitutes a fascinating chapter in the history of railway engineering. This innovative system was based on the creation of a pressure difference between the atmosphere and a vacuum system generated by pneumatic tubes arranged between the rails. Operation was carried out by vacuum engines that took advantage of this pressure difference to generate movement. Although it represented an important technological advance, this technology was eventually abandoned due to inherent limitations, operational problems, and economic disadvantages that made its continuity unviable compared to more practical solutions.
 
-**TRACCIÓN DE VAPOR**
+**STEAM TRACTION**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kPQGPlA7t1I?si=3Y1j6vlPgFMQLe98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-La **propulsión por vapor** representa la verdadera revolución industrial en el transporte ferroviario. Este sistema innovador generaba movimiento mediante **vapor de agua** generado en calderas, que actuaba sobre pistones conectados directamente a las ruedas motrices del vehículo. La era del vapor fue una época dorada del ferrocarril que se extendió durante más de un siglo. Sin embargo, con la aparición y consolidación de tecnologías más modernas, particularmente la tracción diesel y eléctrica, la era del vapor llegó a su fin, quedando reducida actualmente a aplicaciones históricas y de preservación patrimonial.
+**Steam propulsion** represents the true industrial revolution in railway transport. This innovative system generated movement using **water vapor** generated in boilers, which acted on pistons connected directly to the vehicle's driving wheels. The steam era was a golden age of the railway that spanned more than a century. However, with the appearance and consolidation of more modern technologies, particularly diesel and electric traction, the steam era came to an end, currently reduced to historical applications and heritage preservation.
 
-**TRACCIÓN POR TURBINA**
+**TURBINE TRACTION**
 
-La **propulsión mediante turbinas** ha tenido una implantación fundamentalmente testimonial en el contexto ferroviario, no llegando a consolidarse como sistema traccionario mainstream. Aunque en otros sectores las turbinas demostraron ser tecnologías viables, en el ámbito ferroviario fueron rápidamente superadas por el desarrollo de la tracción diesel y eléctrica. Las ventajas relativas que ofrecían en ciertos contextos fueron insuficientes para contrarrestar las limitaciones operacionales, los problemas de mantenimiento y las desventajas económicas que caracterizaban a estos sistemas.
+**Propulsion using turbines** has had a fundamentally testimonial implementation in the railway context, not managing to consolidate itself as a mainstream traction system. Although in other sectors turbines proved to be viable technologies, in the railway field they were quickly surpassed by the development of diesel and electric traction. The relative advantages they offered in certain contexts were insufficient to counteract the operational limitations, maintenance problems, and economic disadvantages that characterized these systems.
 
 
-### II.2. POR TIPO DE TRACCIÓN → DIÉSEL
+### II.2. BY TYPE OF TRACTION → DIESEL
 
-**CARACTERÍSTICAS GENERALES DEL SISTEMA DE TRACCIÓN DIÉSEL**
+**GENERAL CHARACTERISTICS OF THE DIESEL TRACTION SYSTEM**
 
-La propulsión mediante **motores de combustión interna diésel** representa un hito importante en la evolución del transporte ferroviario. Se trata de una tecnología profundamente desarrollada que ofrece ventajas significativas en múltiples aspectos operacionales y económicos.
+Propulsion using **diesel internal combustion engines** represents an important milestone in the evolution of railway transport. It is a deeply developed technology that offers significant advantages in multiple operational and economic aspects.
 
-Entre las ventajas fundamentales se encuentran: la capacidad de autonomía operacional gracias a la capacidad de almacenamiento de combustible, que permite al vehículo funcionar independientemente de infraestructuras externas fijas; el bajo costo asociado a la implantación de infraestructura en comparación con sistemas electrificados; y la madurez tecnológica que permite una operación confiable y un mantenimiento bien establecido.
+Among the fundamental advantages are: operational autonomy capacity thanks to fuel storage capacity, allowing the vehicle to function independently of fixed external infrastructure; low cost associated with infrastructure implementation compared to electrified systems; and technological maturity allowing reliable operation and well-established maintenance.
 
-Sin embargo, esta tecnología también presenta desventajas significativas: la emisión de gases contaminantes que contribuyen al cambio climático y afectan la calidad del aire, particularmente en zonas urbanas; la generación de contaminación acústica que afecta a la calidad de vida en las proximidades de las líneas ferroviarias; y la dependencia de recursos fósiles no renovables.
+However, this technology also presents significant disadvantages: emission of polluting gases contributing to climate change and affecting air quality, particularly in urban areas; generation of noise pollution affecting quality of life near railway lines; and dependence on non-renewable fossil resources.
 
-**CLASIFICACIÓN DEL SISTEMA DIÉSEL POR TIPO DE TRANSMISIÓN**
+**CLASSIFICATION OF DIESEL SYSTEM BY TRANSMISSION TYPE**
 
-La forma en que se transmite la potencia del motor diésel a las ruedas motrices es determinante para las características de operación y desempeño del vehículo. Se han desarrollado tres enfoques principales:
+The way in which the power of the diesel engine is transmitted to the driving wheels is decisive for the vehicle's operational and performance characteristics. Three main approaches have been developed:
 
-- **DIÉSEL-MECÁNICA (DMU)**: Utiliza **transmisión mecánica**
-- **DIÉSEL-HIDRÁULICA (DMU)**: Utiliza **transmisión hidráulica**
-- **DIÉSEL-ELÉCTRICA (DEMU)**: Utiliza sistemas de **generación eléctrica**
+- **DIESEL-MECHANICAL (DMU)**: Uses **mechanical transmission**
+- **DIESEL-HYDRAULIC (DMU)**: Uses **hydraulic transmission**
+- **DIESEL-ELECTRIC (DEMU)**: Uses **electrical generation** systems
 
-**LOCOMOTORA DIESEL DMU (DIESEL MULTIPLE UNIT)**
+**DIESEL LOCOMOTIVE DMU (DIESEL MULTIPLE UNIT)**
 
 ![35b8443aaa602c591851dcf18277a797_MD5]({{ site.baseurl }}/assets/images/35b8443aaa602c591851dcf18277a797_MD5.webp)
 
-#### II.2.1. TRANSMISIÓN DIÉSEL-MECÁNICA (DMU)
+#### II.2.1. DIESEL-MECHANICAL TRANSMISSION (DMU)
 
-Este sistema de **transmisión mecánica** transmite la potencia del motor directamente a través de componentes mecánicos como engranajes y embragues. La característica fundamental es la conexión mecánica directa entre el motor de combustión y los ejes motrices, lo que permite una transmisión inmediata de fuerzas.
+This **mechanical transmission** system transmits engine power directly through mechanical components such as gears and clutches. The fundamental characteristic is the direct mechanical connection between the combustion engine and the driving axles, allowing immediate transmission of forces.
 
 
 ![6d9efd6379485f286a3ad0e9973e6e47_MD5]({{ site.baseurl }}/assets/images/6d9efd6379485f286a3ad0e9973e6e47_MD5.webp)
 
-#### II.2.2. TRANSMISIÓN DIÉSEL-HIDRÁULICA (DMU)
+#### II.2.2. DIESEL-HYDRAULIC TRANSMISSION (DMU)
 
-En este sistema, la potencia del motor se transmite mediante un **medio fluido**, típicamente aceite bajo presión, que actúa en componentes hidráulicos como bombas y motores. Este tipo de **transmisión hidráulica** ofrece una transición más suave entre velocidades y una mejor adaptación del motor a las condiciones de operación variables.
+In this system, engine power is transmitted through a **fluid medium**, typically oil under pressure, acting on hydraulic components such as pumps and motors. This type of **hydraulic transmission** offers a smoother transition between speeds and better adaptation of the engine to variable operating conditions.
 
 ![06c75af8ea8bf24b77bd0c45a27d0e4f_MD5]({{ site.baseurl }}/assets/images/06c75af8ea8bf24b77bd0c45a27d0e4f_MD5.webp)
 
-#### II.2.3. TRANSMISIÓN DIÉSEL-ELÉCTRICA (DEMU)
+#### II.2.3. DIESEL-ELECTRIC TRANSMISSION (DEMU)
 
-En este enfoque, el motor diésel actúa como generador de energía eléctrica, que posteriormente es convertida en movimiento por motores eléctricos de tracción. Este sistema de **transmisión eléctrica** ofrece una flexibilidad significativa en el control del esfuerzo de tracción y ha demostrado ser muy eficiente en múltiples aplicaciones ferroviarias.
+In this approach, the diesel engine acts as a generator of electrical energy, which is subsequently converted into movement by electric traction motors. This **electric transmission** system offers significant flexibility in traction effort control and has proven to be very efficient in multiple railway applications.
 
 ![0d7385b2c0b66eade6d610837665e007_MD5]({{ site.baseurl }}/assets/images/0d7385b2c0b66eade6d610837665e007_MD5.webp)
 
-### II.3. POR TIPO DE TRACCIÓN → ELÉCTRICA
+### II.3. BY TYPE OF TRACTION → ELECTRIC
 
-**CARACTERÍSTICAS FUNDAMENTALES DEL SISTEMA DE TRACCIÓN ELÉCTRICA**
+**FUNDAMENTAL CHARACTERISTICS OF THE ELECTRIC TRACTION SYSTEM**
 
-La **propulsión eléctrica** constituye actualmente la solución más avanzada y sostenible para el transporte ferroviario de pasajeros en sistemas de alta prestación. Se trata de una tecnología profundamente desarrollada que ha experimentado evoluciones continuas en las últimas décadas.
+**Electric propulsion** currently constitutes the most advanced and sustainable solution for passenger railway transport in high-performance systems. It is a deeply developed technology that has undergone continuous evolution in recent decades.
 
-El sistema de tracción eléctrica se caracteriza por su dependencia de una fuente de energía externa, que debe ser suministrada mediante infraestructura dedicada. Esta fuente puede adoptar varias formas:
+The electric traction system is characterized by its dependence on an external power source, which must be supplied through dedicated infrastructure. This source can take several forms:
 
-- **Catenarias aéreas** que suministran tensiones en **corriente continua (DC)** desde 750 V hasta 3000 V, o en **corriente alterna (AC)** hasta 25 kV
-- **Tercer carril** situado a lo largo de la vía que suministra tensiones típicamente entre 600 y 750 V en corriente continua
+- **Overhead catenaries** supplying voltages in **direct current (DC)** from 750 V to 3000 V, or in **alternating current (AC)** up to 25 kV
+- **Third rail** located along the track supplying voltages typically between 600 and 750 V in direct current
 
-Las ventajas principales del sistema eléctrico incluyen: un rendimiento energético significativamente superior al de la propulsión diésel, lo que se traduce en menores costos operacionales a largo plazo; la ausencia de emisiones contaminantes locales en el punto de uso del vehículo; y una capacidad de aceleración y control superiores.
+The main advantages of the electric system include: significantly higher energy efficiency than diesel propulsion, translating into lower long-term operational costs; absence of local pollutant emissions at the vehicle's point of use; and superior acceleration and control capabilities.
 
-Sin embargo, también presenta desventajas importantes: el costo inicial muy elevado asociado a la electrificación de la infraestructura; la contaminación visual y paisajística generada por la instalación de catenarias y estructuras asociadas; y la dependencia de la disponibilidad de fuentes de energía eléctrica.
+However, it also presents important disadvantages: very high initial cost associated with infrastructure electrification; visual and landscape pollution generated by the installation of catenaries and associated structures; and dependence on the availability of electrical energy sources.
 
 ![4a9bcbcf9b8664b5f2ee338b19ff44ee_MD5]({{ site.baseurl }}/assets/images/4a9bcbcf9b8664b5f2ee338b19ff44ee_MD5.webp)
 ![38a9ab80bb589b6c6fe1eb1f2a925c88_MD5]({{ site.baseurl }}/assets/images/38a9ab80bb589b6c6fe1eb1f2a925c88_MD5.webp)
 
-**CLASIFICACIÓN DE SISTEMAS ELÉCTRICOS POR TIPO DE CORRIENTE**
+**CLASSIFICATION OF ELECTRIC SYSTEMS BY CURRENT TYPE**
 
-La naturaleza del sistema de corriente utilizado constituye una clasificación fundamental:
+The nature of the current system used constitutes a fundamental classification:
 
-- **TRACCIÓN ELÉCTRICA EN CORRIENTE CONTINUA (DC)**: Utiliza voltaje directo constante
-- **TRACCIÓN ELÉCTRICA EN CORRIENTE ALTERNA (AC)**: Utiliza voltaje alterno
+- **ELECTRIC TRACTION IN DIRECT CURRENT (DC)**: Uses constant direct voltage
+- **ELECTRIC TRACTION IN ALTERNATING CURRENT (AC)**: Uses alternating voltage
 
 ![8546ee02f9f3b6b3344908e4f484a29b_MD5]({{ site.baseurl }}/assets/images/8546ee02f9f3b6b3344908e4f484a29b_MD5.webp)
 
-**UNIDADES MÚLTIPLES ELÉCTRICAS (EMU - ELECTRIC MULTIPLE UNIT)**
+**ELECTRIC MULTIPLE UNITS (EMU)**
 
-Las composiciones eléctricas modernas emplean frecuentemente la configuración de unidades múltiples, donde la capacidad motriz se distribuye entre varios vehículos de la composición.
+Modern electric compositions frequently employ the multiple unit configuration, where motive capacity is distributed among several vehicles of the composition.
 
-- **TRACCIÓN ELÉCTRICA MULTI-SISTEMA**: Algunos vehículos modernos están equipados para operar bajo múltiples sistemas de suministro eléctrico, lo que permite una operación flexible en redes ferroviarias heterogéneas
+- **MULTI-SYSTEM ELECTRIC TRACTION**: Some modern vehicles are equipped to operate under multiple electrical supply systems, allowing flexible operation on heterogeneous railway networks
 
-#### II.3.1. COMPARACIÓN ENTRE TRACCIÓN ELÉCTRICA DC Y TRACCIÓN ELÉCTRICA AC
+#### II.3.1. COMPARISON BETWEEN DC AND AC ELECTRIC TRACTION
 
-La evolución histórica del sistema de tracción eléctrica ferroviaria refleja los avances en la tecnología de control de motores eléctricos:
+The historical evolution of the railway electric traction system reflects advances in electric motor control technology:
 
-**Período de los inicios del siglo XX:**
-Durante los primeros años del desarrollo ferroviario eléctrico, existía una clara preferencia por los motores de corriente continua debido a las limitaciones tecnológicas inherentes de los sistemas de corriente alterna. Los motores DC proporcionaban características de par motor adecuadas y eran razonablemente simples de controlar mediante técnicas disponibles en ese momento.
+**Early 20th Century Period:**
+During the early years of electric railway development, there was a clear preference for direct current motors due to the inherent technological limitations of alternating current systems. DC motors provided adequate torque characteristics and were reasonably simple to control using techniques available at that time.
 
-**Evolución en los años 1980:**
-Con el avance de la electrónica de potencia, particularmente el desarrollo de semiconductores de potencia más avanzados, los motores de corriente alterna comenzaron a configurarse como una alternativa seria y viable frente a los motores DC. Los avances tecnológicos posteriores en convertidores electrónicos han consolidado la prevalencia actual de la tracción eléctrica en corriente alterna.
+**Evolution in the 1980s:**
+With the advancement of power electronics, particularly the development of more advanced power semiconductors, alternating current motors began to configure themselves as a serious and viable alternative to DC motors. Subsequent technological advances in electronic converters have consolidated the current prevalence of alternating current electric traction.
 
-**Ventajas de los motores AC respecto a los DC:**
-- Los motores AC son estructuralmente más simples de construir que los motores DC para potencias equivalentes
-- Los motores AC son significativamente más ligeros que sus homólogos DC de similar potencia
-- Los motores AC son más robustos y presentan menores requisitos de mantenimiento en comparación con los motores DC
-- La electrónica de potencia moderna permite un control eficiente de los parámetros de adherencia y tracción en sistemas AC
+**Advantages of AC motors over DC:**
+- AC motors are structurally simpler to build than DC motors for equivalent power
+- AC motors are significantly lighter than their DC counterparts of similar power
+- AC motors are more robust and have lower maintenance requirements compared to DC motors
+- Modern power electronics allow efficient control of adhesion and traction parameters in AC systems
 
 
 
 ![cfb4d50bb5dbaea9a572900492d2a129_MD5]({{ site.baseurl }}/assets/images/cfb4d50bb5dbaea9a572900492d2a129_MD5.webp)
 ![f2de90940a558755880bdc02a9c313e5_MD5]({{ site.baseurl }}/assets/images/f2de90940a558755880bdc02a9c313e5_MD5.webp)
-### II.4. POR TIPO DE TRACCIÓN → HIDRÓGENO
+### II.4. BY TYPE OF TRACTION → HYDROGEN
 
-## Capítulo III. Propulsión por hidrógeno: tecnología emergente para el futuro ferroviario
+## Chapter III. Hydrogen propulsion: emerging technology for the railway future
 
-La tecnología de **propulsión mediante hidrógeno** representa una de las fronteras más prometedoras en la búsqueda de soluciones de transporte sostenible y de bajas emisiones para el sector ferroviario. Este sistema emerge como una alternativa viable a los sistemas tradicionales de combustibles fósiles.
+**Hydrogen propulsion** technology represents one of the most promising frontiers in the search for sustainable and low-emission transport solutions for the railway sector. This system emerges as a viable alternative to traditional fossil fuel systems.
 
-**PRINCIPIOS FUNDAMENTALES DE FUNCIONAMIENTO**
+**FUNDAMENTAL OPERATING PRINCIPLES**
 
-El hidrógeno en estado gaseoso es sometido a una reacción química controlada con el oxígeno ambiental dentro de componentes especializados denominados **celdas de combustible**. Esta reacción controlada genera vapor de agua como producto residual mientras libera energía eléctrica. La energía eléctrica producida se utiliza de forma integrada para:
+Hydrogen in a gaseous state is subjected to a controlled chemical reaction with environmental oxygen within specialized components called **fuel cells**. This controlled reaction generates water vapor as a residual product while releasing electrical energy. The electrical energy produced is used in an integrated manner to:
 
-- Cargar sistemas de almacenamiento de energía basados en **baterías de iones de litio**
-- Accionar los sistemas de tracción mediante motores eléctricos
+- Charge energy storage systems based on **lithium-ion batteries**
+- Drive traction systems using electric motors
 
-El conjunto del sistema es gestionado por unidades de control electrónico que optimizan el flujo de energía y el desempeño del vehículo de acuerdo a los perfiles operacionales requeridos.
+ The entire system is managed by electronic control units that optimize energy flow and vehicle performance according to required operational profiles.
 
 ![54f6b32a1adf6cdee3b88b1616fcce47_MD5]({{ site.baseurl }}/assets/images/54f6b32a1adf6cdee3b88b1616fcce47_MD5.webp)
 ![6ec3de348042000856e61502053aba2c_MD5]({{ site.baseurl }}/assets/images/6ec3de348042000856e61502053aba2c_MD5.webp)
 
-### III.1. APLICACIONES COMERCIALES Y PROTOTIPOS: ALSTOM CORADIA iLINT
+### III.1. COMMERCIAL APPLICATIONS AND PROTOTYPES: ALSTOM CORADIA iLINT
 
-**PRIMER TREN DE HIDRÓGENO COMERCIAL (2018)**
+**FIRST COMMERCIAL HYDROGEN TRAIN (2018)**
 
-La empresa Alstom presentó el primer tren de pasajeros propulsado por hidrógeno operativamente viable, denominado Coradia iLINT, que representa un hito importante en la comercialización de esta tecnología emergente. Este prototipo pionero estableció un precedente operacional importante para la industria.
+The company Alstom presented the first operationally viable hydrogen-powered passenger train, named Coradia iLINT, representing an important milestone in the commercialization of this emerging technology. This pioneering prototype established an important operational precedent for the industry.
 
-**Configuración técnica del Coradia iLINT:**
+**Technical configuration of the Coradia iLINT:**
 
-El vehículo está constituido por una composición de dos coches unidos mecánicamente, equipados con los siguientes componentes especializados:
+The vehicle consists of a composition of two mechanically joined cars, equipped with the following specialized components:
 
-- Sistema de almacenamiento: 99 kilogramos de hidrógeno comprimido a una presión de 350 bares
-- Sistema de generación de energía: 200 kW de potencia nominal en celdas de combustible
-- Sistema de almacenamiento de energía auxiliar: 225 kW de capacidad en baterías de iones de litio
-- Capacidad de pasajeros: 138 pasajeros sentados más 190 pasajeros de pie (328 personas totales)
-- Autonomía operacional: 600 kilómetros de recorrido
-- Tiempo de repostaje: 15 minutos
-- Velocidad máxima operacional: 140 km/h
+- Storage system: 99 kilograms of compressed hydrogen at a pressure of 350 bar
+- Power generation system: 200 kW nominal power in fuel cells
+- Auxiliary energy storage system: 225 kW capacity in lithium-ion batteries
+- Passenger capacity: 138 seated passengers plus 190 standing passengers (328 total people)
+- Operational range: 600 kilometers of travel
+- Refueling time: 15 minutes
+- Maximum operational speed: 140 km/h
 
 ![45539131d8eed50a6c1658e499e4eab4_MD5]({{ site.baseurl }}/assets/images/45539131d8eed50a6c1658e499e4eab4_MD5.webp)
 ![d8f2a3302fd2f1ebe72d50f4179aaca3_MD5]({{ site.baseurl }}/assets/images/d8f2a3302fd2f1ebe72d50f4179aaca3_MD5.webp)
 
-**DESVENTAJAS Y LIMITACIONES DEL SISTEMA DE PROPULSIÓN POR HIDRÓGENO**
+**DISADVANTAGES AND LIMITATIONS OF THE HYDROGEN PROPULSION SYSTEM**
 
-A pesar del potencial prometedor de la tecnología de hidrógeno, existen limitaciones significativas que han ralentizado su adopción masiva en aplicaciones ferroviarias:
+Despite the promising potential of hydrogen technology, there are significant limitations that have slowed its massive adoption in railway applications:
 
-**Desafíos económicos:**
-- El costo de producción del hidrógeno es actualmente muy elevado en comparación con combustibles convencionales
-- Los costos de almacenamiento y distribución del hidrógeno son considerablemente altos debido a su naturaleza voluminosa y las complejas infraestructuras requeridas
-- Después de su producción, el hidrógeno requiere procedimientos especializados de manipulación y almacenamiento que se traducen en costos operacionales significativos
+**Economic challenges:**
+- The cost of hydrogen production is currently very high compared to conventional fuels
+- Hydrogen storage and distribution costs are considerably high due to its voluminous nature and the complex infrastructure required
+- After production, hydrogen requires specialized handling and storage procedures that translate into significant operational costs
 
-**Desafíos de infraestructura:**
-- El costo de implementación de estaciones de repostaje de hidrógeno es muy elevado
-- Existe actualmente muy poca infraestructura disponible para entregar el hidrógeno en los puntos de consumo (depots de ferrocarriles)
-- La implantación de una red de infraestructura de hidrógeno requeriría inversiones masivas de capital
+**Infrastructure challenges:**
+- The cost of implementing hydrogen refueling stations is very high
+- There is currently very little infrastructure available to deliver hydrogen to consumption points (railway depots)
+- Implementing a hydrogen infrastructure network would require massive capital investments
 - 
-**Desafíos de seguridad:**
-- El hidrógeno presenta características que dificultan su detección: es incoloro e inodoro, lo que dificulta significativamente la identificación de fugas
-- El hidrógeno es altamente inflamable, presentando riesgos importantes en caso de accidentes o fugas inadvertidas
-- Se requieren sistemas de seguridad muy sofisticados y procedimientos operacionales rigurosos
+**Safety challenges:**
+- Hydrogen has characteristics that make its detection difficult: it is colorless and odorless, which significantly hinders leak identification
+- Hydrogen is highly flammable, presenting significant risks in case of accidents or inadvertent leaks
+- Very sophisticated safety systems and rigorous operational procedures are required
 
-**Desafíos ambientales y de recursos:**
-- La conversión de metano en hidrógeno mediante reformado es un proceso que consume cantidades significativas de agua
-- En contextos donde el agua es un recurso escaso, esta tecnología puede exacerbar presiones sobre disponibilidad hídrica
-## Capítulo IV. Arquitectura de Composiciones Ferroviarias
+**Environmental and resource challenges:**
+- Converting methane into hydrogen via reforming is a process that consumes significant amounts of water
+- In contexts where water is a scarce resource, this technology can exacerbate pressures on water availability
 
-La arquitectura de un tren, entendida como la forma en que se organizan y conectan sus componentes estructurales y funcionales, constituye un parámetro de diseño fundamental que determina las prestaciones operacionales y las características de mantenimiento del sistema completo. A través de la evolución del transporte ferroviario, han emergido varias configuraciones arquitectónicas diferentes, cada una con ventajas y limitaciones específicas.
+## Chapter IV. Railway Composition Architecture
 
-**CLASIFICACIÓN FUNDAMENTAL POR CONFIGURACIÓN ARQUITECTÓNICA**
+The architecture of a train, understood as the way in which its structural and functional components are organized and connected, constitutes a fundamental design parameter that determines the operational performance and maintenance characteristics of the complete system. Through the evolution of railway transport, several different architectural configurations have emerged, each with specific advantages and limitations.
 
-Según su arquitectura, los trenes pueden clasificarse en varios grupos claramente diferenciados:
+**FUNDAMENTAL CLASSIFICATION BY ARCHITECTURAL CONFIGURATION**
 
-- **Trenes convencionales o remolcados**: Esta configuración consiste en una o varias unidades motrices (locomotoras) que ejercen la función de tracción sobre un conjunto de vehículos remolcados (coches o vagones). La ventaja principal de esta configuración reside en la flexibilidad operacional, ya que la composición puede modificarse añadiendo o quitando coches o vagones según las necesidades operacionales específicas de cada servicio.
+According to their architecture, trains can be classified into several clearly differentiated groups:
 
-- **Trenes autopropulsados**: En esta configuración, el tren está formado por uno o varios sistemas autopropulsados, cada uno de los cuales incorpora su propio sistema de tracción y espacios para pasajeros. Es importante notar que cuando se hace referencia a "autopropulsados", se están incluyendo múltiples tipos de sistemas, desde automotores individuales (un único vehículo con tracción propia) hasta formaciones más complejas de múltiples unidades. Esta distinción semántica es importante: no todos los autopropulsados son automotores, sino que el automotor es una clase específica de tren autopropulsado constituido por un único vehículo.
+- **Conventional or towed trains**: This configuration consists of one or more motive units (locomotives) that exert traction on a set of towed vehicles (coaches or wagons). The main advantage of this configuration lies in operational flexibility, as the composition can be modified by adding or removing coaches or wagons according to the specific operational needs of each service.
 
-**SUBCATEGORIZACIÓN DE TRENES AUTOPROPULSADOS**
+- **Self-propelled trains**: In this configuration, the train is formed by one or several self-propelled systems, each incorporating its own traction system and passenger spaces. It is important to note that when referring to "self-propelled", multiple types of systems are included, from individual railcars (a single vehicle with its own traction) to more complex formations of multiple units. This semantic distinction is important: not all self-propelled trains are railcars, but the railcar is a specific class of self-propelled train consisting of a single vehicle.
 
-Con la proliferación de los sistemas autopropulsados, la distinción tradicional entre material motor y material remolcado se ha vuelto progresivamente menos clara. Los trenes autopropulsados modernos se subdividen en dos categorías principales según la distribución de sus sistemas motrices:
+**SUBCATEGORIZATION OF SELF-PROPELLED TRAINS**
 
-**a) Trenes de tracción concentrada**: En estos sistemas, toda la capacidad motriz se concentra en una o varias **locomotoras** (también denominadas unidades motrices) que están acopladas permanentemente a la composición. Aunque los vehículos motrices están integrados de forma permanente, conservan su identidad como componentes separados. Ejemplos representativos de esta configuración incluyen algunas composiciones del sistema de **Alta Velocidad (AVE)** español y el tren Euromed.
+With the proliferation of self-propelled systems, the traditional distinction between motive power and towed stock has become progressively less clear. Modern self-propelled trains are subdivided into two main categories according to the distribution of their motive systems:
+
+**a) Concentrated traction trains**: In these systems, all motive capacity is concentrated in one or more **locomotives** (also called power heads) that are permanently coupled to the composition. Although the motive vehicles are permanently integrated, they retain their identity as separate components. Representative examples of this configuration include some compositions of the Spanish **High Speed (AVE)** system and the Euromed train.
 
 ![341a13bd848d62a847d82f6f498a5465_MD5]({{ site.baseurl }}/assets/images/341a13bd848d62a847d82f6f498a5465_MD5.webp)
 
-**b) Trenes de tracción distribuida**: 
+**b) Distributed traction trains**: 
 
 {: .highlight }
-En esta arquitectura alternativa, los sistemas de tracción no se concentran en locomotoras específicas, sino que se distribuyen en varios vehículos de la composición denominados **coches-motor**. Estos coches-motor son vehículos que simultáneamente alojan pasajeros o carga y proporcionan capacidad motriz. Ejemplos representativos incluyen la Serie 103, el tren Civia, el Alaris y otros sistemas modernos de transporte regional.
+In this alternative architecture, traction systems are not concentrated in specific locomotives, but are distributed across several vehicles of the composition called **motor cars**. These motor cars are vehicles that simultaneously house passengers or cargo and provide motive capacity. Representative examples include the Series 103, the Civia train, the Alaris, and other modern regional transport systems.
 
 ![c6ccfbdeb5f129115cd83ea1573216d4_MD5]({{ site.baseurl }}/assets/images/c6ccfbdeb5f129115cd83ea1573216d4_MD5.webp)
 
-**CONSIDERACIONES DE DISEÑO PARA ALTA VELOCIDAD**
+**DESIGN CONSIDERATIONS FOR HIGH SPEED**
 
-Un aspecto técnico importante en la evolución de la arquitectura ferroviaria es que se ha observado experimentalmente que para velocidades de operación superiores a 300 km/h, los trenes de tracción concentrada experimentan fenómenos de sobrecarga dinámica que no favorecen al mantenimiento de la calidad geométrica de la vía. Esta consideración es particularmente crítica en sistemas de alta velocidad donde la precisión geométrica de la infraestructura es un factor crítico de seguridad y confort. Esta observación ha influido significativamente en las decisiones de arquitectura para nuevos sistemas de transporte de larga distancia.
+An important technical aspect in the evolution of railway architecture is that it has been observed experimentally that for operating speeds above 300 km/h, concentrated traction trains experience dynamic overload phenomena that do not favor the maintenance of track geometric quality. This consideration is particularly critical in high-speed systems where infrastructure geometric precision is a critical factor for safety and comfort. This observation has significantly influenced architectural decisions for new long-distance transport systems.
 
-## Capítulo V. Componentes Fundamentales del Material Rodante
+## Chapter V. Fundamental Components of Rolling Stock
 
-Cualquier vehículo ferroviario, ya sea una locomotora, un coche de viajeros o un vagón de mercancías, está constituido por una serie de elementos estructurales y funcionales que interactúan de forma coordinada. La comprensión de estas componentes es esencial para entender el funcionamiento y las prestaciones del sistema completo.
+Any railway vehicle, whether a locomotive, a passenger coach, or a freight wagon, is made up of a series of structural and functional elements that interact in a coordinated manner. Understanding these components is essential to understand the operation and performance of the complete system.
 
 
-**CAJA O CARROCERÍA**
+**BODY OR CARBODY**
 
-La **caja** constituye el elemento estructural principal de cualquier vehículo ferroviario, funcionando simultáneamente como esqueleto o **bastidor** soporte y como espacio funcional para la operación. En su función estructural, la caja proporciona la rigidez necesaria para resistir las cargas y esfuerzos derivados de la operación. En su función de alojamiento, constituye el espacio donde se encuentran alojados todos los equipos y sistemas especializados.
+The **body** constitutes the main structural element of any railway vehicle, functioning simultaneously as a skeleton or support **frame** and as a functional space for operation. In its structural function, the body provides the necessary rigidity to resist loads and stresses derived from operation. In its accommodation function, it constitutes the space where all specialized equipment and systems are housed.
 
-En las locomotoras y material autopropulsado, la caja aloja una serie de equipos especializados que varían según el tipo y función del vehículo. Entre estos equipos se encuentran: transformadores y reactancias para sistemas eléctricos; compresores neumáticos para sistemas de freno y auxiliares; resistencias de freno dinámico; baterías de almacenamiento de energía; ventiladores para refrigeración de sistemas; y pantógrafos para captura de energía desde catenarias.
+In locomotives and self-propelled rolling stock, the body houses a series of specialized equipment that varies according to the type and function of the vehicle. Among these pieces of equipment are: transformers and reactors for electrical systems; pneumatic compressors for brake and auxiliary systems; dynamic brake resistors; energy storage batteries; fans for system cooling; and pantographs for energy capture from catenaries.
 
-La caja también constituye el espacio donde se encuentran los viajeros en coches de pasajeros, o donde se aloja la mercancía en vagones de carga. Adicionalmente, en material motor, la caja incorpora la cabina de conducción desde donde se controla y supervisa la operación del vehículo.
+The body also constitutes the space where passengers are located in passenger coaches, or where merchandise is housed in freight wagons. Additionally, in motive stock, the body incorporates the driving cab from where the operation of the vehicle is controlled and supervised.
 
-**BOGIE O CARRETÓN**
+**BOGIE**
 
-El **bogie** constituye la estructura de soporte dinámico que soporta el peso de la caja y la transmite hacia el terreno a través de los elementos de rodadura. La caja descansa sobre los bogies mediante sistemas de conexión y suspensión especializados. En estas conexiones entre ejes y bogie se utilizan **cajas de grasa** que permiten la transmisión de cargas mientras posibilitan movimientos relativos controlados.
+The **bogie** constitutes the dynamic support structure that bears the weight of the body and transmits it to the ground through the rolling elements. The body rests on the bogies through specialized connection and suspension systems. In these connections between axles and bogie, **axle boxes** are used that allow load transmission while enabling controlled relative movements.
 
-El bogie representa mucho más que un simple soporte estructural. En su estructura se alojan componentes críticos para la operación dinámica del vehículo: los motores de tracción (en vehículos motorizados); los reductores que transmiten la potencia desde los motores a los ejes; los mecanismos especializados de freno que disipan la energía cinética; y los sistemas de suspensión que aíslan la caja de las irregularidades de la vía.
+The bogie represents much more than a simple structural support. Its structure houses components critical to the vehicle's dynamic operation: traction motors (in motorized vehicles); gears that transmit power from motors to axles; specialized brake mechanisms that dissipate kinetic energy; and suspension systems that isolate the body from track irregularities.
 
-**EJES Y RUEDAS**
+**AXLES AND WHEELS**
 
-Los **ejes** y las **ruedas** constituyen los elementos finales de la cadena de transmisión de fuerzas, siendo los únicos componentes del vehículo que entran en contacto físico directo con la vía ferroviaria. Estos elementos son críticos para la seguridad operacional y tienen especificaciones técnicas muy rigurosas.
+The **axles** and **wheels** constitute the final elements of the force transmission chain, being the only vehicle components that come into direct physical contact with the railway track. These elements are critical for operational safety and have very rigorous technical specifications.
 
-Los ejes son componentes estructurales que albergan los sistemas de rodadura (ruedas) y transmiten las fuerzas longitudinales (tracción y freno) y laterales. Las ruedas son los elementos circulares que ruedan sobre los carriles, transfiriendo el peso del vehículo y permitiendo el desplazamiento controlado sobre la vía.
+Axles are structural components that house the rolling systems (wheels) and transmit longitudinal forces (traction and braking) and lateral forces. Wheels are the circular elements that roll on the rails, transferring the vehicle's weight and allowing controlled movement on the track.
 
-Partes
+Parts
 ![6495be2590eb9856cd508c377fd6fd1a_MD5]({{ site.baseurl }}/assets/images/6495be2590eb9856cd508c377fd6fd1a_MD5.webp)
 
-## Capítulo VI. Especificaciones de Gálibos: Envolventes Dimensionales de Vehículos Ferroviarios
+## Chapter VI. Gauge Specifications: Dimensional Envelopes of Railway Vehicles
 
-El concepto de gálibo constituye uno de los parámetros más críticos en la ingeniería ferroviaria, determinando la compatibilidad entre el material rodante y la infraestructura existente, así como la seguridad de la operación. Las especificaciones de gálibos se encuentran rigurosamente normalizadas mediante regulaciones técnicas de obligado cumplimiento.
+The concept of gauge constitutes one of the most critical parameters in railway engineering, determining the compatibility between rolling stock and existing infrastructure, as well as operational safety. Gauge specifications are rigorously standardized through mandatory technical regulations.
 
-**MARCO REGULATORIO: ORDEN FOM/1630/2015**
+**REGULATORY FRAMEWORK: ORDER FOM/1630/2015**
 
-En el contexto ferroviario español, la Orden FOM/1630/2015 de 14 de julio, por la que se aprueba la Instrucción ferroviaria de gálibos, establece los estándares técnicos que deben cumplir todos los vehículos ferroviarios. Esta instrucción normativa desempeña funciones críticas en dos ámbitos complementarios:
+In the Spanish railway context, Order FOM/1630/2015 of July 14, approving the Railway Gauge Instruction, establishes the technical standards that all railway vehicles must meet. This normative instruction performs critical functions in two complementary areas:
 
-1. **Definición de gálibos para el material rodante**: Establece las envolventes máximas de dimensiones que pueden ocupar los vehículos durante su circulación. Estos gálibos del material rodante son aplicables a la definición de los perfiles constructivos de cualquier tipo de material motor o remolcado, tanto de nueva construcción como de vehículos acondicionados posteriormente.
+1. **Definition of gauges for rolling stock**: Establishes the maximum dimensional envelopes that vehicles can occupy during circulation. These rolling stock gauges are applicable to the definition of constructive profiles for any type of motive or towed material, both for new construction and for subsequently conditioned vehicles.
 
-2. **Definición de gálibos de implantación de obstáculos**: Especifica las limitaciones dimensionales para la colocación de elementos e infraestructuras próximas a la vía ferroviaria. Estos gálibos de implantación son aplicables en proyectos de líneas ferroviarias de nueva construcción, así como en proyectos de acondicionamiento de líneas existentes.
+2. **Definition of obstacle implementation gauges**: Specifies dimensional limitations for the placement of elements and infrastructure close to the railway track. These implementation gauges are applicable in new railway line construction projects, as well as in existing line conditioning projects.
 
-**ÁMBITO DE APLICACIÓN**
+**SCOPE OF APPLICATION**
 
 ![3acb3ca831c2cdd7ebbdfd55329badce_MD5]({{ site.baseurl }}/assets/images/3acb3ca831c2cdd7ebbdfd55329badce_MD5.webp)
 
-La instrucción es aplicable a las líneas ferroviarias integradas en la red ferroviaria de interés general, independientemente del ancho de vía utilizado: ancho ibérico (1668 mm), ancho estándar europeo (1435 mm), o ancho métrico (1000 mm).
+The instruction is applicable to railway lines integrated into the general interest railway network, regardless of the track gauge used: Iberian gauge (1668 mm), European standard gauge (1435 mm), or metric gauge (1000 mm).
 
 ![24183ebc96ea2d43c199694d2bdd9fc0_MD5]({{ site.baseurl }}/assets/images/24183ebc96ea2d43c199694d2bdd9fc0_MD5.webp)
 ![c21882e111e63c19102cd70e52c9fd78_MD5]({{ site.baseurl }}/assets/images/c21882e111e63c19102cd70e52c9fd78_MD5.webp)
-### VI.1. Concepto de Gálibo Dinámico: Envolvente Dimensional Completa
+### VI.1. Dynamic Gauge Concept: Complete Dimensional Envelope
 
-**DEFINICIÓN TÉCNICA**
+**TECHNICAL DEFINITION**
 
 {: .highlight }
-El **gálibo dinámico** constituye la **envolvente geométrica** que define el espacio máximo que puede ocupar un vehículo ferroviario durante todas las fases de su operación. Esta envolvente no es simplemente la proyección geométrica estática del vehículo, sino que incluye todos los desplazamientos posibles que pueden experimentar los puntos del vehículo debidos a causas múltiples. La envolvente integra tanto los desplazamientos predecibles (cuasiestáticos) derivados de fenómenos como la fuerza centrífuga en curvas, los efectos del peralte de la vía, y las oscilaciones predecibles debidas a irregularidades de la infraestructura, como los desplazamientos aleatorios (oscilaciones aleatorias del material en circulación) que resultan de la interacción impredecible vía-vehículo y de los posibles movimientos laterales, elásticos o permanentes de la superestructura de vía.
+The **dynamic gauge** constitutes the **geometric envelope** that defines the maximum space a railway vehicle can occupy during all phases of its operation. This envelope is not simply the static geometric projection of the vehicle, but includes all possible displacements that vehicle points can experience due to multiple causes. The envelope integrates both predictable (quasi-static) displacements derived from phenomena such as centrifugal force in curves, track cant effects, and predictable oscillations due to infrastructure irregularities, as well as random displacements (random oscillations of circulating material) resulting from unpredictable track-vehicle interaction and possible lateral, elastic, or permanent movements of the track superstructure.
 
 ![b4d6b7f81944e32163617d6b9a7bad6e_MD5]({{ site.baseurl }}/assets/images/b4d6b7f81944e32163617d6b9a7bad6e_MD5.webp)
 
-(1) Gálibo de implantación de obstáculos
-(2) Perfil constructivo máximo del material
-(3) Suma de los movimientos del vehículo y de los fenómenos de interacción con la infraestructura
-(4) Infraestructura
-(5) Vehículo
-(6) Contorno de referencia
+(1) Obstacle implementation gauge
+(2) Maximum constructive profile of the material
+(3) Sum of vehicle movements and infrastructure interaction phenomena
+(4) Infrastructure
+(5) Vehicle
+(6) Reference contour
 
-[Instruccion ferroviaria de Gálibos](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8765)
+[Railway Gauge Instruction](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8765)
 
-| TIPOS DE GÁLIBO | ANCHO DE VÍA (mm) |  |  |
+| GAUGE TYPES | TRACK GAUGE (mm) |  |  |
 | :--- | :--- | :--- | :--- |
 |  | 1668 | 1435 | 1000 |
-| NUEVOS | GEA16 | GA | GED10 |
+| NEW | GEA16 | GA | GED10 |
 |  | GEB16 | GB | GEE10 |
 |  | GEC16 | GC |  |
-| HISTÓRICOS | GHE16 | GEC14 |  |
+| HISTORICAL | GHE16 | GEC14 |  |
 |  |  | GC14 |  |
 
 
-**COMPONENTES DE LA ENVOLVENTE DE GÁLIBO DINÁMICO**
+**COMPONENTS OF THE DYNAMIC GAUGE ENVELOPE**
 
-La construcción rigurosa del gálibo dinámico requiere considerar varios componentes progresivos que se integran de forma acumulativa:
+The rigorous construction of the dynamic gauge requires considering several progressive components that integrate cumulatively:
 
-1. **Perfil constructivo máximo del material**: La envolvente dimensional del vehículo en su forma de reposo
-2. **Desplazamientos cuasiestáticos**: Considerando las variaciones en disimetría de carga cuando se superan los valores de referencia ($$I_0$$ o $$D_0$$), particularmente cuando se exceden los valores máximos en función del peralte ($$s > s_0$$) y altura del centro de gravedad ($$h_c > h_{co}$$)
-3. **Márgenes de reducción**: Aplicación de factores de reducción ($$E_i$$ o $$E_a$$) que consideran criterios de optimización
-4. **Contorno de referencia**: La envolvente cinemática que integra el perfil constructivo y los desplazamientos cuasiestáticos
-5. **Desplazamientos aleatorios laterales**: Considerando los movimientos no predecibles derivados de la interacción vía-vehículo ($$M_1 + M_2$$)
-6. **Márgenes de seguridad complementarios**: Espacios adicionales de seguridad lateral ($$M_{3b}$$) para asegurar el funcionamiento correcto de sistemas adyacentes
-7. **Gálibo nominal de implantación de obstáculos**: El límite final que define dónde pueden colocarse obstáculos y elementos de infraestructura
+1. **Maximum constructive profile of the material**: The dimensional envelope of the vehicle in its resting form
+2. **Quasi-static displacements**: Considering variations in load dissymmetry when reference values ($$I_0$$ or $$D_0$$) are exceeded, particularly when maximum values based on cant ($$s > s_0$$) and center of gravity height ($$h_c > h_{co}$$) are exceeded
+3. **Reduction margins**: Application of reduction factors ($$E_i$$ or $$E_a$$) considering optimization criteria
+4. **Reference contour**: The kinematic envelope integrating the constructive profile and quasi-static displacements
+5. **Lateral random displacements**: Considering unpredictable movements derived from track-vehicle interaction ($$M_1 + M_2$$)
+6. **Complementary safety margins**: Additional lateral safety spaces ($$M_{3b}$$) to ensure correct functioning of adjacent systems
+7. **Nominal obstacle implementation gauge**: The final limit defining where obstacles and infrastructure elements can be placed
 
-**REFERENCIAS TÉCNICAS DE ELEMENTOS COMPONENTES**
+**TECHNICAL REFERENCES OF COMPONENT ELEMENTS**
 
-La especificación normativa utiliza una serie de parámetros y referencias técnicas para describir componentes específicos de la envolvente de gálibo:
+The regulatory specification uses a series of parameters and technical references to describe specific components of the gauge envelope:
 
-- $$I_0$$ o $$D_0$$: Valores de referencia de disimetría de carga
-- $$(I_{\text{máx}} - I_0)$$ o $$(D_{\text{máx}} - D_0)$$: Excesos de disimetría sobre los valores de referencia, aplicables cuando se superan los umbrales de peralte ($$s > s_0$$) y altura del centro de gravedad ($$h_c > h_{co}$$)
-- $$E_i$$ o $$E_a$$: Factores de reducción aplicados a la envolvente
-- S: Saliente de la envolvente
-- $$D$$: Desplazamiento lateral del vehículo
-- Contorno de referencia más salientes: Envolvente que integra el contorno de referencia básico y los salientes localizados
-- Desplazamiento cuasiestático: Para los parámetros de referencia $$s = s_0$$ y $$h_c = h_{co}$$
-- Envolvente cinemática: Lugar geométrico del material considerado con libertad de movimiento cinemático
-- Desplazamientos aleatorios laterales: $$M_1 + M_2$$ que representan los movimientos no predecibles
-- Gálibo límite de implantación de obstáculos: Límite máximo inicial
-- Márgenes complementarios laterales: $$M_{3b}$$ que proporciona espacios de seguridad adicionales
-- Gálibo nominal de implantación de obstáculos: Límite final de operación
+- $$I_0$$ or $$D_0$$: Load dissymmetry reference values
+- $$(I_{\text{máx}} - I_0)$$ or $$(D_{\text{máx}} - D_0)$$: Dissymmetry excesses over reference values, applicable when cant thresholds ($$s > s_0$$) and center of gravity height ($$h_c > h_{co}$$) are exceeded
+- $$E_i$$ or $$E_a$$: Reduction factors applied to the envelope
+- S: Envelope protrusion
+- $$D$$: Vehicle lateral displacement
+- Reference contour plus protrusions: Envelope integrating the basic reference contour and localized protrusions
+- Quasi-static displacement: For reference parameters $$s = s_0$$ and $$h_c = h_{co}$$
+- Kinematic envelope: Geometric locus of the material considered with kinematic freedom of movement
+- Lateral random displacements: $$M_1 + M_2$$ representing unpredictable movements
+- Limit obstacle implementation gauge: Initial maximum limit
+- Complementary lateral margins: $$M_{3b}$$ providing additional safety spaces
+- Nominal obstacle implementation gauge: Final operational limit
 
 ![86179c8558f4a8181a366f427617454c_MD5]({{ site.baseurl }}/assets/images/86179c8558f4a8181a366f427617454c_MD5.webp)
 
 ![a842329cc7f320f4fa2298771d86377e_MD5]({{ site.baseurl }}/assets/images/a842329cc7f320f4fa2298771d86377e_MD5.webp)
 
-**PARÁMETROS DE ALTURA EN ACUERDOS VERTICALES**
+**HEIGHT PARAMETERS IN VERTICAL CURVES**
 
-En el contexto de perfiles altimétricos complejos con acuerdos verticales curvados, se definen parámetros específicos de altura:
+In the context of complex altimetric profiles with curved vertical transitions, specific height parameters are defined:
 
-(1) Plano de rodadura: La superficie de contacto entre ruedas y carriles
-(2) Contorno de referencia: La envolvente de referencia del vehículo
-(3) Posición límite de los obstáculos: La zona prohibida para infraestructura
+(1) Rolling plane: Contact surface between wheels and rails
+(2) Reference contour: Vehicle reference envelope
+(3) Limit position of obstacles: Prohibited zone for infrastructure
 
-$$h_{\text{umin}}$$: La altura mínima considerada para el desplazamiento vertical del material rodante por debajo del contorno de referencia cuando circula en acuerdos verticales cóncavos. Este parámetro define cuánto puede "hundirse" el vehículo
-$$h_{\text{omin}}$$: La altura mínima considerada para el desplazamiento vertical del material rodante por encima del contorno de referencia cuando circula en acuerdos verticales convexos. Este parámetro define cuánto puede "elevarse" el vehículo
-$$R_{\text{vmin}}$$: El radio de curvatura mínimo del acuerdo vertical que debe considerarse en el diseño de la infraestructura
+$$h_{\text{umin}}$$: Minimum height considered for vertical displacement of rolling stock below the reference contour when circulating in concave vertical transitions. This parameter defines how much the vehicle can "sink"
+$$h_{\text{omin}}$$: Minimum height considered for vertical displacement of rolling stock above the reference contour when circulating in convex vertical transitions. This parameter defines how much the vehicle can "rise"
+$$R_{\text{vmin}}$$: Minimum curvature radius of the vertical transition that must be considered in infrastructure design
 
 ![527f0fdd7c6fcd8602a92cc297ce0b45_MD5]({{ site.baseurl }}/assets/images/527f0fdd7c6fcd8602a92cc297ce0b45_MD5.webp)
 
-**EJEMPLOS DE GÁLIBOS NORMALIZADOS ESPAÑOLES**
+**EXAMPLES OF SPANISH STANDARDIZED GAUGES**
 
-En el contexto de la normativa ferroviaria española, se definen varios gálibos específicos según el ancho de vía y la naturaleza (nuevo o histórico) del vehículo:
+In the context of Spanish railway regulations, several specific gauges are defined according to track gauge and vehicle nature (new or historical):
 
-Gálibo GEA16 (Ancho ibérico 1668mm, vehículos nuevos de mayor envergadura):
+GEA16 Gauge (Iberian gauge 1668mm, new vehicles of larger size):
 ![5aba2e01c05629c16055df02aa85c637_MD5]({{ site.baseurl }}/assets/images/5aba2e01c05629c16055df02aa85c637_MD5.webp)
 
-Gálibo GEE10 (Ancho métrico 1000mm, vehículos nuevos):
+GEE10 Gauge (Metric gauge 1000mm, new vehicles):
 ![7b8ece239e80e549afaf2d23f6ffa669_MD5]({{ site.baseurl }}/assets/images/7b8ece239e80e549afaf2d23f6ffa669_MD5.webp)
 
-## Capítulo VII. Especificaciones de Gálibos de Partes Bajas: Envolventes Inferiores de Vehículos
+## Chapter VII. Lower Part Gauge Specifications: Vehicle Lower Envelopes
 
-Las especificaciones de gálibos para las partes bajas del vehículo constituyen un aspecto técnico especializado que requiere consideraciones particulares. Estas envolventes definen los límites dimensionales de los componentes y sistemas situados en las zonas bajas del vehículo que podrían entrar en contacto con obstáculos, elementos de vía o infraestructura adyacente.
+Gauge specifications for the lower parts of the vehicle constitute a specialized technical aspect requiring particular considerations. These envelopes define the dimensional limits of components and systems located in the lower zones of the vehicle that could come into contact with obstacles, track elements, or adjacent infrastructure.
 
 ![661e6fc871bb8ed08c2e18f1a001a138_MD5]({{ site.baseurl }}/assets/images/661e6fc871bb8ed08c2e18f1a001a138_MD5.webp)
 
-**GÁLIBO GEI1**
+**GEI1 GAUGE**
 
 ![bb78f1a5b95d77e7844ef11d3ff1be8d_MD5]({{ site.baseurl }}/assets/images/bb78f1a5b95d77e7844ef11d3ff1be8d_MD5.webp)
 
-**GÁLIBO GEI2**
+**GEI2 GAUGE**
 
-| Tipo de línea | Ancho de vía |  |
+| Line Type | Track Gauge |  |
 | :--- | :--- | :--- |
 |  | 1435 mm | 1668 mm |
-| Apta para transporte mediante autopista ferroviaria<sup>(1)</sup> | GI3 | GEI3 |
-| No apta para transporte mediante autopista ferroviaria | GI2 | GEI2 |
+| Suitable for Rolling Highway transport<sup>(1)</sup> | GI3 | GEI3 |
+| Not suitable for Rolling Highway transport | GI2 | GEI2 |
 
-Las especificaciones de gálibos de partes bajas varían según el tipo de servicio previsto. Las líneas que están diseñadas para ser compatibles con sistemas de autopista ferroviaria (que permiten el transporte de vehículos de carretera sobre soportes ferroviarios) tienen requisitos dimensional diferentes respecto a las líneas convencionales que no incorporan esta capacidad operacional.
+Gauge specifications for lower parts vary depending on the planned service type. Lines designed to be compatible with Rolling Highway systems (allowing transport of road vehicles on railway supports) have different dimensional requirements compared to conventional lines not incorporating this operational capability.
 
 
-## Capítulo VIII. Sistemas de Ejes, Ruedas y Bogies: Configuraciones de Rodadura   
+## Chapter VIII. Axle, Wheel and Bogie Systems: Running Gear Configurations
 
-El sistema de rodadura de un vehículo ferroviario define cómo se transmiten y distribuyen las cargas hacia la infraestructura ferroviaria. Las diferentes configuraciones de rodadura tienen implicaciones significativas en el comportamiento dinámico, la capacidad de carga, y la estabilidad del vehículo.
+The running gear system of a railway vehicle defines how loads are transmitted and distributed to the railway infrastructure. different running gear configurations have significant implications for dynamic behavior, load capacity, and vehicle stability.
 
-**CONFIGURACIONES DE RODADURA EN COCHES**
+**RUNNING GEAR CONFIGURATIONS IN COACHES**
 
-En los vehículos de pasajeros, existen dos configuraciones fundamentales de sistemas de ejes y bogies:
+In passenger vehicles, there are two fundamental configurations of axle and bogie systems:
 ![c772b47b997ab19566acc97fef0abdd3_MD5]({{ site.baseurl }}/assets/images/c772b47b997ab19566acc97fef0abdd3_MD5.webp)
 
-**Coches de ejes/rodales simples**: En esta configuración, el vehículo descansa directamente sobre ejes simples sin que exista un bogie intermedio. Esta es una configuración más simple y económica, pero con limitaciones en velocidad y confort.
+**Single axle coaches**: In this configuration, the vehicle rests directly on single axles without an intermediate bogie. This is a simpler and more economical configuration, but with limitations in speed and comfort.
 
 ![c99af4fe8d15e569876c54cfc05cfdb9_MD5]({{ site.baseurl }}/assets/images/c99af4fe8d15e569876c54cfc05cfdb9_MD5.webp)
 
-**Coches de bogies**: En esta configuración más moderna y convencional, el vehículo descansa sobre dos bogies, típicamente de dos ejes cada uno. Esta configuración proporciona mejor comportamiento dinámico, mayor capacidad de velocidad, y mejor confort de los viajeros.
+**Bogie coaches**: In this more modern and conventional configuration, the vehicle rests on two bogies, typically with two axles each. This configuration provides better dynamic behavior, higher speed capacity, and better passenger comfort.
 
-**CONFIGURACIONES ARTICULADAS VS. NO ARTICULADAS**
+**ARTICULATED VS. NON-ARTICULATED CONFIGURATIONS**
 
-Más allá del tipo de rodadura, los coches pueden clasificarse según su disposición longitudinal:
+Beyond the type of running gear, coaches can be classified according to their longitudinal arrangement:
 
-**Coches no articulados**: Vehículos independientes que se unen mecánicamente con otros vehículos mediante sistemas de enganches estándar. Cada coche tiene su propia estructura completa independiente.
+**Non-articulated coaches**: Independent vehicles that are mechanically joined to other vehicles via standard coupling systems. Each coach has its own complete independent structure.
 ![0aa15f2726e6e08e018abb3d497aec84_MD5]({{ site.baseurl }}/assets/images/0aa15f2726e6e08e018abb3d497aec84_MD5.webp)
 ![b3531d7d5ef0a8d77f7f9d5ec2d2e211_MD5]({{ site.baseurl }}/assets/images/b3531d7d5ef0a8d77f7f9d5ec2d2e211_MD5.webp)
 
 
-**Coches articulados**: En esta configuración especial, dos coches comparten un bogie común. El bogie central actúa como elemento de soporte para ambos vehículos, lo que permite reducir peso, mejorar la eficiencia espacial y optimizar la dinámica de la composición.
+**Articulated coaches**: In this special configuration, two coaches share a common bogie. The central bogie acts as a support element for both vehicles, allowing for weight reduction, improved spatial efficiency, and optimization of the composition's dynamics.
 
 ![d0d91445df7191dbd78f91982331dc47_MD5]({{ site.baseurl }}/assets/images/d0d91445df7191dbd78f91982331dc47_MD5.webp)
 ![98ca7b7285bec34afd0172ee64005547_MD5]({{ site.baseurl }}/assets/images/98ca7b7285bec34afd0172ee64005547_MD5.webp)
 
-### VIII.1. Análisis Detallado de Ejes, Ruedas y Configuraciones de Rodadura
+### VIII.1. Detailed Analysis of Axles, Wheels and Running Gear Configurations
 
-**TIPOS DE CONFIGURACIÓN DE EJES**
+**AXLE CONFIGURATION TYPES**
 
 ![d889d8527b5386abbf63f9d6d08052fc_MD5]({{ site.baseurl }}/assets/images/d889d8527b5386abbf63f9d6d08052fc_MD5.webp)
 ![2531ac6a70b8f96f6972b28594f54bcb_MD5]({{ site.baseurl }}/assets/images/2531ac6a70b8f96f6972b28594f54bcb_MD5.webp)
-Material rígido con ejes paralelos sin desplazamientos.
+Rigid material with parallel axles without displacement.
 
-En esta configuración, los ejes del vehículo están dispuestos de forma paralela sin posibilidad de desplazamiento relativo. Esta es una configuración simple pero limitada.
+In this configuration, the vehicle's axles are arranged in parallel without the possibility of relative displacement. This is a simple but limited configuration.
 
 
 
 
 ![49c6b20fa275dbb7b228eaab521e9e1d_MD5]({{ site.baseurl }}/assets/images/49c6b20fa275dbb7b228eaab521e9e1d_MD5.webp)
 ![f8e9a8a8a4eb366904388e9e8cd17222_MD5]({{ site.baseurl }}/assets/images/f8e9a8a8a4eb366904388e9e8cd17222_MD5.webp)
-Material rígido con ejes paralelos con desplazamiento.
+Rigid material with parallel axles with displacement.
 
-En esta configuración mejorada, aunque los ejes permanecen fundamentalmente paralelos, el sistema permite cierto desplazamiento controlado que mejora la inscripción en curvas.
+In this improved configuration, although the axles remain fundamentally parallel, the system allows for certain controlled displacement which improves curve negotiation.
 
-### VIII.2. Estructura y Componentes del Bogie: Sistema de Soporte Dinámico
+### VIII.2. Structure and Components of the Bogie: Dynamic Support System
 
-El bogie constituye el elemento fundamental para la suspensión y guía del vehículo ferroviario. Su diseño y configuración determinan en gran medida el comportamiento dinámico, la velocidad máxima permitida, y el confort de operación.
+The bogie constitutes the fundamental element for the suspension and guidance of the railway vehicle. Its design and configuration largely determine dynamic behavior, maximum permitted speed, and operational comfort.
 
 ![872f8569bc5b9a32c48700e2e81b5acf_MD5]({{ site.baseurl }}/assets/images/872f8569bc5b9a32c48700e2e81b5acf_MD5.webp)
 
-**COMPONENTES PRINCIPALES DEL BOGIE**
+**MAIN COMPONENTS OF THE BOGIE**
 
 ![95b13cbf6718dadf4cf985017132c1de_MD5]({{ site.baseurl }}/assets/images/95b13cbf6718dadf4cf985017132c1de_MD5.webp)
 ![3b427a4a74f810d406891a36e4a02ee2_MD5]({{ site.baseurl }}/assets/images/3b427a4a74f810d406891a36e4a02ee2_MD5.webp)
 
-El bogie moderno integra múltiples subsistemas que trabajan de forma coordinada para proporcionar soporte, control y tracción eficiente. Estos componentes incluyen la estructura portante, los sistemas de suspensión primaria y secundaria, los motores de tracción, los reductores de velocidad, y los mecanismos de freno especializados.
+The modern bogie integrates multiple subsystems that work in a coordinated manner to provide support, control, and efficient traction. These components include the supporting structure, primary and secondary suspension systems, traction motors, speed reducers, and specialized brake mechanisms.
 
 ![558580ea525a09510a507edc2c0329d1_MD5]({{ site.baseurl }}/assets/images/558580ea525a09510a507edc2c0329d1_MD5.webp)
 
 
-**BOGIES COMPARTIDOS: EFICIENCIA EN COMPOSICIONES ARTICULADAS**
+**SHARED BOGIES: EFFICIENCY IN ARTICULATED COMPOSITIONS**
 
-En las composiciones articuladas modernas, particularmente en sistemas como el Civia, se utiliza la configuración de bogie compartido entre vagones. Este bogie centralizado actúa como elemento de soporte para dos coches adyacentes, lo que presenta ventajas significativas en términos de reducción de peso, optimización espacial, y mejora de la dinámica general de la composición.
+In modern articulated compositions, particularly in systems like the Civia, the shared bogie configuration between carriages is used. This centralized bogie acts as a support element for two adjacent cars, which presents significant advantages in terms of weight reduction, spatial optimization, and improvement of the overall composition dynamics.
 
 ![a5337f2b0905a326d456acc1980bda32_MD5]({{ site.baseurl }}/assets/images/a5337f2b0905a326d456acc1980bda32_MD5.webp)
-Bogie compartido
+Shared bogie
 
-## Capítulo IX. Locomotoras: Clasificación, Nomenclatura y Configuraciones de Ejes
+## Chapter IX. Locomotives: Classification, Nomenclature and Axle Configurations
 
-Las locomotoras constituyen los vehículos fundamentales de tracción en sistemas de transporte ferroviario remolcado. Su clasificación y nomenclatura se basan en criterios bien establecidos que describen su configuración mecánica y características operacionales.
+Locomotives constitute the fundamental traction vehicles in towed railway transport systems. Their classification and nomenclature are based on well-established criteria describing their mechanical configuration and operational characteristics.
 
-**SISTEMA DE NOMENCLATURA UIC PARA LOCOMOTORAS**
+**UIC NOMENCLATURE SYSTEM FOR LOCOMOTIVES**
 
-El sistema de nomenclatura UIC (Unión Internacional de Ferrocarriles) proporciona un código standarizado que describe la configuración de ejes de cualquier locomotora ferroviaria. Esta nomenclatura es universal y permite identificar rápidamente las características estructurales de cualquier vehículo ferroviario.
+The UIC (International Union of Railways) nomenclature system provides a standardized code describing the axle configuration of any railway locomotive. This nomenclature is universal and allows for quick identification of the structural characteristics of any railway vehicle.
 
-**Componentes de la nomenclatura UIC:**
+**Components of the UIC nomenclature:**
 
-- **Letras mayúsculas (A, B, C, etc.)**: Representan los ejes motores consecutivos. Así, 'A' indica un eje motor, 'B' indica dos ejes motores consecutivos, 'C' indica tres ejes motores consecutivos, y así sucesivamente.
+- **Capital letters (A, B, C, etc.)**: Represent consecutive driving axles. Thus, 'A' indicates one driving axle, 'B' indicates two consecutive driving axles, 'C' indicates three consecutive driving axles, and so on.
 
-- **Letra 'o' minúscula**: Se utiliza para indicar que los ejes motores son impulsados individualmente por motores de tracción separados. Por ejemplo, Bo' significa que cada eje motor tiene su propio motor de tracción.
+- **Lowercase letter 'o'**: Used to indicate that driving axles are individually driven by separate traction motors. For example, Bo' means that each driving axle has its own traction motor.
 
-- **Números (1, 2, 3, etc.)**: Representan los ejes no motores (ejes guía) consecutivos. Un número bajo indica la cantidad de ejes sin tracción.
+- **Numbers (1, 2, 3, etc.)**: Represent consecutive non-driving axles (guide axles). A low number indicates the quantity of axles without traction.
 
-- **Apóstrofo o comilla (')**: Se utiliza para cerrar la notación de los ejes que están montados conjuntamente en un mismo bogie, delineando claramente los límites del bogie.
+- **Apostrophe or prime (')**: Used to close the notation of axles that are mounted together on the same bogie, clearly delineating the bogie boundaries.
 
-- **Paréntesis**: Se emplean para agrupar todos los ejes del mismo bogie o coche, permitiendo una lectura clara de la estructura del vehículo.
+- **Parentheses**: Employed to group all axles of the same bogie or car, allowing a clear reading of the vehicle's structure.
 
-- **Signo más (+)**: Se usa para indicar locomotoras con vehículos acoplados permanentemente pero mecánicamente separados (articulaciones).
+- **Plus sign (+)**: Used to indicate locomotives with permanently coupled but mechanically separated vehicles (articulations).
 
-- **Otros sufijos**: Se añaden según necesidad para indicar tipología especial, velocidades, sistemas de vapor, y otras características especializadas.
+- **Other suffixes**: Added as needed to indicate special typology, speeds, steam systems, and other specialized characteristics.
 
-**LA NOTACIÓN MÁS COMÚN EN LOCOMOTORAS MODERNAS: Bo'Bo' y Co'Co'**
-
-
+**MOST COMMON NOTATION IN MODERN LOCOMOTIVES: Bo'Bo' AND Co'Co'**
 
 
-- **Bo'Bo'**: Esta es la configuración más común en locomotoras eléctricas y diésel modernas de velocidad media y media-alta. Consiste en dos bogies idénticos, cada uno con dos ejes motores impulsados individualmente. Esta configuración proporciona un balance óptimo entre capacidad de tracción, velocidad y adaptabilidad a diferentes líneas.
+
+
+- **Bo'Bo'**: This is the most common configuration in modern electric and diesel locomotives of medium and medium-high speed. It consists of two identical bogies, each with two individually driven driving axles. This configuration provides an optimal balance between traction capacity, speed, and adaptability to different lines.
 ![75ffd89f13af5bb2475d7f0f9f0dcd78_MD5]({{ site.baseurl }}/assets/images/75ffd89f13af5bb2475d7f0f9f0dcd78_MD5.webp)
-- **Co'Co'**: Esta configuración se utiliza en locomotoras de mercancías pesadas donde se requiere máxima capacidad de tracción. Consiste en dos bogies idénticos, cada uno con tres ejes motores impulsados individualmente. Esta configuración proporciona la máxima adherencia y capacidad de arrastre, aunque a costa de una velocidad máxima inferior.
+- **Co'Co'**: This configuration is used in heavy freight locomotives where maximum traction capacity is required. It consists of two identical bogies, each with three individually driven driving axles. This configuration provides maximum adhesion and hauling capacity, although at the cost of a lower maximum speed.
 ![54ad1859f7d198eea50f2021d036f0f7_MD5]({{ site.baseurl }}/assets/images/54ad1859f7d198eea50f2021d036f0f7_MD5.webp)
-**EJEMPLOS DE NOTACIÓN UIC DE LOCOMOTORAS EN USO**
+**EXAMPLES OF UIC LOCOMOTIVE NOTATION IN USE**
 
-Diversos ejemplos de notación UIC aplicados a locomotoras reales de diferentes tipos y épocas, mostrando la flexibilidad y claridad del sistema de clasificación.
+Various examples of UIC notation applied to real locomotives of different types and eras, showing the flexibility and clarity of the classification system.
 
 ![8c192a5618c49549c03792be23431ecb_MD5]({{ site.baseurl }}/assets/images/8c192a5618c49549c03792be23431ecb_MD5.webp)
 
-Más ejemplos de configuraciones UIC que demuestran la diversidad de diseños de locomotoras existentes en la red ferroviaria europea y mundial.
+More examples of UIC configurations demonstrating the diversity of locomotive designs existing in the European and global railway network.
 
-## Capítulo X. Tractores Ferroviarios: Máquinas de Maniobra Especializadas
+## Chapter X. Railway Tractors (Shunters): Specialized Maneuvering Machines
 
-Los tractores constituyen una categoría especial de vehículos ferroviarios diseñados específicamente para funciones de maniobra y movimiento de equipos en contextos limitados como patios, playas de vías, y talleres de mantenimiento. Aunque se denominan "ferroviarios", su naturaleza es fundamentalmente diferente a las locomotoras convencionales.
+Tractors constitute a special category of railway vehicles designed specifically for maneuvering and moving equipment in limited contexts such as yards, track sidings, and maintenance workshops. Although they are called "railway", their nature is fundamentally different from conventional locomotives.
 
-**CARACTERÍSTICAS FUNCIONALES DE LOS TRACTORES**
+**FUNCTIONAL CHARACTERISTICS OF TRACTORS**
 
-Se denominan tractores a máquinas, normalmente de tracción diésel, que se emplean específicamente para maniobras en playas de vías, talleres de reparación y cocheras de mantenimiento. Su diseño enfatiza la capacidad de generación de fuerza tractora más que la velocidad de circulación. La potencia disponible se orienta primordialmente hacia la generación de un esfuerzo de tracción muy elevado, permitiendo el movimiento de cargas muy pesadas o la maniobra de composiciones completas en espacios restringidos.
+Tractors are machines, normally diesel-powered, used specifically for shunting in track sidings, repair workshops, and maintenance depots. Their design emphasizes traction force generation capacity rather than circulation speed. Available power is primarily oriented towards generating very high tractive effort, allowing the movement of very heavy loads or the maneuvering of complete compositions in restricted spaces.
 
 ![ab0b220e2dd0fa8328516f99014100cf_MD5]({{ site.baseurl }}/assets/images/ab0b220e2dd0fa8328516f99014100cf_MD5.webp)
 ![dee68f0066ee298a8c6fc53efd1104a5_MD5]({{ site.baseurl }}/assets/images/dee68f0066ee298a8c6fc53efd1104a5_MD5.webp)
 
-Estos vehículos especializados representan una categoría operacional importante que permite la función crítica de movimiento y posicionamiento de equipos ferroviarios cuando no se encuentran en servicio, facilitando así las operaciones de mantenimiento, almacenamiento y distribución dentro de la infraestructura ferroviaria.
+These specialized vehicles represent an important operational category allowing the critical function of moving and positioning railway equipment when not in service, thus facilitating maintenance, storage, and distribution operations within the railway infrastructure.
 
-## Capítulo XI. Material Remolcado: Clasificación y Características Constructivas
+## Chapter XI. Towed Stock: Classification and Constructive Characteristics
 
-El **material remolcado** constituye la categoría de vehículos ferroviarios que no poseen capacidad de tracción propia, sino que son impulsados por unidades motrices conectadas a través de sistemas de enganches. Esta categoría es fundamental en sistemas convencionales donde una o varias locomotoras remolcan múltiples vehículos.
+**Towed stock** constitutes the category of railway vehicles that do not possess their own traction capacity, but are propelled by motive units connected through coupling systems. This category is fundamental in conventional systems where one or more locomotives tow multiple vehicles.
 
-**DEFINICIÓN Y CLASIFICACIÓN FUNDAMENTAL**
+**DEFINITION AND FUNDAMENTAL CLASSIFICATION**
 
-Se denomina "**vagones**" específicamente a los vehículos diseñados para el transporte de cargas (mercancías), mientras que se utiliza el término "**coches**" para referirse a los vehículos destinados al transporte de personas. Aunque estas categorías tienen funciones distintas, comparten características estructurales similares en términos de composición general.
+The term "**wagons**" is specifically used for vehicles designed for freight transport (cargo), while the term "**coaches**" is used to refer to vehicles intended for the transport of people. Although these categories have distinct functions, they share similar structural characteristics in terms of general composition.
 
-**ESTRUCTURA CONSTRUCTIVA COMÚN**
+**COMMON CONSTRUCTIVE STRUCTURE**
 
-En ambos tipos de material remolcado, la caja o carrocería del vehículo se encuentra montada sobre un bastidor portante que actúa como estructura de soporte y transmisión de cargas. Este bastidor, a su vez, descansa sobre el tren de rodado, que está constituido por ejes simples o por bogies, típicamente de dos ejes cada uno. Esta estructura modular permite adaptar la capacidad de carga y las características operacionales del vehículo a las necesidades específicas de cada aplicación.
+In both types of towed stock, the vehicle body or carbody is mounted on a supporting frame that acts as a support and load transmission structure. This frame, in turn, rests on the running gear, which consists of single axles or bogies, typically with two axles each. This modular structure allows the load capacity and operational characteristics of the vehicle to be adapted to the specific needs of each application.
 
-## Capítulo XII. Mercancías: Tipología, Características y Composiciones de Vagones de Carga
+## Chapter XII. Freight: Typology, Characteristics and Compositions of Freight Wagons
 
-El transporte ferroviario de mercancías requiere una diversidad muy amplia de vehículos especializados, cada uno diseñado para optimizar el transporte de categorías específicas de carga. La evolución histórica del parque de vagones refleja la especialización progresiva del transporte ferroviario.
+Freight railway transport requires a very wide diversity of specialized vehicles, each designed to optimize the transport of specific cargo categories. The historical evolution of the wagon fleet reflects the progressive specialization of railway transport.
 
-**EVOLUCIÓN HISTÓRICA DEL PARQUE EUROPEO DE VAGONES**
+**HISTORICAL EVOLUTION OF THE EUROPEAN WAGON FLEET**
 
-En el parque tradicional de los ferrocarriles europeos, se encontraba una variedad significativa de tipos de vagones, cada uno adaptado a aplicaciones operacionales específicas:
+In the traditional European railway fleet, a significant variety of wagon types was found, each adapted to specific operational applications:
 
-- **Vagones cerrados para carga general**: Diseñados para proteger la mercancía de la intemperie, utilizados para transporte de múltiples tipos de carga sensible a condiciones climáticas
-- **Vagones cubiertos ventilados para frutas frescas**: Equipados con sistemas de ventilación natural para mantener condiciones de humedad y temperatura apropiadas
-- **Vagones cubiertos ventilados con tanques para transporte de productos lácteos**: Diseñados específicamente para mantener refrigeración
-- **Vagones cubiertos refrigerados**: Con sistemas activos de refrigeración para productos perecederos (carnes, pescados, frutas frescas)
-- **Vagones abiertos de borde bajo o plataformas**: Utilizados para cargas no perecederas y de fácil acceso lateral (carriles, traviesas, perfiles de acero, bobinas de acero)
-- **Plataformas portacontenedores**: Especializadas en transporte intermodal de contenedores normalizados
-- **Tolvas para minerales**: Diseñadas para carga y descarga de materiales a granel
-- Múltiples configuraciones especiales para aplicaciones específicas
+- **Closed wagons for general cargo**: Designed to protect merchandise from the weather, used for transport of multiple cargo types sensitive to climatic conditions
+- **Ventilated covered wagons for fresh fruit**: Equipped with natural ventilation systems to maintain appropriate humidity and temperature conditions
+- **Ventilated covered wagons with tanks for dairy transport**: Specifically designed to maintain refrigeration
+- **Refrigerated covered wagons**: With active refrigeration systems for perishable products (meat, fish, fresh fruit)
+- **Open wagons with low sides or flat wagons**: Used for non-perishable cargo and easy lateral access (rails, sleepers, steel profiles, steel coils)
+- **Container flat wagons**: Specialized in intermodal transport of standardized containers
+- **Mineral hoppers**: Designed for loading and unloading bulk materials
+- Multiple special configurations for specific applications
 
-**EVOLUCIÓN HACIA VAGONES DE GRAN CAPACIDAD**
+**EVOLUTION TOWARDS HIGH CAPACITY WAGONS**
 
-El vagón moderno de transporte de mercancías representa una evolución significativa respecto a los diseños históricos. La tendencia general ha sido hacia mayores capacidades de carga para mejorar la rentabilidad operacional:
+The modern freight wagon represents a significant evolution comprising historical designs. The general trend has been towards higher load capacities to improve operational profitability:
 
-- **Vagones históricos**: Típicamente equipados con 2 ejes simples, con una longitud aproximada de 10 metros
-- **Vagones actuales**: Predominantemente equipados con 4 ejes agrupados en 2 bogies, sobre los que descansa el bastidor portante. Si el peso máximo por eje es de 20 toneladas, la capacidad de carga neta de un vagón moderno puede alcanzar aproximadamente 60 toneladas, en comparación con capacidades mucho menores de los vagones históricos
-- **Longitud de vagones modernos**: Entre 16 a 18 metros, reflejando la optimización del espacio útil
+- **Historical wagons**: Typically equipped with 2 single axles, with a length of approximately 10 meters
+- **Current wagons**: Predominantly equipped with 4 axles grouped in 2 bogies, on which the supporting frame rests. If the maximum axle load is 20 tons, the net load capacity of a modern wagon can reach approximately 60 tons, compared to much lower capacities of historical wagons
+- **Length of modern wagons**: Between 16 to 18 meters, reflecting the optimization of useful space
 
-**CLASIFICACIÓN DE VAGONES POR CRITERIOS MÚLTIPLES**
+**CLASSIFICATION OF WAGONS BY MULTIPLE CRITERIA**
 
-La diversidad de vagones modernos resulta de la especialización del transporte según múltiples criterios clasificatorios:
+The diversity of modern wagons results from transport specialization according to multiple classification criteria:
 
-- **Según el elemento de rodadura**: 2 ejes simples, 3 ejes, o configuraciones con bogies
-- **Según el tipo de sistema de freno**: Freno de aire comprimido (más moderno), o sistemas de freno de vacío (más histórico)
-- **Según la actividad comercial especializada**: Abiertos, cerrados, plataformas, cisternas, portacontenedores, tolvas, refrigerados, y múltiples configuraciones especiales
+- **By running gear element**: 2 single axles, 3 axles, or configurations with bogies
+- **By braking system type**: Compressed air brake (more modern), or vacuum brake systems (more historical)
+- **By specialized commercial activity**: Open, closed, flat, tank, container, hopper, refrigerated, and multiple special configurations
 
 
 ![8fa1d5149acd45fb83ef92b3b0db8a79_MD5]({{ site.baseurl }}/assets/images/8fa1d5149acd45fb83ef92b3b0db8a79_MD5.webp)
 
 
-### XII.1. Vagón de Mercancías Cerrado: Protección de Carga Frente a Intemperie
+### XII.1. Covered Freight Wagon: Cargo Protection Against Weather
 
-Este tipo de vagón está específicamente diseñado para el transporte de mercancías pesadas que requieren protección contra las condiciones climáticas adversas. La cubierta integral protege la carga de lluvia, viento y polvo. Ejemplos típicos de mercancías transportadas incluyen bobinas metálicas, barras de aluminio y otros productos metalúrgicos sensibles a la oxidación y corrosión provocada por la humedad.
+This type of wagon is specifically designed for the transport of heavy goods requiring protection against adverse weather conditions. The integral cover protects the cargo from rain, wind, and dust. Typical examples of transported goods include metal coils, aluminum bars, and other metallurgical products sensitive to oxidation and corrosion caused by humidity.
 
 ![559e36b1673cdf95cf42fbfc380ed51b_MD5]({{ site.baseurl }}/assets/images/559e36b1673cdf95cf42fbfc380ed51b_MD5.webp)
 
 ![3f432f0671cb4c497d07d4ec60c50af6_MD5]({{ site.baseurl }}/assets/images/3f432f0671cb4c497d07d4ec60c50af6_MD5.webp)
-### XII.2. Vagón de Mercancías a Granel: Transporte de Cereales y Productos Similares
+### XII.2. Bulk Freight Wagon: Transport of Cereals and Similar Products
 
-Este tipo de vagón está especializado en el transporte eficiente de productos agrícolas y cereales en su forma granulada. El diseño de tolva permite la carga y descarga rápida mediante sistemas de gravedad o neumáticos. Los productos típicamente transportados mediante este tipo de vagón incluyen diversos tipos de cereales (trigo, centeno, avena, cebada, maíz) que requieren protección contra la humedad pero permiten operaciones de carga/descarga rápidas.
+This type of wagon is specialized in the efficient transport of agricultural products and cereals in their granular form. The hopper design allows rapid loading and unloading via gravity or pneumatic systems. Products typically transported by this type of wagon include various types of cereals (wheat, rye, oats, barley, corn) requiring protection against moisture but allowing rapid loading/unloading operations.
 ![165cd592996695ee4d6cba4a614d68ff_MD5]({{ site.baseurl }}/assets/images/165cd592996695ee4d6cba4a614d68ff_MD5.webp)
 ![e8c5231260e4a126c80756658e050a6d_MD5]({{ site.baseurl }}/assets/images/e8c5231260e4a126c80756658e050a6d_MD5.webp)
 
-### XII.2.1. Vagón de Mercancías de Bordes o Caja Abierta: Carga a Granel Pesada
+### XII.2.1. Open Box or High-Sided Freight Wagon: Heavy Bulk Cargo
 
-Este tipo de vagón presenta una estructura abierta en la parte superior, permitiendo carga y descarga conveniente desde arriba mediante grúas o excavadoras. La ausencia de cobertura permite cargar materiales granel de gran densidad. El transporte típico mediante este tipo de vagón incluye materiales como carbón mineral, coque metalúrgico, lastre ferroviario, grava de construcción, y chatarra metálica reciclada.
+This type of wagon features an open structure at the top, allowing convenient loading and unloading from above using cranes or excavators. The absence of a cover allows loading of high-density bulk materials. Typical transport via this type of wagon includes materials such as mineral coal, metallurgical coke, railway ballast, construction gravel, and recycled metal scrap.
 
 ![45b81b09c355038f50acf093306ef13b_MD5]({{ site.baseurl }}/assets/images/45b81b09c355038f50acf093306ef13b_MD5.webp)
 ![1345cebf9bddc53983358a93e204b930_MD5]({{ site.baseurl }}/assets/images/1345cebf9bddc53983358a93e204b930_MD5.webp)
 
-### XII.3. Vagón de Mercancías Plano: Transporte de Carga de Gran Volumen
+### XII.3. Flat Freight Wagon: Transport of High Volume Cargo
 
-Los vagones de plataforma se caracterizan por una estructura fundamentalmente abierta, con piso plano a baja altura, ideal para cargas voluminosas que se distribuyen transversalmente. La ausencia de paredes permite una flexibilidad máxima en la forma y tamaño de la carga. Este tipo de vagón transporta típicamente tuberías de acero, máquinas pesadas, barras y perfiles de acero, y productos de madera en forma de tablones o vigas.
+Flat wagons are characterized by a fundamentally open structure, with a flat floor at low height, ideal for bulky loads distributed transversely. The absence of walls allows maximum flexibility in load shape and size. This type of wagon typically transports steel pipes, heavy machinery, steel bars and profiles, and wood products in the form of planks or beams.
 
 ![e8b067e3b6b80786835ab9998762c199_MD5]({{ site.baseurl }}/assets/images/e8b067e3b6b80786835ab9998762c199_MD5.webp)
 ![289d9c3bc4cbf6c14b108baf0beadc44_MD5]({{ site.baseurl }}/assets/images/289d9c3bc4cbf6c14b108baf0beadc44_MD5.webp)
 
-### XII.4. Vagón de Mercancías Cisterna: Transporte de Líquidos y Gases
+### XII.4. Tank Freight Wagon: Transport of Liquids and Gases
 
-Los vagones cisterna están diseñados específicamente para el transporte seguro y eficiente de productos en estado líquido o gaseoso. La estructura consiste en depósitos de acero sometidos a presión controlada, provistos de sistemas especializados de carga y descarga. La diversidad de productos transportados mediante cisternas ferroviarias es muy amplia e incluye productos químicos industriales, aceites minerales refinados, gases bajo presión en estado licuado (como propano o butano), y otros productos especializados.
+Tank wagons are specifically designed for the safe and efficient transport of products in liquid or gaseous states. The structure consists of steel tanks subjected to controlled pressure, provided with specialized loading and unloading systems. The diversity of products transported via railway tankers is very wide and includes industrial chemicals, refined mineral oils, liquefied gases under pressure (such as propane or butane), and other specialized products.
 
 ![0dc291620568a6e1f82f2757a16de1d0_MD5]({{ site.baseurl }}/assets/images/0dc291620568a6e1f82f2757a16de1d0_MD5.webp)
 
-Una subcategoría especial de vagones cisterna está dedicada al transporte de materiales de construcción y perfilería estructural metálica que requiere protección durante el tránsito:
+A special subcategory of tank wagons is dedicated to transporting construction materials and structural metal profiles requiring protection during transit:
 
 ![4425140392d16f89bc6dc53751018c8f_MD5]({{ site.baseurl }}/assets/images/4425140392d16f89bc6dc53751018c8f_MD5.webp)
 ![5d70f465bd135b9eb8a5b43a357e6a67_MD5]({{ site.baseurl }}/assets/images/5d70f465bd135b9eb8a5b43a357e6a67_MD5.webp)
 
-### XII.5. Vagón de Mercancías Porta-Contenedores: Transporte Intermodal Normalizado
+### XII.5. Container Carrier Freight Wagon: Standardized Intermodal Transport
 
-Este tipo de vagón ha revolucionado la operación del transporte ferroviario mediante su compatibilidad con contenedores ISO normalizados. Los vagones porta-contenedores disponen de sistemas de fijación estandarizados que permiten el transporte seguro de contenedores de múltiples tamaños (20', 40', etc.). Esta configuración facilita la transferencia intermodal entre transporte ferroviario, transporte de carretera mediante camiones, y transporte marítimo mediante buques porta-contenedores.
+This type of wagon has revolutionized railway transport operation through its compatibility with standardized ISO containers. Container carrier wagons have standardized fastening systems allowing secure transport of containers of multiple sizes (20', 40', etc.). This configuration facilitates intermodal transfer between railway transport, road transport via trucks, and maritime transport via container ships.
 
 ![af1faa31de6a3df471f0d9cd8abe4785_MD5]({{ site.baseurl }}/assets/images/af1faa31de6a3df471f0d9cd8abe4785_MD5.webp)
 ![b0c7f5c0f632e54de31ac128f25c411c_MD5]({{ site.baseurl }}/assets/images/b0c7f5c0f632e54de31ac128f25c411c_MD5.webp)
 
-### XII.6. Vagón de Mercancías Refrigerado: Preservación de Productos Perecederos
+### XII.6. Refrigerated Freight Wagon: Preservation of Perishable Products
 
-Este tipo de vagón incorpora sistemas activos de refrigeración que permiten mantener temperaturas controladas durante todo el recorrido. Estos vagones están especialmente diseñados para el transporte de productos alimentarios perecederos, incluyendo alimentos frescos, productos cárnicos, pescado congelado, frutas y verduras, y otros productos que requieren cadena de frío controlada.
+This type of wagon incorporates active refrigeration systems allowing controlled temperatures to be maintained throughout the journey. These wagons are specially designed for the transport of perishable food products, including fresh food, meat products, frozen fish, fruits and vegetables, and other products requiring a controlled cold chain.
 
 ![b71653d28d22b612e5a7f9372c6b1c18_MD5]({{ site.baseurl }}/assets/images/b71653d28d22b612e5a7f9372c6b1c18_MD5.webp)
 
-### XII.6.1. Vagones de Mercancías Especiales o Personalizados
+### XII.6.1. Special or Customized Freight Wagons
 
-Dentro del portafolio de vagones disponibles, existe una categoría importante de vagones diseñados "a medida" según requisitos operacionales específicos de clientes. Estos vagones especiales se personalizan para optimizar el transporte de productos muy específicos que no encajan dentro de las categorías estándar.
+Within the available wagon portfolio, there is an important category of wagons designed "to measure" according to specific customer operational requirements. These special wagons are customized to optimize the transport of very specific products that do not fit into standard categories.
 
-El transporte ferroviario customizado de productos especializados permite adaptar la configuración del vagón a las necesidades muy particulares del cliente, optimizando la eficiencia operacional y reduciendo los riesgos de daño durante el tránsito:
+Customized rail transport of specialized products allows wagon configuration to be adapted to the client's very particular needs, optimizing operational efficiency and reducing damage risks during transit:
 
 ![c972fbd81acb40786306b8c19f93a7eb_MD5]({{ site.baseurl }}/assets/images/c972fbd81acb40786306b8c19f93a7eb_MD5.webp)
 ![28b40f2ca4efe0249bf7baf46ab5e6ca_MD5]({{ site.baseurl }}/assets/images/28b40f2ca4efe0249bf7baf46ab5e6ca_MD5.webp)
 
-### XII.7. Vagon portacoches
+### XII.7. Car Carrier Wagon
 ![2297418a1542661c801810c593dcadce_MD5]({{ site.baseurl }}/assets/images/2297418a1542661c801810c593dcadce_MD5.webp)
 ![c00f9c69a3ab053e844edd4d7418ddab_MD5]({{ site.baseurl }}/assets/images/c00f9c69a3ab053e844edd4d7418ddab_MD5.webp)
 
-### XII.8. Vagón de Mercancías 'Schnabel': Transporte de Cargas Extraordinarias
+### XII.8. 'Schnabel' Freight Wagon: Transport of Extraordinary Loads
 
-El nombre alemán "schnabel" (que significa "pico") describe la forma característica de este vagón especializado. Está diseñado específicamente para el transporte de cargas pesadas y sobredimensionadas que excedan los límites estándar de altura o peso. La configuración permite reducir la altura de la carga mediante posicionamiento especial dentro de gálibos dimensionales restrictivos.
+The German name "schnabel" (meaning "beak" or "bill") describes the characteristic shape of this specialized wagon. It is specifically designed for transporting heavy and oversized loads exceeding standard height or weight limits. The configuration allows load height to be reduced through special positioning within restrictive dimensional gauges.
 
 ![878abfbf9cda3798ce7705bc3824c820_MD5]({{ site.baseurl }}/assets/images/878abfbf9cda3798ce7705bc3824c820_MD5.webp)
 ![bc4d58765c9376315119624c4416fcc8_MD5]({{ site.baseurl }}/assets/images/bc4d58765c9376315119624c4416fcc8_MD5.webp)
 
-### XII.9. Vagón Extremo de Mercancías 'Caboose': Tradición Operacional Norteamericana
+### XII.9. 'Caboose' End Freight Wagon: North American Operational Tradition
 
-El término "caboose" de origen norteamericano describe un tipo de vagón especial que se acoplaba al final (extremo) de los trenes de mercancías tradicionales. Su función era proporcionar alojamiento para la tripulación ferroviaria y servir como punto de observación desde el que los trabajadores pudieran ayudar en operaciones de maniobra, vigilancia de la composición durante el recorrido, y garantizar la seguridad del tren. Con la modernización de los sistemas ferroviarios y la implementación de controles remotos, este tipo de vagón ha dejado de ser común, aunque representa un elemento histórico importante en la evolución del transporte ferroviario.
+The term "caboose" of North American origin describes a special type of wagon coupled at the end (rear) of traditional freight trains. Its function was to provide accommodation for the train crew and serve as an observation point from which workers could assist in switching operations, monitor the train during travel, and ensure train safety. With the modernization of railway systems and the implementation of remote controls, this type of wagon has ceased to be common, although it represents an important historical element in railway transport evolution.
 
 ![dff61e7048669fde108704d86fca1de1_MD5]({{ site.baseurl }}/assets/images/dff61e7048669fde108704d86fca1de1_MD5.webp)
 ![d2af8e81be90ca1a1404a122aa7a0092_MD5]({{ site.baseurl }}/assets/images/d2af8e81be90ca1a1404a122aa7a0092_MD5.webp)
 
-### XII.10. Composiciones de Trenes de Mercancías: Especificaciones Técnicas de Composiciones Tipo
+### XII.10. Freight Train Compositions: Technical Specifications of Standard Compositions
 
-Las siguientes tablas presentan especificaciones técnicas normalizadas para composiciones de trenes de mercancías que operan en rampas estándar. Estos datos permiten entender las capacidades operacionales de diferentes tipos de trenes:
+The following tables present standardized technical specifications for freight train compositions operating on standard gradients. These data allow understanding the operational capabilities of different train types:
 
-|  | ABIERTOS | CERRADOS | PLATAFORMAS |  |  | TOLVAS | CISTERNAS |
+|  | OPEN | CLOSED | FLAT |  |  | HOPPERS | TANKERS |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  |  |  |  |  |  |  |  |
-|  |  |  | NORMALES | COCHES | CONTENEDORES |  |  |
-| Longitud Máxima (m) | 14 | 22 | 28 | 26 | 27 | 18 | 17 |
-| Peso Máximo (t) | 80 | 90 | 90 | 40 | 120 | 90 | 90 |
-| Velocidad Máxima (km/h) | 100 | 120 | 120 | 160 | 120 | 120 | 120 |
+|  |  |  | NORMAL | CARS | CONTAINERS |  |  |
+| Max Length (m) | 14 | 22 | 28 | 26 | 27 | 18 | 17 |
+| Max Weight (t) | 80 | 90 | 90 | 40 | 120 | 90 | 90 |
+| Max Speed (km/h) | 100 | 120 | 120 | 160 | 120 | 120 | 120 |
 
-**Composiciones de Mercancías con Rampa del 12‰**
+**Freight Compositions with 12‰ Gradient**
 
-Para líneas con inclinaciones de hasta 12 milésimas (rampas moderadas), las composiciones están configuradas con los siguientes parámetros:
+For lines with gradients up to 12 per thousand (moderate gradients), compositions are configured with the following parameters:
 
 ![bca28605dfc933f6cedac26490667dbb_MD5]({{ site.baseurl }}/assets/images/bca28605dfc933f6cedac26490667dbb_MD5.webp)
 
-**Composiciones de Mercancías con Rampa del 18‰**
+**Freight Compositions with 18‰ Gradient**
 
-Para líneas de montaña con inclinaciones de hasta 18 milésimas (rampas exigentes), se requieren composiciones más ligeras para permitir velocidades de operación aceptables:
+For mountain lines with gradients up to 18 per thousand (demanding gradients), lighter compositions are required to allow acceptable operating speeds:
 
-| Locomotora | V. Máx. (km/h) | Peso (t) | Longitud (m) | Carga Remolcada Máx. (t) | Vagones Abiertos | Vagones Cerrados | Plataformas Normales | Coches | Contenedores | Tolvas | Cisternas |
+| Locomotive | Max V. (km/h) | Weight (t) | Length (m) | Max Towed Load (t) | Open Wagons | Closed Wagons | Normal Flat Wagons | Cars | Containers | Hoppers | Tankers |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 601.E | 120 | 130 | 22,41 | 1517 | 264 | 361 | 453 | 923 | 334 | 299 | 283 |
-| 601.D | 120 | 130 | 22,41 | 1522 | 265 | 362 | 455 | 926 | 335 | 300 | 284 |
-| 335 | 120 | 123 | 23,02 | 1340 | 235 | 320 | 401 | 814 | 296 | 266 | 252 |
-| 269.85 | 100 | 176 | 17,27 | 1580 | 262 | 360 | 453 | 929 | 332 | 297 | 282 |
-| 252 | 220 | 90 | 20,40 | 880 | 158 | 213 | 265 | 533 | 197 | 178 | 169 |
-| 253 | 140 | 87 | 18,90 | 1080 | 192 | 261 | 327 | 664 | 242 | 217 | 206 |
+| 601.E | 120 | 130 | 22.41 | 1517 | 264 | 361 | 453 | 923 | 334 | 299 | 283 |
+| 601.D | 120 | 130 | 22.41 | 1522 | 265 | 362 | 455 | 926 | 335 | 300 | 284 |
+| 335 | 120 | 123 | 23.02 | 1340 | 235 | 320 | 401 | 814 | 296 | 266 | 252 |
+| 269.85 | 100 | 176 | 17.27 | 1580 | 262 | 360 | 453 | 929 | 332 | 297 | 282 |
+| 252 | 220 | 90 | 20.40 | 880 | 158 | 213 | 265 | 533 | 197 | 178 | 169 |
+| 253 | 140 | 87 | 18.90 | 1080 | 192 | 261 | 327 | 664 | 242 | 217 | 206 |
 
-Estos datos demuestran cómo la capacidad de remolque disponible se distribuye entre diferentes tipos de vagones, reflejando la jerarquía de pesos y volúmenes de carga típicos en operación ferroviaria.
+These data demonstrate how available towing capacity is distributed among different wagon types, reflecting the hierarchy of weights and load volumes typical in railway operation.
 
-## Capítulo XIII. Sistemas de Enganches: Acoplamiento Mecánico, Neumático y Eléctrico
+## Chapter XIII. Coupling Systems: Mechanical, Pneumatic and Electrical Coupling
 
-Los enganches o aparatos de tracción y choque constituyen dispositivos fundamentales que realizan múltiples funciones críticas simultáneamente: realizan el acoplamiento mecánico de los vehículos ferroviarios, facilitan la transmisión de esfuerzos longitudinales (tracción y frenado), absorben impactos y oscilaciones dinámicas derivadas de la operación, y en sistemas modernos, transmiten señales neumáticas y eléctricas entre los vehículos acoplados.
+Couplers or draft gears constitute fundamental devices that perform multiple critical functions simultaneously: they perform the mechanical coupling of railway vehicles, facilitate the transmission of longitudinal forces (traction and braking), absorb impacts and dynamic oscillations derived from operation, and in modern systems, transmit pneumatic and electrical signals between coupled vehicles.
 
-**CLASIFICACIÓN FUNDAMENTAL DE ENGANCHES**
+**FUNDAMENTAL CLASSIFICATION OF COUPLERS**
 
-Se distinguen dos categorías principales de enganches según su función operacional y la naturaleza del acoplamiento:
+Two main categories of couplers are distinguished according to their operational function and the nature of the coupling:
 
-- **Enganches automáticos**: Estos dispositivos especializados proporcionan acoplamiento automático entre unidades sin intervención manual. Se encuentran situados en los testeros (extremos) de los vehículos y permiten el acoplamiento rápido de composiciones. Una vez acoplados, estos enganches cierran de forma automática mediante sistemas de seguros mecánicos.
+- **Automatic couplers**: These specialized devices provide automatic coupling between units without manual intervention. They are located at the headstocks (ends) of the vehicles and allow rapid coupling of compositions. Once coupled, these couplers lock automatically through mechanical locking systems.
 
-- **Enganches semipermanentes**: Estos enganches acoplan los vehículos que forman unidades de tren de forma más estable, requiriendo típicamente la intervención activa de un operario para llevar a cabo el acoplamiento y desacoplamiento. Este tipo de acoplamiento es más frecuente en contextos de taller de mantenimiento donde se modifican las composiciones.
+- **Semi-permanent couplers**: These couplers connect vehicles forming train units more stably, typically requiring the active intervention of an operator to carry out coupling and decoupling. This type of coupling is more frequent in maintenance workshop contexts where compositions are modified.
 
 
 
@@ -762,104 +763,104 @@ Se distinguen dos categorías principales de enganches según su función operac
 
 <iframe width="315" height="560" src="https://youtube.com/embed/GomsaW71-70?si=vSZLcf1SfVFbsWG6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Enganche a mandíbula**
+**Jaw Coupler**
 
-- **Enganches automáticos o integrales avanzados:**
+- **Advanced Automatic or Integral Couplers:**
 
-Existen sistemas de enganche más sofisticados que integran múltiples funciones en un aparato único especializado. Estos sistemas combinan en un solo dispositivo la función de tracción, la absorción de impactos y oscilaciones dinámicas, la transmisión de señales neumáticas para sistemas de freno, y la transmisión de señales eléctricas. Estos enganches integrales se utilizan especialmente en sistemas de metro y transporte rápido urbano.
+More sophisticated coupling systems exist that integrate multiple functions into a single specialized device. These systems combine in a single device the traction function, absorption of impacts and dynamic oscillations, transmission of pneumatic signals for brake systems, and transmission of electrical signals. These integral couplers are especially used in metro and rapid urban transport systems.
 
-Un ejemplo representativo es el tipo de enganche Scharffenberg, que se utiliza muy frecuentemente entre trenes autopropulsados de última generación. Este diseño permite operaciones de acoplamiento con extrema facilidad y seguridad.
+A representative example is the Scharffenberg coupler type, which is very frequently used between latest generation self-propelled trains. This design allows coupling operations with extreme ease and security.
 
 
 <iframe width="315" height="560" src="https://youtube.com/embed/zDvJTnIwzMY?si=8U9iKOnCScHY2W4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Capacidades y Funcionalidades de Enganches Automáticos Modernos**
+**Capabilities and Functionalities of Modern Automatic Couplers**
 
-- El acoplamiento múltiple de dos o más trenes se efectúa mediante los enganches automáticos, que se encuentran situados en los testeros (extremos longitudinales) de cada composición.
+- Multiple coupling of two or more trains is effected via automatic couplers, which are located at the headstocks (longitudinal ends) of each composition.
 
-- Una vez que dos trenes están acoplados mediante sistemas de enganche automático de última generación, el sistema permite el mando múltiple centralizado desde una sola cabina de conducción, proporcionando al maquinista único control integrado de:
-  - Los sistemas de tracción de ambas unidades
-  - Los sistemas de freno de toda la composición múltiple
-  - La transmisión de imágenes de cámaras de retrovisor desde todos los extremos de la composición
-  - La monitorización de puertas y sistemas de cierre
-  - Todos los parámetros necesarios para garantizar una conducción segura
+- Once two trains are coupled via latest generation automatic coupling systems, the system allows centralized multiple control from a single driving cab, providing the single driver with integrated control of:
+  - Traction systems of both units
+  - Brake systems of the entire multiple composition
+  - Transmission of rearview camera images from all ends of the composition
+  - Monitoring of doors and locking systems
+  - All parameters necessary to guarantee safe driving
 
-- Los enganches automáticos modernos proporcionan capacidad de socorro entre trenes. Cualquier composición con falla puede ser acoplada a cualquier otra composición disponible en la red ferroviaria para su remolque.
+- Modern automatic couplers provide rescue capability between trains. Any failed composition can be coupled to any other available composition on the railway network for towing.
 
-- El enganche incorpora un sistema sofisticado de absorción de impactos autorecuperable, diseñado para absorber los impactos longitudinales que se producen entre unidades acopladas. La capacidad de este sistema es muy elevada, permitiendo el contacto controlado entre una unidad completamente parada y otra en movimiento (ambas a carga máxima) a velocidades superiores a la velocidad de acoplamiento ordinario, que es típicamente de 3 km/h.
+- The coupler incorporates a sophisticated self-recovering impact absorption system, designed to absorb longitudinal impacts occurring between coupled units. The capacity of this system is very high, allowing controlled contact between a completely stopped unit and another in motion (both at maximum load) at speeds exceeding ordinary coupling speed, which is typically 3 km/h.
 
-## Capítulo XIV. Transporte de Viajeros: Coches de Pasajeros y Arquitectura de Composiciones
+## Chapter XIV. Passenger Transport: Passenger Coaches and Composition Architecture
 
-El diseño de vehículos de pasajeros requiere consideraciones técnicas y operacionales muy diferentes al transporte de mercancías. La prioridad fundamental es proporcionar confort, seguridad y accesibilidad a los pasajeros, mientras se mantienen prestaciones operacionales adecuadas y eficiencia económica.
+The design of passenger vehicles requires technical and operational considerations very different from freight transport. The fundamental priority is to provide comfort, safety, and accessibility to passengers, while maintaining adequate operational performance and economic efficiency.
 
-**CONFIGURACIÓN DE LA CAJA O CARROCERÍA**
+**BODY CONFIGURATION**
 
-Los coches de pasajeros pueden clasificarse según características fundamentales de su estructura:
+Passenger coaches can be classified according to fundamental characteristics of their structure:
 
-**Coches de un piso o de dos pisos**
+**Single-deck or Double-deck Coaches**
 
-La selección del número de niveles es una decisión de diseño fundamental que afecta significativamente la capacidad de pasajeros, el confort, y las características operacionales:
+The selection of the number of levels is a fundamental design decision that significantly affects passenger capacity, comfort, and operational characteristics:
 
-- Los coches de un piso convencional son la configuración más tradicional, maximizando el confort de los pasajeros y simplificando el acceso
-- Los coches de dos pisos aumentan la capacidad de transporte de pasajeros (típicamente en 35-40%) al utilizar más eficientemente el espacio disponible, aunque con algunas limitaciones en confort y restricciones en líneas con gálibos limitados
+- Conventional single-deck coaches are the most traditional configuration, maximizing passenger comfort and simplifying access
+- Double-deck coaches increase passenger transport capacity (typically by 35-40%) by using available space more efficiently, although with some limitations in comfort and restrictions on lines with limited gauges
 ![78f7881d44ed6a8d45cb34063b421b74_MD5]({{ site.baseurl }}/assets/images/78f7881d44ed6a8d45cb34063b421b74_MD5.webp)
 ![f76e20bf07c6f5267617d48334161606_MD5]({{ site.baseurl }}/assets/images/f76e20bf07c6f5267617d48334161606_MD5.webp)
 
 
-**Cajas de ancho estándar versus cajas ampliadas**
+**Standard Width vs Extended Width Bodies**
 
-La dimensión lateral de la caja representa un compromiso entre capacidad, acceso a plataformas normalizadas, y gálibos disponibles:
+The lateral dimension of the carbody represents a compromise between capacity, access to standardized platforms, and available gauges:
 
-- Los coches de caja normal responden a estándares tradicionales de ancho que se han optimizado para compatibilidad con infraestructuras existentes
-- Los coches de caja ancha (dentro de los gálibos permitidos) proporcionan mayor espacio interior para pasajeros y servicios, mejorando significativamente el confort
+- Standard width coaches respond to traditional width standards optimized for compatibility with existing infrastructure
+- Wide body coaches (within permitted gauges) provide greater interior space for passengers and services, significantly improving comfort
 
 
 ![4cd5ce99fd635ac11eb99eabfbe82721_MD5]({{ site.baseurl }}/assets/images/4cd5ce99fd635ac11eb99eabfbe82721_MD5.webp)
 
 
-**Sistemas de suspensión: Coches rígidos, basculantes y pendulares**
+**Suspension Systems: Rigid, Tilting and Pendular Coaches**
 
-La capacidad de inclinación en curvas constituye un parámetro operacional importante que afecta tanto al confort como a la velocidad permisible:
+The ability to tilt in curves constitutes an important operational parameter affecting both comfort and permissible speed:
 
-- **Coches no inclinables**: Utilizan sistemas de suspensión convencional, limitando la velocidad en curvas para garantizar confort adecuado
-- **Coches basculantes**: Incorporan sistemas activos o semiactivos que permiten una inclinación controlada del interior de la caja en curvas, mejorando significativamente el confort y permitiendo mayores velocidades sin incomodidad
-- **Coches pendulares**: Utilizan mecanismos avanzados que permiten máxima inclinación aprovechando el peralte de la vía, permitiendo operación a velocidades superiores en líneas curvas
+- **Non-tilting coaches**: Use conventional suspension systems, limiting speed in curves to guarantee adequate comfort
+- **Tilting coaches (Basculantes)**: Incorporate active or semi-active systems allowing controlled tilting of the carbody interior in curves, significantly improving comfort and allowing higher speeds without discomfort
+- **Pendular coaches**: Use advanced mechanisms allowing maximum tilting leveraging track superelevation (cant), allowing operation at higher speeds on curved lines
 
 ![207100db0c0b04bf72a73ef4edf7cd06_MD5]({{ site.baseurl }}/assets/images/207100db0c0b04bf72a73ef4edf7cd06_MD5.webp)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DbJfSDG_dYU?si=S1LDYZV8iFoq5HQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-SISTEMA ACTIVO PENDOLINO
+ACTIVE PENDOLINO SYSTEM
 ![cd85b1ce1ad829705c6eb72951e34e05_MD5]({{ site.baseurl }}/assets/images/cd85b1ce1ad829705c6eb72951e34e05_MD5.webp)
 
 ![8970700e91f558c83e5f94e9f3854524_MD5]({{ site.baseurl }}/assets/images/8970700e91f558c83e5f94e9f3854524_MD5.webp)
-SISTEMA PASIVO TALGO
+PASSIVE TALGO SYSTEM
 
-### XIV.1. Coches de Viajeros: Características de Diseño y Configuración Operacional
+### XIV.1. Passenger Coaches: Design Characteristics and Operational Configuration
 
-**PARÁMETROS FUNDAMENTALES DE DISEÑO**
+**FUNDAMENTAL DESIGN PARAMETERS**
 
-El diseño de un coche de viajeros se estructura alrededor de varios parámetros críticos que determinan su funcionalidad:
+The design of a passenger coach is structured around several critical parameters determining its functionality:
 
-- **Altura del piso** sobre el nivel de la vía: Afecta la accesibilidad de pasajeros, particularmente personas con movilidad reducida. Los estándares modernos favorecen pisos bajos (alrededor de 550 mm) para acceso sin escaleras en estaciones diseñadas apropiadamente
-- **Número y anchura de puertas**: Determina la capacidad de embarque y desembarque de pasajeros, afectando directamente los tiempos de estación
-- **Distribución y configuración de asientos**: Define la capacidad de pasajeros sentados versus de pie, el confort general, y la versatilidad para diferentes servicios
+- **Floor height** above rail level: Affects passenger accessibility, particularly persons with reduced mobility. Modern standards favor low floors (around 550 mm) for step-free access at appropriately designed stations
+- **Number and width of doors**: Determines passenger boarding and alighting capacity, directly affecting station dwell times
+- **Seating distribution and configuration**: Defines seated versus standing passenger capacity, general comfort, and versatility for different services
 
 ![226c2c450ffcbdab3da6aeea2932efc4_MD5]({{ site.baseurl }}/assets/images/226c2c450ffcbdab3da6aeea2932efc4_MD5.webp)
 ![d26a15601ae89a43b141cfefe34bc126_MD5]({{ site.baseurl }}/assets/images/d26a15601ae89a43b141cfefe34bc126_MD5.webp)
 ![74390899e9623d9de53f2688e630b514_MD5]({{ site.baseurl }}/assets/images/74390899e9623d9de53f2688e630b514_MD5.webp)
 ![97452ae0d1d25340c34e9c9d225d0633_MD5]({{ site.baseurl }}/assets/images/97452ae0d1d25340c34e9c9d225d0633_MD5.webp)
 
-**TIPOLOGÍAS DE COCHES ESPECIALIZADOS**
+**SPECIALIZED COACH TYPOLOGIES**
 
-El transporte de pasajeros ferroviario ha desarrollado múltiples tipologías especializadas de coches, cada una optimizada para funciones operacionales específicas:
+Railway passenger transport has developed multiple specialized coach typologies, each optimized for specific operational functions:
 
-- **Coches de pasajeros estándar**: Constituyen la tipología más común, diseñados para transporte de volumen elevado de pasajeros
-- **Coches salón**: Equipados con disposición de asientos de calidad superior y servicios de bebidas/comidas integrados
-- **Coches departamentos**: Divididos en compartimentos privados para grupos pequeños o viajeros que prefieren privacidad
-- **Coches cama**: Equipados con sistemas de alojamiento nocturno, críticos para trenes de larga distancia internacionales
-- **Coches restaurante o bar**: Dedicados a servicio de alimentos y bebidas, permitiendo que los pasajeros coman sin abandonar el tren
-- **Coches panorámicos**: Equipados con ventanas ampliadas o vistas al exterior para observación del paisaje, típicos en líneas turísticas
-- Múltiples configuraciones especializadas según necesidades operacionales
+- **Standard passenger coaches**: Constitute the most common typology, designed for high volume passenger transport
+- **Lounge coaches (Salón)**: Equipped with superior quality seating layout and integrated food/beverage services
+- **Compartment coaches**: Divided into private compartments for small groups or travelers preferring privacy
+- **Sleeping cars (Coches cama)**: Equipped with overnight accommodation systems, critical for international long-distance trains
+- **Restaurant or bar coaches**: Dedicated to food and beverage service, allowing passengers to eat without leaving the train
+- **Panoramic coaches**: Equipped with enlarged windows or exterior views for landscape observation, typical on tourist lines
+- Multiple specialized configurations according to operational needs
 
 ![1e5c2b77749b18bf42afb0d9f40facdb_MD5]({{ site.baseurl }}/assets/images/1e5c2b77749b18bf42afb0d9f40facdb_MD5.webp)
 
@@ -868,194 +869,194 @@ El transporte de pasajeros ferroviario ha desarrollado múltiples tipologías es
 
 
 
-### XIV.2. Configuraciones Operacionales de Material de Viajeros por Tipo de Servicio
+### XIV.2. Operational Configurations of Passenger Rolling Stock by Service Type
 
-**DISTINCIÓN ENTRE ANCHOS FIJOS Y VARIABLES**
+**DISTINCTION BETWEEN FIXED AND VARIABLE GAUGES**
 
-Los sistemas de ferrocarril español y europeo presentan una característica operacional importante: la existencia de múltiples anchos de vía (ancho ibérico 1668 mm, ancho europeo estándar 1435 mm, ancho métrico 1000 mm). Esto ha generado dos estrategias de diseño:
+Spanish and European railway systems present an important operational characteristic: the existence of multiple track gauges (Iberian gauge 1668 mm, Standard European gauge 1435 mm, Metric gauge 1000 mm). This has generated two design strategies:
 
-- **Sistemas de ancho fijo**: Diseñados para un ancho específico, optimizados para rendimiento pero con limitaciones de interoperabilidad
-- **Sistemas de ancho variable**: Equipados con sistemas de ruedas adaptables que permiten circulación en vías de diferentes anchos, proporcionando máxima flexibilidad pero con ligeras reducciones en rendimiento
+- **Fixed gauge systems**: Designed for a specific gauge, optimized for performance but with interoperability limitations
+- **Variable gauge systems**: Equipped with adaptable wheel systems allowing circulation on tracks of different gauges, providing maximum flexibility but with slight reductions in performance
 
 ![78e8f1827579ad4906a4f9dc4e4adfd7_MD5]({{ site.baseurl }}/assets/images/78e8f1827579ad4906a4f9dc4e4adfd7_MD5.webp)
 
 ![7116d911f9c4fe83c4ce9a6e739e9bac_MD5]({{ site.baseurl }}/assets/images/7116d911f9c4fe83c4ce9a6e739e9bac_MD5.webp)
 
-**ANCHO FIJO**
+**FIXED GAUGE**
 
 ![2ca8d9c19be803f64242917ce875f5e6_MD5]({{ site.baseurl }}/assets/images/2ca8d9c19be803f64242917ce875f5e6_MD5.webp)
 
 ![ea4e8fc7c77c23176a24a077b1a19d37_MD5]({{ site.baseurl }}/assets/images/ea4e8fc7c77c23176a24a077b1a19d37_MD5.webp)
 
-**ANCHO VARIABLE**
+**VARIABLE GAUGE**
 
-#### XIV.2.1. Trenes de Alta Velocidad (AVE): Transporte de Máxima Prestación
+#### XIV.2.1. High Speed Trains (AVE): Maximum Performance Transport
 
-Los trenes de alta velocidad representan la frontera máxima de prestaciones en transporte ferroviario. Diseñados específicamente para operación a velocidades superiores a 300 km/h en líneas de infraestructura muy precisa:
+High-speed trains represent the maximum frontier of performance in railway transport. Specifically designed for operation at speeds exceeding 300 km/h on very precise infrastructure lines:
 
 ![af0133f7ae6eb33cd05ef06cf1dc9031_MD5]({{ site.baseurl }}/assets/images/af0133f7ae6eb33cd05ef06cf1dc9031_MD5.webp)
 ![8c2c771f2cbbc68a4e0c031b9f344aaf_MD5]({{ site.baseurl }}/assets/images/8c2c771f2cbbc68a4e0c031b9f344aaf_MD5.webp)
-Los sistemas de alta velocidad requieren una precisión geométrica extraordinaria en la infraestructura ferroviaria y sistemas de tracción y control muy sofisticados. Las prestaciones dinámicas y el confort del viajero alcanzan niveles sin precedentes.
+High-speed systems require extraordinary geometric precision in railway infrastructure and very sophisticated traction and control systems. Dynamic performance and passenger comfort reach unprecedented levels.
 
 ![152385cc7ac741d6228dd80711fd2adb_MD5]({{ site.baseurl }}/assets/images/152385cc7ac741d6228dd80711fd2adb_MD5.webp)
 ![411e2b8a9e425f909c98263d68728793_MD5]({{ site.baseurl }}/assets/images/411e2b8a9e425f909c98263d68728793_MD5.webp)
 
-#### XIV.2.2. Trenes Alvia: Compatibilidad Multistandar de Larga Distancia
+#### XIV.2.2. Alvia Trains: Long Distance Multi-standard Compatibility
 
-Los trenes Alvia representan una solución operacional importante para servicios de larga distancia que requieren circular en múltiples tramos de infraestructura con diferentes características (velocidades, anchos de vía, electrificación):
+Alvia trains represent an important operational solution for long-distance services requiring circulation on multiple infrastructure sections with different characteristics (speeds, track gauges, electrification):
 
 ![23966bba569c04c040863bdeba1e81f3_MD5]({{ site.baseurl }}/assets/images/23966bba569c04c040863bdeba1e81f3_MD5.webp)
 
-**Serie 120 CAF**: Representan un diseño español de tracción diésel multistandar muy exitoso
+**Series 120 CAF**: Represent a very successful multi-standard diesel traction Spanish design
 
-**Serie 130 Talgo/Bombardier**: Otra solución importante para servicios de larga distancia con compatibilidad de múltiples sistemas
+**Series 130 Talgo/Bombardier**: Another important solution for long-distance services with multiple system compatibility
 
 ![043dd9272845bed22685711491ee131e_MD5]({{ site.baseurl }}/assets/images/043dd9272845bed22685711491ee131e_MD5.webp)
 
-#### XIV.2.3. Trenes Avant: Servicios de Media Distancia Optimizados
+#### XIV.2.3. Avant Trains: Optimized Medium Distance Services
 
-Los trenes Avant están específicamente diseñados para servicios de media distancia, proporcionando un equilibrio entre prestaciones, confort y eficiencia operacional:
+Avant trains are specifically designed for medium-distance services, providing a balance between performance, comfort, and operational efficiency:
 
 ![a47be2d172acc0245fd21985670465d2_MD5]({{ site.baseurl }}/assets/images/a47be2d172acc0245fd21985670465d2_MD5.webp)
 ![2ca8d9c19be803f64242917ce875f5e6_MD5]({{ site.baseurl }}/assets/images/2ca8d9c19be803f64242917ce875f5e6_MD5.webp)
 
 ![95657b4ad78508d972f0f7685ad24391_MD5]({{ site.baseurl }}/assets/images/95657b4ad78508d972f0f7685ad24391_MD5.webp)
 
-**Serie 104 Alstom/CAF**: Diseño moderno de media distancia combinando tracción diésel o eléctrica con capacidad versátil de configuración
+**Series 104 Alstom/CAF**: Modern medium-distance design combining diesel or electric traction with versatile configuration capacity
 
-#### XIV.2.4. Servicios de Media Distancia: Capacidades y Configuraciones
+#### XIV.2.4. Medium Distance Services: Capacities and Configurations
 
-Los servicios de media distancia representan un segmento operacional crítico en redes europeas, proporcionando conectividad regional entre ciudades principales. Las composiciones están diseñadas para operación con frecuencias moderadas pero sobre distancias más extensas que cercanías:
+Medium-distance services represent a critical operational segment in European networks, providing regional connectivity between main cities. Compositions are designed for operation with moderate frequencies but over more extensive distances than commuter services:
 
 ![9218e51805d66b2bb610f488cac72fbe_MD5]({{ site.baseurl }}/assets/images/9218e51805d66b2bb610f488cac72fbe_MD5.webp)
 ![311f89fd1f7638c91629e377fa53a329_MD5]({{ site.baseurl }}/assets/images/311f89fd1f7638c91629e377fa53a329_MD5.webp)
 ![30a8981552f6b012c6754b635a894cd1_MD5]({{ site.baseurl }}/assets/images/30a8981552f6b012c6754b635a894cd1_MD5.webp)
 
-Las características operacionales de servicios de media distancia incluyen:
-- Recorridos típicos de 150-400 km con paradas intermedias en ciudades regionales
-- Configuración de asientos con mayor proporción de plazas de primera clase respecto a cercanías
-- Servicios de catering básicos disponibles en algunos casos
-- Sistemas de tracción optimizados para rendimiento en velocidades de 120-200 km/h
+Operational characteristics of medium-distance services include:
+- Typical journeys of 150-400 km with intermediate stops in regional cities
+- Seating configuration with higher proportion of first-class seats relative to commuter services
+- Basic catering services available in some cases
+- Traction systems optimized for performance at speeds of 120-200 km/h
 
-#### XIV.2.5. Sistemas de Cercanías: Infraestructura de Transporte Metropolitano Masivo
+#### XIV.2.5. Commuter Systems (Cercanías): Massive Metropolitan Transport Infrastructure
 
-Los servicios de cercanías constituyen la espina dorsal de la movilidad en áreas metropolitanas españolas, proporcionando transporte de alta capacidad para desplazamientos de corta distancia (típicamente 10-80 km). La serie Civia y sus variantes representan la solución fundamental para esta función operacional:
+Commuter services constitute the backbone of mobility in Spanish metropolitan areas, providing high-capacity transport for short-distance trips (typically 10-80 km). The Civia series and its variants represent the fundamental solution for this operational function:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x4yl4JjV930?si=D0Y-0CjtQmy-2H6J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Civia (S-462) - Plataforma Base de Transporte Metropolitano**
+**Civia (S-462) - Base Metropolitan Transport Platform**
 
-La serie Civia, designada oficialmente como S-462, constituye la arquitectura fundamental de transporte de cercanías en múltiples áreas metropolitanas españolas:
+The Civia series, officially designated as S-462, constitutes the fundamental architecture of commuter transport in multiple Spanish metropolitan areas:
 
-Características operacionales fundamentales:
-- **Tracción distribuida**: Motores de tracción instalados en múltiples bogies distribuidos a lo largo de la composición, optimizando potencia disponible y reduciendo mantenimiento centralizado
-- **Capacidad de pasajeros**: Aproximadamente 880 pasajeros en composición estándar de 4 coches
-- **Piso bajo integral**: Altura de piso de 550 mm en toda la extensión del vehículo, eliminando barreras arquitectónicas para personas con movilidad reducida
-- **Sistemas de aceleración/desaceleración**: Capacidad de aceleración y frenado rápido requerida para operación de alta frecuencia con múltiples paradas por hora
-- **Puertas múltiples**: Configuración de puertas amplias y frecuentes para minimizar tiempos de estación
+Fundamental operational characteristics:
+- **Distributed traction**: Traction motors installed in multiple bogies distributed along the composition, optimizing available power and reducing centralized maintenance
+- **Passenger capacity**: Approximately 880 passengers in standard 4-coach composition
+- **Integral low floor**: Floor height of 550 mm throughout the vehicle extension, eliminating architectural barriers for persons with reduced mobility
+- **Acceleration/deceleration systems**: Rapid acceleration and braking capacity required for high-frequency operation with multiple stops per hour
+- **Multiple doors**: Configuration of wide and frequent doors to minimize dwell times
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4nHWYWOQQ2U?si=34R2ILdwbORwJYgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### XIV.2.6. Variantes Regionales de Cercanías: Adaptaciones Específicas por Área Metropolitana
+#### XIV.2.6. Regional Commuter Variants: Specific Adaptations by Metropolitan Area
 
-El éxito de la plataforma Civia ha permitido el desarrollo de múltiples variantes adaptadas a requisitos específicos de diferentes operadores y sistemas ferroviarios:
+The success of the Civia platform has allowed the development of multiple variants adapted to specific requirements of different operators and railway systems:
 
 ![7c6f44e591593d1826d69e37b096f406_MD5]({{ site.baseurl }}/assets/images/7c6f44e591593d1826d69e37b096f406_MD5.webp)
 
-Variantes principales incluyen:
-- **Civia Standard Renfe**: Versión base operada principalmente en Renfe con configuración de 4-6 coches
-- **Civia Bilbao (Euskotren)**: Adaptación especial para operador Euskotren en el País Vasco, incorporando especificidades de señalización y control regional
-- **Civia Variantes Angulosas**: Rediseño aerodinámico posterior mejorando eficiencia energética y estética visual
-- **Adaptaciones de Ancho Métrico**: Extensiones de plataforma para líneas de ancho métrico (1000 mm) en regiones específicas
+Main variants include:
+- **Civia Standard Renfe**: Base version operated mainly in Renfe with 4-6 coach configuration
+- **Civia Bilbao (Euskotren)**: Special adaptation for operator Euskotren in the Basque Country, incorporating regional signaling and control specificities
+- **Civia Angled Variants**: Subsequent aerodynamic redesign improving energy efficiency and visual aesthetics
+- **Metric Gauge Adaptations**: Platform extensions for metric gauge lines (1000 mm) in specific regions
 
-#### XIV.2.7. Serie S-447: Composiciones Alternativas de Cercanías Especializadas
+#### XIV.2.7. Series S-447: Specialized Alternative Commuter Compositions
 
-Más allá de la familia Civia, existen composiciones complementarias diseñadas para funciones específicas de cercanías:
+Beyond the Civia family, there are complementary compositions designed for specific commuter functions:
 
 ![4dff0a24d56e393bf3f8f816fce3f7af_MD5]({{ site.baseurl }}/assets/images/4dff0a24d56e393bf3f8f816fce3f7af_MD5.webp)
 
-La serie S-447 y sus variantes proporcionan:
-- Capacidades alternativas de pasajeros (típicamente 600-750 en composiciones de menor longitud)
-- Opciones de configuración interior especializadas para diferentes perfiles de demanda
-- Sistemas de tracción y frenado optimizados para líneas específicas con características geométricas particulares
+The S-447 series and its variants provide:
+- Alternative passenger capacities (typically 600-750 in shorter length compositions)
+- Specialized interior configuration options for different demand profiles
+- Traction and braking systems optimized for specific lines with particular geometric characteristics
 
-#### XIV.2.8. Transporte en Ancho Métrico: Soluciones para Líneas Especializadas
+#### XIV.2.8. Metric Gauge Transport: Solutions for Specialized Lines
 
-Las líneas españolas de ancho métrico (1000 mm), aunque limitadas en extensión, requieren composiciones especializadas adaptadas a estos gálibos más restrictos:
+Spanish metric gauge lines (1000 mm), although limited in extent, require specialized compositions adapted to these more restricted gauges:
 
 ![f6ce4873a5810073cffde5567edfbb12_MD5]({{ site.baseurl }}/assets/images/f6ce4873a5810073cffde5567edfbb12_MD5.webp)
 
-**UTDH-2600 - Primera Generación de Diésel Métrico**
+**UTDH-2600 - First Generation of Metric Diesel**
 
-La serie UTDH-2600 constituyó la primera generación de unidades de tren de diésel en ancho métrico, proporcionando soluciones de transporte regional para líneas de menor volumen:
+The UTDH-2600 series constituted the first generation of metric gauge diesel train units, providing regional transport solutions for lower volume lines:
 
 ![61391205e85bba52f0b0e8996389894d_MD5]({{ site.baseurl }}/assets/images/61391205e85bba52f0b0e8996389894d_MD5.webp)
 
-Características operacionales:
-- Tracción diésel-hidráulica optimizada para pendientes pronunciadas en líneas de montaña
-- Capacidad reducida respecto a sistemas de ancho estándar (típicamente 150-200 pasajeros)
-- Configuración flexible para servicios de pasajeros y pequeños volúmenes de carga
+Operational characteristics:
+- Diesel-hydraulic traction optimized for steep gradients on mountain lines
+- Reduced capacity compared to standard gauge systems (typically 150-200 passengers)
+- Flexible configuration for passenger services and small freight volumes
 
 ![a2334eb2681eb4ee177d5f5a5f85a9dd_MD5]({{ site.baseurl }}/assets/images/a2334eb2681eb4ee177d5f5a5f85a9dd_MD5.webp)
 
-**UTDH-2900 (Bicabina) - Segunda Generación con Doble Cabina de Conducción**
+**UTDH-2900 (Bi-cab) - Second Generation with Double Driving Cab**
 
-La serie UTDH-2900 representó una evolución significativa, incorporando dos cabinas de conducción (permitiendo operación sin vuelta de locomotora en terminales) y sistemas modernizados:
+The UTDH-2900 series represented a significant evolution, incorporating two driving cabs (allowing operation without locomotive turnaround at terminals) and modernized systems:
 
 ![62a2eecf3613ff67bf12796627f0842b_MD5]({{ site.baseurl }}/assets/images/62a2eecf3613ff67bf12796627f0842b_MD5.webp)
 
-Mejoras operacionales incluyen:
-- Doble cabina de conducción para eficiencia de terminales
-- Sistemas de frenado mejorados con regeneración cuando es posible
-- Automatización de procesos operacionales reduciendo requisitos de personal
-- Mejora significativa en confort de pasajeros respecto a generación anterior
+Operational improvements include:
+- Double driving cab for terminal efficiency
+- Improved braking systems with regeneration where possible
+- Automation of operational processes reducing personnel requirements
+- Significant improvement in passenger comfort compared to previous generation
 
 ![348f318192dec57b9ae77a6ac43e4c51_MD5]({{ site.baseurl }}/assets/images/348f318192dec57b9ae77a6ac43e4c51_MD5.webp)
 
-**UTE-3800 y UTE-3600 - Generaciones Modernas de Tracción Eléctrica**
+**UTE-3800 and UTE-3600 - Modern Electric Traction Generations**
 
-Para líneas de ancho métrico electrificadas, las series UTE-3800 y UTE-3600 proporcionan soluciones de energía limpia:
+For electrified metric gauge lines, the UTE-3800 and UTE-3600 series provide clean energy solutions:
 
-- **UTE-3800**: Sistema de tracción eléctrica de corriente alterna moderna, proporcionando eficiencia energética máxima y capacidades de regeneración avanzadas
-- **UTE-3600**: Variante optimizada con configuración flexible de composición, permitiendo adaptación a demandas específicas de volumen y frecuencia
+- **UTE-3800**: Modern alternating current electric traction system, providing maximum energy efficiency and advanced regeneration capabilities
+- **UTE-3600**: Optimized variant with flexible composition configuration, allowing adaptation to specific volume and frequency demands
 
-Ambas series incorporan:
-- Sistemas de tracción asincrónica de tres fases
-- Capacidades mejoradas de aceleración y frenado respecto a diésel
-- Interfaces de control compatible con sistemas europeos de señalización
-- Piso bajo integral facilitando acceso sin barreras
+Both series incorporate:
+- Three-phase asynchronous traction systems
+- Improved acceleration and braking capabilities compared to diesel
+- Control interfaces compatible with European signaling systems
+- Integral low floor facilitating barrier-free access
 
 ![e0f3984bd9cd4d1871812a7da1ec7d78_MD5]({{ site.baseurl }}/assets/images/e0f3984bd9cd4d1871812a7da1ec7d78_MD5.webp)
 ![0d68640ae870ed73f1dc0863944b5fc6_MD5]({{ site.baseurl }}/assets/images/0d68640ae870ed73f1dc0863944b5fc6_MD5.webp)
 
-## Preguntas de repaso
+## Review Questions
 
 <div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
-   question="¿Cuál es la diferencia fundamental entre trenes de tracción concentrada y trenes de tracción distribuida?"
-   answer="En la **tracción concentrada**, la motricidad reside en locomotoras independientes; en la **tracción distribuida**, los motores se reparten a lo largo de coches-motor en la composición (ej. Civia, Alaris)."
+   question="What is the fundamental difference between concentrated traction trains and distributed traction trains?"
+   answer="In **concentrated traction**, motive power resides in independent locomotives; in **distributed traction**, motors are distributed throughout motor coaches in the composition (e.g., Civia, Alaris)."
 %}
 {% include flashcard.html
-   question="¿Qué ventajas ofrece la electrificación ferroviaria frente a la tracción diésel?"
-   answer="Mayor **rendimiento energético**, ausencia de emisiones locales, menores costos operacionales a largo plazo y mejor capacidad de aceleración."
+   question="What advantages does railway electrification offer versus diesel traction?"
+   answer="Higher **energy efficiency**, absence of local emissions, lower long-term operational costs, and better acceleration capability."
 %}
 {% include flashcard.html
-   question="¿Qué función principal desempeña el \"bogie\" en un vehículo ferroviario?"
-   answer="Es la estructura de **soporte dinámico** que alberga los ejes y ruedas, permitiendo la inscripción en curvas, la suspensión de la caja y (en vehículos motores) la transmisión de tracción."
+   question="What main function does the \"bogie\" perform in a railway vehicle?"
+   answer="It is the **dynamic support structure** housing axles and wheels, allowing curve inscription, carbody suspension, and (in motor vehicles) traction transmission."
 %}
 {% include flashcard.html
-   question="¿Qué característica define a los vagones de mercancías \"schnabel\"?"
-   answer="Su diseño con forma de pico para transportar **cargas extraordinarias** de gran peso y dimensión, permitiendo aprovechar al máximo el gálibo disponible."
+   question="What characteristic defines \"schnabel\" freight wagons?"
+   answer="Their design with a beak shape for transporting **extraordinary loads** of great weight and dimension, allowing maximum utilization of available gauge."
 %}
 {% include flashcard.html
-   question="¿Qué es el gálibo dinámico en el contexto ferroviario?"
-   answer="La **envolvente geométrica** máxima que ocupa un vehículo en movimiento, integrando su perfil constructivo, desplazamientos por suspensión, curvas, peraltes y márgenes de seguridad."
+   question="What is the dynamic gauge in the railway context?"
+   answer="The maximum **geometric envelope** occupied by a moving vehicle, integrating its constructive profile, suspension displacements, curves, cant, and safety margins."
 %}
 </div>
 
-## Bibliografía
+## Bibliography
 
-La presente documentación técnica ha sido desarrollada basándose en referencias académicas, normativas de operación ferroviaria, y especificaciones técnicas de fabricantes reconocidos en el sector:
+The present technical documentation has been developed based on academic references, railway operation regulations, and technical specifications from recognized manufacturers in the sector:
 
 - Fernandez Undabarrena, P.I. (2022) Prestaciones del Materia Rodante. Apuntes del Máster en Ingeniería Ferroviaria. Universidad de CantabriaMafex.
 - García Álvarez, A. (2022) Manual de ferrocarriles. El sistema ferroviario español. Ed. Garceta.

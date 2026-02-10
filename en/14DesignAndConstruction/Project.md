@@ -1,17 +1,17 @@
 ---
 layout: home
-title: 14. Proyecto
+title: 14. Project
 lang: en
 permalink: /en/14Proyecto/
 nav_order: 14
 parent: Start
 ---
 
-# Ingeniería de Proyectos y Construcción Ferroviaria: Marco Normativo, Trazado, Instalaciones y Métodos de Ejecución en la Red de Adif
+# Railway Project Engineering and Construction: Regulatory Framework, Layout, Installations and Execution Methods in the ADIF Network
 ---
 <details open markdown="block">
 <summary>
-Índice de contenidos
+Table of Contents
 </summary>
 {: .text-delta }
 1. TOC
@@ -20,268 +20,268 @@ parent: Start
 
 ---
 
-La infraestructura ferroviaria en el Estado español representa uno de los activos más complejos y estratégicos de la nación, cuya gestión, mantenimiento y expansión son responsabilidad del **Administrador de Infraestructuras Ferroviarias (ADIF)** y de **ADIF Alta Velocidad (ADIF AV)**. La producción de proyectos técnicos en este sector no constituye únicamente un ejercicio de ingeniería civil o industrial, sino que se erige como el eje vertebrador que garantiza la seguridad operacional, la eficiencia económica y la interoperabilidad técnica dentro de la **Red Ferroviaria de Interés General (RFIG)**. Este informe analiza exhaustivamente la naturaleza, tipología y contenidos de los proyectos de ADIF, basándose en la normativa técnica vigente, las Instrucciones Generales de Proyectos (IGP) y las Normas ADIF General (NAG).
+Railway infrastructure in the Spanish State represents one of the nation's most complex and strategic assets, whose management, maintenance and expansion are the responsibility of the **Administrator of Railway Infrastructures (ADIF)** and **ADIF High Speed (ADIF AV)**. The production of technical projects in this sector is not solely an exercise in civil or industrial engineering, but stands as the backbone ensuring operational safety, economic efficiency and technical interoperability within the **General Interest Railway Network (RFIG)**. This report comprehensively analyzes the nature, typology and contents of ADIF projects, based on current technical regulations, the General Project Instructions (IGP) and the General ADIF Standards (NAG).
 
-## Capítulo I. Fundamentación legal y marco de gobernanza técnica
+## Chapter I. Legal Foundation and Technical Governance Framework
 
-El desarrollo de cualquier actuación sobre la infraestructura ferroviaria está indisolublemente ligado a la **Ley 38/2015 del Sector Ferroviario** y a su Reglamento de desarrollo, el **Real Decreto 2387/2004**. Estos textos legales establecen que la administración de las infraestructuras ferroviarias incluye la planificación, la construcción y el mantenimiento de las líneas, estaciones, terminales y otros elementos necesarios para la explotación ferroviaria.[^2] En este contexto, el proyecto técnico actúa como el documento habilitante que transforma la planificación estratégica en realidad física.
+The development of any action on railway infrastructure is inextricably linked to **Law 38/2015 on the Railway Sector** and its implementing Regulation, **Royal Decree 2387/2004**. These legal texts establish that the administration of railway infrastructures includes the planning, construction and maintenance of lines, stations, terminals and other elements necessary for railway operation.[^2] In this context, the technical project acts as the enabling document that transforms strategic planning into physical reality.
 
-La aprobación de un proyecto de delimitación y utilización de espacios ferroviarios por parte del Ministerio de Transportes conlleva implícita la **declaración de utilidad pública** y la necesidad de ocupación de los bienes necesarios, lo que otorga al proyecto una relevancia jurídica de primer orden en los procesos expropiatorios y de ordenación del territorio.[^1] Asimismo, la normativa técnica interna de ADIF, aprobada por su Comité de Normativa, asegura que todos los proyectos mantengan una homogeneidad técnica indispensable para que la red funcione como un sistema integrado y seguro.[^5]
+The approval of a project for the delimitation and use of railway spaces by the Ministry of Transport implies the **declaration of public utility** and the need for occupation of necessary goods, giving the project a legal relevance of the first order in expropriation and land use planning processes.[^1] Likewise, ADIF's internal technical regulations, approved by its Standards Committee, ensure that all projects maintain an indispensable technical homogeneity for the network to function as an integrated and safe system.[^5]
 
-| Elemento Normativo                                   | Función Principal en la Gestión de Proyectos                                       | Referencia Base |
-| :--------------------------------------------------- | :--------------------------------------------------------------------------------- | :-------------- |
-| Ley 38/2015 del Sector Ferroviario                   | Marco legal superior que define las competencias y el dominio público ferroviario. | [^1]            |
-| RD 2387/2004 (Reglamento)                            | Desarrollo de la gestión de infraestructuras y servicios adicionales.              | [^2]            |
-| Normas ADIF General (NAG)                            | Directrices transversales sobre contenido, presentación y gestión de proyectos.    | [^3]            |
-| Instrucciones Generales de Proyectos (IGP)           | Especificaciones técnicas sectoriales (geotecnia, trazado, túneles, etc.).         | [^4]            |
-| Especificaciones Técnicas de Interoperabilidad (ETI) | Normativa europea para asegurar la compatibilidad de los sistemas ferroviarios.    | [^3]            |
+| Regulatory Element | Main Function in Project Management | Base Reference |
+| :--- | :--- | :--- |
+| Law 38/2015 on the Railway Sector | Superior legal framework defining competencies and railway public domain. | [^1] |
+| RD 2387/2004 (Regulation) | Development of infrastructure management and additional services. | [^2] |
+| General ADIF Standards (NAG) | Transversal guidelines on content, presentation and project management. | [^3] |
+| General Project Instructions (IGP) | Sectoral technical specifications (geotechnics, layout, tunnels, etc.). | [^4] |
+| Technical Specifications for Interoperability (TSI) | European regulations to ensure compatibility of railway systems. | [^3] |
 
-## Capítulo II. Definición y concepto del proyecto ferroviario
+## Chapter II. Definition and Concept of Railway Project
 
-En el ámbito de ADIF, un proyecto se define como el conjunto de documentos técnicos que determinan de forma exhaustiva las características de las obras o instalaciones a realizar, justificando técnica y económicamente la solución adoptada.[^3] Un principio fundamental es el de **"obra completa"**, lo que significa que el proyecto debe definir todas las actuaciones necesarias para que la infraestructura o instalación sea funcionalmente operativa tras su ejecución, cumpliendo con los objetivos de seguridad y fiabilidad que motivaron su redacción.[^3]
+In the ADIF context, a project is defined as the set of technical documents that exhaustively determine the characteristics of the works or installations to be carried out, technically and economically justifying the adopted solution.[^3] A fundamental principle is that of **"complete work"**, meaning the project must define all actions necessary for the infrastructure or installation to be functionally operative after its execution, complying with the safety and reliability objectives that motivated its drafting.[^3]
 {: .highlight }
 
-El proyecto no es solo una guía para la construcción, sino una pieza clave de la gestión de activos. Debe contemplar no solo la fase de ejecución, sino también la integración ambiental, la seguridad de los trabajadores, la gestión de los residuos generados y las particularidades del mantenimiento futuro de los elementos proyectados.[^3] Esta visión integral asegura que el **ciclo de vida** de la infraestructura se gestione de forma eficiente desde la fase de diseño.
+The project is not only a guide for construction, but a key piece of asset management. It must contemplate not only the execution phase, but also environmental integration, worker safety, management of generated waste and particularities of future maintenance of projected elements.[^3] This comprehensive vision ensures that the **lifecycle** of the infrastructure is managed efficiently from the design phase.
 
-### Taxonomía de los proyectos en la red de ADIF
+### Taxonomy of Projects in the ADIF Network
 
-La clasificación de los proyectos responde a la diversidad de activos y a las distintas fases del proceso constructivo. La norma NAG 3-0-0.0 establece el ámbito de aplicación para proyectos que afecten a infraestructura, vía, energía, instalaciones de seguridad y comunicaciones, estaciones y terminales.[^3]
+The classification of projects responds to the diversity of assets and the different phases of the construction process. Standard NAG 3-0-0.0 establishes the scope of application for projects affecting infrastructure, track, energy, safety and communications installations, stations and terminals.[^3]
 
-La red ferroviaria se divide en subsistemas, cada uno con requisitos técnicos específicos que deben quedar reflejados en la redacción del proyecto.
+The railway network is divided into subsystems, each with specific technical requirements that must be reflected in the project drafting.
 
-* **Proyectos de Infraestructura y Vía**: Se centran en la **plataforma ferroviaria**, incluyendo movimientos de tierras, túneles, viaductos y la **superestructura** (carriles, traviesas, balasto y aparatos de vía).[^5] Estos proyectos deben seguir las directrices de las Normas ADIF Plataforma (NAP) y las IGPs de geotecnia e hidrología.[^4]  
-* **Proyectos de Energía**: Abordan los sistemas de electrificación, incluyendo la **catenaria** (línea aérea de contacto), las **subestaciones de tracción** y los sistemas de telemando de energía.[^3] La interoperabilidad en este subsistema es crítica para permitir la circulación de diferentes tipos de trenes.  
-* **Proyectos de Control, Mando y Señalización (CMS)**: Son proyectos de alta complejidad tecnológica que incluyen los sistemas de bloqueo, enclavamientos (eléctricos o electrónicos) y los sistemas de protección del tren como el **ASFA** o el **ERTMS**.[^10]  
-* **Proyectos de Telecomunicaciones**: Definen las redes de fibra óptica y los sistemas de comunicaciones móviles ferroviarias (**GSM-R**) necesarios para la explotación y la seguridad en la circulación.[^9]  
-* **Proyectos de Edificación Ferroviaria**: Referidos a estaciones, terminales de mercancías y edificios técnicos. Estos proyectos se rigen por la norma NAG 3-0-2.0, adaptando el Código Técnico de la Edificación al entorno ferroviario.[^10]
+* **Infrastructure and Track Projects**: Focus on the **railway platform**, including earthworks, tunnels, viaducts and the **superstructure** (rails, sleepers, ballast and track apparatus).[^5] These projects must follow the guidelines of the ADIF Platform Standards (NAP) and the IGPs for geotechnics and hydrology.[^4]
+* **Energy Projects**: Address electrification systems, including the **catenary** (overhead contact line), **traction substations** and energy remote control systems.[^3] Interoperability in this subsystem is critical to allow the circulation of different train types.
+* **Control, Command and Signalling (CCS) Projects**: Are projects of high technological complexity including block systems, interlockings (electrical or electronic) and train protection systems like **ASFA** or **ERTMS**.[^10]
+* **Telecommunications Projects**: Define fiber optic networks and mobile railway communication systems (**GSM-R**) necessary for operation and circulation safety.[^9]
+* **Railway Building Projects**: Refer to stations, freight terminals and technical buildings. These projects are governed by standard NAG 3-0-2.0, adapting the Building Technical Code to the railway environment.[^10]
 
 
 ![da01848cc0ff84a299cd8ba9613b98f5_MD5]({{ site.baseurl }}/assets/images/da01848cc0ff84a299cd8ba9613b98f5_MD5.png)
 
-### Tipos de proyectos según su alcance y fase de desarrollo
+### Types of Projects According to Scope and Development Phase
 
-La progresión de una actuación ferroviaria suele dividirse en dos niveles de definición técnica: el **Proyecto Básico** y el **Proyecto de Construcción**.[^5]
+The progression of a railway action is usually divided into two levels of technical definition: the **Basic Project** and the **Construction Project**.[^5]
 
-| Característica | Proyecto Básico (o de Trazado) | Proyecto de Construcción (o de Ejecución) |
-| :---- | :---- | :---- |
-| **Objetivo** | Definición general, obtención de licencias, expropiaciones y declaración de utilidad pública. | Definición detallada para la ejecución de las obras y licitación. |
-| **Contenido Técnico** | Memoria descriptiva, planos generales, valoración global por capítulos. | Memoria y anejos técnicos detallados, planos de ejecución, pliego, presupuesto unitario. |
-| **Nivel de Detalle** | Conceptual y funcional. No permite por sí solo el inicio de la obra. | Ejecutivo. Permite la construcción exacta sin consultas adicionales. |
-| **Documentos Firma** | Memoria, Planos y Valoración. | Memoria, Anejos, Planos, Pliego y Presupuesto. |
-| **Referencia** | [^3] | [^3] |
+| Characteristic | Basic Project (or Layout Project) | Construction Project (or Execution Project) |
+| :--- | :--- | :--- |
+| **Objective** | General definition, obtaining licenses, expropriations and declaration of public utility. | Detailed definition for the execution of works and tendering. |
+| **Technical Content** | Descriptive report, general plans, global valuation by chapters. | Detailed technical report and annexes, execution plans, specifications, unit budget. |
+| **Level of Detail** | Conceptual and functional. Does not by itself allow the start of work. | Executive. Allows exact construction without additional consultations. |
+| **Signature Documents** | Report, Plans and Valuation. | Report, Annexes, Plans, Specifications and Budget. |
+| **Reference** | [^3] | [^3] |
 
 
 
 ![74b69760e95e13171c37feb1a2a70b34_MD5]({{ site.baseurl }}/assets/images/74b69760e95e13171c37feb1a2a70b34_MD5.jpg)
 
-### Actuaciones en Red Convencional frente a Alta Velocidad
+### Actions in Conventional Network vs High Speed
 
-La naturaleza del proyecto varía significativamente dependiendo de si la actuación se sitúa en la red convencional (generalmente ancho ibérico de 1668 mm) o en la red de alta velocidad (ancho estándar de 1435 mm).[^9]
+The nature of the project varies significantly depending on whether the action is located in the conventional network (generally Iberian gauge of 1668 mm) or in the high-speed network (standard gauge of 1435 mm).[^9]
 
-En la **Red de Alta Velocidad**, los proyectos están fuertemente condicionados por las **Especificaciones Técnicas de Interoperabilidad (ETI)**. Los parámetros de trazado (radios de curvatura, pendientes máximas) son mucho más estrictos para permitir velocidades de 300 km/h o superiores.[^9] La infraestructura debe ser diseñada para soportar mayores esfuerzos dinámicos, y los sistemas de señalización son exclusivamente de última generación (**ERTMS**).[^9]
+In the **High Speed Network**, projects are strongly conditioned by the **Technical Specifications for Interoperability (TSI)**. Layout parameters (curve radii, maximum gradients) are much stricter to allow speeds of 300 km/h or higher.[^9] The infrastructure must be designed to withstand greater dynamic forces, and signaling systems are exclusively next-generation (**ERTMS**).[^9]
 
-En la **Red Convencional**, los proyectos suelen enfocarse en la renovación de activos, la supresión de pasos a nivel y la mejora de la fiabilidad.[^9] Existe una mayor variabilidad en los parámetros técnicos debido a la adaptación a trazados históricos y a la coexistencia de diferentes sistemas de tracción (diésel y eléctrica) y señalización.[^9]
+In the **Conventional Network**, projects usually focus on asset renewal, level crossing suppression and reliability improvement.[^9] There is greater variability in technical parameters due to adaptation to historical layouts and the coexistence of different traction systems (diesel and electric) and signaling.[^9]
 
-### Ciclo de Vida Administrativo del Proyecto
+### Administrative Lifecycle of the Project
 
-Un proyecto técnico de ADIF debe superar varias fases administrativas antes de su ejecución.
+An ADIF technical project must pass several administrative phases before its execution.
 
-1. **Supervisión de Proyectos**: Las Oficinas de Supervisión verifican que el proyecto cumple con la normativa técnica, legal y presupuestaria. Esta supervisión es preceptiva para proyectos de gran cuantía o complejidad estructural.[^3]  
-2. **Aprobación Técnica**: Acto administrativo por el cual ADIF valida y asume el contenido del proyecto a todos los efectos legales y técnicos.[^3]  
-3. **Replanteo**: Antes de licitar la obra, se realiza el replanteo para asegurar que los terrenos son disponibles y la obra es viable. Tras la adjudicación, se firma el Acta de Replanteo que marca el inicio del plazo de ejecución.[^2]  
-4. **Validación de Productos**: Si el proyecto incorpora nuevos componentes o materiales ferroviarios, estos deben superar un proceso de validación técnica que puede incluir pruebas en vía en entornos reales.[^5]
+1. **Project Supervision**: Supervision Offices verify that the project complies with technical, legal and budgetary regulations. This supervision is mandatory for projects of large amount or structural complexity.[^3]
+2. **Technical Approval**: Administrative act by which ADIF validates and assumes the project content for all legal and technical purposes.[^3]
+3. **Staking Out (Replanteo)**: Before tendering the work, staking out is performed to ensure land is available and the work is viable. After adjudication, the Staking Out Act is signed marking the start of the execution period.[^2]
+4. **Product Validation**: If the project incorporates new railway components or materials, these must pass a technical validation process which may include track tests in real environments.[^5]
 
-## Capítulo III. Documento Nº 1: Memoria y Anejos
+## Chapter III. Document No. 1: Report and Annexes
 
-La **Memoria** y sus **Anejos** constituyen el cuerpo intelectual del proyecto, donde se justifica la necesidad de la obra, se analizan las alternativas y se desarrolla el soporte técnico de las soluciones adoptadas.[^3]
+The **Report** and its **Annexes** constitute the intellectual body of the project, where the need for the work is justified, alternatives are analyzed and the technical support for adopted solutions is developed.[^3]
 {: .highlight }
 
-### Estructura y contenido de la Memoria descriptiva
+### Structure and Content of the Descriptive Report
 
-La Memoria debe presentar un orden cronológico y lógico que permita a cualquier técnico ajeno al proyecto comprender la génesis y el desarrollo de la solución.[^3] Los apartados obligatorios incluyen:
+The Report must present a chronological and logical order allowing any technician external to the project to understand the genesis and development of the solution.[^3] Mandatory sections include:
 
-1. **Objeto del Proyecto**: Definición clara y concisa de la finalidad de las obras e instalaciones proyectadas.[^3]  
-2. **Antecedentes Administrativos y Técnicos**: Relación de planes de inversión, convenios con ayuntamientos o comunidades autónomas, así como informes de inspección, historial de averías o fin de vida útil de los activos que justifican la intervención.[^3]  
-3. **Situación Actual**: Descripción del estado de la infraestructura o instalación previa a la actuación, identificando las deficiencias o necesidades de mejora.[^3]  
-4. **Descripción de las Obras**: Resumen técnico de la actuación, detallando la solución adoptada y su justificación frente a otras alternativas posibles.[^3]  
-5. **Interoperabilidad**: Justificación de que el proyecto cumple con las ETIs aplicables o, en su defecto, análisis de la no afección a los parámetros de interoperabilidad.[^3]  
-6. **Plazo de Ejecución**: Justificación del tiempo estimado para la realización de las obras, considerando los rendimientos y los condicionantes de la explotación ferroviaria.[^3]  
-7. **Presupuesto**: Resumen de las distintas valoraciones económicas (PEM, PEC, VEC, PCA).[^3]
+1. **Object of the Project**: Clear and concise definition of the purpose of projected works and installations.[^3]
+2. **Administrative and Technical Background**: List of investment plans, agreements with city councils or autonomous communities, as well as inspection reports, history of breakdowns or end of useful life of assets justifying the intervention.[^3]
+3. **Current Situation**: Description of the state of the infrastructure or installation prior to the action, identifying deficiencies or improvement needs.[^3]
+4. **Description of the Works**: Technical summary of the action, detailing the adopted solution and its justification against other possible alternatives.[^3]
+5. **Interoperability**: Justification that the project complies with applicable TSIs or, failing that, analysis of non-affection to interoperability parameters.[^3]
+6. **Execution Term**: Justification of estimated time for work completion, considering yields and railway operation constraints.[^3]
+7. **Budget**: Summary of different economic valuations (PEM, PEC, VEC, PCA).[^3]
 
-### Anejos Técnicos: El soporte científico del diseño
+### Technical Annexes: Scientific Design Support
 
-Los anejos son documentos independientes que desarrollan aspectos específicos del proyecto. La normativa de ADIF y las IGPs establecen un listado de anejos requeridos según la naturaleza del proyecto.[^3]
+Annexes are independent documents developing specific aspects of the project. ADIF regulations and IGPs establish a list of required annexes depending on project nature.[^3]
 
-* **Anejo de Cartografía y Topografía**: Define la **base geométrica** del proyecto. Es fundamental para asegurar que las obras se ubican correctamente en el espacio y para el cálculo preciso de volúmenes de tierras.[^5]  
-* **Anejo de Geología y Geotecnia**: Estudio del terreno sobre el que se asienta la infraestructura. Incluye ensayos de laboratorio, sondeos y recomendaciones sobre la cimentación de estructuras y la estabilidad de taludes.[^4]  
-* **Anejo de Hidrología y Drenaje**: Análisis del comportamiento del agua en el entorno de la vía. Define el dimensionamiento de las obras de drenaje transversal (pontones, tajeas) y longitudinal (cunetas) para evitar inundaciones o erosión de la plataforma.[^5]  
-* **Anejo de Trazado**: Justificación geométrica de la vía en planta y alzado, asegurando que se cumplen los parámetros de velocidad, confort y seguridad (radios, peraltes, transiciones).[^5]  
-* **Anejo de Estructuras**: Contiene los cálculos estructurales de puentes, viaductos, muros y túneles, justificando la resistencia de los materiales y la estabilidad del conjunto.[^3]  
-* **Anejo de Expropiaciones**: Documento crítico para la gestión territorial. Incluye la relación de bienes y derechos afectados (RBDA), planos parcelarios y la valoración de las indemnizaciones.[^4]  
-* **Anejo de Servicios Afectados y Reposiciones**: Identificación de líneas eléctricas, tuberías de agua, redes de gas o telecomunicaciones ajenas que deben ser desviadas o protegidas durante la obra.[^3]  
-* **Anejo de Interoperabilidad**: De carácter obligatorio, este anejo debe incluir las tablas de análisis de cumplimiento de los parámetros establecidos en las ETIs correspondientes.[^3]  
-* **Anejo de Análisis de Riesgos y Adaptación al Cambio Climático**: Según la norma NAG 4-0-0.0, evalúa la vulnerabilidad de la infraestructura ante eventos climáticos extremos y propone medidas de resiliencia.[^3]  
-* **Anejo de Particularidades del Mantenimiento**: Describe las operaciones necesarias para conservar los nuevos activos en condiciones óptimas durante su vida útil.[^3]
+* **Cartography and Topography Annex**: Defines the **geometric basis** of the project. Essential to ensure works are correctly located in space and for precise calculation of earth volumes.[^5]
+* **Geology and Geotechnics Annex**: Study of the ground on which the infrastructure sits. Includes laboratory tests, boreholes and recommendations on structure foundations and slope stability.[^4]
+* **Hydrology and Drainage Annex**: Analysis of water behavior in the track environment. Defines sizing of transversal drainage works (culverts, pipes) and longitudinal (ditches) to prevent flooding or platform erosion.[^5]
+* **Layout Annex**: Geometric justification of the track in plan and profile, ensuring compliance with speed, comfort and safety parameters (radii, cants, transitions).[^5]
+* **Structures Annex**: Contains structural calculations for bridges, viaducts, walls and tunnels, justifying material resistance and overall stability.[^3]
+* **Expropriations Annex**: Critical document for territorial management. Includes list of affected goods and rights (RBDA), parcel plans and valuation of compensations.[^4]
+* **Affected Services and Replacements Annex**: Identification of power lines, water pipes, gas networks or third-party telecommunications that must be diverted or protected during work.[^3]
+* **Interoperability Annex**: Mandatory character, this annex must include compliance analysis tables for parameters established in corresponding TSIs.[^3]
+* **Risk Analysis and Climate Change Adaptation Annex**: According to standard NAG 4-0-0.0, evaluates infrastructure vulnerability to extreme weather events and proposes resilience measures.[^3]
+* **Maintenance Particularities Annex**: Describes necessary operations to conserve new assets in optimal conditions during their useful life.[^3]
 
-### Integración Ambiental y Gestión de Residuos
+### Environmental Integration and Waste Management
 
-La normativa **IGP-6** y la reciente **NAG 4-0-3.0** establecen unos requisitos ambientales muy estrictos para los proyectos ferroviarios, buscando minimizar el impacto ecológico y paisajístico.[^7]
+Regulation **IGP-6** and the recent **NAG 4-0-3.0** establish very strict environmental requirements for railway projects, seeking to minimize ecological and landscape impact.[^7]
 
 
 ![3913edad2ec43dbb14346d7ff7e9ff0a_MD5]({{ site.baseurl }}/assets/images/3913edad2ec43dbb14346d7ff7e9ff0a_MD5.jpg)
 
-#### El Anejo de Integración Ambiental
+#### Environmental Integration Annex
 
-Este anejo debe incorporar las medidas dictadas por la **Declaración de Impacto Ambiental (DIA)**. Aspectos como la protección de acuíferos, la creación de pasos de fauna, la restauración de taludes y la instalación de pantallas acústicas deben estar definidos con planos de detalle y presupuesto propio.[^7] Un elemento fundamental es el **jalonamiento** de la zona de ocupación para prohibir el acceso de maquinaria a zonas de alta sensibilidad ambiental.[^7]
+This annex must incorporate measures dictated by the **Environmental Impact Declaration (DIA)**. Aspects such as aquifer protection, creation of wildlife crossings, slope restoration and acoustic screen installation must be defined with detail plans and own budget.[^7] A fundamental element is the **demarcation** of the occupation zone to prohibit machinery access to highly sensitive environmental areas.[^7]
 
 
 ![2329e871bd4adb63029ca145ad6e26ee_MD5]({{ site.baseurl }}/assets/images/2329e871bd4adb63029ca145ad6e26ee_MD5.jpg)
 
-#### El Estudio de Gestión de Residuos de Construcción y Demolición (RCD)
+#### Construction and Demolition Waste Management Study (RCD)
 
-Todo proyecto debe incluir un estudio detallado que identifique y cuantifique los **residuos** que se generarán.[^8]
+Every project must include a detailed study identifying and quantifying **waste** that will be generated.[^8]
 
-* **Identificación**: Uso de códigos LER para cada residuo (tierras, hormigón, metal, madera).[^8]  
-* **Estimación**: Cálculo de volúmenes y pesos basados en las mediciones del proyecto.[^8]  
-* **Valoración**: Coste previsto para la gestión (transporte a vertedero, canon de vertido o valorización en planta).[^8]  
-* **Residuos con Valor Comercial**: ADIF presta especial atención a materiales como el carril o la catenaria vieja, que pueden generar ingresos por venta de chatarra, los cuales deben quedar reflejados en el estudio.[^8]
+* **Identification**: Use of LER codes for each waste (soil, concrete, metal, wood).[^8]
+* **Estimation**: Volume and weight calculation based on project measurements.[^8]
+* **Valuation**: Forecasted cost for management (transport to landfill, dumping fee or plant valorization).[^8]
+* **Waste with Commercial Value**: ADIF pays special attention to materials like rail or old catenary, which can generate revenue from scrap sales, which must be reflected in the study.[^8]
 
 
 ![35788f9a29aaee2a2f7d7c31b81356e0_MD5]({{ site.baseurl }}/assets/images/35788f9a29aaee2a2f7d7c31b81356e0_MD5.jpg)
 
-### Seguridad y Salud: La Norma NAG 7-0-0.0
+### Safety and Health: Standard NAG 7-0-0.0
 
-La seguridad es el pilar fundamental del sistema ferroviario. El **Estudio de Seguridad y Salud (ESS)** es un documento integral dentro del proyecto que busca prevenir accidentes durante la fase de construcción.[^6]
+Safety is the fundamental pillar of the railway system. The **Health and Safety Study (ESS)** is an integral document within the project seeking to prevent accidents during the construction phase.[^6]
 ![88af70a01c93fb414c8523e3a0fdec19_MD5]({{ site.baseurl }}/assets/images/88af70a01c93fb414c8523e3a0fdec19_MD5.webp)
-Según la norma **NAG 7-0-0.0**, el ESS debe ser un documento real, completo y ajustado a la complejidad de la obra, analizando los riesgos específicos del entorno ferroviario.[^6]
+According to standard **NAG 7-0-0.0**, the ESS must be a real, complete document adjusted to the work complexity, analyzing specific risks of the railway environment.[^6]
 
-| Riesgo Especial en ADIF | Medidas Preventivas y Anejos Específicos | Referencia |
-| :---- | :---- | :---- |
-| Arrollamiento por trenes | Procedimientos de corte de vía, vigía ferroviario y señalización acústica. | [^6] |
-| Contacto eléctrico | Protocolos de proximidad a catenaria y líneas de alta tensión; puestas a tierra. | [^4] |
-| Trabajos en túneles | Control de atmósfera, ventilación forzada y planes de evacuación. | [^4] |
-| Caída a distinto nivel | Requisitos para barandillas, redes de seguridad y andamios certificados. | [^6] |
-| Servicios afectados | Localización y señalización de cables de señalización y fibra óptica enterrados. | [^3] |
+| Special Risk in ADIF | Preventive Measures and Specific Annexes | Reference |
+| :--- | :--- | :--- |
+| Being run over by trains | Track cut procedures, railway lookout and acoustic signaling. | [^6] |
+| Electrical contact | Proximity protocols to catenary and high voltage lines; earthing. | [^4] |
+| Tunnel works | Atmosphere control, forced ventilation and evacuation plans. | [^4] |
+| Fall from height | Requirements for railings, safety nets and certified scaffolding. | [^6] |
+| Affected services | Location and signaling of buried signaling and fiber optic cables. | [^3] |
 
-El ESS debe contar con su propia memoria, pliego de condiciones, planos de detalle y un presupuesto específico que garantice la disponibilidad de fondos para la prevención de riesgos.[^6]
+The ESS must have its own report, specifications, detail plans and specific budget guaranteeing availability of funds for risk prevention.[^6]
 
-## Capítulo IV. Documento Nº 2: Planos
+## Chapter IV. Document No. 2: Plans
 
-Los planos constituyen la **definición gráfica** del proyecto y deben poseer un nivel de detalle tal que permitan la medición exacta de todas las unidades de obra y la ejecución fiel de lo proyectado sin necesidad de interpretaciones adicionales.[^3]
+Plans constitute the **graphic definition** of the project and must possess a level of detail allowing exact measurement of all work units and faithful execution of what is projected without need for additional interpretations.[^3]
 
 ![0d31469676aa81c7e1a4e2e83ac83c28_MD5]({{ site.baseurl }}/assets/images/0d31469676aa81c7e1a4e2e83ac83c28_MD5.jpg)
 
-La organización de los planos debe seguir una estructura lógica, comenzando por planos generales de situación y evolucionando hacia planos de detalle. La nomenclatura de los elementos (estructuras, túneles, obras de drenaje) debe seguir un sistema único de referencia adoptado por ADIF para facilitar la gestión posterior en el inventario de activos.[^5]
+Plan organization must follow a logical structure, starting from general situation plans and evolving to detail plans. Element nomenclature (structures, tunnels, drainage works) must follow a unique reference system adopted by ADIF to facilitate subsequent asset inventory management.[^5]
 
-| Tipología de Planos | Contenido y Función | Referencia Técnica |
-| :---- | :---- | :---- |
-| Planos de Planta y Perfil | Definición geométrica del eje de la vía y su relación con el terreno natural. | [^3] |
-| Secciones Tipo | Detalle de las capas de la plataforma (balasto, subbalasto, forma) y canaletas de cables. | [^4] |
-| Planos de Estructuras | Alzados, plantas, secciones y despiece de armaduras de obras de fábrica. | [^3] |
-| Planos de Instalaciones | Ubicación de señales, postes de catenaria, canalizaciones y edificios técnicos. | [^9] |
-| Planos Parcelarios | Delimitación de las fincas afectadas por la ocupación de la obra. | [^3] |
+| Plan Typology | Content and Function | Technical Reference |
+| :--- | :--- | :--- |
+| Plan and Profile Plans | Geometric definition of track axis and its relation to natural ground. | [^3] |
+| Standard Sections | Detail of platform layers (ballast, sub-ballast, form layer) and cable troughs. | [^4] |
+| Structures Plans | Elevations, plans, sections and reinforcement detailing of masonry works. | [^3] |
+| Installations Plans | Location of signals, catenary posts, ducting and technical buildings. | [^9] |
+| Parcel Plans | Delimitation of properties affected by work occupation. | [^3] |
 
-### Implementación de la Metodología BIM
+### Implementation of BIM Methodology
 
-ADIF ha integrado la **metodología BIM (Building Information Modeling)** como un requisito transversal en sus proyectos para mejorar la calidad del diseño y la eficiencia en la gestión del activo.[^10]
+ADIF has integrated **BIM (Building Information Modeling) methodology** as a transversal requirement in its projects to improve design quality and asset management efficiency.[^10]
 ![b2e7cf72e990dc98998b8f0a7dcbe0dc_MD5]({{ site.baseurl }}/assets/images/b2e7cf72e990dc98998b8f0a7dcbe0dc_MD5.jpg)
-La inclusión de cláusulas BIM y la redacción de un **Plan de Ejecución BIM (PEB)** en los anejos del proyecto permiten:
+The inclusion of BIM clauses and the drafting of a **BIM Execution Plan (BEP)** in project annexes allow:
 
-* **Coordinación 3D**: Evitar interferencias espaciales entre las distintas disciplinas (p.ej., un poste de catenaria que interfiere con un colector de drenaje).[^10]  
-* **Gestión de la Información**: Asegurar que todos los datos técnicos de los materiales y equipos están vinculados al modelo digital para su uso en mantenimiento.[^3]  
-* **Visualización y Simulación**: Facilitar la comprensión del proyecto y simular procesos constructivos complejos antes de su ejecución real.[^10]
+* **3D Coordination**: Avoid spatial interferences between different disciplines (e.g., a catenary post interfering with a drainage collector).[^10]
+* **Information Management**: Ensure all technical data of materials and equipment are linked to the digital model for use in maintenance.[^3]
+* **Visualization and Simulation**: Facilitate project understanding and simulate complex construction processes before real execution.[^10]
 
 
 ![e2ca689fe07a1c509bf4bfae858603c2_MD5]({{ site.baseurl }}/assets/images/e2ca689fe07a1c509bf4bfae858603c2_MD5.jpg)
 
-## Capítulo V. Documento Nº 3: Pliego de Prescripciones Técnicas Particulares (PPTP)
+## Chapter V. Document No. 3: Particular Technical Specifications (PPTP)
 
-El **Pliego** es el documento contractual que rige la relación técnica entre ADIF y el contratista. Define la calidad de los materiales, los métodos de ejecución de las unidades de obra y los criterios de medición y abono.[^10]
+The **Specifications** (Pliego) is the contractual document governing the technical relationship between ADIF and the contractor. It defines material quality, execution methods of work units and measurement and payment criteria.[^10]
 {: .highlight }
 
-El PPTP se estructura habitualmente en tres capítulos:
+The PPTP is usually structured in three chapters:
 
-1. **Chapter I: Prescripciones y Disposiciones Generales**: Normativa técnica de aplicación, funciones de la Dirección de Obra, obligaciones del contratista en materia de seguridad, calidad y medio ambiente.[^3]  
-2. **Chapter II: Descripción de las Obras**: Detalle pormenorizado de las actuaciones que componen el proyecto, estableciendo el alcance de los trabajos.[^3]  
-3. **Chapter III: Unidades de Obra y Criterios de Medición**: Es la parte más técnica del pliego. Define para cada unidad de obra (p.ej., excavación en roca, suministro de carril, montaje de aparatos de vía) los requisitos de los materiales, el proceso de ejecución, las pruebas de control de calidad necesarias y cómo se medirá la unidad para su pago.[^3]
+1. **Chapter I: General Provisions**: Applicable technical regulations, Construction Management functions, contractor obligations regarding safety, quality and environment.[^3]
+2. **Chapter II: Description of Works**: Detailed description of actions composing the project, establishing work scope.[^3]
+3. **Chapter III: Work Units and Measurement Criteria**: The most technical part. Defines for each work unit (e.g., rock excavation, rail supply, switch assembly) material requirements, execution process, necessary quality control tests and how the unit will be measured for payment.[^3]
 
-ADIF dispone de "Pliegos Tipo" para distintas especialidades (obra civil, señalización, telecomunicaciones) que sirven de base para redactar el pliego particular de cada proyecto, debiendo este último adaptarse a las singularidades de la actuación concreta.[^10]
+ADIF has "Standard Specifications" for different specialties (civil works, signaling, telecommunications) serving as a base to draft the particular specification of each project, which must adapt to the singularities of the specific action.[^10]
 
-## Capítulo VI. Documento Nº 4: Presupuesto
+## Chapter VI. Document No. 4: Budget
 
-El Presupuesto cuantifica económicamente el proyecto. Su elaboración se basa en la **Base de Precios de ADIF (BPA)**, lo que asegura una valoración de las obras acorde con los precios de mercado del sector ferroviario.[^10]
+The Budget economically quantifies the project. Its elaboration is based on the **ADIF Price Base (BPA)**, ensuring work valuation consistent with railway sector market prices.[^10]
 ![979846c67c17c6f43ffa070f89d638f0_MD5]({{ site.baseurl }}/assets/images/979846c67c17c6f43ffa070f89d638f0_MD5.jpg)
-### Componentes del Presupuesto de ADIF
+### ADIF Budget Components
 
-El presupuesto se organiza de forma jerárquica para permitir un control detallado del gasto.
+The budget is organized hierarchically to allow detailed cost control.
 
-* **Mediciones**: Listado de las cantidades de cada unidad de obra necesarias para completar el proyecto, obtenidas directamente de los planos.[^3]  
-* **Cuadro de Precios Nº 1**: Precios unitarios de cada unidad de obra, expresados en letra y cifra. Son precios cerrados que incluyen todos los costes directos e indirectos.[^3]  
-* **Cuadro de Precios Nº 2 (Precios Descompuestos)**: Desglose de cada precio unitario en sus componentes básicos: mano de obra, maquinaria, materiales y costes indirectos.[^3]  
-* **Presupuestos Parciales**: Valoración económica de cada capítulo o grupo de unidades de obra.  
-* **Presupuesto de Ejecución Material (PEM)**: Suma de todos los presupuestos parciales. Representa el coste neto de los trabajos.[^3]  
-* **Presupuesto Base de Licitación (PBL)**: Es el PEM incrementado con los **Gastos Generales (13%)**, el **Beneficio Industrial (6%)** y el IVA correspondiente (21%).[^3]  
-* **Valor Estimado del Contrato (VEC)**: Incluye el presupuesto por contrata más el valor de los materiales que ADIF pone a disposición del contratista (suministros externos como carril o traviesas).[^3]  
-* **Presupuesto para Conocimiento de la Administración (PCA)**: Es la valoración más completa, que incluye el VEC más los costes de expropiaciones, asistencias técnicas, control y vigilancia y partidas para patrimonio histórico.[^3]
+* **Measurements**: List of quantities of each work unit necessary to complete the project, obtained directly from plans.[^3]
+* **Price Table No. 1**: Unit prices of each work unit, expressed in letters and figures. These are closed prices including all direct and indirect costs.[^3]
+* **Price Table No. 2 (Decomposed Prices)**: Breakdown of each unit price into basic components: labor, machinery, materials and indirect costs.[^3]
+* **Partial Budgets**: Economic valuation of each chapter or group of work units.
+* **Material Execution Budget (PEM)**: Sum of all partial budgets. Represents net cost of works.[^3]
+* **Base Tender Budget (PBL)**: PEM increased with **General Expenses (13%)**, **Industrial Profit (6%)** and corresponding VAT (21%).[^3]
+* **Estimated Contract Value (VEC)**: Includes contract budget plus value of materials ADIF provides to the contractor (external supplies like rail or sleepers).[^3]
+* **Budget for Administration Knowledge (PCA)**: Most complete valuation, including VEC plus expropriation costs, technical assistance, control and surveillance and items for historical heritage.[^3]
 
-En proyectos que sufren demoras significativas entre su aprobación y la licitación, la normativa permite realizar una actualización de precios unitarios para reflejar el incremento de costes de materias primas, de acuerdo con el RDL 3/2022.[^3]
+In projects suffering significant delays between approval and tender, regulations allow unit price updates to reflect raw material cost increases, according to RDL 3/2022.[^3]
 
-## Capítulo VII. Documento Nº 5: Programa de Trabajos
+## Chapter VII. Document No. 5: Work Schedule
 
-El Programa de Trabajos es the documento de planificación temporal de las obras. Su relevancia en ADIF es máxima debido a la necesidad de coordinar la ejecución de los trabajos con el mantenimiento de la explotación ferroviaria.[^3]
+The Work Schedule is the document for temporal planning of works. Its relevance in ADIF is maximum due to the need to coordinate work execution with maintenance of railway operation.[^3]
 ![6ff75a77d77ad61c65b68593f481086c_MD5]({{ site.baseurl }}/assets/images/6ff75a77d77ad61c65b68593f481086c_MD5.jpg)
-Debe incluir:
+It must include:
 
-1. **Diagrama de Gantt**: Representación visual de las tareas, su duración y sus interdependencias en el tiempo.[^3]  
-2. **Identificación de la Ruta Crítica (CPM)**: Secuencia de tareas que determina la duración mínima del proyecto. Cualquier retraso en una tarea de la **ruta crítica** impacta directamente en la fecha de finalización.[^3]  
-3. **Plan Marco de Explotación**: Documento esencial que define los intervalos de tiempo (**bandas de mantenimiento**) en los que se podrá trabajar, las limitaciones de velocidad provisionales y la afección prevista a la circulación de trenes. Este plan debe estar coordinado y firmado por los responsables de Circulación e Infraestructura de ADIF.[^3]  
-4. **Hitos del Proyecto**: Fechas clave que marcan el fin de fases críticas o la puesta en servicio parcial de instalaciones.[^3]
+1. **Gantt Chart**: Visual representation of tasks, duration and interdependencies in time.[^3]
+2. **Critical Path Method (CPM) Identification**: Sequence of tasks determining minimum project duration. Any delay in a **critical path** task impacts directly on completion date.[^3]
+3. **Framework Operation Plan**: Essential document defining time intervals (**maintenance bands**) in which work can be done, temporary speed limitations and foreseen affection to train circulation. This plan must be coordinated and signed by ADIF Circulation and Infrastructure managers.[^3]
+4. **Project Milestones**: Key dates marking end of critical phases or partial commissioning of installations.[^3]
 
-La planificación debe considerar no solo la ejecución propia de la obra, sino también los tiempos necesarios para pruebas de seguridad, formación de personal y procesos de autorización de entrada en servicio por parte de la AESF.[^4]
+Planning must consider not only work execution itself, but also times necessary for safety tests, personnel training and authorization processes for entry into service by the AESF.[^4]
 
-## Capítulo VIII. Conclusión
+## Chapter VIII. Conclusion
 
-La excelencia en la redacción de proyectos en ADIF es una condición necesaria para la modernización del sistema de transporte ferroviario. La transición hacia una infraestructura más inteligente, sostenible e interoperable requiere que los proyectos técnicos sean documentos de máxima precisión y calidad científica.
+Excellence in ADIF project drafting is a necessary condition for railway transport system modernization. The transition towards smarter, more sustainable and interoperable infrastructure requires technical projects to be documents of maximum precision and scientific quality.
 
-Se recomienda a los equipos redactores poner especial énfasis en la fase de toma de datos (topografía, geotecnia y servicios afectados), ya que las deficiencias en esta etapa son la causa principal de las modificaciones de proyectos durante la fase de obra, con los consiguientes sobrecostes y retrasos. Asimismo, la integración temprana de la metodología BIM y de los requisitos de interoperabilidad europea asegura que la infraestructura proyectada hoy sea competitiva y funcional durante las próximas décadas.
+Drafting teams are recommended to place special emphasis on the data collection phase (topography, geotechnics and affected services), as deficiencies in this stage are the main cause of project modifications during construction phase, with consequent cost overruns and delays. Likewise, early integration of BIM methodology and European interoperability requirements ensures projected infrastructure today is competitive and functional for decades to come.
 
-El proyecto de ADIF, en su concepción moderna, trasciende el plano constructivo para convertirse en el **gemelo digital** de la infraestructura, garantizando que cada euro invertido contribuya de forma segura y eficiente a la vertebración del territorio a través del ferrocarril.
+The ADIF project, in its modern conception, transcends the construction plane to become the **digital twin** of the infrastructure, guaranteeing that every euro invested contributes safely and efficiently to territorial structuring through railways.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tQk_1jhediQ?si=U4qrL_TcJbIOov_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Preguntas de repaso
+## Review Questions
 
 <div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
-   question="¿Qué principio fundamental debe cumplir todo proyecto de ADIF para garantizar su funcionalidad operativa?"
-   answer="El principio de **\"obra completa\"**, que implica definir todas las actuaciones necesarias para que la infraestructura sea funcional al finalizar."
+   question="What fundamental principle must every ADIF project comply with to ensure its operational functionality?"
+   answer="The principle of **\"complete work\"**, implying defining all actions to ensure the infrastructure is functional upon completion."
 %}
 {% include flashcard.html
-   question="¿Qué diferencias principales existen entre un Proyecto Básico o de Trazado y un Proyecto de Construcción?"
-   answer="El **Proyecto Básico** define la solución general para obtener licencias y expropiaciones, mientras que el **Proyecto de Construcción** detalla la ejecución de las obras para su licitación."
+   question="What are the main differences between a Basic Project or Layout Project and a Construction Project?"
+   answer="The **Basic Project** defines the general solution to obtain licenses and expropriations, while the **Construction Project** details work execution for tendering."
 %}
 {% include flashcard.html
-   question="¿Qué función cumple el Pliego de Prescripciones Técnicas Particulares (PPTP) en un proyecto ferroviario?"
-   answer="Es el documento contractual que rige la relación entre ADIF y el contratista, definiendo la **calidad de los materiales** y los **métodos de ejecución**."
+   question="What role does the Particular Technical Specifications (PPTP) play in a railway project?"
+   answer="It is the contractual document governing the relationship between ADIF and the contractor, defining **material quality** and **execution methods**."
 %}
 {% include flashcard.html
-   question="¿Cuál es la diferencia entre el Presupuesto de Ejecución Material (PEM) y el Presupuesto Base de Licitación (PBL)?"
-   answer="El **PEM** es el coste neto de los trabajos, mientras que el **PBL** incluye el PEM más Gastos Generales (13%), Beneficio Industrial (6%) e IVA (21%)."
+   question="What is the difference between Material Execution Budget (PEM) and Base Tender Budget (PBL)?"
+   answer="**PEM** is the net cost of works, while **PBL** includes PEM plus General Expenses (13%), Industrial Profit (6%) and VAT (21%)."
 %}
 {% include flashcard.html
-   question="¿Qué documento esencial de la planificación temporal define los intervalos operacionales para trabajar en la vía?"
-   answer="El **Plan Marco de Explotación**, que establece las **bandas de mantenimiento** y el impacto en la circulación de trenes."
+   question="What essential document of temporal planning defines operational intervals for working on the track?"
+   answer="The **Framework Operation Plan**, which establishes **maintenance bands** and impact on train circulation."
 %}
 </div>
 
-## Bibliografía
-[^1]: Ley 38/2015, de 29 de septiembre, del Sector Ferroviario. [https://www.boe.es/buscar/act.php?id=BOE-A-2015-10444](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10444)
-[^2]: Real Decreto 2387/2004, de 30 de diciembre, por el que se aprueba el Reglamento del Sector Ferroviario. [https://www.boe.es/buscar/act.php?id=BOE-A-2004-21908](https://www.boe.es/buscar/act.php?id=BOE-A-2004-21908)
-[^3]: ADIF. NAG 3-0-0.0: Índice y Contenido Tipo de Proyectos. [https://www.adif.es/documents/20124/12858981/NAG3000_ED2_FC2.pdf](https://www.adif.es/documents/20124/12858981/NAG3000_ED2_FC2.pdf)
-[^4]: ADIF. Sistema de Gestión: Instrucciones Generales para los Proyectos (IGP). [https://www.seguridadferroviaria.es/recursos_aesf/D249FA7C-291F-473C-B884-4A54BEC241FB/144028/012IGP2008_AESF.pdf](https://www.seguridadferroviaria.es/recursos_aesf/D249FA7C-291F-473C-B884-4A54BEC241FB/144028/012IGP2008_AESF.pdf)
-[^5]: ADIF. Catálogo de Normativa Técnica. [https://www.adif.es/documents/20124/3371563/CatalogoNormativaTecnica.pdf](https://www.adif.es/documents/20124/3371563/CatalogoNormativaTecnica.pdf)
-[^6]: ADIF. NAG 7-0-0.0: Redacción de Estudios de Seguridad y Salud. [https://www.adif.es/documents/20124/16317284/NAG7000_ED2_FC1.pdf](https://www.adif.es/documents/20124/16317284/NAG7000_ED2_FC1.pdf)
-[^7]: ADIF. IGP-6: Medio Ambiente en Proyectos de Infraestructura. [https://es.scribd.com/document/651797462/IGP-6-Medio-Ambiente-ADIF](https://es.scribd.com/document/651797462/IGP-6-Medio-Ambiente-ADIF)
-[^8]: ADIF. NAG 4-0-3.0: Estudio de Gestión de Residuos de Construcción y Demolición (RCD). [https://www.adif.es/documents/20124/35603770/NAG4030_ED1_FC1.pdf](https://www.adif.es/documents/20124/35603770/NAG4030_ED1_FC1.pdf)
-[^9]: Universidad Politécnica de Cataluña. Las Líneas de Alta Velocidad frente a las Líneas Convencionales. [https://upcommons.upc.edu/bitstreams/f107571b-2a9d-4f5a-848a-ec0a31a9593d/download](https://upcommons.upc.edu/bitstreams/f107571b-2a9d-4f5a-848a-ec0a31a9593d/download)
-[^10]: ADIF. Normativa Técnica y Metodología BIM. [https://www.adif.es/empresas-y-contratacion/normativa-tecnica](https://www.adif.es/empresas-y-contratacion/normativa-tecnica)
+## Bibliography
+[^1]: Law 38/2015, of September 29, on the Railway Sector. [https://www.boe.es/buscar/act.php?id=BOE-A-2015-10444](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10444)
+[^2]: Royal Decree 2387/2004, of December 30, approving the Railway Sector Regulation. [https://www.boe.es/buscar/act.php?id=BOE-A-2004-21908](https://www.boe.es/buscar/act.php?id=BOE-A-2004-21908)
+[^3]: ADIF. NAG 3-0-0.0: Index and Standard Content of Projects. [https://www.adif.es/documents/20124/12858981/NAG3000_ED2_FC2.pdf](https://www.adif.es/documents/20124/12858981/NAG3000_ED2_FC2.pdf)
+[^4]: ADIF. Management System: General Instructions for Projects (IGP). [https://www.seguridadferroviaria.es/recursos_aesf/D249FA7C-291F-473C-B884-4A54BEC241FB/144028/012IGP2008_AESF.pdf](https://www.seguridadferroviaria.es/recursos_aesf/D249FA7C-291F-473C-B884-4A54BEC241FB/144028/012IGP2008_AESF.pdf)
+[^5]: ADIF. Technical Regulations Catalog. [https://www.adif.es/documents/20124/3371563/CatalogoNormativaTecnica.pdf](https://www.adif.es/documents/20124/3371563/CatalogoNormativaTecnica.pdf)
+[^6]: ADIF. NAG 7-0-0.0: Drafting of Health and Safety Studies. [https://www.adif.es/documents/20124/16317284/NAG7000_ED2_FC1.pdf](https://www.adif.es/documents/20124/16317284/NAG7000_ED2_FC1.pdf)
+[^7]: ADIF. IGP-6: Environment in Infrastructure Projects. [https://es.scribd.com/document/651797462/IGP-6-Medio-Ambiente-ADIF](https://es.scribd.com/document/651797462/IGP-6-Medio-Ambiente-ADIF)
+[^8]: ADIF. NAG 4-0-3.0: Construction and Demolition Waste Management Study (RCD). [https://www.adif.es/documents/20124/35603770/NAG4030_ED1_FC1.pdf](https://www.adif.es/documents/20124/35603770/NAG4030_ED1_FC1.pdf)
+[^9]: Polytechnic University of Catalonia. High Speed Lines vs Conventional Lines. [https://upcommons.upc.edu/bitstreams/f107571b-2a9d-4f5a-848a-ec0a31a9593d/download](https://upcommons.upc.edu/bitstreams/f107571b-2a9d-4f5a-848a-ec0a31a9593d/download)
+[^10]: ADIF. Technical Regulations and BIM Methodology. [https://www.adif.es/empresas-y-contratacion/normativa-tecnica](https://www.adif.es/empresas-y-contratacion/normativa-tecnica)

@@ -7,12 +7,12 @@ nav_order: 5
 parent: Start
 ---
 
-# Componentes Fundamentales de la Superestructura Ferroviaria: Carril y Traviesas
+# Fundamental Components of Railway Superstructure: Rail and Sleepers
 
 ---
 <details open markdown="block">
 <summary>
-Índice de contenidos
+Table of contents
 </summary>
 {: .text-delta }
 1. TOC
@@ -21,341 +21,341 @@ parent: Start
 
 ---
 
-## Capítulo I La vía
+## Chapter I The Track
 
-La vía es la infraestructura fundamental que permite el desplazamiento de los trenes, diseñada para soportar grandes cargas con una resistencia mínima. Para que una infraestructura ferroviaria pueda garantizar la circulación segura del material rodante, particularmente en trayectos que demanden altas velocidades, resulta indispensable disponer de una vía de excelente calidad, caracterizada por una sólida construcción y por un mantenimiento riguroso y sistemático. Si la vía está en mal estado, el viaje se vuelve incómodo y peligroso. 
+The track is the fundamental infrastructure that allows the movement of trains, designed to support large loads with minimal resistance. For a railway infrastructure to guarantee the safe circulation of rolling stock, particularly on routes demanding high speeds, it is indispensable to have a track of excellent quality, characterized by solid construction and rigorous and systematic maintenance. If the track is in poor condition, the journey becomes uncomfortable and dangerous. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9X2A2f6E5DI?si=JSCJx6vZKRXKfu9N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-La estructura ferroviaria se organiza en dos componentes principales diferenciados por sus funciones y características. La infraestructura constituye la base fundamental del sistema, conformada esencialmente por la **plataforma**, que proporciona el soporte estructural y la estabilidad necesaria. Por su parte, la **superestructura** o vía representa el conjunto de elementos que se apoyan sobre la infraestructura y que directamente interactúan con el material rodante.
+The railway structure is organized into two main components differentiated by their functions and characteristics. The infrastructure constitutes the fundamental base of the system, essentially formed by the **platform**, which provides structural support and necessary stability. On the other hand, the **superstructure** or track represents the set of elements resting on the infrastructure that directly interact with the rolling stock.
 
-La superestructura se compone de tres elementos principales integrados funcionalmente. En primer lugar, encontramos dos filas de **carriles**, que actúan como guía y superficie de rodadura del material móvil. Sobre estos se disponen las **traviesas**, que son elementos estructurales transversales cuya función fundamental es fijar los carriles manteniendo el ancho de vía e intermediar en la transmisión de cargas. Finalmente, el **balasto** constituye la capa de material granular sobre la cual descansa el conjunto de traviesas, permitiendo la distribución de esfuerzos hacia la plataforma. Complementariamente, el sistema incluye diversos accesorios y pequeño material de vía, tales como **placas** de asiento, **bridas** de unión, elementos de **sujeción** y otros componentes que optimizan el funcionamiento integral del sistema.
+The superstructure is composed of three main functionally integrated elements. First, we find two rows of **rails**, which act as a guide and running surface for the rolling stock. **Sleepers** are arranged on these; they are transverse structural elements whose fundamental function is to fix the rails while maintaining the track gauge and mediating in the transmission of loads. Finally, the **ballast** constitutes the layer of granular material on which the set of sleepers rests, allowing the distribution of stresses towards the platform. Additionally, the system includes various accessories and small track material, such as **baseplates**, **fishplates**, **fastening** elements, and other components that optimize the integral functioning of the system.
 
 ![f369fcece879b0b93fa18b9051a27894_MD5]({{ site.baseurl }}/assets/images/f369fcece879b0b93fa18b9051a27894_MD5.webp){: width="475" height="171"}
 
-## Capítulo II El carril: Definición y orígenes históricos
+## Chapter II The Rail: Definition and Historical Origins
 
-El carril constituye el **componente más crítico** y fundamental de cualquier estructura ferroviaria, siendo el único elemento que mantiene contacto directo con el material rodante y, consecuentemente, siendo quien recibe la totalidad de las solicitaciones mecánicas generadas por el tráfico circulante.
+The rail constitutes the **most critical component** and fundamental part of any railway structure, being the only element maintaining direct contact with the rolling stock and, consequently, being the one receiving the entirety of the mechanical stresses generated by the circulating traffic.
 
-Desde la antigüedad, las civilizaciones han buscado soluciones ingenieriles para mejorar el transporte de mercancías. Los antiguos egipcios fueron pioneros en el desarrollo del carril metálico, utilizando para ello el bronce, lo que les permitió transportar grandes cantidades de carga de manera más eficiente que mediante sistemas terrestres convencionales.
+Since ancient times, civilizations have sought engineering solutions to improve freight transport. The ancient Egyptians were pioneers in the development of the metallic rail, using bronze for this purpose, which allowed them to transport large quantities of cargo more efficiently than by conventional land systems.
 
-Posterior a estas primeras experiencias, durante el período medieval europeo, concretamente en la industria minera alemana del siglo XV, se desarrolló un sistema de vías constituido por dos hileras paralelas de vigas de madera aserrada, dotadas de un reborde lateral que servía como guía para pequeños vehículos mineros. Este avance tecnológico, que mejoraba significativamente el transporte de minerales en las minas, fue adoptado rápidamente en Inglaterra y otros territorios europeos.
+Subsequent to these first experiences, during the European medieval period, specifically in the German mining industry of the 15th century, a track system was developed consisting of two parallel rows of sawn wooden beams, equipped with a lateral rim serving as a guide for small mining vehicles. This technological advance, which significantly improved mineral transport in mines, was quickly adopted in England and other European territories.
 ![eb82226862e7233687f818ae62e24a76_MD5]({{ site.baseurl }}/assets/images/eb82226862e7233687f818ae62e24a76_MD5.webp)
 ![389f8e6bc78af8a8586e3c1a22f64096_MD5]({{ site.baseurl }}/assets/images/389f8e6bc78af8a8586e3c1a22f64096_MD5.webp)
 
-### II.1. Definición y orígenes históricos
+### II.1. Definition and Historical Origins
 
-La evolución tecnológica del carril ferroviario experimenta un avance significativo durante el siglo XVIII, cuando la reducción sustancial en los **precios del hierro**, derivada de mejoras en los procesos siderúrgicos, hizo viable el recubrimiento con este metal de los primitivos carriles construidos en madera, incrementando notablemente su durabilidad. En el año 1789 se produce un hito importante con la aparición de los primeros **carriles lisos**, que funcionaban en combinación con **pestañas laterales** incorporadas en el borde exterior de las ruedas del material rodante, mejorando así el guiado y la seguridad de la circulación. No obstante, se requirieron numerosas modificaciones y refinamientos sucesivos para alcanzar la geometría y características del carril moderno, proceso que se consolidó aproximadamente en 1830.
+The technological evolution of the railway rail experienced a significant advance during the 18th century, when the substantial reduction in **iron prices**, derived from improvements in steelmaking processes, made it viable to cover primitive wooden rails with this metal, notably increasing their durability. In 1789, an important milestone occurred with the appearance of the first **smooth rails**, which worked in combination with **lateral flanges** incorporated into the outer edge of the rolling stock wheels, thus improving guidance and circulation safety. However, numerous successive modifications and refinements were required to achieve the geometry and characteristics of the modern rail, a process consolidated approximately in 1830.
 
-Respecto a la evolución de los materiales utilizados, los primeros carriles se fabricaban con **hierro fundido**, material que demostraba una fragilidad excesiva ante los esfuerzos derivados de la circulación. La aplicación de procesos de **laminación en caliente** mejoró la tenacidad del material, aunque este avance resultó aún insuficiente para contener el desgaste acelerado que se producía como consecuencia del incremento simultáneo de cargas por eje y velocidades de circulación. La introducción del **acero** como material de construcción del carril representó una verdadera innovación revolucionaria para la época, permitiendo extender extraordinariamente la vida útil en servicio: mientras que los carriles de hierro fundido se tornaban inservibles tras aproximadamente tres meses de explotación, los nuevos carriles de acero podían mantener su funcionalidad durante períodos que alcanzaban los 16 años.
+Regarding the evolution of materials used, the first rails were manufactured with **cast iron**, a material that demonstrated excessive brittleness in the face of stresses derived from circulation. The application of **hot rolling** processes improved the toughness of the material, although this advance was still insufficient to contain the accelerated wear produced as a consequence of the simultaneous increase in axle loads and circulation speeds. The introduction of **steel** as a rail construction material represented a truly revolutionary innovation for the time, allowing for an extraordinary extension of service life: while cast iron rails became unusable after approximately three months of operation, the new steel rails could maintain their functionality for periods reaching 16 years.
 ![e59594b0bba1419408bbf4e2005bee09_MD5]({{ site.baseurl }}/assets/images/e59594b0bba1419408bbf4e2005bee09_MD5.webp)
 Courtesy of the Railroad Museum of Pennsylvania
-### II.2. Funciones del carril
+### II.2. Functions of the rail
 
-El carril ferroviario desempeña múltiples funciones críticas para el funcionamiento seguro y eficiente del transporte ferroviario. En primer término, el carril actúa como elemento guía del material rodante, manteniendo la trayectoria correcta tanto en el plano horizontal (planta) como en el vertical (alzado), previniendo desviaciones no deseadas de la ruta prevista. Simultáneamente, absorbe, soporta y resiste todas las cargas transmitidas por el tráfico circulante, distribuyéndolas hacia los elementos estructurales inferiores de la vía.
+The railway rail performs multiple critical functions for the safe and efficient operation of rail transport. Firstly, the rail acts as a guiding element for the rolling stock, maintaining the correct trajectory in both the horizontal plane (alignment) and the vertical plane (profile), preventing unwanted deviations from the intended route. Simultaneously, it absorbs, supports, and resists all loads transmitted by the circulating traffic, distributing them towards the lower structural elements of the track.
 {: .highlight }
 
-En sistemas ferroviarios con tracción eléctrica, el carril cumple la función adicional de **conductor de la corriente eléctrica** desde la catenaria hasta el motor del tren a través de las ruedas del material rodante. Igualmente, al constituirse como la superficie de contacto entre rueda y vía, garantiza las características de fricción metal-metal necesarias para el funcionamiento del sistema de tracción y frenado.
+In railway systems with electric traction, the rail fulfills the additional function of **conductor of electric current** from the catenary to the train motor through the rolling stock wheels. Likewise, by being constituted as the contact surface between wheel and track, it guarantees the metal-metal friction characteristics necessary for the functioning of the traction and braking system.
 
 <iframe width="315" height="560" src="https://youtube.com/embed/axZ7Xw1ySC4?si=9hslR-JjTSAbT5LW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Los esfuerzos que solicitan al carril derivan de la interacción con el material rodante e imperfecciones geométricas de la vía. Estos pueden clasificarse en tres direcciones principales: los **esfuerzos longitudinales**, originados esencialmente por las aceleraciones y frenados del tren, así como por las variaciones de temperatura que producen dilataciones y contracciones del material. Los **esfuerzos verticales** se originan principalmente por el peso propio de la estructura y las cargas dinámicas del material móvil.
+The stresses acting on the rail derive from the interaction with the rolling stock and geometric imperfections of the track. These can be classified into three main directions: **longitudinal stresses**, essentially originated by the accelerations and braking of the train, as well as by temperature variations producing expansions and contractions of the material. **Vertical stresses** originate mainly from the structure's own weight and the dynamic loads of the rolling stock.
 ![91c0e40dacc8d136d81ebba7792ee3d3_MD5]({{ site.baseurl }}/assets/images/91c0e40dacc8d136d81ebba7792ee3d3_MD5.webp)
 
-Finalmente, los **esfuerzos transversales** provocan deformaciones permanentes en el camino de rodadura, siendo particularmente críticos debido a que el límite elástico del material es significativamente menor en esta dirección.
+Finally, **transverse stresses** cause permanent deformations in the running path, being particularly critical because the elastic limit of the material is significantly lower in this direction.
 
-### II.3. Sección transversal del carril
+### II.3. Rail cross-section
 
-En los albores de la utilización de locomotoras, el carril debía adaptarse a los esfuerzos derivados de velocidades progresivamente mayores, por lo que adoptaba una sección variable. Esta configuración particular recibió la denominación de **carril con vientre de pez**, cuya forma permitía distribuir mejor los esfuerzos. Inicialmente se apoyaba en dados de piedra natural, tal como se muestra en referencias históricas hasta 1835, siendo posteriormente sustituidos estos apoyos por dispositivos metálicos como campanas y platos, y finalmente por traviesas de madera. Sin embargo, las dificultades técnicas inherentes al proceso de fabricación de este tipo de carriles eliminaban cualquier ventaja económica que pudiera haberse esperado, lo que condujo al abandono de esta solución.
+At the dawn of locomotive use, the rail had to adapt to stresses derived from progressively higher speeds, thus adopting a variable section. This particular configuration received the name of **fish-belly rail**, whose shape allowed for better stress distribution. Initially, it rested on natural stone blocks, as shown in historical references up to 1835, these supports being subsequently replaced by metallic devices such as chairs and plates, and finally by wooden sleepers. However, the technical difficulties inherent to the manufacturing process of this type of rail eliminated any economic advantage that might have been expected, leading to the abandonment of this solution.
 ![00a977ef06a913dbd70eb6b589c1eb9c_MD5]({{ site.baseurl }}/assets/images/00a977ef06a913dbd70eb6b589c1eb9c_MD5.webp)
 
-La evolución posterior condujo al desarrollo de carriles con **sección constante**, diseñados para cumplir múltiples funciones simultáneamente. Por un lado, el carril debe actuar como **viga resistente** capaz de soportar cargas tanto verticales como transversales; teóricamente, para esta función sería óptima una sección en doble T. Por otro lado, debe funcionar como **guía de las ruedas** del material rodante, requeriendo una geometría específica en su cabeza. Diversos perfiles fueron desarrollados a lo largo de la historia ferroviaria, aunque la mayoría resultaron efímeros en su utilización. Únicamente dos configuraciones lograron mantenerse vigentes: el **carril de tipo bull-head** y el **carril Vignole**. El **carril bull-head**, también denominado carril Stephenson o carril de cojinetes, utiliza un sistema de fijación basado en un cojinete de fundición o acero moldeado, dentro del cual se mantiene el carril mediante cuñas de madera o metálicas, proporcionando una sujeción efectiva y resiliente.
+Subsequent evolution led to the development of rails with **constant section**, designed to fulfill multiple functions simultaneously. On one hand, the rail must act as a **resistant beam** capable of supporting both vertical and transverse loads; theoretically, an I-beam section would be optimal for this function. On the other hand, it must function as a **guide for the rolling stock wheels**, requiring a specific geometry in its head. Various profiles were developed throughout railway history, although most were ephemeral in their use. Only two configurations managed to remain current: the **bull-head rail** and the **Vignole rail**. The **bull-head rail**, also called Stephenson rail or chair rail, uses a fixation system based on a cast iron or molded steel chair, inside which the rail is held by wooden or metal wedges, providing effective and resilient clamping.
 ![658c463d6c3629bc6c1752b1a82af1b6_MD5]({{ site.baseurl }}/assets/images/658c463d6c3629bc6c1752b1a82af1b6_MD5.webp)
 ![ff23f455acb39196e1dd765f23917609_MD5]({{ site.baseurl }}/assets/images/ff23f455acb39196e1dd765f23917609_MD5.webp)
 
-#### II.3.1. Carril bull-head
+#### II.3.1. Bull-head rail
 
-El carril bull-head existió en dos variantes de sección: una simétrica y otra asimétrica. La configuración simétrica se basaba inicialmente en la hipótesis de que, una vez desgastada la cabeza superior del carril por el paso de circulaciones, sería posible invertir el carril y utilizar su cara inferior como nueva superficie de rodadura, permitiendo así maximizar el aprovechamiento del material. Sin embargo, la práctica demostró que esta estrategia era inviable, ya que el sistema de fijación mediante cojinetes y cuñas dejaba marcas, entalladuras e impresiones permanentes en la cara inferior del carril durante su uso normal, haciendo imposible su posterior utilización como superficie de rodadura.
+The bull-head rail existed in two section variants: one symmetric and one asymmetric. The symmetric configuration was initially based on the hypothesis that, once the upper head of the rail was worn by the passage of traffic, it would be possible to invert the rail and use its lower face as a new running surface, thus maximizing material utilization. However, practice demonstrated that this strategy was unfeasible, as the fixation system using chairs and wedges left marks, notches, and permanent impressions on the lower face of the rail during normal use, making its subsequent use as a running surface impossible.
 ![5a4d01951e5aa77127e1d0549e1a35fa_MD5]({{ site.baseurl }}/assets/images/5a4d01951e5aa77127e1d0549e1a35fa_MD5.webp)
 
-Por este motivo, únicamente la **variante asimétrica** fue explotada comercialmente, ofreciendo la ventaja económica de no requerir material adicional en la cabeza inferior, destinado al desgaste, sino concentrando toda la reserva de metal en la cabeza superior.
+For this reason, only the **asymmetric variant** was commercially exploited, offering the economic advantage of not requiring additional material in the lower head, destined for wear, but concentrating the entire metal reserve in the upper head.
 
-El carril bull-head presentaba varias ventajas comparativas respecto al carril de patín tipo Vignole que justificaron su adopción generalizada en todas las líneas inglesas, así como en determinadas compañías ferroviarias francesas (las líneas del Sur y Oeste) y en el ferrocarril suizo. Entre sus principales ventajas se encontraban:
+The bull-head rail presented several comparative advantages over the Vignole type flat-bottom rail that justified its generalized adoption on all English lines, as well as on certain French railway companies (the Southern and Western lines) and on the Swiss railway. Among its main advantages were:
 
-1. Una **distribución más equilibrada** del material entre las dos cabezas y el alma, en contraste con la distribución muy asimétrica característica del carril de patín. Esta distribución más favorable permitía realizar los procesos de laminación, enfriamiento y enderezado bajo condiciones más óptimas y controladas.
+1. A **more balanced distribution** of material between the two heads and the web, in contrast to the very asymmetric distribution characteristic of the flat-bottom rail. This more favorable distribution allowed rolling, cooling, and straightening processes to be carried out under more optimal and controlled conditions.
 
-2. Una **menor tendencia al arrancamiento** de los tirafondos de sujeción, ya que el esfuerzo de levantamiento de las traviesas producido por el paso de las cargas se transmitía con menor intensidad. Esto se debía a que el carril se mantenía sujeto mediante cuñas que proporcionaban una cierta elasticidad inherente, lo que impedía que los tirafondos se aflojaran progresivamente.
+2. A **lower tendency for pull-out** of the fastening screws (coach screws), since the sleeper lifting effort produced by the passage of loads was transmitted with less intensity. This was due to the rail being held by wedges providing a certain inherent elasticity, preventing the screws from progressively loosening.
 
-3. Una **mayor facilidad en las operaciones de renovación** de la vía y sustitución de carriles, puesto que las traviesas venían ya equipadas con los cojinetes instalados de fábrica, reduciendo el trabajo en campo únicamente a la colocación del carril y su fijación mediante cuñas. Esta característica también contribuía a menores costos de conservación y mantenimiento del sistema de unión.
+3. **Greater ease in renewal operations** of the track and rail replacement, since the sleepers came already equipped with the chairs installed from the factory, reducing field work solely to rail placement and its fixation via wedges. This characteristic also contributed to lower conservation and maintenance costs of the joint system.
 
-4. Una mayor estabilidad estructural bajo los esfuerzos transversales, que depende en gran medida del tipo específico de sujeción empleada.
+4. Greater structural stability under transverse stresses, which largely depends on the specific type of fastening employed.
 
-5. La posibilidad de utilizar traviesas de madera blanda, gracias a que el cojinete proporciona una superficie de apoyo que puede alcanzar hasta 680 cm², distribuyendo la presión de forma más favorable. Esta posibilidad no existe con el carril Vignole cuando el patín reposa directamente sobre la traviesa sin elementos intermedios.
+5. The possibility of using soft wood sleepers, thanks to the chair providing a support surface that can reach up to 680 cm², distributing pressure more favorably. This possibility does not exist with the Vignole rail when the foot rests directly on the sleeper without intermediate elements.
 
-A pesar de todas estas ventajas técnicas, en la actualidad el carril bull-head no se utiliza para la construcción de nuevas líneas ferroviarias. Los ferrocarriles ingleses, que fueron sus últimos defensores, lo abandonaron progresivamente hacia 1938. No obstante, continúa prestando servicio en líneas secundarias y de maniobras, particularmente en Francia en las antiguas líneas del Sur y del Oeste. La causa fundamental de su obsolescencia fue el elevado costo de fabricación del cojinete comparado con el de los tirafondos convencionales, así como la complejidad inherente a la conservación de la alineación geométrica de la vía con este sistema.
+Despite all these technical advantages, the bull-head rail is currently not used for the construction of new railway lines. English railways, which were its last defenders, abandoned it progressively around 1938. Nevertheless, it continues to provide service on secondary and shunting lines, particularly in France on the old Southern and Western lines. The fundamental cause of its obsolescence was the high manufacturing cost of the chair compared to conventional screws, as well as the inherent complexity of maintaining the geometric alignment of the track with this system.
 
-#### II.3.2. El carril tipo Vignole
+#### II.3.2. The Vignole type rail
 
-El **carril de patín**, designado en Europa como **carril Vignole** en honor del ingeniero inglés Charles Vignoles quien lo introdujo en el continente europeo (aunque su concepto original fue desarrollado por el ingeniero estadounidense Stevens), se convirtió en la solución predominante en la mayoría de las líneas ferroviarias modernas. Su geometría específica estuvo condicionada por la necesidad funcional de emplear bridas de unión para conectar carriles consecutivos.
+The **flat-bottom rail**, designated in Europe as **Vignole rail** in honor of the English engineer Charles Vignoles who introduced it to the European continent (although its original concept was developed by the American engineer Stevens), became the predominant solution on most modern railway lines. Its specific geometry was conditioned by the functional need to employ joint bars (fishplates) to connect consecutive rails.
 
-El carril Vignole está compuesto por tres componentes estructurales principales, cada uno con funciones específicas y diferenciadas. La cabeza constituye la parte superior del carril, encargada de transmitir los esfuerzos derivados de la circulación y evitar el descarrilo mediante sus caras laterales inclinadas, que previenen desplazamientos laterales excesivos del material rodante. El alma es el componente intermedio que transmite la tensión desde la cabeza hacia el patín inferior, proporcionando simultáneamente una inercia vertical suficiente para asegurar una adecuada resistencia a la flexión bajo cargas. Finalmente, el patín constituye la base de apoyo del carril, cuya función es repartir las cargas sobre la traviesa, evitar el vuelco de la estructura bajo esfuerzos transversales y proporcionar el soporte necesario para los elementos de sujeción.
+The Vignole rail is composed of three main structural components, each with specific and differentiated functions. The **head** constitutes the upper part of the rail, responsible for transmitting stresses derived from circulation and preventing derailment through its inclined lateral faces, which prevent excessive lateral displacements of the rolling stock. The **web** is the intermediate component transmitting tension from the head to the lower foot, providing simultaneously sufficient vertical inertia to ensure adequate bending resistance under loads. Finally, the **foot** (or base) constitutes the support base of the rail, whose function is to distribute loads onto the sleeper, prevent structural overturning under transverse stresses, and provide the necessary support for fastening elements.
 {: .highlight }
 ![7609bdc2809311d346097fb74a704447_MD5]({{ site.baseurl }}/assets/images/7609bdc2809311d346097fb74a704447_MD5.webp){: width="366" height="397"}
-[Partes carril vignole](https://museodelferrocarril.org/piezasmuseo/pieza-destacada.asp?id=5#:~:text=El%20carril%20Vignole%20se%20compone,%3A%20cabeza%2C%20alma%20y%20pat%C3%ADn.)
+[Parts of Vignole rail](https://museodelferrocarril.org/piezasmuseo/pieza-destacada.asp?id=5#:~:text=El%20carril%20Vignole%20se%20compone,%3A%20cabeza%2C%20alma%20y%20pat%C3%ADn.)
 
-En cuanto a la geometría específica de la cabeza del carril, existen varios parámetros dimensionales críticos que deben ser cuidadosamente definidos. La altura de la cabeza alcanza típicamente los 50 milímetros y debe ser superior a lo estrictamente requerido por las condiciones de resistencia estructural, proporcionando una reserva adicional de material para absorber el desgaste progresivo durante la vida útil. Como orden de magnitud referencial, se puede establecer que la cabeza del carril sufre una pérdida de altura de aproximadamente un milímetro por cada cien mil trenes que circulan sobre ella, considerando millones de toneladas brutas de carga.
+Regarding the specific geometry of the rail head, several critical dimensional parameters must be carefully defined. The head height typically reaches 50 millimeters and must be greater than strictly required by structural resistance conditions, providing an additional material reserve to absorb progressive wear during service life. As a reference order of magnitude, it can be established that the rail head suffers a height loss of approximately one millimeter for every one hundred thousand trains circulating over it, considering millions of gross tons of load.
 
-COTAS EN MILIMETROS
+DIMENSIONS IN MILLIMETERS
 
-CARRIL UIC-60-E1
+UIC-60-E1 RAIL
 ![8a8c4a0d2cef78107b98704ec7065218_MD5]({{ site.baseurl }}/assets/images/8a8c4a0d2cef78107b98704ec7065218_MD5.webp)
-[Arcellor mittal](https://rails.arcelormittal.com/es/perfiles/carril-de-transporte/norma-europea/carril-uic60-60e1/)
+[ArcelorMittal](https://rails.arcelormittal.com/es/perfiles/carril-de-transporte/norma-europea/carril-uic60-60e1/)
 
-El **bombeo** es un aspecto geométrico fundamental de la cabeza del carril, consistente en una curvatura transversal de radio de curvatura $$R=300 \mathrm{~mm}$$. Esta configuración convexa es esencial para prevenir diversos defectos que surgirían si la tabla de rodadura fuera completamente plana. Entre estos defectos evitados se encuentra la aparición de rebabas laterales, que tienden a exfoliarse y desprenderse progresivamente, degradando la calidad de la superficie. Además, con una superficie plana se produciría una diferencia significativa en las velocidades lineales entre los distintos puntos de la generatriz del cono de la llanta del material rodante cuando estas entran en contacto con el plano del carril, lo que generaría desgastes acelerados y diferenciales.
+The **camber** (crowning) is a fundamental geometric aspect of the rail head, consisting of a transverse curvature with a radius of curvature $$R=300 \mathrm{~mm}$$. This convex configuration is essential to prevent various defects that would arise if the running table were completely flat. Among these avoided defects is the appearance of lateral burrs, which tend to exfoliate and detach progressively, degrading surface quality. Furthermore, with a flat surface, a significant difference in linear velocities would be produced between the distinct points of the rolling stock wheel flange cone generatrix when these enter into contact with the rail plane, generating accelerated and differential wear.
 
-La **inclinación** de las caras laterales de la cabeza del carril es un parámetro geométrico crítico que debe permitir que durante la circulación en trazado recto no exista contacto entre la pestaña de la rueda y la cara interior de los carriles, evitando rozaduras innecesarias. Sin embargo, en curvas de radio reducido, es inevitable que se produzca contacto entre la pestaña de la rueda y la cara lateral de la cabeza del carril, zona donde frecuentemente se instalan dispositivos engrasadores para reducir la fricción y el desgaste lateral.
+The **inclination** of the lateral faces of the rail head is a critical geometric parameter that must allow that during circulation on straight alignment there is no contact between the wheel flange and the inner face of the rails, avoiding unnecessary chafing. However, in small radius curves, contact between the wheel flange and the lateral face of the rail head is inevitable, a zone where lubricators are frequently installed to reduce friction and lateral wear.
 
-Para reducir de forma significativa la presión de contacto entre rueda y carril, y por tanto mitigar el consecuente desgaste acelerado, las caras laterales de la cabeza se inclinan siguiendo una pendiente de **1/20** (es decir, 5%). Esta inclinación presenta, además de su ventaja inmediata de reducción de presión, la ventaja adicional de incrementar la anchura efectiva de las caras inferiores de la cabeza, lo que mejora notablemente el acoplamiento de las bridas de unión que conectan carriles consecutivos. El ángulo de inclinación de los planos inclinados que forman la unión entre la cabeza y el alma del carril (que típicamente se adopta en una relación de 1/3 respecto a la horizontal) se justifica en profundidad al abordar el tema específico de las bridas y sus funciones.
+To significantly reduce contact pressure between wheel and rail, and thus mitigate the consequent accelerated wear, the lateral faces of the head are inclined following a slope of **1/20** (i.e., 5%). This inclination presents, in addition to its immediate advantage of pressure reduction, the additional advantage of increasing the effective width of the lower head faces, notably improving the coupling of joint bars connecting consecutive rails. The angle of inclination of the inclined planes forming the junction between the head and the web of the rail (typically adopted in a 1/3 ratio with respect to the horizontal) is deeply justified when addressing the specific topic of joint bars and their functions.
 
-En relación al alma del carril, su dimensionamiento debe considerar cuidadosamente los esfuerzos cortantes que atraviesan esta región. Los esfuerzos cortantes máximos se localizan en el plano que coincide con la fibra neutra de la sección, es decir, en la proximidad de los orificios realizados para el embridado. Adicionalmente, el espesor del alma debe ser diseñado para resistir el desgaste por corrosión progresiva. Por estos motivos, excepto en zonas de túneles donde la protección es mayor, típicamente se adopta un espesor en el rango de 15-17 milímetros.
+Regarding the rail web, its dimensioning must carefully consider the shear stresses traversing this region. Maximum shear stresses are located in the plane coinciding with the neutral fiber of the section, that is, in the vicinity of holes made for joining. Additionally, the web thickness must be designed to resist wear by progressive corrosion. For these reasons, except in tunnel zones where protection is greater, a thickness in the range of 15-17 millimeters is typically adopted.
 
-La forma de las paredes laterales del alma no responde a rectas verticales simples. Esta geometría obedece al hecho de que el carril debe soportar solicitaciones transversales significativas transmitidas por las pestañas de las ruedas, comportándose estructuralmente como una pieza empotrada en el patín inferior. En consecuencia, el alma presenta un espesor mayor en su unión con el patín respecto al espesor mínimo requerido en el eje neutro. Un espesor equivalentemente aumentado se proporciona en la zona de unión entre alma y cabeza, debido al elevado número de roturas que se detectan en esta región de concentración de esfuerzos si no se toma esta precaución de diseño. Las caras laterales del alma adoptan así la forma de superficies cóncavas, con su espesor mínimo coincidiendo precisamente en el eje neutro de la sección.
-El patín se caracteriza fundamentalmente por su anchura y por la forma y espesor específicos de sus alas laterales. La anchura del patín determina en gran medida la rigidez del carril en el plano horizontal, influenciando su resistencia a deformaciones transversales. Simultáneamente, la anchura del patín determina la superficie de apoyo disponible sobre la traviesa subyacente, y por tanto la presión de contacto ejercida sobre esta última. La presión de contacto puede ser reducida mediante la utilización de placas de asiento metálicas que interponen una distribución más favorable de cargas. Para garantizar una distribución correcta de las cargas sin propiciar giros indeseados del carril sobre su apoyo, es imprescindible encontrar una relación óptima entre la altura total del carril y la anchura del patín, relación que debería situarse idealmente en el intervalo 1,1-1,2.
+The shape of the web lateral walls does not respond to simple vertical straight lines. This geometry obeys the fact that the rail must support significant transverse stresses transmitted by wheel flanges, behaving structurally as a piece embedded in the lower foot. Consequently, the web presents a greater thickness at its junction with the foot regarding the minimum thickness required at the neutral axis. An equivalently increased thickness is provided in the junction zone between web and head, due to the high number of breaks detected in this stress concentration region if this design precaution is not taken. The lateral faces of the web thus adopt the form of concave surfaces, with their minimum thickness coinciding precisely at the neutral axis of the section.
+The foot is characterized primarily by its width and by the specific shape and thickness of its lateral wings. The foot width largely determines the rail stiffness in the horizontal plane, influencing its resistance to transverse deformations. Simultaneously, the foot width determines the available support surface on the underlying sleeper, and therefore the contact pressure exerted on the latter. Contact pressure can be reduced by using metal baseplates that interpose a more favorable load distribution. To guarantee correct load distribution without promoting unwanted rail twisting on its support, it is essential to find an optimal relationship between the total rail height and the foot width, a relationship that should ideally be situated in the 1.1-1.2 interval.
 
-La tendencia al vuelco lateral del carril bajo la acción de fuerzas de pestaña y otras solicitaciones que resultan en las conexiones carril-traviesa es directamente función de esta relación altura-anchura anteriormente mencionada.
+The tendency for lateral rail overturning under the action of flange forces and other stresses resulting in rail-sleeper connections is directly a function of this previously mentioned height-width relationship.
 
-El espesor y la forma específicos de las alas del patín están condicionados por la necesidad de conseguir un equilibrio estructural adecuado entre la sección del patín y la sección de la cabeza del carril. Este equilibrio es fundamental para asegurar buenas condiciones de laminación durante la fabricación del carril en caliente y un enfriamiento uniforme que evite deformaciones residuales.
+The specific thickness and shape of the foot wings are conditioned by the need to achieve an adequate structural balance between the foot section and the rail head section. This balance is fundamental to ensure good rolling conditions during hot rail manufacturing and uniform cooling avoiding residual deformations.
 
-COTAS EN MILIMETROS
+DIMENSIONS IN MILLIMETERS
 
-Existen otras características adicionales de la sección transversal del carril que merecen consideración especial. La **tensión de cortadura** es un parámetro crítico a verificar en el diseño. Un aspecto particularmente importante es lograr una **distribución adecuada de la masa** a lo largo de los componentes principales del carril -cabeza, alma y patín- de modo tal que al finalizar el proceso de laminación la estructura resultante sea homogénea en toda su extensión. Este equilibrio de masas es crucial para asegurar que durante el posterior enfriamiento del acero no existan diferencias significativas de comportamiento entre las diferentes partes de la sección. Este fenómeno es especialmente importante porque los carriles fabricados sin este equilibrio masico tienden a curvarse durante el enfriamiento posterior a la laminación, desarrollando deformaciones residuales que comprometen su funcionalidad. Las investigaciones y prácticas industriales han confirmado que la distribución de masas más apropiada es aquella donde la cabeza constituye del 35-40% de la masa total, el alma del 27-32%, y el patín del 38%.
+There are other additional characteristics of the rail cross-section deserving special consideration. **Shear stress** is a critical parameter to verify in design. A particularly important aspect is achieving an **adequate mass distribution** along the main rail components -head, web, and foot- such that upon finalizing the rolling process the resulting structure is homogeneous throughout its extension. This mass balance is crucial to ensure that during subsequent steel cooling there are no significant behavioral differences between the different section parts. This phenomenon is especially important because rails manufactured without this mass balance tend to curve during cooling post-rolling, developing residual deformations compromising their functionality. Industrial research and practices have confirmed that the most appropriate mass distribution is one where the head constitutes 35-40% of the total mass, the web 27-32%, and the foot 38%.
 ![98c7935d5d819fda4438b27f4effa4cb_MD5]({{ site.baseurl }}/assets/images/98c7935d5d819fda4438b27f4effa4cb_MD5.webp){: width="401" height="430"}
 
-Independientemente de su configuración geométrica, la característica esencial que define a un carril es su **peso por unidad de longitud**, expresado convencionalmente en kilogramos por metro lineal (o en libras por yarda en países anglófonos y estadounidenses).
+Regardless of its geometric configuration, the essential characteristic defining a rail is its **weight per unit of length**, conventionally expressed in kilograms per linear meter (or in pounds per yard in Anglophone and US countries).
 
-Los perfiles de carriles inicialmente utilizados en la primera fase de la industria ferroviaria eran significativamente más ligeros, del orden de 25 kilogramos por metro lineal, siendo necesario aguardar hasta el siglo XX para presenciar la aparición de perfiles más sustanciales en el rango de 40-50 kilogramos por metro. Durante este mismo período histórico, las cargas máximas por eje de los vehículos experimentaron un incremento espectacular, pasando de modestos 3 toneladas por eje a los actuales 20-22 toneladas por eje. En la actualidad, es común encontrar carriles que pesan entre 60-70 kilogramos por metro, e incluso se utilizan perfiles de 90 kilogramos por metro en determinadas líneas estadounidenses sometidas a tráfico extremadamente pesado.
+Rail profiles initially used in the first phase of the railway industry were significantly lighter, of the order of 25 kilograms per linear meter, being necessary to wait until the 20th century to witness the appearance of more substantial profiles in the 40-50 kg/m range. During this same historical period, maximum axle loads of vehicles experienced a spectacular increase, going from a modest 3 tons per axle to current 20-22 tons per axle. Currently, it is common to find rails weighing between 60-70 kg/m, and even 90 kg/m profiles are used on certain US lines subjected to extremely heavy traffic.
 
-La tendencia predominante en la industria ferroviaria moderna es la utilización preferente de **carriles pesados**, motivada fundamentalmente por la notable reducción que estos logran en los gastos de conservación y mantenimiento a lo largo de la vida útil de la infraestructura.
+The predominant tendency in the modern railway industry is the preferential use of **heavy rails**, motivated fundamentally by the notable reduction these achieve in conservation and maintenance expenses throughout the infrastructure's service life.
 
-El objetivo técnico que se persigue al aumentar progresivamente el peso del carril es incrementar su **momento de inercia** (calculado respecto a su fibra neutra, $$I_{\chi}$$), es decir, maximizar su **módulo resistente** $$W$$. Esta métrica es fundamental para la capacidad del carril de resistir flexiones bajo cargas.
+The technical objective pursued by progressively increasing the rail weight is to increase its **moment of inertia** (calculated with respect to its neutral fiber, $$I_{\chi}$$), that is, maximize its **section modulus** $$W$$. This metric is fundamental for the rail's capacity to resist bending under loads.
 
-Desde una perspectiva de diseño, uno de los desafíos principales es lograr, con el mismo peso y por tanto el mismo coste de fabricación, secciones transversales que posean un mayor momento de inercia y módulo resistente.
+From a design perspective, one of the main challenges is achieving, with the same weight and therefore the same manufacturing cost, cross-sections possessing a greater moment of inertia and section modulus.
 
-En realidad, el problema crítico en el diseño del carril no es únicamente el resistente sino fundamentalmente el de **desgaste progresivo**. Por consiguiente, en el proyecto de una línea ferroviaria nueva debe tomarse en consideración simultáneamente: la adaptación del perfil de carril elegido al volumen total de tráfico $$T$$ previsto que va a circular por esa vía, expresado en millones de toneladas brutas, la velocidad máxima $$V$$ esperada, y el peso por eje $$q$$ de los vehículos que utilizarán la línea. Una fórmula empírica que ha demostrado utilidad práctica es la de Shajunianz (1971):
+In reality, the critical problem in rail design is not solely resistance but fundamentally **progressive wear**. Consequently, in the project of a new railway line one must simultaneously consider: the adaptation of the chosen rail profile to the total expected traffic volume $$T$$ circulating on that track, expressed in millions of gross tons, the expected maximum speed $$V$$, and the axle weight $$q$$ of vehicles using the line. An empirical formula that has demonstrated practical utility is Shajunianz's (1971):
 
 $$
 P=1,2 \cdot\left(1+T^{1 / 4}\right) \cdot(1+0,012 \cdot V)^{2 / 3} \cdot q^{2 / 3}
 $$
 
-Complementariamente, es recomendable que se garantice que el conjunto carril-traviesa posea una vida útil equilibrada, evitando renovaciones prematuras de uno de los dos componentes cuando el otro aún podría mantener su funcionalidad. A título de referencia, la normativa francesa establece las siguientes correlaciones recomendadas:
+Additionally, it is recommended to guarantee that the rail-sleeper set possesses a balanced service life, avoiding premature renovations of one component when the other could still maintain its functionality. For reference, French regulations establish the following recommended correlations:
 
-| TONELADAS BRUTAS REMOLCADAS (T.B.R.) | TIPO DE CARRIL | TIPO DE TRAVIESA |
+| GROSS TOWED TONS (G.T.T.) | RAIL TYPE | SLEEPER TYPE |
 | :--- | :--- | :--- |
-| T.B.R. < 25.000 | $$50 \mathrm{~kg} / \mathrm{m}$$ | Traviesa de madera |
-| 25.000 < T.B.R. < 35.000 | $$50 \mathrm{~kg} / \mathrm{m}$$ | Traviesa de madera |
-|  | $$60 \mathrm{~kg} / \mathrm{m}$$ | Traviesa de hormigón |
-| T.B.R. > 35.000 | $$60 \mathrm{~kg} / \mathrm{m}$$ | Traviesa de hormigón |
+| G.T.T. < 25,000 | $$50 \mathrm{~kg} / \mathrm{m}$$ | Wooden sleeper |
+| 25,000 < G.T.T. < 35,000 | $$50 \mathrm{~kg} / \mathrm{m}$$ | Wooden sleeper |
+|  | $$60 \mathrm{~kg} / \mathrm{m}$$ | Concrete sleeper |
+| G.T.T. > 35,000 | $$60 \mathrm{~kg} / \mathrm{m}$$ | Concrete sleeper |
 
 ![13e105c7bbcdfd329508f1eb0ed04d75_MD5]({{ site.baseurl }}/assets/images/13e105c7bbcdfd329508f1eb0ed04d75_MD5.webp)
 
-#### II.3.3. Otros tipos de carril
+#### II.3.3. Other rail types
 
-Además de los dos tipos principales mencionados, existen perfiles especializados de carriles diseñados para aplicaciones específicas en diferentes contextos operacionales. Entre los más notables se encuentran:
+Besides the two main types mentioned, there are specialized rail profiles designed for specific applications in different operational contexts. Among the most notable are:
 
-El carril Phoenix, denominado también carril de garganta o carril portuario, constituye una solución especial diseñada para situaciones donde es necesario permitir que vehículos de carretera circulen sobre la misma plataforma sin obstáculos. Su configuración geométrica evita la interferencia con la rodadura normal de los vehículos de transporte por carretera al disponerse de forma estratégica respecto al nivel de circulación. La utilización del carril **Phoenix** resulta económicamente más ventajosa que la alternativa tradicional de instalar contracarriles adicionales para resolver este conflicto de uso mixto.
+The Phoenix rail, also called grooved rail or girder rail, constitutes a special solution designed for situations where it is necessary to allow road vehicles to circulate on the same platform without obstacles. Its geometric configuration prevents interference with normal road vehicle rolling by being arranged strategically with respect to the circulation level. The use of the **Phoenix** rail turns out to be economically more advantageous than the traditional alternative of installing additional check rails to resolve this mixed-use conflict.
 ![4a9564138e5fd1cbd963ca99300bfa6d_MD5]({{ site.baseurl }}/assets/images/4a9564138e5fd1cbd963ca99300bfa6d_MD5.webp){: width="493" height="531"}
 
-El **carril Brunel**, caracterizado por una altura considerablemente reducida comparada con los carriles Vignole estándar, representa una versión simplificada que elimina prácticamente el alma del carril. Este tipo se utiliza preferentemente en dispositivos accesorios de vía de naturaleza secundaria, tales como placas giratoria y puentes giratorios, donde los requerimientos de resistencia son significativamente menores que en la vía principal.
+The **Brunel rail**, characterized by a considerably reduced height compared to standard Vignole rails, represents a simplified version practically eliminating the rail web. This type is preferentially used in secondary track accessory devices, such as turntables and swing bridges, where resistance requirements are significantly lower than on the main track.
 
 ![326dfb6fcaec15e970393497fbca604d_MD5]({{ site.baseurl }}/assets/images/326dfb6fcaec15e970393497fbca604d_MD5.webp)
 ![225ca49a9b9b8d83bde108560c451fbc_MD5]({{ site.baseurl }}/assets/images/225ca49a9b9b8d83bde108560c451fbc_MD5.webp)
 
-### II.4. Exigencias que se demandan al carril
+### II.4. Demands placed on the rail
 
-Los carriles ferroviarios debe satisfacer un conjunto de exigencias técnicas rigurosas, tanto en términos de características fundamentales como en funcionalidades operacionales específicas.
+Railway rails must satisfy a set of rigorous technical demands, both in terms of fundamental characteristics and specific operational functionalities.
 
-En cuanto a las exigencias fundamentales, destaca en primer lugar la **geometría del carril**, que debe cumplir con tolerancias extraordinariamente estrictas para asegurar el guiado correcto del material rodante y la distribución uniforme de esfuerzos. Las **propiedades mecánicas** constituyen un segundo requisito fundamental, particularmente la inercia vertical del carril, que determina su capacidad resistente a la flexión bajo cargas. La **longitud comercial** del carril debe mantenerse dentro de especificaciones precisas. El **enderezado** del carril tras la laminación es igualmente crítico, garantizando la ausencia de curvaturas o torcimientos residuales.
+Regarding fundamental demands, **rail geometry** stands out firstly, which must comply with extraordinarily strict tolerances to ensure correct rolling stock guidance and uniform stress distribution. **Mechanical properties** constitute a second fundamental requirement, particularly the rail's vertical inertia, determining its bending resistance capacity under loads. The **commercial length** of the rail must be maintained within precise specifications. Rail **straightening** after rolling is equally critical, guaranteeing the absence of residual curvatures or twists.
 <iframe width="560" height="315" src="https://youtube.com/embed/umoHun-34mU?si=JJRpPDgbdXeOphy6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Complementariamente, existen exigencias funcionales adicionales que condicionan la selección y aceptación del material. El carril debe presentar una **ausencia completa de fragilidad**, no presentando roturas frágiles en condiciones de servicio normal. La **soldabilidad del acero** es fundamental, especialmente en sistemas de vía continua soldada de largo plazo. La sencillez del proceso de fabricación y su economía son factores determinantes en la selección del tipo de acero y procedimiento siderúrgico utilizado.
+Additionally, there are further functional demands conditioning material selection and acceptance. The rail must present a **complete absence of brittleness**, not presenting brittle fractures under normal service conditions. **Steel weldability** is fundamental, especially in long-term continuous welded rail systems. Manufacturing process simplicity and economy are determining factors in selecting the steel type and metallurgical procedure used.
 
-### II.5. Composición
+### II.5. Composition
 
-Desde aproximadamente mediados del siglo XIX, el material estructural utilizado en la fabricación de carriles es el acero. No obstante, las propiedades requeridas en el acero ferroviario presentan entre sí requisitos contradictorios y a menudo conflictivos. Un acero que debe poseer una elevada resistencia al desgaste debe necesariamente ser duro en su estructura cristalina, característica que inherentemente conlleva una tendencia hacia la fragilidad y dificulta significativamente su capacidad de soldadura. En consecuencia, el acero utilizado en carriles debe representar necesariamente un compromiso cuidadosamente equilibrado entre estas exigencias que se contradicen mutuamente.
+Since approximately the mid-19th century, the structural material used in rail manufacturing is steel. However, properties required in railway steel present contradictory and often conflicting requirements among themselves. A steel that must possess high wear resistance must necessarily be hard in its crystal structure, a characteristic inherently carrying a tendency towards brittleness and significantly hindering its welding capacity. Consequently, steel used in rails must necessarily represent a carefully balanced compromise between these mutually contradicting demands.
 ![20881ba2451df7d5a1f9884458fb982a_MD5]({{ site.baseurl }}/assets/images/20881ba2451df7d5a1f9884458fb982a_MD5.webp)
 
-Sin profundizar en el análisis siderúrgico completo del acero utilizado en carriles, la composición química típica del acero ferroviario incluye los siguientes elementos principales:
+Without delving into the complete metallurgical analysis of steel used in rails, the typical chemical composition of railway steel includes the following main elements:
 
-El **carbono**, presente en proporciones que oscilan entre 0,37 y 0,73 por ciento en peso, actúa como elemento de endurecimiento del acero. Su presencia incrementa significativamente la dureza del material y su resistencia al desgaste abrasivo, aunque simultáneamente aumenta la fragilidad inherente, reduciendo la tenacidad de la estructura.
+**Carbon**, present in proportions ranging between 0.37 and 0.73 percent by weight, acts as a steel hardening element. Its presence significantly increases material hardness and abrasive wear resistance, although simultaneously increasing inherent brittleness, reducing structure toughness.
 
-El **manganeso**, presente típicamente en concentraciones entre 0,86 y 1,74 por ciento, actúa como elemento secundario de fortalecimiento. Aumenta la dureza del acero, mejora su resistencia al desgaste y también incrementa la tenacidad general del material. Sin embargo, presenta el inconveniente de disminuir de forma notable la soldabilidad del acero, complicando los procesos de unión entre elementos.
+**Manganese**, typically present in concentrations between 0.86 and 1.74 percent, acts as a secondary strengthening element. It increases steel hardness, improves wear resistance, and also increases the general toughness of the material. However, it presents the drawback of notably decreasing steel weldability, complicating joining processes between elements.
 
-El **azufre** y el **fósforo**, presentes en concentraciones inferiores al 0,06 por ciento cada uno, son elementos residuales inherentes a los procesos de producción. Aunque acarrean desventajas significativas en términos de fragilidad del material, son prácticamente inelimi nables de los procesos siderúrgicos convencionales sin incurrir en costos prohibitivos de refinación adicional.
+**Sulfur** and **phosphorus**, present in concentrations below 0.06 percent each, are residual elements inherent to production processes. Although they carry significant disadvantages in terms of material brittleness, they are practically uneliminable from conventional steelmaking processes without incurring prohibitive additional refining costs.
 
-El **silicio**, presente típicamente en una proporción del 0,30 por ciento, aumenta la dureza del acero y su resistencia al desgaste, facilitando además los procesos de laminación del carril en caliente.
+**Silicon**, typically present in a proportion of 0.30 percent, increases steel hardness and wear resistance, also facilitating hot rail rolling processes.
 
 [Adif - ET 03.360.161.8](https://normativatecnica.adif.es/)
 
-Carril
+Rail
 
-| Grado | Muestra | C | Si | Mn | P máx. | S máx. | Cr | Al máx. | V máx. | N máx. | O | H |
+| Grade | Sample | C | Si | Mn | P max. | S max. | Cr | Al max. | V max. | N max. | O | H |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| R260 | Líquido | 0,62-0,80 | 0,15-0,58 | 0,70-1,20 | 0,025 | 0,025 | ≤0,15 | 0,004 | 0,030 | 0,009 | 20 ppm | 2,5 ppm |
-|  | Sólido | 0,60-0,82 | 0,13-0,60 | 0,65-1,25 | 0,030 | 0,030 | ≤0,15 | 0,004 | 0,030 | 0,010 | 20 ppm | 2,5 ppm |
-| R350HT | Líquido | 0,72-0,80 | 0,15-0,58 | 0,70-1,20 | 0,020 | 0,025 | ≤0,15 | 0,004 | 0,030 | 0,009 | 20 ppm | 2,5 ppm |
-|  | Sólido | 0,70-0,82 | 0,13-0,60 | 0,65-1,25 | 0,025 | 0,030 | ≤0,15 | 0,004 | 0,030 | 0,010 | 20 ppm | 2,5 ppm |
+| R260 | Liquid | 0.62-0.80 | 0.15-0.58 | 0.70-1.20 | 0.025 | 0.025 | ≤0.15 | 0.004 | 0.030 | 0.009 | 20 ppm | 2.5 ppm |
+|  | Solid | 0.60-0.82 | 0.13-0.60 | 0.65-1.25 | 0.030 | 0.030 | ≤0.15 | 0.004 | 0.030 | 0.010 | 20 ppm | 2.5 ppm |
+| R350HT | Liquid | 0.72-0.80 | 0.15-0.58 | 0.70-1.20 | 0.020 | 0.025 | ≤0.15 | 0.004 | 0.030 | 0.009 | 20 ppm | 2.5 ppm |
+|  | Solid | 0.70-0.82 | 0.13-0.60 | 0.65-1.25 | 0.025 | 0.030 | ≤0.15 | 0.004 | 0.030 | 0.010 | 20 ppm | 2.5 ppm |
 
-**Nota:** Valores en % en masa excepto O y H expresados en ppm (10⁻⁴ %)
+**Note:** Values in % by mass except O and H expressed in ppm (10⁻⁴ %)
 
-Tabla 3. Composición química del acero
+Table 3. Chemical composition of steel
 
-|  | Mo | Ni | Cu | Sn | Sb | Ti | Nb | Cu y Sn | Otros |
+|  | Mo | Ni | Cu | Sn | Sb | Ti | Nb | Cu and Sn | Others |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| R260 | 0,02 | 0,1 | 0,15 | 0,03 | 0,02 | 0,025 | 0,01 | 0,35 | 0,35(Cr+Mo+Ni+Cu+V) |
-| R350HT | 0,02 | 0,1 | 0,15 | 0,03 | 0,02 | 0,025 | 0,04 | 0,35 | 0,25(Cr+Mo+Ni+Cu+V) |
+| R260 | 0.02 | 0.1 | 0.15 | 0.03 | 0.02 | 0.025 | 0.01 | 0.35 | 0.35(Cr+Mo+Ni+Cu+V) |
+| R350HT | 0.02 | 0.1 | 0.15 | 0.03 | 0.02 | 0.025 | 0.04 | 0.35 | 0.25(Cr+Mo+Ni+Cu+V) |
 
-Tabla 4. Máximos de elementos residuales
+Table 4. Maximums of residual elements
 
-### II.6. Fabricación
+### II.6. Manufacturing
 
-El proceso de fabricación de carriles a partir del lingote o bloom que proviene de las instalaciones de cabecera de la acería se estructura en varios procesos tecnológicos diferenciados y secuencialmente organizados:
+The rail manufacturing process from the ingot or bloom coming from the steel mill head installations is structured into several differentiated and sequentially organized technological processes:
 
-El **proceso en caliente** constituye la primera etapa principal, consistente en la laminación del acero a temperaturas elevadas en el rango aproximado de 1250°C a 920°C. Durante esta etapa, el material se deforma progresivamente para adoptar la geometría definitiva del perfil de carril mediante pasos sucesivos de laminación.
+The **hot process** constitutes the first main stage, consisting of steel rolling at elevated temperatures in the approximate range of 1250°C to 920°C. During this stage, the material is progressively deformed to adopt the definitive rail profile geometry through successive rolling passes.
 
-Posteriormente se ejecuta el proceso de **enfriamiento**, que puede realizarse mediante dos metodologías distintas según el tipo de carril que se desee fabricar. El **enfriamiento al aire** constituye la opción convencional utilizada para fabricar carriles estándar, permitiendo que el calor se disipe de forma natural hacia la atmósfera. Alternativamente, el **enfriamiento controlado** se aplica cuando se requiere fabricar carriles con cabeza endurecida, en los cuales se regula cuidadosamente la temperatura de enfriamiento en el rango aproximado de 750°C a 500°C mediante sistemas especializados, permitiendo lograr características metalúrgicas específicas en la capa superficial.
+Subsequently, the **cooling** process is executed, which can be performed using two distinct methodologies depending on the type of rail desired. **Air cooling** constitutes the conventional option used to manufacture standard rails, allowing heat to dissipate naturally into the atmosphere. Alternatively, **controlled cooling** is applied when manufacturing head-hardened rails is required, in which cooling temperature is carefully regulated in the approximate range of 750°C to 500°C via specialized systems, allowing specific metallurgical characteristics to be achieved in the surface layer.
 
-Finalmente, el **proceso en frío** (a temperaturas inferiores a 80°C) incluye múltiples operaciones de acabado: **enderezado** del carril para corregir cualquier deformación residual,  inspección automática mediante sistemas de sensores para detectar defectos, corte a las longitudes comerciales especificadas, prensado de los extremos del carril, inspección manual por personal especializado, seguida del almacenamiento, cargue y expedición de los carriles terminados.
+Finally, the **cold process** (at temperatures below 80°C) includes multiple finishing operations: **straightening** of the rail to correct any residual deformation, automatic inspection via sensor systems to detect defects, cutting to specified commercial lengths, pressing of rail ends, manual inspection by specialized personnel, followed by storage, loading, and shipping of finished rails.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ONBnWAEvfk4?si=UTHIk9H8WgXVjQSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### II.7. Recepción
+### II.7. Reception
 
-Se denomina "**bautizo**" al conjunto de marcas e identificaciones que se inscriben permanentemente en el alma del carril durante el proceso de laminación en caliente. Estas marcas cumplen la función crítica de permitir la **identificación individual y trazabilidad** de cada carril fabricado, facilitando la adopción de medidas de seguridad estructuradas en caso de que se produzcan roturas durante la vida útil del carril en servicio.
+The set of marks and identifications permanently inscribed on the rail web during the hot rolling process is called "**christening**" (branding). These marks fulfill the critical function of allowing **individual identification and traceability** of each rail manufactured, facilitating the adoption of structured safety measures in case breaks occur during the rail's service life.
 
-Las marcas grabadas en el alma del carril contienen información técnica codificada que permite identificar: el fabricante responsable de la producción, el año específico de fabricación, el mes dentro de ese año, la clasificación de calidad del acero utilizado, el procedimiento o proceso siderúrgico empleado en la manufactura, el tipo específico de perfil de carril, la dirección del lingote original mediante una flecha indicadora, el número único de la colada (identificado con letras de la A a la Z), la posición relativa del carril específico dentro del lingote original, y el número identificador único del lingote.
+Marks engraved on the rail web contain coded technical information allowing identification of: the manufacturer responsible for production, the specific year of manufacture, the month within that year, the quality classification of the steel used, the steelmaking procedure or process employed in manufacturing, the specific rail profile type, the original ingot direction via an indicator arrow, the unique heat number (identified with letters A to Z), the relative position of the specific rail within the original ingot, and the unique ingot identifier number.
 
 
 ![78604aad36232eeac267aa69ae3995a6_MD5]({{ site.baseurl }}/assets/images/78604aad36232eeac267aa69ae3995a6_MD5.webp)
 
-### II.8. Transporte
+### II.8. Transport
 
-Los carriles fabricados, dependiendo de su longitud, requieren ser transportados mediante distintos modos de transporte que presentan limitaciones específicas en cuanto a las longitudes máximas que pueden ser manejadas económicamente.
+Manufactured rails, depending on their length, require transport via distinct transport modes presenting specific limitations regarding maximum handleable lengths economically.
 
-El **transporte por camión** constituye la modalidad adecuada para carriles de longitudes hasta 25 metros, utilizando para ello vehículos de caja cerrada que proporcionan protección contra agentes atmosféricos durante el transporte.
+**Truck transport** constitutes the appropriate modality for rails up to 25 meters in length, using closed-box vehicles for this purpose providing protection against atmospheric agents during transport.
 
-El **transporte marítimo** mediante barcos resulta económicamente viable para carriles que alcanzan longitudes de hasta 72 metros, permitiendo realizar traslados internacionales de grandes volúmenes de material ferroviario.
+**Maritime transport** via ships proves economically viable for rails reaching lengths of up to 72 meters, allowing international transfers of large volumes of railway material.
 
-El **transporte ferroviario**, utilizando vagones especializados del propio sistema ferroviario, constituye la opción más eficiente económicamente para carriles de mayor longitud. Permite el transporte de **barras elementales** de hasta 108-120 metros de largo, y de forma especialmente relevante, posibilita el transporte de **barras largas soldadas** con longitudes de hasta 270-288 metros, constituyendo estas últimas la estrategia de máxima economía para distribución de grandes cantidades de carril.
+**Rail transport**, using specialized wagons of the railway system itself, constitutes the most economically efficient option for longer rails. It allows the transport of **elemental bars** up to 108-120 meters long, and especially relevantly, enables the transport of **long welded bars** with lengths up to 270-288 meters, these latter constituting the strategy of maximum economy for distributing large quantities of rail.
 
 ![b0966afba9f470041b578e04216f9aa7_MD5]({{ site.baseurl }}/assets/images/b0966afba9f470041b578e04216f9aa7_MD5.webp)
-Camión de Caja Cerrada
+Closed Box Truck
 
 ![8c6bd127eb6ed75c93ac84175838fb2b_MD5]({{ site.baseurl }}/assets/images/8c6bd127eb6ed75c93ac84175838fb2b_MD5.webp){: width="359" height="539"}
-Barco
+Ship
 
 <iframe width="560" height="315" src="https://youtube.com/embed/TC2XqiTn40w?si=1owvEZQeRkTka4Ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Ferrocarril
+Railway
 
-### II.9. Ensayos
+### II.9. Tests
 
-Los carriles ferroviarios deben someterse a un conjunto riguroso de ensayos de control de calidad que caracterizan sus propiedades metalúrgicas y mecánicas. Los ensayos fundamentales que definen la calidad de un carril incluyen:
+Railway rails must undergo a rigorous set of quality control tests characterizing their metallurgical and mechanical properties. Fundamental tests defining rail quality include:
 
-**Análisis de composición química** para verificar que los porcentajes de carbono, manganeso, silicio y otros elementos se encuentran dentro de los rangos especificados. Examen de la microsestructura y evaluación del grado de descarburación superficial. Inspección mediante técnicas metalográficas para detectar inclusiones sólidas o gaseosas presentes en el acero. **Ensayo de Baumann** consistente en una impresión macrográfica que revela defectos internos. **Pruebas de dureza** mediante técnicas Brinell o Vickers. **Ensayos de tracción** para determinar la resistencia a la rotura y el alargamiento del material.
+**Chemical composition analysis** to verify that percentages of carbon, manganese, silicon, and other elements are within specified ranges. Microstructure examination and evaluation of surface decarburization degree. Inspection via metallographic techniques to detect solid or gaseous inclusions present in steel. **Baumann test** consisting of a macrographic impression revealing internal defects. **Hardness tests** via Brinell or Vickers techniques. **Tensile tests** to determine breaking strength and material elongation.
 
-**Adif - ET 03.360.161.8  Carril**
+**Adif - ET 03.360.161.8  Rail**
 
-Complementariamente, ensayos adicionales pueden ser requeridos en determinadas normativas o especificaciones de administraciones ferroviarias específicas, incluyendo:
+Additionally, supplementary tests may be required in certain regulations or specifications of specific railway administrations, including:
 
-**Ensayos de choque** o impacto para evaluar el comportamiento del material ante cargas dinámicas. Medidas de **resiliencia** para determinar la capacidad del material de absorber energía sin fracturarse.
+**Impact tests** (Charpy) to evaluate material behavior under dynamic loads. **Resilience** measurements to determine the material's capacity to absorb energy without fracturing.
 
-| Ensayo de laboratorio | Apartado | Grados del acero |  | Lugar de ensayo |
+| Laboratory test | Section | Steel grades |  | Test location |
 | :--- | :--- | :--- | :--- | :--- |
 |  |  | R260 | R 350 HT |  |
-| Composición química | 7.1 | Uno por colada |  | Laboratorio Fábrica |
-| Hidrógeno | 7.1.1 | Uno por colada (dos de la primera colada de una secuencia) |  |  |
-| 0xígeno total | 7.1.2 | Uno por secuencia $${ }^{\mathrm{a}}$$ |  |  |
-| Descarburación | 7.3 | Uno por 1000 toneladas o fracción $${ }^{\mathrm{a}, \mathrm{b}}$$ | Uno por 500 toneladas de acero recocido y de acero conformado en caliente $${ }^{\mathrm{a}, \mathrm{c}}$$ |  |
-| Limpieza de óxidos o pureza inclusionaria | 7.4 | Uno por secuencia $${ }^{\text {boc }}$$ |  |  |
-| Inspección macrográficas (Segregación) | 7.5 | 5 ensayos en 5 coladas (excepto para carril RN45) |  |  |
-| Micrografía | 7.2 | - | Uno cada 100 toneladas de acero en caliente $${ }^{\text {a yc }}$$ |  |
-| Tracción | 7.7 | Un cálculo por colada/uno por 2000 toneladas $${ }^{\mathrm{a}, \mathrm{b}}$$ | Uno por 1000 toneladas $${ }^{\text {a,c }}$$ |  |
-| Dureza | 7.6 | Uno por colada $${ }^{\mathrm{a}, \mathrm{b}}$$ | Uno por 100 toneladas de acero conformado en caliente $${ }^{\mathrm{a}, \mathrm{c}}$$ |  |
-| Variación de la dureza en el eje de la superficie de rodadura | 7.6.1 | - | Una muestra de un metro en cada extremo y a intervalos de 20 m desde un extremo del carril (cada 5 años). |  |
-| Resistencia a la fracturación ( $$\mathbf{K}_{\mathbf{l} \boldsymbol{c}}$$ ) | 7.8 | 5 ensayos por cada una de las 3 muestras (cada 5 años) |  | Laboratorio Acreditado |
-| Velocidad de propagación de fisuras por fatiga | 7.9 | 3 ensayos por cada una de las 3 muestras (cada 5 años) |  |  |
-| Ensayo de fatiga | 7.10 | 3 ensayos en cada una de las 3 muestras (cada 5 años) |  |  |
-| Tensiones residuales en el patín del carril | 7.11 | 1 ensayo en cada una de las 6 muestras (cada 5 años) |  |  |
+| Chemical composition | 7.1 | One per heat |  | Factory Laboratory |
+| Hydrogen | 7.1.1 | One per heat (two from the first heat of a sequence) |  |  |
+| Total oxygen | 7.1.2 | One per sequence $${ }^{\mathrm{a}}$$ |  |  |
+| Decarburization | 7.3 | One per 1000 tons or fraction $${ }^{\mathrm{a}, \mathrm{b}}$$ | One per 500 tons of annealed and hot-formed steel $${ }^{\mathrm{a}, \mathrm{c}}$$ |  |
+| Oxide cleanliness or inclusionary purity | 7.4 | One per sequence $${ }^{\text {b or c }}$$ |  |  |
+| Macrographic inspection (Segregation) | 7.5 | 5 tests in 5 heats (except for RN45 rail) |  |  |
+| Micrography | 7.2 | - | One every 100 tons of hot steel $${ }^{\text {a and c }}$$ |  |
+| Tensile | 7.7 | One calculation per heat/one per 2000 tons $${ }^{\mathrm{a}, \mathrm{b}}$$ | One per 1000 tons $${ }^{\text {a,c }}$$ |  |
+| Hardness | 7.6 | One per heat $${ }^{\mathrm{a}, \mathrm{b}}$$ | One per 100 tons of hot-formed steel $${ }^{\mathrm{a}, \mathrm{c}}$$ |  |
+| Hardness variation in running surface axis | 7.6.1 | - | One sample of one meter at each end and at 20 m intervals from one rail end (every 5 years). |  |
+| Fracture toughness ( $$\mathbf{K}_{\mathbf{l} \boldsymbol{c}}$$ ) | 7.8 | 5 tests for each of the 3 samples (every 5 years) |  | Accredited Laboratory |
+| Fatigue crack propagation rate | 7.9 | 3 tests for each of the 3 samples (every 5 years) |  |  |
+| Fatigue test | 7.10 | 3 tests in each of the 3 samples (every 5 years) |  |  |
+| Residual stresses on rail foot | 7.11 | 1 test in each of the 6 samples (every 5 years) |  |  |
 
 
-$${ }^{\text {a }}$$ Las muestras deben tomarse aleatoriamente, pero solo de carriles procedentes de blooms de la zona de mezclado entre coladas, en caso de coladas continuas en secuencia
-$${ }^{\mathrm{b}}$$ Las muestras deben cortarse después del laminado 
-$${ }^{\mathrm{c}}$$ Las muestras deben cortarse en carriles con tratamiento térmico. 
+$${ }^{\text {a }}$$ Samples must be taken randomly, but only from rails coming from blooms of the mixing zone between heats, in case of continuous casting in sequence
+$${ }^{\mathrm{b}}$$ Samples must be cut after rolling 
+$${ }^{\mathrm{c}}$$ Samples must be cut in heat-treated rails. 
 
-### II.10. Defectos y roturas de carril
+### II.10. Rail defects and breaks
 
-Se designa como **defecto del carril** a cualquier anomalía estructural, dimensional o metalúrgica que presente el perfil ferroviario. El control riguroso de defectos es de importancia vital, no solamente desde una perspectiva puramente económica de maximizar la vida útil, sino fundamentalmente por razones de seguridad operacional. La existencia de defectos puede derivar, bajo la acción de las solicitaciones cíclicas producidas por el tráfico circulante, en averías progresivas e incluso en roturas catastróficas del carril que comprometan la seguridad de las circulaciones.
+A **rail defect** is designated as any structural, dimensional, or metallurgical anomaly presented by the railway profile. Rigorous defect control is vitally important, not only from a purely economic perspective of maximizing service life, but fundamentally for operational safety reasons. The existence of defects can lead, under the action of cyclic stresses produced by circulating traffic, to progressive breakdowns and even catastrophic rail breaks compromising circulation safety.
 
-Los defectos de los carriles pueden clasificarse en dos categorías fundamentales: aquellos originados durante el proceso de fabricación en la acería, y aquellos que se generan y desarrollan durante el servicio operativo de la infraestructura.
+Rail defects can be classified into two fundamental categories: those originating during the manufacturing process in the steelworks, and those generated and developed during the operational service of the infrastructure.
 ![a92dfa7f425af995de22059c372d6fbd_MD5]({{ site.baseurl }}/assets/images/a92dfa7f425af995de22059c372d6fbd_MD5.webp)
 
-**Defectos debidos a la fabricación:**
+**Defects due to manufacturing:**
 
-El **rechupe primario** constituye un defecto grave originado por un despunte insuficiente del lingote durante el proceso de colada. Generalmente produce una fisura vertical que se extiende desde el alma del carril hasta la cabeza, comprometiendo la integridad estructural.
+**Primary piping** constitutes a serious defect originated by insufficient cropping of the ingot during the casting process. It generally produces a vertical fissure extending from the rail web to the head, compromising structural integrity.
 
-El **rechupe secundario** resulta del apresuramiento excesivo de las operaciones de colada. Produce cavidades o grietas internas generadas por las tensiones de contracción térmica desigual durante el enfriamiento.
+**Secondary piping** results from excessive haste in casting operations. It produces internal cavities or cracks generated by uneven thermal contraction stresses during cooling.
 
-Las **segregaciones** (tanto central como inversa) se generan por la presencia de impurezas, particularmente fósforo y azufre, que no se distribuyen uniformemente durante la solidificación. Estas pueden derivar en la formación de grietas longitudinales profundas con desprendimiento parcial de la cabeza del carril.
+**Segregations** (both central and inverse) are generated by the presence of impurities, particularly phosphorus and sulfur, which are not distributed uniformly during solidification. These can lead to the formation of deep longitudinal cracks with partial detachment of the rail head.
 
-Las **inclusiones sólidas y gaseosas** constituyen otro tipo grave de defecto. Las inclusiones sólidas consisten en escorias y óxidos de manganeso y azufre, así como silicatos de hierro y manganeso que pueden provocar la destrucción repentina y localizada de la cabeza del carril. Las inclusiones gaseosas se originan por gases que quedan atrapados en el lingote durante la solidificación, formando burbujas alargadas que pueden generar futuras grietas bajo solicitación cíclica.
+**Solid and gaseous inclusions** take another serious type of defect. Solid inclusions consist of slags and oxides of manganese and sulfur, as well as iron and manganese silicates that can cause sudden and localized destruction of the rail head. Gaseous inclusions originate from gases trapped in the ingot during solidification, forming elongated bubbles that can generate future cracks under cyclic stress.
 ![0d96d2e0c1b831ad7022086bac10ec99_MD5]({{ site.baseurl }}/assets/images/0d96d2e0c1b831ad7022086bac10ec99_MD5.webp)
 ![8e969def3a9d3a1f28d7a1e624521cf3_MD5]({{ site.baseurl }}/assets/images/8e969def3a9d3a1f28d7a1e624521cf3_MD5.webp)
 
 
-La **fisura transversal**, denominada también mancha gris o mancha oval plateada, constituye el defecto de fabricación más grave. Se produce por la existencia de heterogeneidad interna debida a diversos factores: la presencia de burbujas gaseosas que se generan cuando el enfriamiento del acero es excesivamente rápido, impidiendo la eliminación ordenada del hidrógeno y formando burbujas de gas; la presencia de inclusiones sólidas no metálicas; y las tensiones internas que se desarrollan durante el enfriamiento de los carriles, ya que cuando el interior del material está a temperaturas elevadas, el metal en estado plástico ofrece una resistencia muy débil a la tracción.
+The **transverse fissure**, also called kidney fracture or silver oval spot (tache ovale), constitutes the most serious manufacturing defect. It is caused by the existence of internal heterogeneity due to various factors: the presence of gaseous bubbles generated when steel cooling is excessively rapid, preventing orderly hydrogen elimination and forming gas bubbles; the presence of non-metallic solid inclusions; and internal stresses developing during rail cooling, since when the material interior is at high temperatures, metal in a plastic state offers very weak tensile resistance.
 
-Una vez que se inicia una fisura de este tipo, su propagación es rápida y casi inevitable, especialmente en la zona de la cabeza del carril donde los esfuerzos cortantes alcanzan variaciones en magnitud particularmente grandes. La propagación de la fisura se produce mediante la formación de anillos o capas concéntricas de crecimiento. Durante el paso repetido de las cargas, las superficies internas de la fisura se comprimen y se descomprimen alternativamente, lo que causa el pulido mutuo de estas superficies, otorgando el aspecto plateado característico que identifica visualmente este tipo de defecto.
+Once a fissure of this type starts, its propagation is rapid and almost inevitable, especially in the rail head zone where shearing stresses reach particularly large magnitude variations. Fissure propagation occurs via the formation of concentric growth rings or layers. During repeated passage of loads, internal fissure surfaces are compressed and decompressed alternately, causing mutual polishing of these surfaces, granting the characteristic silver appearance visually identifying this defect type.
 ![168c4b6aaaebbff74da8ebb2035a20aa_MD5]({{ site.baseurl }}/assets/images/168c4b6aaaebbff74da8ebb2035a20aa_MD5.webp)
 ![c7e24ee79941daea73a578b0230b4517_MD5]({{ site.baseurl }}/assets/images/c7e24ee79941daea73a578b0230b4517_MD5.webp)
 ![98e50f29dea21dddc170254c6e277840_MD5]({{ site.baseurl }}/assets/images/98e50f29dea21dddc170254c6e277840_MD5.webp)
 ![29287ce57f8604a4e15c1d7980134571_MD5]({{ site.baseurl }}/assets/images/29287ce57f8604a4e15c1d7980134571_MD5.webp)
 
-El **shelling** constituye un defecto análogo en naturaleza pero diferente en localización y manifestación. Se produce en la tabla de rodadura de los carriles que conforman el hilo exterior de curvas horizontales, donde la cabeza del carril se desconcha o incluso se rompe parcialmente. Este defecto ocurre principalmente en curvas donde, para mitigar desgastes excesivos, se han instalado engrasadores de carril en cantidad excesiva. Esta situación crea una zona de concentración permanente de tensiones máximas que nunca se redistribuye por desgaste, resultando en fatiga localizada y desprendimiento de material.
+**Shelling** constitutes a defect analogous in nature but different in localization and manifestation. It occurs on the running table of rails forming the outer thread of horizontal curves, where the rail head flakes or even partially breaks. This defect occurs mainly in curves where, to mitigate excessive wear, rail lubricators have been installed in excessive quantity. This situation creates a zone of permanent maximum stress concentration never redistributed by wear, resulting in localized fatigue and material detachment.
 ![59fa0ebfd49a42aa70ff0c6d9553076a_MD5]({{ site.baseurl }}/assets/images/59fa0ebfd49a42aa70ff0c6d9553076a_MD5.webp)
 ![bc83fc37c6b8e7d3efe2e50c1ab4e762_MD5]({{ site.baseurl }}/assets/images/bc83fc37c6b8e7d3efe2e50c1ab4e762_MD5.webp)
 ![d328508f22ba64c3c3780f91180bb76c_MD5]({{ site.baseurl }}/assets/images/d328508f22ba64c3c3780f91180bb76c_MD5.webp)
 
-**Defectos originados por el servicio:**
+**Defects originating from service:**
 
-Los **choques y flexiones** producidos en las **juntas del carril** constituyen una importante fuente de defectos durante el servicio. En los extremos de los carriles, donde existe una discontinuidad geométrica debida a la presencia de la junta, el paso de los ejes del material rodante produce un aplastamiento progresivo de la superficie de la cabeza. Este aplastamiento genera una desnivelación de la tabla de rodadura que progresa rápidamente conforme aumenta el tráfico. La deformación localizada incrementa progresivamente la "cala" (depresión) en la zona de la junta, se produce el aplastamiento de los bordes de apoyo de las bridas de unión. Además, los tornillos de sujeción de las bridas mantienen un contacto repetitivo con las inmediaciones de los taladros del carril, lo que endurece y fragiliza localmente el material acero.
+**Impacts and bending** produced at **rail joints** constitute a significant source of defects during service. At rail ends, where geometric discontinuity exists due to the joint presence, the passage of rolling stock axles produces progressive crushing of the head surface. This crushing generates a running table unevenness progressing rapidly as traffic increases. Localized deformation progressively increases the "dip" in the joint zone, crushing of joint bar support edges occurs. Furthermore, joint bar fastening bolts maintain repetitive contact with the immediate vicinity of rail holes, locally hardening and embrittling the steel material.
 
-Esta cascada de deterioros progresivos crea un juego mecánico cada vez mayor en la conexión junta-carril. El incremento del juego aumenta la fatiga cíclica del material y provoca la nucleación y propagación de grietas, particularmente en los taladros de las bridas y también en las zonas de acuerdo geométrico entre el patín y la cabeza.
+This cascade of progressive deteriorations creates increasingly greater mechanical play in the joint-rail connection. Increased play increases material cyclic fatigue and provokes crack nucleation and propagation, particularly in joint bar holes and also in geometric agreement zones between foot and head.
 ![21db206b38735441eb01b0b8d5e7b193_MD5]({{ site.baseurl }}/assets/images/21db206b38735441eb01b0b8d5e7b193_MD5.webp)
 ![4601ff869a9eb959be7d10247284b2ef_MD5]({{ site.baseurl }}/assets/images/4601ff869a9eb959be7d10247284b2ef_MD5.webp)
 
-El **autotemple superficial** constituye un fenómeno de degradación metalúrgica producido por el patinaje de las ruedas o su bloqueo durante operaciones de frenado. Durante este fenómeno, el acero del carril se calienta por fricción a temperaturas que superan el punto crítico de transformación de fase, sufre un estiramiento rápido por compresión, y se enfría bruscamente por convección hacia la masa de acero más fría adyacente. Este ciclo térmico produce temple local en la zona afectada, lo que origina la formación de grietas superficiales frágiles en el camino de rodadura, creando un aspecto muy característico denominado "**piel de serpiente**". Estas grietas superficiales pueden propagarse progresivamente hacia el interior del material, comprometiendo su integridad estructural.
+**Surface self-tempering** (wheel burn) constitutes a metallurgical degradation phenomenon produced by wheel slippage or locking during braking operations. During this phenomenon, rail steel heats up by friction to temperatures exceeding the critical phase transformation point, suffers rapid stretching by compression, and cools abruptly by convection towards the adjacent cooler steel mass. This thermal cycle produces local tempering in the affected zone, originating brittle surface crack formation on the running path, creating a very characteristic appearance called "**snake skin**". These surface cracks can propagate progressively towards the material interior, compromising its structural integrity.
 
-Esta avería típicamente se presenta en las zonas de arranque de trenes muy pesados, frecuentemente localizadas inmediatamente antes de las señales ferroviarias donde comienza la aceleración. Puede generar desnivelaciones locales en la cabeza del carril de hasta 4 milímetros de profundidad distribuidas en una longitud de varios centímetros. Cuando se alcanza esta magnitud de deterioro, resulta necesario proceder a la sustitución del carril.
+This damage typically presents in start-up zones of very heavy trains, frequently located immediately before railway signals where acceleration begins. It can generate local unevenness in the rail head up to 4 millimeters deep distributed over a length of several centimeters. When this magnitude of deterioration is reached, replacing the rail becomes necessary.
 ![f7a021751642768724fcc110bfc6363d_MD5]({{ site.baseurl }}/assets/images/f7a021751642768724fcc110bfc6363d_MD5.webp)
 ![4385264d63635c0ed2b47177a11b459b_MD5]({{ site.baseurl }}/assets/images/4385264d63635c0ed2b47177a11b459b_MD5.webp)
 
-El **aplastamiento de la superficie de rodadura** constituye otro defecto de servicio importante, aunque con características distintas al autotemple. El paso repetido de las cargas sobre el carril actúa como un proceso de laminación en frío: compacta el grano cristalino, similar a cualquier operación de forja, endurece la superficie del carril en la tabla de rodadura y produce grietas superficiales por fatiga.
+**Running surface crushing** constitutes another important service defect, although with distinct characteristics from self-tempering. Repeated load passage over the rail acts as a cold rolling process: it compacts the crystal grain, similar to any forging operation, hardens the rail surface on the running table, and produces surface fatigue cracks.
 
-Sin embargo, estas grietas no se propagan rápidamente hacia el interior del carril, haciéndolo menos peligroso comparativamente que el autotemple. Asimismo, no genera la alteración profunda de la estructura cristalina superficial característica del autotemple.
+However, these cracks do not propagate rapidly towards the rail interior, making it comparatively less dangerous than self-tempering. Likewise, it does not generate the deep superficial crystal structure alteration characteristic of self-tempering.
 ![ee0e361d7343be044062827f57ea2b9a_MD5]({{ site.baseurl }}/assets/images/ee0e361d7343be044062827f57ea2b9a_MD5.webp)
 ![33bb9cbc91ef3712ae196c14da4daa75_MD5]({{ site.baseurl }}/assets/images/33bb9cbc91ef3712ae196c14da4daa75_MD5.webp)
 
-010501 Aplastamiento de la superficie de rodadura leve [10]
+010501 Mild running surface crushing [10]
 ![83412470d5b1b03e181542450c97b376_MD5]({{ site.baseurl }}/assets/images/83412470d5b1b03e181542450c97b376_MD5.webp)
 
-010503 Aplastamiento de la superficie de rodadura severo [40]
+010503 Severe running surface crushing [40]
 
-010502 Aplastamiento de la superficie de rodadura moderado [40]
+010502 Moderate running surface crushing [40]
 ![348af3120b08d95f64b541a0fbf3ed1a_MD5]({{ site.baseurl }}/assets/images/348af3120b08d95f64b541a0fbf3ed1a_MD5.webp)
 
-010504 Aplastamiento de la superficie de rodadura muy severo con desprendimientos [40]
+010504 Very severe running surface crushing with detachments [40]
 
-Las roturas debidas a los **planos (defectos de forma)** de las ruedas constituyen una causa significativa de daño acelerado en los carriles. Las normativas de conservación de material rodante establecen umbrales de tolerancia para estos planos: se permiten hasta 3 milímetros de flecha en los vagones de mercancías, mientras que en los coches de pasajeros se limita a 1 milímetro. Un caso histórico ilustrativo ocurrió el 30 de enero de 1947 en la línea Montpellier-Nimes, donde un coche con una rueda que presentaba un plano de 20 milímetros de flecha en una cuerda de 18 centímetros provocó 267 roturas simultáneas de carril. Este incidente ocurrió a una temperatura de -10°C, condición bajo la cual la fragilidad del acero duro se incrementa dramáticamente, multiplicando la severidad del impacto.
+Breaks due to **wheel flats** constitute a significant cause of accelerated damage in rails. Rolling stock conservation regulations establish tolerance thresholds for these flats: up to 3 millimeters of sag are allowed in freight wagons, while in passenger cars it is limited to 1 millimeter. An illustrative historical case occurred on January 30, 1947, on the Montpellier-Nimes line, where a car with a wheel presenting a flat of 20 millimeters sag in an 18-centimeter chord caused 267 simultaneous rail breaks. This incident occurred at a temperature of -10°C, a condition under which hard steel brittleness increases dramatically, multiplying impact severity.
 ![4917e2f25634800b7e79b86f0e791f9c_MD5]({{ site.baseurl }}/assets/images/4917e2f25634800b7e79b86f0e791f9c_MD5.webp)
 
 ![d6153eb394586d727a62fd3917539849_MD5]({{ site.baseurl }}/assets/images/d6153eb394586d727a62fd3917539849_MD5.webp)
@@ -363,327 +363,326 @@ Las roturas debidas a los **planos (defectos de forma)** de las ruedas constituy
 ![1e309c3f3ed1b22b1644a442cbb95f32_MD5]({{ site.baseurl }}/assets/images/1e309c3f3ed1b22b1644a442cbb95f32_MD5.webp)
 ![5a4dc0e0836241850606cc09d5ebb127_MD5]({{ site.baseurl }}/assets/images/5a4dc0e0836241850606cc09d5ebb127_MD5.webp)
 
-### II.11. Desgaste de los carriles
+### II.11. Rail wear
 
-Se designa como **desgaste del carril** al cambio progresivo de las dimensiones del perfil, caracterizado por la eliminación gradual de material en el perfil de la cabeza mediante la acción erosiva de las ruedas de los vehículos en movimiento.
+**Rail wear** is designated as the progressive change of profile dimensions, characterized by the gradual removal of material in the head profile via the erosive action of moving vehicle wheels.
 
-Durante la rodadura sobre los carriles, las ruedas del material rodante generan sobre el carril una multiplicidad de solicitaciones mecánicas simultáneas: compresiones normales al plano de rodadura, tracciones longitudinales, flexiones, torsiones y choques repetidos en número muy elevado. En la zona local de contacto entre rueda y carril se supera el límite elástico del material, produciendo deformaciones plásticas progresivas. De particular importancia son las solicitaciones laterales ejercidas por las pestañas de las ruedas contra las caras de guía del carril.
+During rolling on rails, rolling stock wheels generate a multiplicity of simultaneous mechanical stresses on the rail: compressions normal to the running plane, longitudinal tractions, bending, torsion, and repeated impacts in very high numbers. In the local contact zone between wheel and rail, the material's elastic limit is exceeded, producing progressive plastic deformations. Of particular importance are lateral stresses exerted by wheel flanges against rail guide faces.
 
-El conjunto de estos esfuerzos produce la erosión progresiva tanto de la superficie de rodadura como de la cara interna lateral de la cabeza del carril, generando un desgaste que puede variar en rapidez dependiendo significativamente de las condiciones específicas en que se desarrolle el servicio ferroviario: geometría del trazado (línea recta versus curvas), tipología y rigidez de la estructura de vía, velocidades de circulación, magnitud de las cargas, presencia de deslizamientos de las ruedas, entre otros factores determinantes.
+The set of these stresses produces progressive erosion of both the running surface and the internal lateral face of the rail head, generating wear that can vary in speed depending significantly on specific conditions in which railway service develops: track layout geometry (straight line versus curves), track structure typology and stiffness, circulation speeds, load magnitude, presence of wheel slips, among other determining factors.
 
-El desgaste de carriles puede dividirse en dos categorías principales: el **desgaste normal u ordinario**, que ocurre como consecuencia regular del servicio, y el **desgaste ondulatorio**, que corresponde a un fenómeno particular de fatiga acumulada.
+Rail wear can be divided into two main categories: **normal or ordinary wear**, occurring as regular service consequence, and **corrugation** (undulatory wear), corresponding to a particular accumulated fatigue phenomenon.
 
-#### II.11.1. Desgaste Normal u ordinario
+#### II.11.1. Normal or Ordinary Wear
 
-El **desgaste vertical** constituye la modalidad más común, produciendo una pérdida progresiva de la altura de la cabeza del carril. Este desgaste resulta de dos mecanismos complementarios: la abrasión física causada por el contacto con las ruedas, y más significativamente, la **corrosión química** del acero. La corrosión es particularmente importante porque, al eliminar la capa de óxido protector que naturalmente se formaría en ausencia de tráfico, expone continuamente metal fresco a los agentes corrosivos atmosféricos. Como orden de magnitud de referencia, se puede establecer que el paso de cien mil trenes produce aproximadamente un milímetro de pérdida de altura de la cabeza.
+**Vertical wear** constitutes the most common modality, producing progressive loss of rail head height. This wear results from two complementary mechanisms: physical abrasion caused by contact with wheels, and more significantly, **chemical corrosion** of steel. Corrosion is particularly important because, by eliminating the protective oxide layer naturally forming in traffic absence, it continuously exposes fresh metal to atmospheric corrosive agents. As a reference order of magnitude, it can be established that the passage of one hundred thousand trains produces approximately one millimeter of head height loss.
 
-Las normativas de mantenimiento de vía, como la NAV 7-6-0.1 de las Instrucciones de Reparaciones en la Vía, establecen criterios precisos de inutilización de carriles. Se considera que un carril asentado en vía con la configuración estándar de 1.667 traviesas por kilómetro es técnicamente inútil cuando:
+Track maintenance regulations, such as NAV 7-6-0.1 of Instructions for Track Repairs, establish precise rail disablement criteria. It is considered that a rail seated in track with the standard configuration of 1,667 sleepers per kilometer is technically useless when:
 
-El desgaste total acumulado excede de 21 milímetros en los carriles modelo RN-45, de 24 milímetros en UIC-54, o de 27 milímetros en UIC-60.
+Total accumulated wear exceeds 21 millimeters in RN-45 model rails, 24 millimeters in UIC-54, or 27 millimeters in UIC-60.
 
-El **desgaste lateral** supera 8 milímetros en RN-45, 10 milímetros en UIC-54, o 12 milímetros en UIC-60.
+**Lateral wear** exceeds 8 millimeters in RN-45, 10 millimeters in UIC-54, or 12 millimeters in UIC-60.
 
-El desgaste lateral alcanza el borde inferior de la cabeza, quedando el carril sin material de guía efectiva.
+Lateral wear reaches the lower edge of the head, leaving the rail without effective guide material.
 
-El desgaste lateral presenta en el chaflán formado un redondeo acusado en su borde inferior, indicando corte profundo.
+Lateral wear presents a pronounced rounding on its lower edge in the formed chamfer, indicating deep cutting.
 
-El desgaste lateral es tal que permite que las pestañas de las ruedas rocen directamente contra las bridas de unión, eliminando la protección lateral.
+Lateral wear is such that it allows wheel flanges to rub directly against joint bars, eliminating lateral protection.
 
-El desgaste del alma excede 4 milímetros en carriles RN-45, 7 milímetros en UIC-54, o 7,5 milímetros en UIC-60.
+Web wear exceeds 4 millimeters in RN-45 rails, 7 millimeters in UIC-54, or 7.5 millimeters in UIC-60.
 
-Existe una práctica de reutilización que permite extender la vida útil de carriles con desgaste lateral. Los carriles que presentan desgastes laterales como los descritos pueden reutilizarse invirtiendo la posición del carril, utilizando el lado sin desgastar de su cabeza como nuevo flanco activo de rodadura. Cuando estos carriles están soldados, resulta crítico verificar la calidad de alineación de las soldaduras en el flanco "no activo" antes de invertirlo al estado "activo", realizando el amolado de rectificación correspondiente cuando sea técnicamente factible. Desgastes superiores a los especificados suponen la inutilización definitiva del carril, ya que la inversión no es viable.
+There is a reuse practice allowing extension of service life for rails with lateral wear. Rails presenting lateral wear as described can be reused by inverting rail position, using the unworn side of its head as the new active running flank. When these rails are welded, it is critical to verify alignment quality of welds on the "non-active" flank before inverting it to "active" state, performing corresponding rectification grinding when technically feasible. Wear exceeding specified limits supposes definitive rail disablement, since inversion is not viable.
 
-#### II.11.2. Desgaste Ondulatorio
+#### II.11.2. Corrugation (Undulatory Wear)
 
-Meses o años después de la colocación inicial de carriles nuevos en la vía, aparecen a veces defectos superficiales característicos con una longitud de onda regularmente espaciada. Estas manifestaciones de desgaste ondulatorio pueden presentarse en tres variantes según su longitud de onda:
+Months or years after initial placement of new rails on track, characteristic surface defects sometimes appear with regularly spaced wavelength. These manifestations of corrugation can present in three variants according to their wavelength:
 
-El **desgaste de onda corta** presenta una longitud de onda típica de 60 milímetros, correspondiente a los nodos de la ondulación. En estos puntos el carril ha sufrido temple superficial localizado. El camino de rodadura muestra una serie de manchas brillantes correspondientes a estas zonas. La profundidad de los "vientres" o depresiones entre nodos, aunque sensible visualmente a partir de 4 o 5 centésimas de milímetro, puede alcanzar valores de 2 o 3 décimas de milímetro en casos avanzados.
+**Short-wave wear** (roaring rails) presents a typical wavelength of 60 millimeters, corresponding to undulation nodes. At these points, the rail has suffered localized surface tempering. The running path shows a series of shiny spots corresponding to these zones. The depth of "valleys" or depressions between nodes, although visually specific from 4 or 5 hundredths of a millimeter, can reach values of 2 or 3 tenths of a millimeter in advanced cases.
 
-El **desgaste de onda media** es una condición intermedia entre los extremos de onda corta y onda larga.
+**Medium-wave wear** is an intermediate condition between short-wave and long-wave extremes.
 
-El **desgaste de onda larga** presenta longitudes de onda en el rango de 60 centímetros a 2 metros. Es de difícil observación en inspecciones visuales simples puesto que el carril no presenta una zona de temple que haya sufrido cementación observable a simple vista.
+**Long-wave wear** presents wavelengths in the range of 60 centimeters to 2 meters. It is difficult to observe in simple visual inspections since the rail does not present a tempered zone that has suffered cementation observable to the naked eye.
 
-El desgaste ondulatorio de onda corta es el de mayor incidencia práctica en las líneas ferroviarias actuales. Genera vibraciones en la superestructura de la vía y simultáneamente en los vehículos que circulan sobre ella, perjudicando ambos elementos y aumentando significativamente los costes de mantenimiento. Conforme se incrementa la velocidad de circulación, las cargas dinámicas derivadas de las ondulaciones se incrementan, pudiendo llegar a igualarse en magnitud con las cargas estáticas en ciertas circunstancias. A pesar de que los esfuerzos generados se amortiguan relativamente rápido en las traviesas, producen consecuencias deteriorantes muy severas sobre las traviesas mismas y sobre el carril que sobre los problemas de nivelación general de la vía.
+Short-wave corrugation is of greatest practical incidence on current railway lines. It generates vibrations in the track superstructure and simultaneously in vehicles circulating on it, harming both elements and significantly increasing maintenance costs. As circulation speed increases, dynamic loads derived from undulations increase, being able to equal static loads in magnitude under certain circumstances. Although generated stresses are damped relatively quickly in sleepers, they produce very severe deteriorating consequences on sleepers themselves and on the rail than on general track leveling problems.
 ![e30689a1909127dea22e7337cced6eb4_MD5]({{ site.baseurl }}/assets/images/e30689a1909127dea22e7337cced6eb4_MD5.webp)
 
-El desgaste de onda media generalmente aparece en curvas de radio inferior a 500 metros, particularmente en el hilo bajo de la curva. Afecta principalmente a líneas por las que circulan vehículos con cargas por eje muy elevadas.
+Medium-wave wear generally appears in curves with radius less than 500 meters, particularly on the low thread of the curve. It mainly affects lines where vehicles with very high axle loads circulate.
 
-Se puede afirmar con solidez que la existencia del desgaste ondulatorio en el carril reduce de forma apreciable la vida útil completa de la superestructura de la vía y del material rodante, incrementa significativamente los niveles de ruido, disminuye marcadamente el confort percibido por los pasajeros, incrementa la fuerza de tracción necesaria para remolcar el material rodante, multiplica los costes de conservación del sistema integrado rueda-carril, y reduce el factor de seguridad operacional de las circulaciones.
+It can be solidly affirmed that the existence of corrugation in the rail appreciably reduces the complete service life of the track superstructure and rolling stock, significantly increases noise levels, markedly decreases comfort perceived by passengers, increases traction force necessary to tow rolling stock, multiplies conservations costs of the integrated wheel-rail system, and reduces the operational safety factor of circulations.
 ![03e81dc2b14c939a00d665e06bec140d_MD5]({{ site.baseurl }}/assets/images/03e81dc2b14c939a00d665e06bec140d_MD5.webp)
 ![321e06e011aafa16c98535f9d9016f31_MD5]({{ site.baseurl }}/assets/images/321e06e011aafa16c98535f9d9016f31_MD5.webp)
 
 
-## Capítulo III La traviesa
+## Chapter III The Sleeper
 
-Las traviesas constituyen elementos estructurales esenciales que se disponen en dirección transversal perpendicular al eje longitudinal de la vía. Funcionan como elementos de apoyo sobre los que se colocan los carriles, y de forma crítica, actúan como nexo de unión entre el carril y el balasto mediante sistemas de sujeción especializados. Junto con los carriles, las traviesas forman el armazón o emparrillado estructural de la vía ferroviaria.
+Sleepers constitute essential structural elements arranged in a transverse direction perpendicular to the track longitudinal axis. They function as support elements on which rails are placed, and critically, act as a connecting link between rail and ballast via specialized fastening systems. Together with rails, sleepers form the structural frame or grid of the railway track.
 
-### III.1. Funciones
+### III.1. Functions
 
 {: .highlight }
-Las traviesas cumplen funciones múltiples y críticas para el funcionamiento correcto de la infraestructura ferroviaria. Su función primaria es transmitir y repartir las cargas derivadas del material rodante desde los carriles hasta el balasto, distribuyendo estas fuerzas sobre una superficie amplia para minimizar las presiones de contacto.
+Sleepers fulfill multiple and critical functions for correct railway infrastructure functioning. Their primary function is to transmit and distribute loads derived from rolling stock from rails to the ballast, distributing these forces over a wide surface to minimize contact pressures.
 
-Una segunda función fundamental es **asegurar y mantener el ancho de vía** requerido, arriostrando transversalmente los dos carriles para impedir su aproximación o alejamiento. Esta función es crítica para la seguridad operacional.
+A second fundamental function is **to secure and maintain the required track gauge**, transversely bracing the two rails to prevent their approach or separation. This function is critical for operational safety.
 
-Una tercera función importante en carriles Vignole es **proporcionar la inclinación necesaria del carril** (típicamente 1/20 hacia el interior de la curva en líneas curvas). Esta inclinación es obligatoria en sistemas ferroviarios que utilizan llantas troncocónicas en sus ruedas, inclinación que compensa la tendencia natural del vehículo al vuelco derivada de la geometría de la llanta. Esta función puede realizarse mediante dos metodologías: el cajeado (rebaje directo en la traviesa) o mediante placas de asiento especialmente fabricadas.
+A third important function in Vignole rails is **to provide necessary rail inclination** (typically 1/20 towards the curve interior in curved lines). This inclination is mandatory in railway systems utilizing truncated cone tires on their wheels, inclination compensating natural vehicle overturning tendency derived from tire geometry. This function can be performed via two methodologies: adzing (direct recess in sleeper) or via specially manufactured baseplates.
 
 ![47208e8bcc0b9590ca48fe3c96cee4e7_MD5]({{ site.baseurl }}/assets/images/47208e8bcc0b9590ca48fe3c96cee4e7_MD5.webp)
-Cajeo inclinado
+Inclined adzing
 
 ![17d2c70710f03d40e9f5fe77168255d9_MD5]({{ site.baseurl }}/assets/images/17d2c70710f03d40e9f5fe77168255d9_MD5.webp)
-Placa de asiento
+Baseplate
 
 ![dc3522d00432c7de07a549fe250f5f72_MD5]({{ site.baseurl }}/assets/images/dc3522d00432c7de07a549fe250f5f72_MD5.webp)
 
-Más allá de estas funciones específicas, la traviesa debe mantener la **estabilidad general de la vía** en todas sus direcciones: tanto en el plano horizontal (considerando desplazamientos longitudinales y transversales) como en el plano vertical. Esta estabilidad debe ser efectiva frente a esfuerzos estáticos procedentes del peso propio de la estructura y variaciones térmicas que producen dilataciones y contracciones, así como frente a esfuerzos dinámicos derivados del paso de trenes cargados a velocidad. En líneas ferroviarias equipadas con circuitos de señalización, la traviesa debe cumplir una función adicional: el **aislamiento eléctrico** de los dos hilos de carril para permitir el funcionamiento de los sistemas de detección de ocupación de vía y sistemas de control de tráfico.
+Beyond these specific functions, the sleeper must maintain **general track stability** in all its directions: both in the horizontal plane (considering longitudinal and transverse displacements) and in the vertical plane. This stability must be effective against static stresses proceeding from structure own weight and thermal variations producing expansions and contractions, as well as against dynamic stresses derived from passing loaded trains at speed. On railway lines equipped with signaling circuits, the sleeper must fulfill an additional function: **electrical insulation** of the two rail threads to allow functioning of track occupancy detection systems and traffic control systems.
 
-Respecto a la estabilidad geométrica de la vía, las dimensiones a considerar de la traviesa son multidimensionales:
-- Estabilidad en el plano vertical: determinada fundamentalmente por la longitud y anchura de la traviesa.
-- Estabilidad en el plano lateral: determinada por la anchura, altura y peso de la traviesa.
-- Estabilidad en el plano longitudinal: determinada por las tres dimensiones principales y el peso total de la traviesa.
+Regarding track geometric stability, sleeper dimensions to consider are multidimensional:
+- Stability in vertical plane: determined fundamentally by sleeper length and width.
+- Stability in lateral plane: determined by sleeper width, height, and weight.
+- Stability in longitudinal plane: determined by the three main dimensions and total sleeper weight.
 
-Desde los orígenes del ferrocarril moderno en el siglo XIX, tras un breve período inicial en que se utilizaron bloques de piedra natural como elementos de soporte de los carriles, la madera se impuso como el material predominante para la construcción de traviesas. Las especies de madera empleadas históricamente incluyen roble, haya, pino, abeto, abedul, cedro, eucalipto y una variedad de maderas tropicales especialmente aptas para este uso. La madera demostró poseer propiedades ideales para esta aplicación ferroviaria.
+Since origins of modern railway in 19th century, after a brief initial period in which natural stone blocks were used as rail support elements, wood imposed itself as predominant material for sleeper construction. Wood species employed historically include oak, beech, pine, fir, birch, cedar, eucalyptus, and a variety of tropical woods especially apt for this railway use. Wood demonstrated possessing ideal properties for this application.
 
-Solamente en períodos de escasez crítica de madera en determinadas regiones o épocas específicas, los ferrocarriles se vieron impulsados a experimentar con materiales substitutos alternativos, tales como acero y hormigón armado. A lo largo del siglo XX, las traviesas de hormigón fueron evolucionando gradualmente en sofisticación técnica, culminando en las actuales traviesas de hormigón pretensado, que ofrecen características de durabilidad y rendimiento muy superiores a las primeras versiones.
+Only in periods of critical wood shortage in certain regions or specific eras, were railways driven to experiment with alternative substitute materials, such as steel and reinforced concrete. Throughout the 20th century, concrete sleepers gradually evolved in technical sophistication, culminating in current prestressed concrete sleepers, offering durability and performance characteristics much superior to early versions.
 ![eab24bbeb13615742de95b1fd0dceed4_MD5]({{ site.baseurl }}/assets/images/eab24bbeb13615742de95b1fd0dceed4_MD5.webp)
 ![a4a8e4659477f19625af08be330ce664_MD5]({{ site.baseurl }}/assets/images/a4a8e4659477f19625af08be330ce664_MD5.webp)
 
 
-### III.2. Traviesas de madera
+### III.2. Wooden sleepers
 
-Las traviesas de madera gozaron de gran aceptación desde los mismos orígenes del ferrocarril comercial, fundamentada en sus características extraordinariamente favorables: una **elevada elasticidad** que permite absorber impactos de forma efectiva, una **excelente clavabilidad** que facilita el sistema de sujeción de carriles mediante clavos o tirafondos, una relativa facilidad de conservación y reparación mediante trabajos simples de carpintería, un **elevado aislamiento eléctrico** que las hace ideales para líneas con sistemas de signalización de vía, y su abundancia general en el planeta con buena distribución geográfica.
+Wooden sleepers enjoyed great acceptance since the very origins of commercial railway, founded on their extraordinarily favorable characteristics: **elevated elasticity** allowing effective impact absorption, **excellent nail-holding ability** facilitating rail fastening via spikes or screws, relative ease of conservation and repair via simple carpentry works, **high electrical insulation** making them ideal for lines with track signaling systems, and their general abundance on the planet with good geographic distribution.
 
-Adicionalmente, las traviesas de madera presentan una gran resistencia a toda clase de esfuerzos. Cuando se solicitan localmente, como en eventos de descarrilamiento, no se rompen de manera frágil sino que desarrollan entallad uras progresivas. Ofrecen buena resistencia al deslizamiento sobre el balasto mediante una ligera incrustación del material balástico en su superficie. Poseen un peso relativamente reducido que facilita el manejo manual y reduce significativamente los costos de transporte. Pueden ser reutilizadas en vías secundarias o de servicio mediante tratamiento mecánico de recuperación. Su proceso de fabricación es económico y relativamente sencillo. Presentan tenacidad estructural sin ser frágiles, buena resistencia a la intemperie y agentes atmosféricos, y admiten pequeñas deformaciones por flexión en su punto medio sin fracturarse catastróficamente.
+Additionally, wooden sleepers present great resistance to all kinds of stresses. When solicited locally, as in derailment events, they do not break in a brittle manner but develop progressive notches. They offer good resistance to sliding on ballast via slight encrustation of ballast material in their surface. They possess relatively reduced weight facilitating manual handling and significantly reducing transport costs. They can be reused in secondary or service tracks via mechanical recovery treatment. Their manufacturing process is economic and relatively simple. They present structural toughness without being brittle, good resistance to weather and atmospheric agents, and admit small bending deformations at their midpoint without catastrophic fracture.
 
-Sin embargo, las traviesas de madera presentan también desventajas significativas: **envejecimiento progresivo** durante el servicio con cambios substanciales de sus características primitivas de elasticidad y resistencia, limitando su vida útil típica a 20-25 años. Son susceptibles a combustión en caso de incendio. Se degradan por ataques de microorganismos, hongos, gusanos de madera y termitas, especialmente en climas húmedos o tropicales. Las sujeciones se debilitan progresivamente con el tiempo. Poseen un peso relativamente bajo (70-80 kilogramos), lo que aunque facilitaría su manejo, resulta insuficiente para proporcionar la estabilidad necesaria en líneas de tráfico muy intenso.
+However, wooden sleepers also present significant disadvantages: **progressive aging** during service with substantial changes in their primitive characteristics of elasticity and resistance, limiting their typical service life to 20-25 years. They are susceptible to combustion in case of fire. They degrade by attacks from microorganisms, fungi, woodworms, and termites, especially in humid or tropical climates. Fastenings weaken progressively over time. They possess relatively low weight (70-80 kilograms), which although facilitating handling, results insufficient to provide necessary stability on very intense traffic lines.
 
 ![1a0d6f501cb5f8c69b4acaecf6bf25f5_MD5]({{ site.baseurl }}/assets/images/1a0d6f501cb5f8c69b4acaecf6bf25f5_MD5.webp)
 
-Las diversas configuraciones geométricas de sección transversal de traviesas de madera están normalizadas en líneas generales por la UIC, exigiendo que la cara inferior sea completamente plana, las caras laterales sensiblemente perpendiculares a esta base, y la cara superior presentando zonas planas horizontales en ubicaciones específicas destinadas a soportar los carriles o para permitir el cajeado inclinado. La forma resultante es aproximadamente paralelepípeda.
+Diverse geometric configurations of wooden sleeper cross-section are standardized in general lines by UIC, requiring the lower face to be completely flat, lateral faces sensibly perpendicular to this base, and upper face presenting horizontal flat zones in specific locations destined to support rails or to allow inclined adzing. The resulting shape is approximately parallelepipedal.
 
-La Especificación Técnica UIC establece parámetros dimensionales específicos: la anchura de la cara inferior debe estar comprendida entre 0,26 m y 0,22 m, la altura entre 0,16 m y 0,13 m, y las zonas de apoyo de la cara superior entre 0,20 m y 0,13 m.
+UIC Technical Specification establishes specific dimensional parameters: lower face width must be between 0.26 m and 0.22 m, height between 0.16 m and 0.13 m, and upper face support zones between 0.20 m and 0.13 m.
 
 
 ![de4df359e8c332a6565be321cc5ae7ea_MD5]({{ site.baseurl }}/assets/images/de4df359e8c332a6565be321cc5ae7ea_MD5.webp)
 
 ![d5bc0350f2f564ee08bd20b18fecf1cd_MD5]({{ site.baseurl }}/assets/images/d5bc0350f2f564ee08bd20b18fecf1cd_MD5.webp)
-[Traviesas de madera Adif ET 03.360.540.3](https://normativatecnica.adif.es/)
-### III.3. Traviesas metálicas
+[Adif wooden sleepers ET 03.360.540.3](https://normativatecnica.adif.es/)
+### III.3. Metal sleepers
 
-La **traviesa metálica** constituye un producto industrial manufacturado mediante procesos de laminación relativamente simples. Su estructura se basa en un perfil laminado en forma de **U invertida**, complementado con rebordes especiales en sus extremos que forman estructuras semejantes a azadas. Estos rebordes están diseñados específicamente para permitir que la traviesa se hinque en el balasto, oponiéndose eficazmente al desplazamiento transversal de la vía, consiguiendo así un empotramiento altamente efectivo en el material balástico.
+The **metal sleeper** constitutes a manufactured industrial product via relatively simple rolling processes. Its structure is based on a rolled profile in **inverted U** shape, complemented with special flanges at its ends forming structures similar to hoes. These flanges are designed specifically to allow the sleeper to drive into the ballast, opposing effectively transverse track displacement, thus achieving highly effective embedding in ballast material.
 
-El carril se fija a la traviesa mediante grapas especializadas que se apoyan sobre el borde del patín del carril. Las grapas se sujetan utilizando tuercas atornilladas en pernos pasantes. La combinación de dos o tres tipos distintos de grapas de diferentes dimensiones permite lograr los ajustes de sobreancho que demandan las diferentes configuraciones de vía. Es posible adaptar dispositivos elásticos complementarios para mejorar la capacidad de amortiguación.
+The rail is fixed to the sleeper via specialized clips resting on the rail foot edge. Clips are held using nuts screwed onto through bolts. The combination of two or three distinct type of clips of different dimensions allows achieving gauge widening adjustments demanded by different track configurations. It is possible to adapt complementary elastic devices to improve damping capacity.
 
-La traviesa metálica es relativamente ligera (aproximadamente 80 kilogramos) y fácil de colocar en la vía. Sin embargo, esta característica de bajo peso, que podría considerarse ventajosa desde el punto de vista de manipulación, resulta negativa en vías de circulación muy pesada y de altas velocidades. La traviesa metálica es inherentemente ruidosa durante el paso de circulaciones. Adicionalmente, es conductora eléctrica, lo que presenta el inconveniente de no permitir el aislamiento eléctrico de los dos hilos de carriles, a menos que se instalen dispositivos de aislamiento especiales con el consiguiente incremento de costos de inversión.
+The metal sleeper is relatively light (approximately 80 kilograms) and easy to place on track. However, this low weight characteristic, which could be considered advantageous from handling point of view, results negative in very heavy circulation and high speed tracks. The metal sleeper is inherently noisy during passage of circulations. Additionally, it is electrically conductive, presenting the inconvenience of not allowing electrical insulation of two rail threads, unless special insulation devices are installed with consequent investment cost increase.
 
-Las traviesas metálicas pueden fabricarse tanto en acero como en fundición. Las traviesas de fundición resisten mejor la corrosión y son más sencillas de fabricar industrialmente. Sin embargo, las traviesas de acero laminado son más ampliamente utilizadas porque la laminación resulta económicamente más ventajosa que el proceso de fundición.
+Metal sleepers can be manufactured in both steel and cast iron. Cast iron sleepers vary better regarding corrosion and are simpler to manufacture industrially. However, rolled steel sleepers are more widely used because rolling turns out economically more advantageous than casting process.
 
-En Europa occidental, la traviesa metálica no alcanzó una aceptación generalizada, debido fundamentalmente a que los recursos forestales disponibles eran abundantes. No obstante, en zonas desérticas o semidesérticas, particularmente en África del Norte, Asia Meridional e India, el uso de traviesas metálicas fue muy importante. El antiguo ferrocarril Central de Aragón en España fue un ejemplo notable de utilización de traviesas metálicas, donde aún persisten en vías secundarias. También se encuentran en redes de Suiza, Austria y Alemania. Por su capacidad de empotramiento muy efectivo en el balasto, se han utilizado frecuentemente en ferrocarriles especiales como funiculares y ferrocarriles de cremallera (tal como el ferrocarril de Nuria), donde ofrecen suje ción elástica superior.
+In Western Europe, the metal sleeper did not reach generalized acceptance, due fundamentally to available forest resources being abundant. Nevertheless, in desert or semi-desert zones, particularly in North Africa, Southern Asia, and India, use of metal sleepers was very important. The old Central of Aragon railway in Spain was a notable example of metal sleeper utilization, where they still persist on secondary tracks. They are also found in networks of Switzerland, Austria, and Germany. Due to their very effective embedding capacity in ballast, they have frequently been used in special railways like funiculars and rack railways (such as Nuria railway), where they offer superior elastic retention.
 
-Las traviesas metálicas presentan **problemas graves de corrosión** por oxidación en zonas de alta humedad relativa: túneles, trincheras profundas, terrenos pantanosos o de drenaje deficiente. Son especialmente vulnerables al ataque químico del aire salino en las proximidades de costas marítimas, de los vapores de azufre del balasto de escoria de altos hornos, o de vapores ácidos emitidos por fábricas de productos químicos cercanas.
+Metal sleepers present **serious corrosion problems** by oxidation in high relative humidity zones: tunnels, deep trenches, swampy or poorly drained terrains. They are especially vulnerable to chemical attack from saline air in maritime coast proximities, sulfur vapors from blast furnace slag ballast, or acidic vapors emitted by nearby chemical product factories.
 
-En líneas equipadas con tracción eléctrica, presentan el inconveniente grave de provocar una **conexión a tierra directa** ("puesta tierra franca"), que puede resultar en la circulación de corrientes vagabundas dispersas por el terreno y en fenómenos de electrólisis del acero y otros metales enterrados, con los peligros subsecuentes tanto para las estructuras como para la seguridad operacional.
+In lines equipped with electric traction, they present the serious inconvenience of causing **direct grounding** ("frank earth"), which can result in stray current circulation dispersed through ground and in electrolysis phenomena of steel and other buried metals, with subsequent dangers for both structures and operational safety.
 
-La ventaja principal de las traviesas metálicas es la de una considerable **durabilidad temporal**. Dado que su punto débil estructural son las conexiones de sujeción de los carriles, su vida operativa depende más del número de ciclos de carga (circulaciones) que de su edad calendárica. En principio resultan más ventajosas en líneas de tráfico débil o moderado, donde las traviesas de madera se pudren o pierden significativamente sus características mecánicas antes de haber completado su desgaste mecánico directo por compresión.
+The main advantage of metal sleepers is that of considerable **temporal durability**. Since their structural weak point are rail fastening connections, their operational life depends more on number of load cycles (circulations) than on their calendar age. In principle they turn out more advantageous on weak or moderate traffic lines, where wooden sleepers rot or significantly loose their mechanical characteristics before having completed their direct mechanical wear by compression.
 ![53aeb756f27fae15af4f8408fb06b393_MD5]({{ site.baseurl }}/assets/images/53aeb756f27fae15af4f8408fb06b393_MD5.webp){: width="592" height="334"}
 ![a65411de1f4c45a417a5154dbead6e07_MD5]({{ site.baseurl }}/assets/images/a65411de1f4c45a417a5154dbead6e07_MD5.webp)
 ![59b462d4efff0deda1dfccc4c33906c2_MD5]({{ site.baseurl }}/assets/images/59b462d4efff0deda1dfccc4c33906c2_MD5.webp)
-[traviesas de acero](https://www.trackopedia.com/en/encyclopedia/infrastructure/superstructure/sleepers/steel-sleepers)
+[steel sleepers](https://www.trackopedia.com/en/encyclopedia/infrastructure/superstructure/sleepers/steel-sleepers)
 
-### III.4. Traviesas de hormigón
+### III.4. Concrete sleepers
 
-El agotamiento de los bosques en una serie de países y el crecimiento del coste de la madera derivado de ello, así como el amplio consumo de madera como materia prima en ramas industriales, como la química, celulosa y papel, muebles, etc., donde su uso es más adecuado, desde el punto de vista económico, mantuvieron un permanente interés hacia los resultados de los ensayos con traviesas de hormigón armado.
+Depletion of forests in a series of countries and derived wood cost growth, as well as wide consumption of wood as raw material in industrial branches, such as chemical, cellulose and paper, furniture, etc., where its use is more adequate, from economic point of view, maintained permanent interest towards results of trials with concrete sleepers.
 ![f2472e97e88e211ed2677e56c8157238_MD5]({{ site.baseurl }}/assets/images/f2472e97e88e211ed2677e56c8157238_MD5.webp)
 
-Las pruebas con **traviesas de hormigón armado** alcanzaron un desarrollo considerable durante la Primera Guerra Mundial, debido a problemas de suministros, pero los resultados fueron insatisfactorios.
+Tests with **reinforced concrete sleepers** reached considerable development during First World War, due to supply problems, but results were unsatisfactory.
 
-Por los mismos motivos, vuelve a desarrollarse el interés durante la Segunda Guerra Mundial, pero ahora con el respaldo que supone para el hormigón armado la técnica del **hormigón pretensado**.
+For same reasons, interest re-develops during Second World War, but now with backing that **prestressed concrete** technique supposes for reinforced concrete.
 ![c0f56be2339737a6094315072b72ba36_MD5]({{ site.baseurl }}/assets/images/c0f56be2339737a6094315072b72ba36_MD5.webp)
 
-Al principio de su utilización, imitaron la forma de la traviesa de madera, es decir, eran paralelepipédicas. Problema: con el paso de las cargas, agravado por la gran rigidez de la traviesa, se produce un enrarecimiento del balasto y , por contra, concentración del mismo en el centro de la traviesa. Con el tiempo el fenómeno se acentúa mucho, los extremos de la traviesa asientan más que su parte central y en esta parte surge un gran momento flector negativo, lo que supone que el hormigón trabaja a tracción en la parte central de la traviesa: fisuración.
+At beginning of their utilization, they imitated wooden sleeper shape, i.e., were parallelepipedal. Problem: with load passage, aggravated by sleeper great rigidity, ballast rarefaction occurs and, conversely, concentration thereof in sleeper center. Over time phenomenon accentuates much, sleeper ends settle more than their central part and in this part great negative bending moment arises, supposing concrete works in tension in sleeper central part: cracking.
 
-Para evitar esta situación se idearon varias soluciones:
+To avoid this situation various solutions were devised:
 
-- Reforzar las armaduras.
-- Se actuó no sobre la traviesa, sino sobre el balasto, practicando un surco longitudinal en la parte central de la vía, para evitar que la traviesa se apoyara en esa zona.
+- Reinforce reinforcements.
+- Acted not on sleeper, but on ballast, practicing longitudinal furrow in track central part, to avoid sleeper resting in that zone.
 ![4143ce2deb266f98f1857af3d54ab096_MD5]({{ site.baseurl }}/assets/images/4143ce2deb266f98f1857af3d54ab096_MD5.webp)
-- La solución simétrica también se intentó, es decir, crear el surco en la traviesa adelgazando su canto en la parte central .
+- Symmetric solution was also attempted, i.e., create furrow in sleeper thinning its edge in central part.
  ![d09605020093228e35e611013b75aa44_MD5]({{ site.baseurl }}/assets/images/d09605020093228e35e611013b75aa44_MD5.webp)
-- La solución simétrica también se intentó, es decir, crear el surco en la traviesa adelgazando su canto en la parte central .
+- Symmetric solution was also attempted, i.e., create furrow in sleeper thinning its edge in central part.
 ![53a5fafa7c536d21049b41f0f872782d_MD5]({{ site.baseurl }}/assets/images/53a5fafa7c536d21049b41f0f872782d_MD5.webp)
-- Adelgazar la parte central de la traviesa, no su canto, sino su ancho, por lo que debido al reparto de las reacciones de apoyo del balasto sobre la traviesa, el momento flector en la parte central disminuye.
+- Thin central part of sleeper, not its edge, but its width, so due to ballast support reaction distribution on sleeper, bending moment in central part decreases.
 
-Las ventajas de las traviesas de hormigón sonñ
+Advantages of concrete sleepers are:
 
-- **Elevada vida útil**: puede estimarse de dos a tres veces la correspondiente a la traviesa de madera (tratada).
-- Permanencia de sus características elásticas: debido a la muy importante homogeneidad en el estado físico del material que las constituye a lo largo de todo el período de su utilización, tenemos una gran homogeneidad de las características elásticas del apoyo bajo el carril.
-- **Elevada estabilidad de la vía**: debido a su gran peso, que puede ser de 300 kp contra 80 kp el de la madera. Esta estabilidad en sentido longitudinal, coadyuva a la utilización de la barra larga soldada. Y en sentido transversal, disminuye el riesgo al pandeo.
-- Adaptabilidad de su diseño: de su forma a la más conveniente para soportar los esfuerzos de servicio.
+- **Elevated service life**: can be estimated two to three times corresponding to wooden sleeper (treated).
+- Permanence of their elastic characteristics: due to very important homogeneity in physical state of material constituting them throughout entire period of their utilization, we have great homogeneity of elastic characteristics of support under rail.
+- **Elevated track stability**: due to their great weight, which can be 300 kp against 80 kp of wood. This stability in longitudinal sense, helps utilization of long welded rail. And in transverse sense, decreases buckling risk.
+- Adaptability of their design: of their shape to most convenient to support service stresses.
 
-Los inconvenientes respecto a la traviesa de madera:
+Inconveniences regarding wooden sleeper:
 
-- Son más caras.
-- Conducen mejor la corriente eléctrica, con el subsiguiente problema de aislamiento de los dos hilos de carriles cuanto éste es necesario por la existencia de circuitos de vía.
+- They are more expensive.
+- Conduct electric current better, with subsequent problem of insulation of two rail threads when this is necessary due to existence of track circuits.
 
 ![f95ca5357e83816f4096a18ab4c0c500_MD5]({{ site.baseurl }}/assets/images/f95ca5357e83816f4096a18ab4c0c500_MD5.webp)
-Ensayo Conductividad
+Conductivity Test
 
 ![b6de345bc9de7006b34f79b559696716_MD5]({{ site.baseurl }}/assets/images/b6de345bc9de7006b34f79b559696716_MD5.webp)
-[Ensayo Dinámico](https://www.mecacisa.com/es/portfolio/ensayos-sobre-traviesas-de-hormigon/)
+[Dynamic Test](https://www.mecacisa.com/es/portfolio/ensayos-sobre-traviesas-de-hormigon/)
 
-### III.5. Traviesas mixtas de dos bloques
+### III.5. Mixed two-block sleepers
 
-Consiste en sustituir la parte central problemática por una **viga metálica**, cuyo perfil es suficientemente rígido para asegurar el mantenimiento del ancho de la vía y la inclinación de los carriles y, al mismo tiempo, lo bastante elástica para absorber (sin peligro para las piezas de hormigón en las cuales está empotrada por adherencia) los esfuerzos de torsión o flexión provocados por la desigualdad del bateo bajo ambas cabezas o por la desnivelación de una respecto a la otra.
+Consists of replacing problematic central part with a **metal beam**, whose profile is sufficiently rigid to ensure maintenance of track gauge and rail inclination and, at same time, elastic enough to absorb (without danger for concrete pieces in which it is embedded by adherence) torsion or flexion stresses caused by tamping inequality under both heads or by unevenness of one regarding other.
 
-Sin bien son simples de construcción lo que ha motivado su importante desarrollo, presentan inconvenientes como son:
+Although simple in construction which motivated their important development, they present inconveniences such as:
 
-- gran consumo de acero, el de la arriostra
-- mala conservación del ancho de vía, sobreanchos de 10 mm y más, lo que la hace inadecuada para velocidades importantes (mayores de $$140 \mathrm{~km} / \mathrm{h}$$ ), debido a su pequeña rigidez vertical y transversal;
-- corrosión de la riostra
-- mal comportamiento en los descarriles
-- rotura de la riostra, etc.
+- great steel consumption, that of tie bar
+- poor track gauge conservation, gauge widening of 10 mm and more, making it inadequate for important speeds (greater than $$140 \mathrm{~km} / \mathrm{h}$$ ), due to their small vertical and transverse rigidity;
+- tie bar corrosion
+- bad behavior in derailments
+- tie bar breakage, etc.
 
-Aparecen hacia 1925, y entre ellas se encuentran la traviesa Vagneux, que es una traviesa mixta de acero y hormigón de tipo semirrígido. La parte central es una viga metálica, de perfil en doble T, empotrada por adherencia en dos bloques o cabezas de hormigón armado, de 70 cm de longitud por 25 a 35 cm de anchura.
+Appear around 1925, and among them are Vagneux sleeper, which is mixed steel and concrete sleeper of semi-rigid type. Central part is metal beam, of I-beam profile, embedded by adherence in two concrete blocks or heads, 70 cm long by 25 to 35 cm wide.
 
 ![75a2c7f699a636266f8505b56fe14fda_MD5]({{ site.baseurl }}/assets/images/75a2c7f699a636266f8505b56fe14fda_MD5.webp)
 
 
-En España en 1965 se comenzaron en RENFE las primeras experiencias sobre traviesas de dos bloques, de hormigón armado, tipo R.S. (en la imagen). Posteriormente se desarrollaron variaciones: Traviesas bibloque - RENFE (BR-94); Traviesas polivalentes bibloque (PB-91) que pueden instalarse en ambos anchos de vía; Traviesas especiales, en placa de hormigón, monovalentes Stedef, para ancho RENFE o para ancho internacional; Traviesas especiales, en placa de hormigón, polivalentes Stedef, para vía ancha de 1.668 mm y para vía internacional de 1.435 mm .
+In Spain in 1965 first experiences began in RENFE on two-block sleepers, of reinforced concrete, type R.S. (in image). Subsequently variations were developed: Bi-block sleepers - RENFE (BR-94); Polyvalent bi-block sleepers (PB-91) capable of being installed in both track gauges; Special sleepers, in concrete slab, monovalent Stedef, for RENFE gauge or for international gauge; Special sleepers, in concrete slab, polyvalent Stedef, for broad gauge of 1,668 mm and for international track of 1,435 mm.
 
 ![8ddf6f69a5b561c412d8fe00666e3e34_MD5]({{ site.baseurl }}/assets/images/8ddf6f69a5b561c412d8fe00666e3e34_MD5.webp)
-ALZADO-SEMISECCIÓN
+ELEVATION-SEMISECTION
 
-ALZADO-SEMISECCIÓN
+ELEVATION-SEMISECTION
 ![a3f813756c5cc79199b84ccb6b939918_MD5]({{ site.baseurl }}/assets/images/a3f813756c5cc79199b84ccb6b939918_MD5.webp)
 
-### III.8. **Traviesas monoblock de hormigón pretensado**
+### III.8. **Prestressed concrete monoblock sleepers**
 
-Aparecen hacia 1950 y es una solución seductora, puesto que permite:
+Appear around 1950 and is seductive solution, since it allows:
 
-- Obtener una mejor resistencia a los esfuerzos alternados, puesto que el **hormigón trabaja siempre a compresión**.
-- Disminuye el espesor de las traviesas (respecto de las monobloque), particularmente en su centro, puesto que las armaduras no deben, como en el hormigón armado ordinario, estar situadas lo más lejos posible de la fibra neutra. El riesgo de la concentración del balasto en la parte central, lo que era muy grave en la monobloque de hormigón armado, está muy reducido en esta traviesa. La posición muy próxima de la fibra neutra de los hilos de la armadura, permite rebajar de forma notable la cara interior de la traviesa en su parte central.
-- Disminuyen el acero necesario
+- Obtain better resistance to alternating stresses, since **concrete always works in compression**.
+- Decreases sleeper thickness (regarding monoblock), particularly in its center, since reinforcements must not, as in ordinary reinforced concrete, be situated as far as possible from neutral fiber. Risk of ballast concentration in central part, which was very serious in reinforced concrete monoblock, is very reduced in this sleeper. Very close position of neutral fiber of reinforcement wires, allows notably lowering sleeper inner face in its central part.
+- Decrease necessary steel
 ![4ac15af489c64302bd7624f1073bfce3_MD5]({{ site.baseurl }}/assets/images/4ac15af489c64302bd7624f1073bfce3_MD5.webp)
 
-#### III.8.1. Características:
+#### III.8.1. Characteristics:
 
-- Peso aprox.: 300 Kg
-- Excelente sujeción longitudinal y transversal de la vía
-- Favorece la conservación de la geometría de la vía (menos mantenimiento)
-- Recomendable para túneles y ambientes húmedos
-- Aptas para grandes cargas y velocidades. Ideal para vía con BLS (se emplean en Alta Velocidad).
-- Rigidez:
-- Necesidad de mayor espesor de balasto
-- Necesidad de placas de asiento elásticas
+- Approx. weight: 300 Kg
+- Excellent longitudinal and transversal track holding
+- Favors track geometry conservation (less maintenance)
+- Recommended for tunnels and humid environments
+- Suitable for large loads and speeds. Ideal for track with LWR (used in High Speed).
+- Rigidity:
+- Need for greater ballast thickness
+- Need for elastic baseplates
 
-Con el fin de solucionar los problemas que presentaban la traviesa R.S., y al mismo tiempo para satisfacer las superiores necesidades que la infraestructura presenta frente a las previsiones de velocidad, tráfico y confort, Renfe decidió adoptar la traviesa monobloque (monobloc) y entre las existentes, por razones técnico-económicas, la traviesa alemana Dywidag (D.W.) y la sujeción de la casa Vosslh Werke, tipo HM, que es directa y elástica.
+In order to solve problems presented by R.S. sleeper, and at same time to satisfy superior needs that infrastructure presents facing forecasts of speed, traffic and comfort, Renfe decided to adopt monoblock sleeper (monobloc) and among existing ones, for technical-economic reasons, German Dywidag (D.W.) sleeper and fastening of Vossloh Werke house, type HM, which is direct and elastic.
 ![8ea960cbe24615574f94bd2966f0f377_MD5]({{ site.baseurl }}/assets/images/8ea960cbe24615574f94bd2966f0f377_MD5.webp)
 
-Al objeto de poder realizar la operación de cambio del ancho de vía de la red española de 1.668 mm a 1.435 mm , se han desarrollado una serie de diseños de traviesas polivalentes, cuya característica principal es que permiten la fijación de los dos hilos del carril en dos posiciones distintas, quedando en una de ellas la vía con ancho nacional ( 1.668 mm ) y en la otra con ancho internacional ( 1.435 mm ).
+With object of being able to perform track gauge change operation of Spanish network from 1,668 mm to 1,435 mm, a series of polyvalent sleeper designs have been developed, whose main characteristic is allowing fixation of two rail threads in two different positions, remaining in one of them track with national gauge (1,668 mm) and in other with international gauge (1,435 mm).
 
-También existen las traviesas de tres hilos, que permiten el ancho de vía ibérico y el internacional a la vez (No son polivalentes). Unos
+There also exist three-thread sleepers, allowing Iberian and international track gauge at once (Not polyvalent). Some
 ![185621accf0cfb3d3d999fe52bd01b40_MD5]({{ site.baseurl }}/assets/images/185621accf0cfb3d3d999fe52bd01b40_MD5.webp)
 ![5d4dce3ec03177fe66e74e359bdb1412_MD5]({{ site.baseurl }}/assets/images/5d4dce3ec03177fe66e74e359bdb1412_MD5.webp)
 ![216d72822946f810ad6be7f0f8f8ad29_MD5]({{ site.baseurl }}/assets/images/216d72822946f810ad6be7f0f8f8ad29_MD5.webp)
 ![92cacc43e4622edc68bbbdda46fb0bf9_MD5]({{ site.baseurl }}/assets/images/92cacc43e4622edc68bbbdda46fb0bf9_MD5.webp)
 ![3a8911d217378721582dba05bab9c4c8_MD5]({{ site.baseurl }}/assets/images/3a8911d217378721582dba05bab9c4c8_MD5.webp)
 
-Para Alta Velocidad en ancho internacional, la traviesa empleada es la AI 04.
+For High Speed in international gauge, sleeper employed is AI 04.
 
-| Tipo de travjesa | Ancho nominal | Perfil de carril | Otras características |
+| Sleeper type | Nominal gauge | Rail profile | Other characteristics |
 | :--- | :--- | :--- | :--- |
-| MR | 1.668 | 54E1/60E1 | Monovalente y simétrica. Longitud 2.600 mm |
-| PR | 1.435 ó 1.668 | 54E1/60E1 | Polivalente y simétrica. Longitud 2.600 mm |
-| Al | 1.435 | 60E1 | Monovalente y simétrica. Longitud 2.600 mm |
-| AE | 1.435 | 60E1 | Monovalente, simétrica y con geometría optimizada frente al vuelo de balasto. Longitud 2.600 mm |
-| AM | 1.435 y 1.668 | 54E1/60E1 | Ancho múltiple, asimétrica en ambos anchos y con 3 hilos. Longitud 2.750 mm |
-| SR | 1.435 y 1.668 | 54E1/60E1 | Ancho múltiple, simétrica en 1668 (permite dos posiciones en 1435) y con 4 hilos. Longitud 2.750 mm |
-| SI | 1.435 y 1.668 | 54E1/60E1 | Ancho múltiple, simétrica en 1435 (permite dos posiciones en 1668) y con 4 hilos. Longitud 2.750 mm |
-| MM | 1.000 | RN45/54E1 | Monovalente y simétrica. Longitud 1.900 mm |
+| MR | 1,668 | 54E1/60E1 | Monovalent and symmetric. Length 2,600 mm |
+| PR | 1,435 or 1,668 | 54E1/60E1 | Polyvalent and symmetric. Length 2,600 mm |
+| AI | 1,435 | 60E1 | Monovalent and symmetric. Length 2,600 mm |
+| AE | 1,435 | 60E1 | Monovalent, symmetric and with optimized geometry facing ballast flight. Length 2,600 mm |
+| AM | 1,435 and 1,668 | 54E1/60E1 | Multiple gauge, asymmetric in both gauges and with 3 threads. Length 2,750 mm |
+| SR | 1,435 and 1,668 | 54E1/60E1 | Multiple gauge, symmetric in 1668 (allows two positions in 1435) and with 4 threads. Length 2,750 mm |
+| SI | 1,435 and 1,668 | 54E1/60E1 | Multiple gauge, symmetric in 1435 (allows two positions in 1668) and with 4 threads. Length 2,750 mm |
+| MM | 1,000 | RN45/54E1 | Monovalent and symmetric. Length 1,900 mm |
 
-|  |  | Modelo de traviesa |  |  |  |  |
+|  |  | Sleeper model |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  | Al/AE | PR | AM/SR/SI | MR | MM |
-| Condiciones de uso | Perfil carril | 60E1 | 54E1 ó 60E1 | 54E1 ó 60E1 | 54E1 ó 60E1 | RN45 ó 54E1 |
-|  | Inclinación carril | 1/20 | 1/20 | 1/20 | 1/20 | 1/20 |
-|  | Sistema sujeción | VM ó VE | VO, VM ó VE | VM ó VE | VO, VM ó VE | VO, VM ó VE |
-|  | Ancho nominal (mm) | 1.435 | 1.435 ó 1.668 | 1.435 y 1.668 | 1.668 | 1.000 |
-|  | Ancho diseño (mm) | 1.437 | 1.437 ó 1.668 | 1.437 y 1.668 | - | - |
-|  | Combinación carga por eje (t) / velocidad (km/h) | 25/160 ó 22,5/350 | 25/160 ó 22,5/350 | 25/160 ó 22,5/350 | 22,5/220 | 20/120 |
+|  |  | AI/AE | PR | AM/SR/SI | MR | MM |
+| Use conditions | Rail profile | 60E1 | 54E1 or 60E1 | 54E1 or 60E1 | 54E1 or 60E1 | RN45 or 54E1 |
+|  | Rail inclination | 1/20 | 1/20 | 1/20 | 1/20 | 1/20 |
+|  | Fastening system | VM or VE | VO, VM or VE | VM or VE | VO, VM or VE | VO, VM or VE |
+|  | Nominal gauge (mm) | 1,435 | 1,435 or 1,668 | 1,435 and 1,668 | 1,668 | 1,000 |
+|  | Design gauge (mm) | 1,437 | 1,437 or 1,668 | 1,437 and 1,668 | - | - |
+|  | Load per axle (t) / speed (km/h) combination | 25/160 or 22.5/350 | 25/160 or 22.5/350 | 25/160 or 22.5/350 | 22.5/220 | 20/120 |
 
-Nota: cuando el perfil de carril sea 54E1, las circulaciones de 25t/eje no podrán superar los $$150 \mathrm{~km} / \mathrm{h}$$
+Note: when rail profile is 54E1, circulations of 25t/axle cannot exceed $$150 \mathrm{~km} / \mathrm{h}$$
 ![269d9762810be9786db6eff583547d0d_MD5]({{ site.baseurl }}/assets/images/269d9762810be9786db6eff583547d0d_MD5.webp)
 
-DETALLE Y
+DETAIL Y
 ![055a6bba4a018fa62784e19189d9945d_MD5]({{ site.baseurl }}/assets/images/055a6bba4a018fa62784e19189d9945d_MD5.webp)
 
 ![6356e995923c7955510bbfaa9f2cf40c_MD5]({{ site.baseurl }}/assets/images/6356e995923c7955510bbfaa9f2cf40c_MD5.webp)
 
 ![7710b0ba39277a61637ead7905271ffe_MD5]({{ site.baseurl }}/assets/images/7710b0ba39277a61637ead7905271ffe_MD5.webp)
-Traviesa Al-04
+Traviesa AI-04
 
 ![1ec032159333596589b751d533451e07_MD5]({{ site.baseurl }}/assets/images/1ec032159333596589b751d533451e07_MD5.webp)
 
-#### III.8.2. **Traviesa PR-01**
+#### III.8.2. **PR-01 Sleeper**
 
-Entre los diversos diseños de traviesas monoblock pretensadas desarrolladas para satisfacer las exigencias de la infraestructura ferroviaria moderna, la **traviesa PR-01** representa una solución particularmente versátil. Esta traviesa de hormigón pretensado **polivalente** fue concebida para permitir la operación en dos anchos de vía distintos: el **ancho ibérico** de 1.668 mm y el **ancho internacional** de 1.435 mm. La característica fundamental que define a esta traviesa es su capacidad para mantener la fijación de ambos carriles en posiciones alternativas, lo cual facilita de manera significativa las operaciones de conversión de ancho de vía en redes ferroviarias que requieren compatibilidad con ambos estándares.
+Among diverse prestressed monoblock sleeper designs developed to satisfy demands of modern railway infrastructure, **PR-01 sleeper** represents particularly versatile solution. This **polyvalent** prestressed concrete sleeper was conceived to allow operation in two distinct track gauges: **Iberian gauge** of 1,668 mm and **international gauge** of 1,435 mm. Fundamental characteristic defining this sleeper is its capacity to maintain fixation of both rails in alternative positions, which facilitates significantly track gauge conversion operations in railway networks requiring compatibility with both standards.
 
-La geometría de la traviesa PR-01 ha sido optimizada para proporcionar una simetría que facilite su orientación en el sentido de la marcha, reduciendo así los errores de instalación. La estructura interna de los hilos de pretensado sigue un patrón cuidadosamente calculado para distribuir uniformemente las tensiones compresivas en el interior del hormigón, garantizando un comportamiento consistente independientemente de la posición de montaje elegida. El diseño de los anclajes permite acomodar sistemas de sujeción directa y elástica, facilitando la fijación segura del carril en cualquiera de las dos posiciones de ancho.
+PR-01 sleeper geometry has been optimized to provide symmetry facilitating its orientation in travel direction, thus reducing installation errors. Internal structure of prestressing wires follows carefully calculated pattern to distribute uniformly compressive tensions in concrete interior, guaranteeing consistent behavior independently of chosen mounting position. Anchor design allows accommodating direct and elastic fastening systems, facilitating secure rail fixation in any of the two gauge positions.
 
 ![983f0d3648a9fa4be016975f8392d189_MD5]({{ site.baseurl }}/assets/images/983f0d3648a9fa4be016975f8392d189_MD5.webp)
 
-DETALLE DE MONTAJE EN ANCHO RENFE
+REFE GAUGE MOUNTING DETAIL
 
 ![3bd26d7462ba2c531f493e42142a2193_MD5]({{ site.baseurl }}/assets/images/3bd26d7462ba2c531f493e42142a2193_MD5.webp)
 ![ddb790ebf8a487b760adb4caf6fcdd18_MD5]({{ site.baseurl }}/assets/images/ddb790ebf8a487b760adb4caf6fcdd18_MD5.webp)
 
 ![c5e94ebec9c3cb8c8b9c4b3c33cb3754_MD5]({{ site.baseurl }}/assets/images/c5e94ebec9c3cb8c8b9c4b3c33cb3754_MD5.webp)
-HILO DOBLE CARRIL 60
+DOUBLE 60 RAIL THREAD
 
-ESCALA 1:5
-E CARRIL 60
+SCALE 1:5
+E 60 RAIL
 
-### III.9. Carril + traviesa
+### III.9. Rail + sleeper
 
-La comprensión integral del comportamiento de la vía requiere analizar no solo los componentes individuales—carriles y traviesas—sino también la interacción dinámica entre estos dos elementos fundamentales. El sistema carril-traviesa constituye la unidad funcional mínima mediante la cual se transmiten todas las cargas dinámicas generadas por el material rodante hacia la capa de balasto y, finalmente, a la plataforma de la infraestructura.
+Integral understanding of track behavior requires analyzing not only individual components—rails and sleepers—but also dynamic interaction between these two fundamental elements. Rail-sleeper system constitutes minimal functional unit through which all dynamic loads generated by rolling stock are transmitted towards ballast layer and, finally, to infrastructure platform.
 
-La interacción carril-traviesa está gobernada por una serie de parámetros críticos que determinan la calidad y durabilidad del servicio ferroviario. El perfil del carril debe compatibilizarse con el sistema de sujeción y con la geometría de la traviesa, de modo que se logre una distribución uniforme de las fuerzas sin generarse concentraciones de esfuerzo que puedan provocar roturas prematuras. La rigidez relativa entre el carril y la traviesa determina la deflexión conjunta bajo carga, lo cual influye directamente en el confort de viaje, la velocidad máxima permisible, y la vida útil de ambos componentes.
+Rail-sleeper interaction is governed by series of critical parameters determining quality and durability of railway service. Rail profile must be compatibilized with fastening system and sleeper geometry, so that uniform force distribution is achieved without generating stress concentrations capable of causing premature breaks. Relative stiffness between rail and sleeper determines joint deflection under load, which influences directly travel comfort, maximum permissible speed, and service life of both components.
 
-En el contexto de las líneas de alta velocidad y de gran tráfico de mercancías, la selección del par carril-traviesa es crítica. Un carril UIC-60 o UIC-54 de las especificaciones más modernas debe asociarse necesariamente con traviesas monoblock de hormigón pretensado que proporcionen una rigidez vertical suficiente y una distribución de cargas equilibrada. El sistema de fijación debe ser directo y elástico, permitiendo pequeños desplazamientos que absorban las vibraciones sin dañar la estructura del hormigón pretensado.
+In context of high-speed lines and large freight traffic, rail-sleeper pair selection is critical. A UIC-60 or UIC-54 rail of most modern specifications must necessarily be associated with prestressed concrete monoblock sleepers providing sufficient vertical rigidity and balanced load distribution. Fastening system must be direct and elastic, allowing small displacements absorbing vibrations without damaging prestressed concrete structure.
 
-Los esquemas técnicos que figuran a continuación muestran las diversas configuraciones de montaje, las relaciones geométricas entre los componentes, y los detalles constructivos que garantizan la compatibilidad y el buen funcionamiento del conjunto carril-traviesa en diferentes contextos de explotación ferroviaria.
+Technical schemes figuring below show diverse mounting configurations, geometric relationships between components, and constructive details guaranteeing compatibility and good functioning of rail-sleeper set in different railway exploitation contexts.
 
 
 <iframe width="315" height="560" src="https://youtube.com/embed/gpE2qbS70dY?si=gvOu15Yv-VFxA3wB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Preguntas de repaso
+## Review questions
 
 <div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
-   question="¿Cuáles son los tres elementos fundamentales que componen la superestructura ferroviaria?"
-   answer="La superestructura está formada por los **carriles** (guía y rodadura), las **traviesas** (elementos transversales que mantienen el ancho) y el **balasto** (lecho elástico que distribuye las cargas)."
+   question="What are the three fundamental elements composing the railway superstructure?"
+   answer="The superstructure is formed by **rails** (guidance and running), **sleepers** (transverse elements maintaining gauge), and **ballast** (elastic bed distributing loads)."
 %}
 {% include flashcard.html
-   question="¿Por qué se impuso el carril Vignole frente al carril Bull-head en la mayoría de redes ferroviarias?"
-   answer="El carril **Vignole** tiene un patín plano que permite un apoyo más estable y económico directamente sobre la traviesa, eliminando la necesidad de los costosos cojinetes que requería el Bull-head."
+   question="Why was Vignole rail imposed over Bull-head rail in most railway networks?"
+   answer="**Vignole** rail has a flat foot allowing more stable and economic support directly on sleeper, eliminating need for expensive chairs required by Bull-head."
 %}
 {% include flashcard.html
-   question="¿Qué es el defecto conocido como \"mancha oval plateada\" o fisura transversal en los carriles?"
-   answer="Es una rotura interna grave por fatiga que se propaga desde el interior de la cabeza, caracterizada por una superficie plateada resultado del roce entre las caras de la grieta."
+   question="What is the defect known as \"silver oval spot\" or transverse fissure in rails?"
+   answer="It is a serious internal fatigue break propagating from inside head, characterized by a silver surface resulting from rubbing between crack faces."
 %}
 {% include flashcard.html
-   question="¿Qué funciones cumple la traviesa además de soportar la carga vertical de los trenes?"
-   answer="Mantiene el **ancho de vía** constante, proporciona la inclinación transversal del carril (1/20), asegura la estabilidad transversal de la vía y permite el **aislamiento eléctrico** entre hilos."
+   question="What functions does the sleeper fulfill besides supporting train vertical load?"
+   answer="Maintains constant **track gauge**, provides rail transverse inclination (1/20), ensures track transverse stability, and allows **electrical insulation** between threads."
 %}
 {% include flashcard.html
-   question="¿Qué característica especial define a la traviesa de hormigón monoblock PR-01?"
-   answer="Es una traviesa **polivalente** diseñada para permitir el montaje de los carriles tanto en **ancho ibérico (1.668 mm)** como en **ancho internacional (1.435 mm)** mediante el cambio de posición de las fijaciones."
+   question="What special characteristic defines PR-01 monoblock concrete sleeper?"
+   answer="It is a **polyvalent** sleeper designed to allow rail mounting in both **Iberian gauge (1,668 mm)** and **international gauge (1,435 mm)** by changing fastening position."
 %}
 </div>
 
-## Bibliografía
+## Bibliography
 
 - Díaz de Villegas, J.M. (2003) Ferrocarriles. Apuntes de clase. E.T.S. Ing. Caminos, Canales y Puertos Santander.
 - García Álvarez, A. (2022) Manual de ferrocarriles. El sistema ferroviario español. Ed. Garceta.
 - Villaronte Fernández-Villa, J.A. (2009) Ingeniería y Tecnología Ferroviaria - Tecnología de la vía. Delta Publicaciones.
 - Adif: normativa técnica: http://descargas.adif.es/ade/u18/GCN/ NormativaTecnica.nsf
-

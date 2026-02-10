@@ -7,12 +7,12 @@ nav_order: 3
 parent: Start
 ---
 
-# Diseño Geométrico y Trazado de Vías Férreas
+# Geometric Design and Railway Alignment
 
 ---
 <details open markdown="block">
 <summary>
-Índice de contenidos
+Table of Contents
 </summary>
 {: .text-delta }
 1. TOC
@@ -21,44 +21,43 @@ parent: Start
 
 ---
 
-## Capítulo I Generalidades
+## Chapter I Generalities
 
-### I.1 Fuerza Centrifuga:
+### I.1 Centrifugal Force:
 
-Cuando una composición ferroviaria transita desde un segmento rectilíneo hacia una trayectoria curva, experimenta la acción de una fuerza transversal conocida como **fuerza centrífuga** ( $$\boldsymbol{F}_{\mathbf{c}}$$ ), cuya magnitud se expresa mediante la siguiente relación fundamental.
+When a railway composition transitions from a straight segment to a curved trajectory, it experiences the action of a transverse force known as **centrifugal force** ( $$\boldsymbol{F}_{\mathbf{c}}$$ ), whose magnitude is expressed by the following fundamental relation.
 
 $$
-F_{c}=m \cdot \alpha_{c}=\frac{m \cdot V^{2}}{R} \quad \text { donde: } \quad \alpha_{c}=\frac{V^{2}}{R}
+F_{c}=m \cdot \alpha_{c}=\frac{m \cdot V^{2}}{R} \quad \text { where: } \quad \alpha_{c}=\frac{V^{2}}{R}
 $$
 
-En esta formulación matemática, la variable m representa la masa total del tren, V designa la velocidad instantánea de desplazamiento y R corresponde al valor del radio de curvatura del elemento geométrico circular. La aceleración centrífuga $$\left(\alpha_{c}\right)$$ constituye un parámetro determinante que permite cuantificar la intensidad del efecto dinámico transversal.
+In this mathematical formulation, the variable m represents the total mass of the train, V designates the instantaneous displacement velocity, and R corresponds to the value of the radius of curvature of the circular geometric element. The centrifugal acceleration $$\left(\alpha_{c}\right)$$ constitutes a determining parameter that allows quantifying the intensity of the transverse dynamic effect.
 
-Desde una perspectiva práctica, cuando una composición se desplaza a 100 km/h a través de una curva cuyo radio de curvatura es de 350 metros, la aceleración centrífuga resultante alcanza aproximadamente 2,2 m/s². Considerando los criterios de confort establecidos en la ingeniería ferroviaria, el valor máximo de aceleración que un viajero puede tolerar sin experimentar molestias significativas se sitúa en torno a 1 m/s².
+From a practical perspective, when a composition moves at 100 km/h through a curve whose radius of curvature is 350 meters, the resulting centrifugal acceleration reaches approximately 2.2 m/s². Considering the comfort criteria established in railway engineering, the maximum acceleration value that a traveler can tolerate without experiencing significant discomfort is around 1 m/s².
 
-Para mitigar los efectos perjudiciales de esta aceleración sin compensar, la solución técnica contempla la implementación estratégica del **peralte de la vía** y la incorporación de **curvas de transición** que permiten una variación gradual de la curvatura.
+To mitigate the detrimental effects of this uncompensated acceleration, the technical solution contemplates the strategic implementation of **track cant** (superelevation) and the incorporation of **transition curves** that allow for a gradual variation of curvature.
 
-### I.2 Aceleración Centrifuga
+### I.2 Centrifugal Acceleration
 
-Cuando una composición ferroviaria transita por una trayectoria curva bajo la influencia de **aceleraciones no compensadas**, se generan una serie de efectos adversos sobre múltiples componentes del sistema ferroviario.
+When a railway composition travels along a curved path under the influence of **uncompensated accelerations**, a series of adverse effects are generated on multiple components of the railway system.
 
-En relación con el comportamiento dinámico del material rodante, la presencia de aceleraciones transversales sin compensar ocasiona la generación de esfuerzos dinámicos considerables en las **interfaces rueda-carril**, especialmente en los puntos de tangencia de entrada y salida de los elementos curvos. Estos esfuerzos, combinados con los fenómenos oscilatorios inherentes al movimiento del material rodante, pueden bajo determinadas circunstancias de velocidad elevada originar situaciones de inestabilidad que potencialmente pueden derivar en fenómenos de descarrilamiento o incluso vuelco de la composición. Adicionalmente, la demanda excesiva impuesta a los sistemas de suspensión de los vehículos genera incrementos significativos en los costos de mantenimiento y conservación.
+Regarding the dynamic behavior of rolling stock, the presence of uncompensated transverse accelerations causes the generation of considerable dynamic forces at the **wheel-rail interfaces**, especially at the entry and exit tangent points of curved elements. These forces, combined with the oscillatory phenomena inherent to the movement of rolling stock, can, under certain high-speed circumstances, originate instability situations that can potentially lead to derailment phenomena or even overturning of the composition. Additionally, the excessive demand imposed on vehicle suspension systems generates significant increases in maintenance and conservation costs.
 
-La infraestructura vial experimenta también efectos perjudiciales derivados de estas aceleraciones sin compensar. Se produce un patrón de desgaste diferencial entre ambas cabezas de carril, con mayor intensidad en el carril exterior de la curva. Aparecen fenómenos de degradación transversal de la estructura de la vía, incremento en la carga de trabajo de los sistemas de sujeción y tendencia al volcamiento del carril situado en la parte exterior de la curva.
+The railway infrastructure also experiences detrimental effects derived from these uncompensated accelerations. A pattern of differential wear occurs between both rail heads, with greater intensity on the outer rail of the curve. Transverse degradation phenomena of the track structure appear, along with an increase in the workload of fastening systems and a tendency for the rail located on the outside of the curve to overturn.
 
-Desde la perspectiva del usuario del transporte ferroviario, estos efectos generan consecuencias negativas directas tales como sensaciones de incomodidad, mareos y percepción de movimientos laterales desagradables. En contextos de transporte de carga, estos fenómenos pueden ocasionar el desplazamiento no deseado de las mercancías transportadas dentro de los vehículos de carga.
+From the perspective of the rail transport user, these effects generate direct negative consequences such as feelings of discomfort, dizziness, and the perception of unpleasant lateral movements. In freight transport contexts, these phenomena can cause the unwanted displacement of transported goods inside cargo vehicles.
 
 {: .highlight }
-Para neutralizar estos efectos desfavorables sobre la seguridad operacional y el confort de los usuarios, se implementa una estrategia geométrica consistente en **elevar progresivamente el carril** situado en la parte exterior de la curva respecto al carril interior. Esta inclinación transversal de la plataforma genera una reorientación de la resultante de fuerzas actuantes sobre la masa del vehículo, produciéndose su alineación respecto a la perpendicular al plano de la vía. Como consecuencia de esta configuración geométrica, la aceleración lateral perturbadora desaparece efectivamente, mejorando simultáneamente las condiciones de seguridad y confort en la circulación.
+To neutralize these unfavorable effects on operational safety and user comfort, a geometric strategy is implemented consisting of **progressively elevating the rail** located on the outside of the curve with respect to the inner rail. This transverse inclination of the platform generates a reorientation of the resultant forces acting on the vehicle's mass, producing its alignment with respect to the perpendicular to the track plane. As a consequence of this geometric configuration, the disturbing lateral acceleration effectively disappears, simultaneously improving safety conditions and circulation comfort.
 
-## Capítulo II Peralte
+## Chapter II Cant (Superelevation)
 
-La implementación del peralte en la geometría de las vías ferroviarias constituye una variable fundamental de diseño que puede ser cuantificada y expresada mediante dos enfoques metodológicos alternativos, cada uno con sus particularidades y aplicaciones específicas en contextos operacionales distintos.
-**sobreelevación**, es decir, la diferencia de cota vertical existente entre la cabeza del carril situado en la parte interior de la curva y la cabeza del carril ubicado en la parte exterior. Esta magnitud se mide habitualmente en milímetros y constituye la metodología tradicional empleada históricamente en España. La adopción de este criterio presenta ciertas limitaciones operacionales, ya que requiere la definición de valores diferenciados de sobreelevación máxima, insuficiencia de peralte y exceso de peralte en función específica del ancho de vía disponible. En contextos donde se implementa un tercer carril para permitir la circulación de composiciones con dos anchos de vía distintos, esta metodología obliga a establecer dos valores de sobreelevación diferenciados para cada ancho, lo que complica el diseño operacional. Cuando se incorporan incrementos de sección transversal (sobreanchos) en determinados tramos para mejorar la geometría de la curva, es necesario aumentar proporcionalmente el valor de sobreelevación para mantener la inclinación transversal que compensa efectivamente la fuerza centrífuga. En estas situaciones, los valores admisibles de peralte serán inferiores a aquellos empleados sin sobreancho, particularmente en trazados curvos de pequeño radio que demandan peralte máximo. Desde una perspectiva de documentación técnica y representación gráfica, la sobreelevación siempre adopta un valor numérico positivo, por lo que es necesario incorporar información adicional en listados y diagramas para indicar explícitamente la dirección de la inclinación de la vía.
+The implementation of cant in railway track geometry constitutes a fundamental design variable that can be quantified and expressed through two alternative methodological approaches, each with its particularities and specific applications in distinct operational contexts.
+The first approach defines **superelevation**, that is, the vertical height difference existing between the head of the rail located on the inside of the curve and the head of the rail located on the outside. This magnitude is usually measured in millimeters and constitutes the traditional methodology historically used in Spain. The adoption of this criterion presents certain operational limitations, since it requires the definition of differentiated values for maximum superelevation, cant deficiency, and cant excess specifically as a function of the available track gauge. In contexts where a third rail is implemented to allow the circulation of compositions with two different track gauges, this methodology forces the establishment of two differentiated superelevation values for each gauge, which complicates operational design. When cross-section increases (gauge widening) are incorporated in certain sections to improve curve geometry, it is necessary to proportionally increase the superelevation value to maintain the transverse inclination that effectively compensates for the centrifugal force. In these situations, admissible cant values will be lower than those used without gauge widening, particularly in small radius curved tracks that demand maximum cant. From a technical documentation and graphic representation perspective, superelevation always adopts a positive numerical value, so it is necessary to incorporate additional information in lists and diagrams to explicitly indicate the direction of the track inclination.
 
-El segundo enfoque describe el peralte mediante la **inclinación transversal**
-El segundo enfoque describe el peralte mediante la inclinación transversal expresada en porcentaje. Este criterio presenta la ventaja significativa de ser independiente del ancho de vía específico, permitiendo la aplicación de criterios unificados de insuficiencia, exceso y valor máximo de peralte independientemente del ancho de vía con el que se esté trabajando. La asignación de signo al peralte sigue criterios de orientación: se considera positivo cuando el radio de curvatura es positivo, es decir, cuando la curva se desarrolla hacia la derecha en el sentido de avance; será negativo en el caso contrario. Desde una perspectiva técnica comparativa, el enfoque español basado en sobreelevaciones presenta desventajas en la coherencia de criterios, por lo que la adopción de la inclinación transversal como variable fundamental constituiría una mejora significativa. Sin embargo, la necesidad de mantener homogeneidad con estándares internacionales vigentes, donde predomina el uso de sobreelevaciones, limita la implementación de este cambio metodológico.
+The second approach describes cant through **transverse inclination** expressed as a percentage. This criterion presents the significant advantage of being independent of the specific track gauge, allowing the application of unified criteria for deficiency, excess, and maximum cant value regardless of the track gauge being worked with. The sign assignment to cant follows orientation criteria: it is considered positive when the curvature radius is positive, that is, when the curve develops to the right in the direction of travel; it will be negative in the opposite case. From a comparative technical perspective, the Spanish approach based on superelevations presents disadvantages in criteria coherence, so the adoption of transverse inclination as a fundamental variable would constitute a significant improvement. However, the need to maintain homogeneity with current international standards, where the use of superelevations predominates, limits the implementation of this methodological change.
 
-En términos de configuración geométrica práctica de la vía, cuando las dos cabezas de carril se encontraran situadas en un mismo plano horizontal, la fuerza centrífuga actuaría impulsar la composición hacia el exterior de la curva, originando una distribución heterogénea de las cargas entre ambas cabezas de carril. Esta situación generaría condiciones de riesgo de descarrilamiento, movimiento inestable de rodadura, aceleraciones laterales de considerable magnitud y deficiencias significativas en los niveles de confort para pasajeros y carga. La solución técnica contempla la inclinación del plano de la vía hacia el interior de la curva, modificando la orientación de la resultante de las fuerzas que actúan sobre la masa vehicular. Esta resultante debe situarse idealmente lo más cercana posible al eje longitudinal de la vía, manteniendo siempre su punto de aplicación entre las áreas de apoyo de las ruedas. Esta configuración permite que la reacción del carril exterior resista el momento de vuelco potencial.
+In terms of practical track geometric configuration, when both rail heads are located on the same horizontal plane, the centrifugal force would act to push the composition towards the outside of the curve, causing a heterogeneous distribution of loads between both rail heads. This situation would generate conditions of derailment risk, unstable rolling movement, lateral accelerations of considerable magnitude, and significant deficiencies in comfort levels for passengers and cargo. The technical solution contemplates the inclination of the track plane towards the inside of the curve, modifying the orientation of the resultant forces acting on the vehicle mass. This resultant should ideally be located as close as possible to the longitudinal axis of the track, always maintaining its point of application between the wheel support areas. This configuration allows the reaction of the outer rail to resist the potential overturning moment.
 
 
 ![ec5f2b6b1cc2209cf7b710419368d3cc_MD5]({{ site.baseurl }}/assets/images/ec5f2b6b1cc2209cf7b710419368d3cc_MD5.webp){: width="263" height="297"}
@@ -68,15 +67,15 @@ En términos de configuración geométrica práctica de la vía, cuando las dos 
 [Ferrocarriles metropolitanos: tranvías, metros ligeros y metros convencionales. Manuel Melis](https://www.casadellibro.com/libro-ferrocarriles-metropolitanos-tranvias-metros-ligeros-y-metros-c-onvencionales/9788438002155/834727?srsltid=AfmBOoqHTSmWcrQ8IAJo9HKfczQIgJ63ibvgMAugypBX2CqleJAaC4pz)
 
 
-### II.1 Peralte Teórico
+### II.1 Theoretical Cant
 
 {: .highlight }
-El peralte se define operativamente como el desnivel vertical $$\boldsymbol{z}$$ entre las dos cabezas de carril, siendo esta diferencia de cota medida en una sección perpendicular al eje de la vía. Cuando se implementa un valor de peralte que compensa íntegramente la manifestación de la fuerza centrífuga, la resultante $$\boldsymbol{R}$$ de la composición de la fuerza centrífuga $$\boldsymbol{F}_{\mathbf{c}}$$ y el peso gravitatorio $$\boldsymbol{W}$$ adquiere una orientación normal respecto al plano definido por la vía. Esta configuración específica se designa como **peralte teórico** o **peralte ideal**.
+Cant is operationally defined as the vertical level difference $$\boldsymbol{z}$$ between the two rail heads, this height difference being measured in a section perpendicular to the track axis. When a cant value is implemented that fully compensates for the manifestation of the centrifugal force, the resultant $$\boldsymbol{R}$$ of the composition of the centrifugal force $$\boldsymbol{F}_{\mathbf{c}}$$ and the gravitational weight $$\boldsymbol{W}$$ acquires a normal orientation with respect to the plane defined by the track. This specific configuration is designated as **theoretical cant** or **ideal cant**.
 
-Mediante consideraciones geométricas y dinámicas, se puede establecer la relación entre la tangente del ángulo de inclinación del plano de la vía:
+Through geometric and dynamic considerations, the relationship between the tangent of the track plane inclination angle can be established:
 $$\tan \alpha=\frac{F_{c}}{W}=\frac{m \cdot \frac{V^{2}}{R}}{m \cdot g}=\frac{V^{2}}{g \cdot R}$$
 
-De forma simultánea, la geometría del peralte permite expresar:
+Simultaneously, the cant geometry allows expressing:
 
 $$
 \sin \alpha=\frac{z}{a} \rightarrow \tan \alpha=\frac{z}{\sqrt{a^{2}-z^{2}}}
@@ -86,115 +85,113 @@ $$
 
 [Ferrocarriles metropolitanos: tranvías, metros ligeros y metros convencionales. Manuel Melis](https://www.casadellibro.com/libro-ferrocarriles-metropolitanos-tranvias-metros-ligeros-y-metros-c-onvencionales/9788438002155/834727?srsltid=AfmBOoqHTSmWcrQ8IAJo9HKfczQIgJ63ibvgMAugypBX2CqleJAaC4pz)
 
-En sistemas ferroviarios españoles bajo la administración de RENFE, operando con carriles UIC 60 que presentan una anchura de cabeza de 72 milímetros, el ancho de vía resulta ser:
+In Spanish railway systems under RENFE administration, operating with UIC 60 rails that have a head width of 72 millimeters, the track gauge turns out to be:
 
 $$
-a=1,668+0,072=1,740 \mathrm{~m}
+a=1.668+0.072=1.740 \mathrm{~m}
 $$
 
-Para sistemas de transporte urbano tipo metro con ancho de vía de 1,445 metros y empleando carriles UIC 54 con anchura de cabeza de 70 milímetros:
+For metro-type urban transport systems with a track gauge of 1.445 meters and using UIC 54 rails with a head width of 70 millimeters:
 
 $$
-a=1,445+0,070=1,515 m
+a=1.445+0.070=1.515 m
 $$
 
-Estableciendo la igualdad entre las dos expresiones derivadas del análisis del polígono de fuerzas y de la geometría del peralte, se obtiene la expresión matemática que proporciona el valor exacto del peralte requerido por una composición circulando a velocidad V en una trayectoria curva de radio R para anular completamente la manifestación de la fuerza centrífuga:
+Establishing the equality between the two expressions derived from the analysis of the force polygon and the cant geometry, the mathematical expression is obtained that provides the exact value of the cant required by a composition circulating at velocity V on a curved trajectory of radius R to completely annul the manifestation of centrifugal force:
 
 $$
 \frac{V^{2}}{g \cdot R}=\frac{z}{\sqrt{a^{2}-z^{2}}} \rightarrow z=\frac{a \cdot V^{2}}{\sqrt{g^{2} \cdot R^{2}+V^{4}}}
 $$
 
-Para ilustrar la aplicación práctica de estas relaciones fundamentales, consideremos el caso específico de un tren de alta velocidad (AVE) circulando a la velocidad nominal de 300 km/h (equivalente a 83,3 m/s), atravesando una trayectoria curva cuyo radio de curvatura es de 7000 metros. Empleando el ancho de vía internacional estándar de 1,435 metros más la anchura de carril de 0,072 metros, el peralte teórico necesario resulta ser:
+To illustrate the practical application of these fundamental relationships, let us consider the specific case of a high-speed train (AVE) circulating at the nominal speed of 300 km/h (equivalent to 83.3 m/s), traversing a curved trajectory whose radius of curvature is 7000 meters. Using the standard international track gauge of 1.435 meters plus the rail width of 0.072 meters, the necessary theoretical cant turns out to be:
 
 $$
 z=\frac{a \cdot V^{2}}{\sqrt{g^{2} \cdot R^{2}+V^{4}}}=\frac{1,507 \cdot(83,3)^{2}}{\sqrt{(9,8)^{2} \cdot 7000^{2}+(83,3)^{4}}}=0,1516 m
 $$
 
-El ángulo de inclinación transversal resultante se calcula mediante:
+The resulting transverse inclination angle is calculated by:
 
 $$
 \sin \alpha=\frac{z}{a}=\frac{0,1516}{1,507}=0,1006 \rightarrow \alpha=5,77^{\circ}
 $$
 
-Históricamente, en desarrollos anteriores de la ingeniería ferroviaria se realizaba una aproximación simplificadora donde se asimilaba el seno del ángulo a la tangente del mismo, lo que facilitaba los cálculos antes de la era computacional:
+Historically, in previous developments of railway engineering, a simplifying approximation was made where the sine of the angle was assimilated to its tangent, which facilitated calculations before the computational era:
 
 $$
 \sin \alpha \cong \tan \alpha=\frac{z}{a} \rightarrow \frac{z}{a}=\frac{V^{2}}{g \cdot R} \rightarrow z=\frac{a \cdot V^{2}}{g \cdot R} \rightarrow z_{t, \max }=\frac{a \cdot V_{\max }^{2}}{g \cdot R}
 $$
 
-A partir de esta aproximación se derivaron las expresiones matemáticas simplificadas que han sido aplicadas históricamente en España para el cálculo práctico, siendo las variables expresadas en unidades de: z en milímetros, a en metros, g en m/s², V en km/h y R en metros:
+From this approximation, the simplified mathematical expressions were derived that have been historically applied in Spain for practical calculation, the variables being expressed in units of: z in millimeters, a in meters, g in m/s², V in km/h, and R in meters:
 
 $$
 \begin{gathered}
 \frac{z}{1000}=\frac{a}{g} \cdot\left(\frac{1000}{3600}\right)^{2} \cdot \frac{V^{2}}{R} \\
-z=13,7 \cdot \frac{V^{2}}{R} \text { ancho RENFE } \quad(a=1,668+0,070) \\
-z=11,8 \cdot \frac{V^{2}}{R} \text { ancho UIC } \quad(a=1,435+0,070)
+z=13.7 \cdot \frac{V^{2}}{R} \text { RENFE gauge } \quad(a=1.668+0.070) \\
+z=11.8 \cdot \frac{V^{2}}{R} \text { UIC gauge } \quad(a=1.435+0.070)
 \end{gathered}
 $$
 
-### II.2 Aceleración sin compensar
-**aceleración sin compensar** varía en función de la velocidad específica de circulación. Esta variabilidad implica que ciertas composiciones ferroviarias experimentarán una insuficiencia en la magnitud del peralte implementado, mientras que otras soportarán un exceso del mismo. Para ilustrar esta problemática, consideremos una curva de 1.000 metros de radio desarrollada en una vía de ancho RENFE con dimensiones $$(\mathrm{a}=1,668+0,072=1,740 \mathrm{~m})$$:
+### II.2 Uncompensated Acceleration
+**Uncompensated acceleration** varies depending on the specific circulation speed. This variability implies that certain railway compositions will experience an insufficiency in the magnitude of the implemented cant, while others will endure an excess of it. To illustrate this problem, consider a 1,000-meter radius curve developed on a RENFE gauge track with dimensions $$(\mathrm{a}=1.668+0.072=1.740 \mathrm{~m})$$:
 
-| Tipo de composición | Velocidad | Peralte requerido |
+| Composition Type | Speed | Required Cant |
 | :--- | :--- | :--- |
 | TALGO | 160 km/h | 350 mm |
-| Tren de mercancías | 80 km/h | 88 mm |
+| Freight Train | 80 km/h | 88 mm |
 
-Esta situación heterogénea evidencia la necesidad de implementar un **peralte de compromiso**
-Esta situación heterogénea evidencia la necesidad de implementar un peralte de compromiso que no satisface completamente los requerimientos de ninguno de los tipos de composición, pero que representa una solución técnica equilibrada.
+This heterogeneous situation highlights the need to implement a **compromise cant** that does not fully satisfy the requirements of any of the composition types but represents a balanced technical solution.
 
-Desde el punto de vista del análisis de fuerzas, supongamos que una composición requiere un ángulo de peralte $$\alpha$$ (correspondiente a un desnivel z), pero la vía implementa únicamente un ángulo $$\beta$$ (desnivel $$\boldsymbol{z}_{\boldsymbol{p}}$$). En este análisis, la fuerza centrífuga total se representa mediante el segmento AC, mientras que el peralte implementado compensa solamente una porción de dicha fuerza, correspondiente al segmento AB que representa la fuerza centrífuga parcialmente compensada $$(\mathbf{F}_{\mathbf{c}})$$.
+From the force analysis point of view, suppose a composition requires a cant angle $$\alpha$$ (corresponding to a level difference z), but the track implements only an angle $$\beta$$ (level difference $$\boldsymbol{z}_{\boldsymbol{p}}$$). In this analysis, the total centrifugal force is represented by segment AC, while the implemented cant compensates only a portion of said force, corresponding to segment AB which represents the partially compensated centrifugal force $$(\mathbf{F}_{\mathbf{c}})$$.
 
 ![a3ba82dc74052ffa54d333f6cc7c4007_MD5]({{ site.baseurl }}/assets/images/a3ba82dc74052ffa54d333f6cc7c4007_MD5.webp){: width="459" height="416"}
 
 [Ferrocarriles metropolitanos: tranvías, metros ligeros y metros convencionales. Manuel Melis](https://www.casadellibro.com/libro-ferrocarriles-metropolitanos-tranvias-metros-ligeros-y-metros-c-onvencionales/9788438002155/834727?srsltid=AfmBOoqHTSmWcrQ8IAJo9HKfczQIgJ63ibvgMAugypBX2CqleJAaC4pz)
 
-La fuerza centrífuga que permanece sin compensación se designa como $$\boldsymbol{F}_{\boldsymbol{c}, \mathbf{s c}}$$ y corresponde al segmento BC del diagrama de fuerzas. Mediante análisis vectorial podemos establecer las siguientes relaciones:
+The centrifugal force that remains uncompensated is designated as $$\boldsymbol{F}_{\boldsymbol{c}, \mathbf{s c}}$$ and corresponds to segment BC of the force diagram. Through vector analysis, we can establish the following relationships:
 
 $$F_{c, S c}=B C=A C-A B=W \cdot \tan \alpha-W \cdot \tan \beta$$
 
-Expandiendo esta expresión en función de los parámetros físicos fundamentales:
+Expanding this expression in terms of fundamental physical parameters:
 
 $$F_{c, s c}=W \cdot\left[\frac{F_{c}}{W}-\frac{z_{p}}{a}\right]=m \cdot g \cdot\left[\frac{m \cdot V^{2}}{m \cdot g \cdot R}-\frac{z_{p}}{a}\right]=m \cdot\left[\frac{V^{2}}{R}-\frac{g \cdot z_{p}}{a}\right]$$
 
-Por consiguiente, la aceleración sin compensar $$\alpha_{s c}$$ que experimenta la composición puede expresarse como:
+Consequently, the uncompensated acceleration $$\alpha_{s c}$$ experienced by the composition can be expressed as:
 
 $$\alpha_{s c}=\frac{V^{2}}{R}-\frac{g \cdot z_{p}}{a}$$
 
 ![b1b2f06c7c6b23a7140abe6c56460302_MD5]({{ site.baseurl }}/assets/images/b1b2f06c7c6b23a7140abe6c56460302_MD5.webp)
 
-### II.3 Insuficiencia de peralte
+### II.3 Cant Deficiency
 {: .highlight }
-Cuando la vía se encuentra provista de un peralte $$\boldsymbol{z}_{\boldsymbol{p}}$$ cuya magnitud es insuficiente para compensar íntegramente la acción de la fuerza centrífuga, se define la **insuficiencia de peralte**
-Cuando la vía se encuentra provista de un peralte $$\boldsymbol{z}_{\boldsymbol{p}}$$ cuya magnitud es insuficiente para compensar íntegramente la acción de la fuerza centrífuga, se define la insuficiencia de peralte (designada como I) como la diferencia dimensional entre el peralte teórico requerido z y el peralte implementado $$\boldsymbol{z}_{\boldsymbol{p}}$$.
+When the track is provided with a cant $$\boldsymbol{z}_{\boldsymbol{p}}$$ whose magnitude is insufficient to fully compensate for the action of the centrifugal force, **cant deficiency** (designated as I) is defined as the dimensional difference between the required theoretical cant z and the implemented cant $$\boldsymbol{z}_{\boldsymbol{p}}$$.
 
-Mediante consideraciones geométricas y dinámicas, podemos establecer que:
+Through geometric and dynamic considerations, we can establish that:
 $$\tan \alpha=\frac{F}{W}=\frac{m \cdot \frac{V^{2}}{R}}{m \cdot g}=\frac{V^{2}}{g \cdot R}$$
 
-La geometría del peralte implementado con insuficiencia se expresa mediante:
-$$\sin \alpha=\frac{z_{p}+I}{a} \approx \tan \alpha$$ (cuando $$\alpha$$ es un ángulo pequeño)
+The geometry of the cant implemented with deficiency is expressed by:
+$$\sin \alpha=\frac{z_{p}+I}{a} \approx \tan \alpha$$ (when $$\alpha$$ is a small angle)
 
 ![f4fafd23747f45cae48bcc1dbd9efe2f_MD5]({{ site.baseurl }}/assets/images/f4fafd23747f45cae48bcc1dbd9efe2f_MD5.webp)
 
-Igualando ambas expresiones para ángulos pequeños, donde la aproximación $$\tan \alpha \approx \sin \alpha$$ es válida:
+Equating both expressions for small angles, where the approximation $$\tan \alpha \approx \sin \alpha$$ is valid:
 
 $$
 \frac{z_{p}+I}{a} \approx \frac{V^{2}}{g \cdot R}
 $$
 
-Desarrollando algebraicamente para obtener el valor de la insuficiencia de peralte:
+Developing algebraically to obtain the value of cant deficiency:
 
 $$
 I=\frac{a \cdot V^{2}}{g \cdot R}-z_{p}=z_{t, \max }-z_{p}
 $$
 
-Considerando la relación fundamental entre la aceleración sin compensar y la insuficiencia de peralte:
+Considering the fundamental relationship between uncompensated acceleration and cant deficiency:
 
 $$
 \alpha_{s c}=\frac{V^{2}}{R}-\frac{g \cdot z_{p}}{a}
 $$
 
-Multiplicando esta expresión por el cociente entre el ancho de vía y la gravedad:
+Multiplying this expression by the quotient between the track gauge and gravity:
 
 $$
 I=\alpha_{S C} \cdot \frac{a}{g}
@@ -202,15 +199,15 @@ $$
 
 ![6cf709c43555374bcdad6dd82fb22357_MD5]({{ site.baseurl }}/assets/images/6cf709c43555374bcdad6dd82fb22357_MD5.webp)
 
-### II.4 Exceso de peralte
+### II.4 Cant Excess
 
-Contrariamente al caso de insuficiencia, cuando el peralte implementado supera el valor requerido teóricamente para una velocidad específica de circulación, el fenómeno se designa como exceso de peralte y se denota mediante la variable E. En esta situación, siendo E el exceso de peralte:
+Contrary to the case of deficiency, when the implemented cant exceeds the value theoretically required for a specific circulation speed, the phenomenon is designated as cant excess and is denoted by the variable E. In this situation, E being the cant excess:
 
 $$
 \frac{z-E}{a}=\frac{V^{2}}{g \cdot R}
 $$
 
-El exceso de peralte genera una aceleración transversal sin compensar dirigida hacia el interior de la curva, que se expresa mediante:
+Cant excess generates an uncompensated transverse acceleration directed towards the inside of the curve, which is expressed by:
 
 $$
 E=\frac{\alpha_{S C} \cdot a}{g}
@@ -218,522 +215,505 @@ $$
 
 ![11cf9b19467aec1f535870c97f984899_MD5]({{ site.baseurl }}/assets/images/11cf9b19467aec1f535870c97f984899_MD5.webp)
 
-Es conveniente señalar que en contextos operacionales prácticos, las composiciones de movimiento lento, particularmente los trenes de transporte de carga, constituyen tipos de tráfico para los cuales no es necesario imponer limitaciones estrictas en la aceleración sin compensar, ya que el confort de los pasajeros no constituye una consideración determinante.
+It is convenient to point out that in practical operational contexts, slow-moving compositions, particularly freight trains, constitute types of traffic for which it is not necessary to impose strict limitations on uncompensated acceleration, since passenger comfort does not constitute a determining consideration.
 
-### II.5 Peralte practico
+### II.5 Practical Cant
 
-#### II.5.1 Trafico heterogéneo
+#### II.5.1 Heterogeneous Traffic
 
-Cuando la infraestructura ferroviaria se encuentra sujeta a la circulación de múltiples categorías de composiciones con características operacionales heterogéneas, la solución de diseño requiere la adopción de un peralte de compromiso que equilibre los requerimientos conflictivos de los diferentes tipos de tráfico.
+When the railway infrastructure is subject to the circulation of multiple categories of compositions with heterogeneous operational characteristics, the design solution requires the adoption of a compromise cant that balances the conflicting requirements of the different types of traffic.
 
-Esta estrategia de compromiso debe fundamentarse en consideraciones técnicas profundas respecto de la composición específica del tráfico que se opera sobre la línea en cuestión. El objetivo es implementar un peralte que minimice los efectos adversos tanto para el comportamiento dinámico de las composiciones como para la integridad de la infraestructura, mientras simultáneamente se respetan los criterios de confort y seguridad de los usuarios del transporte.
+This compromise strategy must be based on deep technical considerations regarding the specific composition of the traffic operated on the line in question. The objective is to implement a cant that minimizes adverse effects both for the dynamic behavior of the compositions and for the integrity of the infrastructure, while simultaneously respecting the comfort and safety criteria of transport users.
 
-En la práctica española, la metodología tradicionalmente aplicada ha consistido en establecer el peralte práctico mediante la relación:
+In Spanish practice, the methodology traditionally applied has consisted of establishing the practical cant through the relationship:
 
 $$
 z_{p}=\frac{2}{3} \cdot z_{t}
 $$
 
-Existen diversos criterios metodológicos alternativos para determinar el peralte de compromiso:
+There are various alternative methodological criteria to determine the compromise cant:
 
-1. Implementación directa del criterio de los dos tercios: $$z_{p}=\frac{2}{3} \cdot z_{t}$$, lo que genera $$z=13,7 \cdot \frac{V_{\text {max }}^{2}}{R} \cdot \frac{2}{3} \approx 9 \cdot \frac{V_{\text {max }}^{2}}{R}$$ para ancho RENFE y $$z=11,8 \cdot \frac{V_{\text {max }}^{2}}{R} \cdot \frac{2}{3} \approx 8 \cdot \frac{V_{\text {max }}^{2}}{R}$$ para ancho UIC.
+1. Direct implementation of the two-thirds criterion: $$z_{p}=\frac{2}{3} \cdot z_{t}$$, which generates $$z=13.7 \cdot \frac{V_{\text {max }}^{2}}{R} \cdot \frac{2}{3} \approx 9 \cdot \frac{V_{\text {max }}^{2}}{R}$$ for RENFE gauge and $$z=11.8 \cdot \frac{V_{\text {max }}^{2}}{R} \cdot \frac{2}{3} \approx 8 \cdot \frac{V_{\text {max }}^{2}}{R}$$ for UIC gauge.
 
-2. Cálculo del peralte para una velocidad reducida: $$z_{p}$$ determinado para $$V=0,8 \cdot V_{\text {max }}$$
+2. Cant calculation for a reduced speed: $$z_{p}$$ determined for $$V=0.8 \cdot V_{\text {max }}$$
 
-3. Utilización de una velocidad media ponderada: $$z_{p}$$ obtenida para $$V=\sqrt{\frac{V_{\text {max }}^{2}+V_{\text {min }}^{2}}{2}}$$
+3. Use of a weighted average speed: $$z_{p}$$ obtained for $$V=\sqrt{\frac{V_{\text {max }}^{2}+V_{\text {min }}^{2}}{2}}$$
 
-4. Aplicación de una velocidad media ponderada por frecuencia de circulación: $$V=\sqrt{\frac{\sum_{m} V_{m}^{2} \cdot N_{m}}{\sum_{m} N_{m}}}$$
+4. Application of a weighted average speed by circulation frequency: $$V=\sqrt{\frac{\sum_{m} V_{m}^{2} \cdot N_{m}}{\sum_{m} N_{m}}}$$
 
-Donde $$V_{m}$$ representa la velocidad de circulación característica de cada categoría específica de tren m, y $$N_{m}$$ designa el número de composiciones pertenecientes a cada categoría m que utilizan la infraestructura durante un período de referencia.
+Where $$V_{m}$$ represents the characteristic circulation speed of each specific train category m, and $$N_{m}$$ designates the number of compositions belonging to each category m that use the infrastructure during a reference period.
 
-### II.6 Limitaciones de los valores del peralte
+### II.6 Limitations of Cant Values
 
-En el establecimiento de los límites permisibles para los valores de peralte que pueden implementarse en una línea ferroviaria, se observa que las restricciones más rigurosas provienen de consideraciones relacionadas con la comodidad del usuario del transporte de viajeros. Afortunadamente, las limitaciones derivadas de potenciales problemas en los vehículos o en la infraestructura de la vía son menos restrictivas.
+In establishing the permissible limits for cant values that can be implemented on a railway line, it is observed that the most rigorous restrictions come from considerations related to the comfort of the passenger transport user. Fortunately, limitations derived from potential problems in vehicles or track infrastructure are less restrictive.
 
-En cuanto a la clasificación del material rodante ferroviario, la normativa vigente establece diferentes categorías que se caracteriza por los máximos valores admisibles de aceleración transversal sin compensar:
+Regarding the classification of railway rolling stock, current regulations establish different categories characterized by the maximum admissible values of uncompensated transverse acceleration:
 
-- Tipo "Normal": Aceleración máxima de $$0,65 \mathrm{~m} / \mathrm{s}^{2}$$ (designación sin letra de complemento adicional para la velocidad máxima).
-- Tipo A: Aceleración máxima de $$1 \mathrm{~m} / \mathrm{s}^{2}$$.
-- Tipo B: Aceleración máxima de $$1,2 \mathrm{~m} / \mathrm{s}^{2}$$.
-- Tipo C: Aceleración máxima de $$1,5 \mathrm{~m} / \mathrm{s}^{2}$$.
-- Tipo D: Aceleración máxima de $$1,8 \mathrm{~m} / \mathrm{s}^{2}$$.
+- "Normal" Type: Maximum acceleration of $$0.65 \mathrm{~m} / \mathrm{s}^{2}$$ (designation without additional complement letter for maximum speed).
+- Type A: Maximum acceleration of $$1 \mathrm{~m} / \mathrm{s}^{2}$$.
+- Type B: Maximum acceleration of $$1.2 \mathrm{~m} / \mathrm{s}^{2}$$.
+- Type C: Maximum acceleration of $$1.5 \mathrm{~m} / \mathrm{s}^{2}$$.
+- Type D: Maximum acceleration of $$1.8 \mathrm{~m} / \mathrm{s}^{2}$$.
 
-#### II.6.1 Trenes rápidos
+#### II.6.1 Fast Trains
 
-La investigación experimental realizada en el ámbito de la ingeniería ferroviaria ha demostrado de forma consistente que el criterio limitante fundamental es el confort del pasajero, siendo más restrictivo que los criterios de seguridad estructural que limitan el potencial vuelco del material rodante. Cuando se implementan diseños que respetan íntegramente los estándares de confort de los viajeros, los coeficientes de seguridad respecto del vuelco adquieren valores considerablemente elevados, típicamente en el rango de 6 a 10.
+Experimental research carried out in the field of railway engineering has consistently demonstrated that the fundamental limiting criterion is passenger comfort, being more restrictive than structural safety criteria limiting the potential overturning of rolling stock. When designs are implemented that fully respect passenger comfort standards, safety coefficients regarding overturning acquire considerably high values, typically in the range of 6 to 10.
 
-La percepción de confort durante la circulación por trayectorias curvas se encuentra directamente condicionada por la magnitud de la aceleración sin compensar experimentada por el pasajero.
+The perception of comfort during circulation on curved trajectories is directly conditioned by the magnitude of the uncompensated acceleration experienced by the passenger.
 
-Para evaluar adecuadamente la aceleración efectivamente soportada por los pasajeros, es imprescindible considerar los efectos dinámicos del sistema de suspensión del vehículo. El sistema de suspensión está específicamente diseñado para atenuar los efectos adversos de vibraciones transitorias y aceleraciones de carácter aleatorio.
+To adequately evaluate the acceleration effectively supported by passengers, it is essential to consider the dynamic effects of the vehicle suspension system. The suspension system is specifically designed to attenuate the adverse effects of transient vibrations and random accelerations.
 
-Sin embargo, durante la circulación en trayectorias curvas, el sistema de suspensión introduce complicaciones dinámicas. El efecto de la aceleración transversal provoca la compresión de los amortiguadores situados en el lado exterior de la curva, mientras simultáneamente alarga los amortiguadores del lado interior. Este proceso de deformación diferencial reduce de manera significativa la efectividad del peralte implementado, generando una aceleración sin compensar que supera la que teóricamente debería ocurrir.
+However, during circulation on curved trajectories, the suspension system introduces dynamic complications. The effect of transverse acceleration causes the compression of shock absorbers located on the outside of the curve, while simultaneously lengthening the shock absorbers on the inside. This differential deformation process significantly reduces the effectiveness of the implemented cant, generating an uncompensated acceleration that exceeds what should theoretically occur.
 
-Para cuantificar matemáticamente estos efectos de flexibilidad del sistema de suspensión, se introduce el parámetro denominado "coeficiente de flexibilidad" designado como s. La normativa vigente de la UIC establece un límite máximo de $$\boldsymbol{s}=\mathbf{0,4}$$ para clasificar vehículos con suspensión blanda. Históricamente, vehículos fabricados en períodos anteriores presentaban valores de este coeficiente de hasta 0,6, y ejemplares de estas características aún circulan en numerosas redes ferroviarias a nivel mundial.
+To mathematically quantify these suspension system flexibility effects, the parameter called "flexibility coefficient" designated as s is introduced. Current UIC regulations establish a maximum limit of $$\boldsymbol{s}=\mathbf{0.4}$$ to classify vehicles with soft suspension. Historically, vehicles manufactured in previous periods presented values of this coefficient up to 0.6, and examples of these characteristics still circulate on numerous railway networks worldwide.
 
-Las composiciones de diseño moderno, cuando operan a plena capacidad de carga, presentan típicamente un coeficiente de flexibilidad de suspensión en el orden de 0,4.
+Modern design compositions, when operating at full load capacity, typically present a suspension flexibility coefficient in the order of 0.4.
 
-Aplicando estos principios a casos específicos de operación, pueden determinarse valores representativos de insuficiencia de peralte que son tolerables según las prácticas de distintas administraciones ferroviarias. La expresión matemática general que engloba estos criterios es:
+Applying these principles to specific operation cases, representative values of cant deficiency can be determined that are tolerable according to the practices of different railway administrations. The general mathematical expression encompassing these criteria is:
 
 $$
-\alpha_{s c} \cdot(1+s)=\frac{V^{2}}{R}-\frac{g \cdot z_{p}}{a} \cdot(1+s)<\alpha_{s c, \text { viajero }}
+\alpha_{s c} \cdot(1+s)=\frac{V^{2}}{R}-\frac{g \cdot z_{p}}{a} \cdot(1+s)<\alpha_{s c, \text { passenger }}
 $$
 
-La normativa técnica ADIF establece los siguientes límites máximos para la aceleración sin compensar permitida según la categoría de tren:
+ADIF technical regulations establish the following maximum limits for allowed uncompensated acceleration according to train category:
 
-Para composiciones clasificadas como Trenes Normales se especifica una aceleración sin compensar máxima permisible de $$\alpha_{s c} \mathbf{= 0,65} \boldsymbol{m/s^{2}}$$.
+For compositions classified as Normal Trains, a maximum permissible uncompensated acceleration of $$\alpha_{s c} \mathbf{= 0.65} \boldsymbol{m/s^{2}}$$ is specified.
 
-Para composiciones clasificadas como Trenes Tipo A se especifica una aceleración sin compensar máxima permisible de $$\mathbf{1,00 ~m/s^{2}}$$.
+For compositions classified as Type A Trains, a maximum permissible uncompensated acceleration of $$\mathbf{1.00 ~m/s^{2}}$$ is specified.
 
-Para Trenes Tipo B (TALGO pendular), la aceleración sin compensar máxima admisible es de $$\mathbf{1 , 2 0 ~ m} / \mathbf{s}^{\mathbf{2}}$$.
+For Type B Trains (pendular TALGO), the maximum admissible uncompensated acceleration is $$\mathbf{1.20 ~ m} / \mathbf{s}^{\mathbf{2}}$$.
 
-- Normativa para la máxima insuficiencia de peralte admisible:
+- Regulations for maximum admissible cant deficiency:
 
-El valor máximo de insuficiencia de peralte admitido es de I $$=115 \mathrm{~mm}$$.
+The maximum admissible cant deficiency value is I $$=115 \mathrm{~mm}$$.
 
-Para Trenes Tipo A se admite una insuficiencia de peralte máxima de 175 mm (los valores con $$\mathrm{I}=175 \mathrm{~mm}$$ deberán estar aplicados a un máximo del 15\% de las curvas de cada trayecto).
+For Type A Trains, a maximum cant deficiency of 175 mm is admitted (values with $$\mathrm{I}=175 \mathrm{~mm}$$ must be applied to a maximum of 15\% of the curves of each route).
 
-Para Trenes Tipo B (TALGO pendular), la insuficiencia de peralte máxima admisible es de 210 mm .
+For Type B Trains (pendular TALGO), the maximum admissible cant deficiency is 210 mm.
 
-- Normativa para la máxima insuficiencia de peralte admisible:
+- Regulations for maximum admissible cant deficiency:
 
-Norma europea ENV 13803-1: Se establecen los siguientes valores máximos:
+European standard ENV 13803-1: The following maximum values are established:
 
-| MÁXIMA INSUFICIENCIA DE PERALTE I (mm) - ENV 13803-1 |  |  |  |  |  |  |  |  |  |
+| MAXIMUM CANT DEFICIENCY I (mm) - ENV 13803-1 |  |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Categorías de tráfico |  | Ancho de vía 1,435 m |  |  |  | Ancho de vía 1,668 m |  |  |  |
-|  |  | Valores máximos recomendados (1) |  | Valores máximos permitidos |  | Valores máximos recomendados (1) |  | Valores máximos permitidos |  |
-|  |  | Mercancías | Viajeros | Mercancías | Viajeros | Mercancías | Viajeros | Mercancías | Viajeros |
-| I: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 80 y $$120 \mathrm{Km} / \mathrm{h}$$. | $$\mathrm{R}<650 \mathrm{~m}$$ | 110 | 130 | 130 | 160 | 125 | 150 | 150 | 185 |
+| Traffic Categories |  | Track gauge 1.435 m |  |  |  | Track gauge 1.668 m |  |  |  |
+|  |  | Recommended maximum values (1) |  | Permitted maximum values |  | Recommended maximum values (1) |  | Permitted maximum values |  |
+|  |  | Freight | Passenger | Freight | Passenger | Freight | Passenger | Freight | Passenger |
+| I: Mixed traffic lines, with passenger trains with maximum speeds between 80 and $$120 \mathrm{Km} / \mathrm{h}$$. | $$\mathrm{R}<650 \mathrm{~m}$$ | 110 | 130 | 130 | 160 | 125 | 150 | 150 | 185 |
 |  | $$\mathrm{R}=650 \mathrm{~m}$$ | 110 | 150 | 130 | 165 | 125 | 170 | 150 | 190 |
-| lla: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 120 y $$160 \mathrm{Km} / \mathrm{h}$$. |  | 110 | 150 | $$160{ }^{(4)}$$ | 165 | 125 | 170 | 185 | 190 |
-| llb: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 160 y $$200 \mathrm{Km} / \mathrm{h}$$. |  | 110 | 150 | $$160{ }^{(4)}$$ | 165 | 125 | 170 | 185 | 190 |
+| IIa: Mixed traffic lines, with passenger trains with maximum speeds between 120 and $$160 \mathrm{Km} / \mathrm{h}$$. |  | 110 | 150 | $$160{ }^{(4)}$$ | 165 | 125 | 170 | 185 | 190 |
+| IIb: Mixed traffic lines, with passenger trains with maximum speeds between 160 and $$200 \mathrm{Km} / \mathrm{h}$$. |  | 110 | 150 | $$160{ }^{(4)}$$ | 165 | 125 | 170 | 185 | 190 |
 
-| MÁXIMA INSUFICIENCIA DE PERALTE I (mm) - ENV 13803-1 |  |  |  |  |  |  |  |  |  |
+| MAXIMUM CANT DEFICIENCY I (mm) - ENV 13803-1 |  |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Categorías de tráfico |  | Ancho de vía $$1,435 \mathrm{~m}$$ |  |  |  | Ancho de vía 1,668 m |  |  |  |
-|  |  | Valores máximos recomendados (1) |  | Valores máximos permitidos |  | Valores máximos recomendados (1) |  | Valores máximos permitidos |  |
-|  |  | Mercancias | Viajeros | Mercancias | Viajeros | Mercandias | Viajeros | Mercancias | Viajeros |
-| III: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 200 y $$300 \mathrm{Km} / \mathrm{h}$$. | $$200<\mathrm{v} \leq 250$$ | 100 | 100 | $$150{ }^{(4)}$$ | 150 | 115 | 115 | $$170^{(4)}$$ | 170 |
+| Traffic Categories |  | Track gauge $$1.435 \mathrm{~m}$$ |  |  |  | Track gauge 1.668 m |  |  |  |
+|  |  | Recommended maximum values (1) |  | Permitted maximum values |  | Recommended maximum values (1) |  | Permitted maximum values |  |
+|  |  | Freight | Passenger | Freight | Passenger | Freight | Passenger | Freight | Passenger |
+| III: Mixed traffic lines, with passenger trains with maximum speeds between 200 and $$300 \mathrm{Km} / \mathrm{h}$$. | $$200<\mathrm{v} \leq 250$$ | 100 | 100 | $$150{ }^{(4)}$$ | 150 | 115 | 115 | $$170^{(4)}$$ | 170 |
 |  | $$250<v \leq 300$$ | 80 | 80 | $$130^{(3)}$$ | $$130^{(3)}$$ | 90 | 90 | $$150{ }^{(3)}$$ | $$150^{(3)}$$ |
-| IV: Líneas de tráfico mixto, con trenes de pasajeros con velocidades hasta $$230 \mathrm{Km} / \mathrm{h}$$ (o $$250 \mathrm{Km} / \mathrm{h}$$ en las mejores lineas) con vehículos incorporando características técnicas especiales. | $$\mathrm{v} \leq 160$$ | 110 | $$160{ }^{(2)}$$ | $$160{ }^{(4)}$$ | $$180^{(2)}$$ | 125 | $$185{ }^{(2)}$$ | $$185{ }^{(4)}$$ | $$205^{(2)}$$ |
+| IV: Mixed traffic lines, with passenger trains with speeds up to $$230 \mathrm{Km} / \mathrm{h}$$ (or $$250 \mathrm{Km} / \mathrm{h}$$ on the best lines) with vehicles incorporating special technical characteristics. | $$\mathrm{v} \leq 160$$ | 110 | $$160{ }^{(2)}$$ | $$160{ }^{(4)}$$ | $$180^{(2)}$$ | 125 | $$185{ }^{(2)}$$ | $$185{ }^{(4)}$$ | $$205^{(2)}$$ |
 |  | $$160<\mathrm{v} \leq 200$$ | - | 140 | - | 160 | - | 160 | -- | 185 |
 |  | $$200<\mathrm{v} \leq 230$$ | - | 120 | - | 160 | - | 135 | -- | 185 |
-|  | $$230<\mathrm{v} \leq 250$$ | 一 | 100 | - | 150 | - | 115 | -- | 170 |
-| V: Lineas de tráfico de viajeros con velocidades máximas comprendidas entre 250 y $$300 \mathrm{Km} / \mathrm{h}$$. | $$\mathrm{v}=250$$ | - | 100 | - | 150 | - | 115 | -- | 170 |
+|  | $$230<\mathrm{v} \leq 250$$ | - | 100 | - | 150 | - | 115 | -- | 170 |
+| V: Passenger traffic lines with maximum speeds between 250 and $$300 \mathrm{Km} / \mathrm{h}$$. | $$\mathrm{v}=250$$ | - | 100 | - | 150 | - | 115 | -- | 170 |
 |  | $$\mathrm{v}>250$$ | - | 80 | - | $$130^{(3)}$$ | - | 90 | -- | $$150^{(3)}$$ |
 
-**NOTAS:**
+**NOTES:**
 
-- Al definir el trazado se deberá intentar mantener la insuficiencia de peralte 20 mm ( 25 mm con ancho 1,668 $$\mathrm{m})$$ por debajo del valor máximo recomendado en ancho $$1,435 \mathrm{~m}$$.
-- Estos valores sólo son aplicables para situaciones con variaciones progresivas de la insuficiencia de peralte, en las que no haya discontinuidades, con velocidades superiores a $$80 \mathrm{~km} / \mathrm{h}$$.
-(1) En vía con juntas, los valores de insuficiencia del peralte serán los especificados en el contrato.
-(2) Estos valores sólo se aplicarán a vehículos con características mecánicas especiales.
-(3) Se puede utilizar una insuficiencia de peralte de 150 mm ( 170 mm con ancho $$1,668 \mathrm{~m}$$ ) en vía sin balasto para velocidades superiores a $$250 \mathrm{Km} / \mathrm{h}$$.
-(4) Estos valores sólo se aplicarán a vagones de mercancías con características mecánicas especiales, similares a las de los vehículos de viajeros.
+- When defining the alignment, an attempt should be made to maintain the cant deficiency 20 mm (25 mm with 1.668 $$\mathrm{m}$$ gauge) below the recommended maximum value in 1.435 $$\mathrm{~m}$$ gauge.
+- These values are only applicable for situations with progressive variations of cant deficiency, where there are no discontinuities, with speeds exceeding $$80 \mathrm{~km} / \mathrm{h}$$.
+(1) On jointed track, cant deficiency values will be those specified in the contract.
+(2) These values will only apply to vehicles with special mechanical characteristics.
+(3) A cant deficiency of 150 mm (170 mm with 1.668 $$\mathrm{~m}$$ gauge) can be used on ballastless track for speeds exceeding $$250 \mathrm{Km} / \mathrm{h}$$.
+(4) These values will only apply to freight wagons with special mechanical characteristics, similar to those of passenger vehicles.
 
-#### II.6.2 Trenes lentos
+#### II.6.2 Slow Trains
 
-El proceso de determinación del exceso de peralte admisible requiere previamente el conocimiento de la velocidad mínima operacional a la que las composiciones lentas circulan a través de las curvas. Una vez conocido este parámetro, se determina el máximo exceso de peralte que puede tolerarse sin comprometer los criterios de seguridad y operacionalidad.
+The process of determining the admissible cant excess requires prior knowledge of the minimum operational speed at which slow compositions circulate through curves. Once this parameter is known, the maximum cant excess that can be tolerated without compromising safety and operability criteria is determined.
 
-Desde la perspectiva del equilibrio de fuerzas, si existiera una distribución estadísticamente equiparable entre composiciones lentas y rápidas y si sus efectos dinámicos sobre la infraestructura fueran análogos, la estrategia óptima consistiría en igualar el exceso de peralte con la insuficiencia de peralte (E = I). Esta configuración garantizaría un equilibrio completo de esfuerzos transversales y produciría patrones de desgaste simétricos en ambas cabezas de carril.
+From the perspective of force balance, if there were a statistically comparable distribution between slow and fast compositions and if their dynamic effects on the infrastructure were analogous, the optimal strategy would consist of equating cant excess with cant deficiency (E = I). This configuration would guarantee a complete balance of transverse forces and would produce symmetric wear patterns on both rail heads.
 
-Sin embargo, históricamente, la realidad operacional ha presentado una distribución desequilibrada, con predominancia de composiciones lentas sobre composiciones rápidas. En tales circunstancias, si se utilizaran valores de $$\mathrm{I}=\mathrm{E}=115 \mathrm{~mm}$$, los efectos perjudiciales sobre el carril interior se verían significativamente amplificados. Por esta razón, las administraciones ferroviarias han establecido límites máximos más restrictivos para el exceso de peralte, típicamente en el rango de 60 a 100 milímetros, con el objetivo de equilibrar adecuadamente el patrón de desgaste entre ambas cabezas de carril.
+However, historically, operational reality has presented an unbalanced distribution, with a predominance of slow compositions over fast compositions. In such circumstances, if values of $$\mathrm{I}=\mathrm{E}=115 \mathrm{~mm}$$ were used, the damaging effects on the inner rail would be significantly amplified. For this reason, railway administrations have established more restrictive maximum limits for cant excess, typically in the range of 60 to 100 millimeters, with the aim of adequately balancing the wear pattern between both rail heads.
 
-La situación operacional actual se caracteriza por una tendencia progresiva hacia el predominio del tráfico de viajeros en muchas redes ferroviarias, lo que modifica las consideraciones históricas que fundamentaban los límites anteriores.
+The current operational situation is characterized by a progressive trend towards the predominance of passenger traffic on many railway networks, which modifies the historical considerations that underpinned previous limits.
 
-- Normativa para el máximo
+- Regulations for maximum admissible cant excess:
 
-- exceso de peralte admisible:
-
-| MÁXIMO EXCESO DE PERALTE E(mm) - N.R.V. 0-2-0.0. ( $$\mathrm{T}=$$ Mles de TKBR/Dia y Via) |  |  |  |  |  |
+| MAXIMUM CANT EXCESS E(mm) - N.R.V. 0-2-0.0. ( $$\mathrm{T}=$$ Thousands of TKBR/Day and Track) |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| VELOCIDAD DE PROYECTO ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | 140<v-160 | $$160<v-200$$ | $$200<v-250$$ |
-| NUEVAS LINEAS Y DESDOBLAMIENTO DE LINEAS ACTUALES CON MODIFICACION DEL TRAZADO | $$\mathrm{T}>45$$ | 80 | 80 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 60$$ Mercanclas: 80 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 60$$ Mercanclas: 80 |
-|  | $$25<\mathrm{T} \leq 45$$ | 90 | 90 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 70$$ Mercanclas: 90 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 70$$ Mercanclas: 90 |
-|  | $$10<\mathrm{T} \leq 25$$ | 100 | 100 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ Mercanclas: 100 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ Mercanclas: 100 |
-|  | $$\mathrm{T} \leq 10$$ | 110 | 110 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ Mercanclas: 110 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ Mercanclas: 110 |
-| MEJORA DE LINEAS ACTUALES POR OBRAS <br> (Renovaciones y rehabilliaciones de via) | $$\mathrm{T}>45$$ | 80 | 80 | Vlajeros: 60 Mercanclas: 80 | - |
-|  | $$25<\mathrm{T} \leq 45$$ | 90 | 90 | Viajeros: 70 Mercanclas: 90 | - |
-|  | $$10<\mathrm{T} \leq 25$$ | 100 | 100 | Vlajeros: 90 Mercanclas: 100 | - |
-|  | $$\mathrm{T} \leq 10$$ | 110 | 110 | Vlajeros: 90 Mercanclas: 110 | - |
+| PROJECT SPEED ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | 140<v<160 | $$160<v<200$$ | $$200<v<250$$ |
+| NEW LINES AND DUPLICATION OF CURRENT LINES WITH ALIGNMENT MODIFICATION | $$\mathrm{T}>45$$ | 80 | 80 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 60$$ Freight: 80 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 60$$ Freight: 80 |
+|  | $$25<\mathrm{T} \leq 45$$ | 90 | 90 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 70$$ Freight: 90 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 70$$ Freight: 90 |
+|  | $$10<\mathrm{T} \leq 25$$ | 100 | 100 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ Freight: 100 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ Freight: 100 |
+|  | $$\mathrm{T} \leq 10$$ | 110 | 110 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ Freight: 110 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ Freight: 110 |
+| IMPROVEMENT OF CURRENT LINES BY WORKS <br> (Track renovations and rehabilitations) | $$\mathrm{T}>45$$ | 80 | 80 | Passenger: 60 Freight: 80 | - |
+|  | $$25<\mathrm{T} \leq 45$$ | 90 | 90 | Passenger: 70 Freight: 90 | - |
+|  | $$10<\mathrm{T} \leq 25$$ | 100 | 100 | Passenger: 90 Freight: 100 | - |
+|  | $$\mathrm{T} \leq 10$$ | 110 | 110 | Passenger: 90 Freight: 110 | - |
 
-| VELOCIDAD DE PROYECTO ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<v-160$$ | 160<v-180 | 180<v-200 |
+| PROJECT SPEED ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<v<160$$ | 160<v<180 | 180<v<200 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| ADAPTACIÓN DE LINEAS ACTUALES PARA CIRCULACION DE TRENES TIPO A SIN LIMITACION DE VELOCIDAD |  |  |  |  |  |
-|  | $$\mathrm{T}>45$$ | Máxlmo: 80 Excepc: 105 | Maximo: 80 Excepc: 105 |  |  |
-|  |  |  |  | Maximo: 80 Excepcional: 105 Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 60$$ | Maximo: 80 Excepcional: 105 Vlajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 60$$ |
-|  |  |  |  | Maximo: 90 | Maximo: 90 |
-|  | $$25<\mathrm{T} \leq 45$$ | Máxlmo: 90 | Ехсерс: 115 | Excepcional: 115 | Excepcional: 115 |
-|  |  |  |  | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 70$$ | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 70$$ |
-|  |  |  |  | Maximo:100 | Maximo:100 |
-|  | $$10<\mathrm{T} \leq 25$$ | Maximo:100 | Maximo:100 | Excepcional: 125 | Excepcional: 125 |
-|  |  | Excepc: 125 | Ехсерс: 125 | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ | Vlajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ |
-|  |  | Maximo:110 |  | Maximo:110 | Maximo:110 |
-|  | $$\mathrm{T} \leq 10$$ | Excepc: 135 | Maximo:110 | Excepcional: 135 | Excepcional: 135 |
-|  |  |  |  | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ | Viajeros $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ |
-| Expresion a utillzar: $$\mathrm{E}=116-0,58-\mathrm{T}$$ |  |  |  |  |  |
+| ADAPTATION OF CURRENT LINES FOR TYPE A TRAIN CIRCULATION WITHOUT SPEED LIMITATION |  |  |  |  |  |
+|  | $$\mathrm{T}>45$$ | Max: 80 Excep: 105 | Max: 80 Excep: 105 |  |  |
+|  |  |  |  | Max: 80 Exceptional: 105 Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 60$$ | Max: 80 Exceptional: 105 Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 60$$ |
+|  |  |  |  | Max: 90 | Max: 90 |
+|  | $$25<\mathrm{T} \leq 45$$ | Max: 90 | Excep: 115 | Exceptional: 115 | Exceptional: 115 |
+|  |  |  |  | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 70$$ | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 70$$ |
+|  |  |  |  | Max:100 | Max:100 |
+|  | $$10<\mathrm{T} \leq 25$$ | Max:100 | Max:100 | Exceptional: 125 | Exceptional: 125 |
+|  |  | Excep: 125 | Excep: 125 | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ |
+|  |  | Max:110 |  | Max:110 | Max:110 |
+|  | $$\mathrm{T} \leq 10$$ | Excep: 135 | Max:110 | Exceptional: 135 | Exceptional: 135 |
+|  |  |  |  | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ | Passenger $$\leq 160 \mathrm{~km} / \mathrm{h}: 90$$ |
+| Expression to use: $$\mathrm{E}=116-0.58-\mathrm{T}$$ |  |  |  |  |  |
 
-#### II.6.3 Trenes lentos
+#### II.6.3 Slow Trains
 
-b) Norma europea ENV 13803-1
+b) European Standard ENV 13803-1
 
-El marco normativo europeo ENV 13803-1 establece los siguientes valores límite máximos para el exceso de peralte en vías con ancho estándar de 1,435 metros:
+The European regulatory framework ENV 13803-1 establishes the following maximum limit values for cant excess on standard gauge tracks of 1.435 meters:
 
-- Valor máximo recomendado para exceso de peralte: 110 mm.
-- Valor máximo permitido excepcional para exceso de peralte: 130 mm.
-- Para composiciones de transporte de viajeros se restringe el valor máximo permitido a 110 mm.
+- Recommended maximum value for cant excess: 110 mm.
+- Exceptional maximum permitted value for cant excess: 130 mm.
+- For passenger transport compositions, the maximum permitted value is restricted to 110 mm.
 
-Cuando una composición ferroviaria se encuentra en estado de reposo, los pasajeros no experimentan variaciones dinámicas de aceleración, lo que permite la tolerancia de valores más elevados de aceleración sin compensar, llegando a ser admisibles valores de $$\alpha_{s c} \leq 1,5 \mathrm{~m} / \mathrm{s}^{2}$$ bajo esta condición.
+When a railway composition is in a state of rest, passengers do not experience dynamic acceleration variations, which allows tolerance of higher uncompensated acceleration values, with values of $$\alpha_{s c} \leq 1.5 \mathrm{~m} / \mathrm{s}^{2}$$ being admissible under this condition.
 
-Adicionalmente, estudios experimentales han demostrado que no surgen limitaciones operacionales en la generación de fuerzas de fricción suficientes para garantizar el arranque de una composición parada, siempre que la aceleración sin compensar teórica permanezca por debajo de $$\mathbf{1 \,m/s^{2}}$$.
+Additionally, experimental studies have shown that no operational limitations arise in generating sufficient friction forces to guarantee the start of a stopped composition, provided that the theoretical uncompensated acceleration remains below $$\mathbf{1 \,m/s^{2}}$$.
 
-Por consiguiente, el peralte máximo implementable $$\mathbf{z}_{\text{Máx}}$$ debe satisfacer la siguiente condición:
+Consequently, the maximum implementable cant $$\mathbf{z}_{\text{Max}}$$ must satisfy the following condition:
 
 $$
 \alpha_{s c}=\frac{g \cdot z_{\max }}{a}-\frac{V^{2}}{R}<1 m/s^{2}
 $$
 
-Cuando la composición se encuentra parada ($$V=0$$):
+When the composition is stopped ($$V=0$$):
 
 $$
 z_{\max }=\frac{a}{g}
 $$
 
-Aplicando esta formulación para vías con ancho de $$\mathbf{1,668}$$ metros, se obtiene un valor máximo teóricamente admisible de $$\mathbf{z}_{\text{max}} = \mathbf{178}$$ mm.
+Applying this formulation for tracks with a gauge of $$\mathbf{1.668}$$ meters, a theoretically admissible maximum value of $$\mathbf{z}_{\text{max}} = \mathbf{178}$$ mm is obtained.
 
-Una práctica generalizada en las administraciones ferroviarias consiste en establecer la regla de que el peralte implementado no debe exceder la décima parte del ancho de vía.
+A generalized practice in railway administrations consists of establishing the rule that the implemented cant must not exceed one-tenth of the track gauge.
 
-Normativa para el peralte máximo admisible:
+Regulations for maximum admissible cant:
 
-a) Normativa ADIF
+a) ADIF Regulations
 
-La administración ADIF ha establecido un límite máximo para el peralte implementable de $$\mathbf{160 \,mm}$$. Esta limitación es más restrictiva que la aplicada típicamente por otras administraciones ferroviarias internacionales, proporcionando mayor protección a la integridad estructural del carril.
+The ADIF administration has established a maximum limit for implementable cant of $$\mathbf{160 \,mm}$$. This limitation is more restrictive than that typically applied by other international railway administrations, providing greater protection to the structural integrity of the rail.
 
-Trenes parados
+**Stopped Trains**
 
-b) Norma europea ENV 13803-1
+b) European Standard ENV 13803-1
 
-El marco normativo europeo ENV 13803-1 establece los siguientes valores límite máximos para situaciones específicas:
+The European regulatory framework ENV 13803-1 establishes the following maximum limit values for specific situations:
 
-En instalaciones ferroviarias donde la vía corre adyacente a plataformas de embarque de pasajeros se recomienda no exceder valores de $$\mathbf{110 \,mm}$$ de peralte con ancho estándar de 1,435 metros (o $$\mathbf{125}$$ mm con ancho de 1,668 metros).
+In railway installations where the track runs adjacent to passenger boarding platforms, it is recommended not to exceed values of $$\mathbf{110 \,mm}$$ of cant with standard gauge of 1.435 meters (or $$\mathbf{125}$$ mm with gauge of 1.668 meters).
 
-| PERALTE MÁXIMO ADMISIBLE $$\mathrm{Z}_{\text {Máx }}$$ (mm) - ENV 13803-1 |  |  |  |  |
+| MAXIMUM ADMISSIBLE CANT $$\mathrm{Z}_{\text {Max }}$$ (mm) - ENV 13803-1 |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
-| Categorías de tráfico | Ancho $$1,435 \mathrm{~m}$$ |  | Ancho $$1,668 \mathrm{~m}$$ |  |
-|  | Valores máximos recomendados | Valores máximos permitidos | Valores máximos recomendados | Valores máximos permitidos |
-| I: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 80 y $$120 \mathrm{Km} / \mathrm{h}$$. | 160 | 180 | 185 | 205 |
-| Ila: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 120 y $$160 \mathrm{Km} / \mathrm{h}$$. | 160 | 180 | 185 | 205 |
-| llb : Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 160 y $$200 \mathrm{Km} / \mathrm{h}$$. | 160 | 180 | 185 | 205 |
-| III: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 200 y $$300 \mathrm{Km} / \mathrm{h}$$. | 160 | 180 | 185 | 205 |
-| IV: Líneas de tráfico mixto, con trenes de pasajeros con velocidades hasta 230 $$\mathrm{Km} / \mathrm{h}$$ (o $$250 \mathrm{Km} / \mathrm{h}$$ en las mejores lineas) con vehículos incorporando características técnicas especiales. | 160 | 180 | 185 | 205 |
-| V: Líneas de tráfico de viajeros con velocidades máximas comprendidas entre 250 y $$300 \mathrm{Km} / \mathrm{h}$$. | 160 | 200 | 185 | 230 |
-| Para evitar el riesgo de descarrilamiento en curvas de radio reducido se recomienda que el peralte quede restringido al siguiente valor. <br> Ancho de vía 1,435 m: $$\quad z_{\operatorname{Max}}=\frac{R-50}{1,5} ; \quad$$ Ancho de vía 1,668 m: $$\quad z_{\operatorname{Max}}=\frac{R-50}{0,9}$$ |  |  |  |  |
+| Traffic Categories | Gauge $$1.435 \mathrm{~m}$$ |  | Gauge $$1.668 \mathrm{~m}$$ |  |
+|  | Recommended maximum values | Permitted maximum values | Recommended maximum values | Permitted maximum values |
+| I: Mixed traffic lines, with passenger trains with maximum speeds between 80 and $$120 \mathrm{Km} / \mathrm{h}$$. | 160 | 180 | 185 | 205 |
+| IIa: Mixed traffic lines, with passenger trains with maximum speeds between 120 and $$160 \mathrm{Km} / \mathrm{h}$$. | 160 | 180 | 185 | 205 |
+| IIb : Mixed traffic lines, with passenger trains with maximum speeds between 160 and $$200 \mathrm{Km} / \mathrm{h}$$. | 160 | 180 | 185 | 205 |
+| III: Mixed traffic lines, with passenger trains with maximum speeds between 200 and $$300 \mathrm{Km} / \mathrm{h}$$. | 160 | 180 | 185 | 205 |
+| IV: Mixed traffic lines, with passenger trains with speeds up to 230 $$\mathrm{Km} / \mathrm{h}$$ (or $$250 \mathrm{Km} / \mathrm{h}$$ on the best lines) with vehicles incorporating special technical characteristics. | 160 | 180 | 185 | 205 |
+| V: Passenger traffic lines with maximum speeds between 250 and $$300 \mathrm{Km} / \mathrm{h}$$. | 160 | 200 | 185 | 230 |
+| To avoid derailment risk in small radius curves it is recommended that cant be restricted to the following value. <br> Track gauge 1.435 m: $$\quad z_{\operatorname{Max}}=\frac{R-50}{1.5} ; \quad$$ Track gauge 1.668 m: $$\quad z_{\operatorname{Max}}=\frac{R-50}{0.9}$$ |  |  |  |  |
 
-### II.7 Peralte a utilizar
+### II.7 Cant to Use
 
-Para el establecimiento del peralte deben aplicarse las condiciones relativas a los dos tipos de trenes extremos (el más rápido de viajeros y el más lento de mercancías), que han de cumplirse conjuntamente:
+The process of establishing the specific cant to implement in a railway infrastructure requires the simultaneous application of two boundary conditions that must be verified for the composition types representing the operational extremes of the spectrum. Specifically, the limitations imposed by the fastest passenger transport composition and the slowest freight transport composition must be satisfied simultaneously.
 
-Tren mas rapido de viajeros: $$\left[\frac{V_{\text {max }}^{2}}{R}-\frac{g \cdot z}{a}\right] \cdot(1+s)<\alpha_{s c, \text { viajero }}$$
-
-Tren mas lento de mercancias: $$\frac{g \cdot z}{a}-\frac{V_{\text {min }}^{2}}{R}<\frac{g \cdot E}{a}$$
-
-Con este sistema de inecuaciones se puede acotar el valor $$\boldsymbol{z}$$, ó los valores de R y z cuando $$R$$ sea desconocida, (tomando 1/R $$=\mathrm{y}$$, todo se reduce a resolver un sistema lineal).
-
-### II.7 Peralte a utilizar
-
-El proceso de establecimiento del peralte específico a implementar en una infraestructura ferroviaria requiere la aplicación simultánea de dos condiciones de contorno que deben verificarse para los tipos de composición que representan los extremos operacionales del espectro. Específicamente, deben satisfacerse simultáneamente las limitaciones impuestas por la composición más rápida de transporte de viajeros y la composición más lenta de transporte de mercancías.
-
-Para la composición más rápida de viajeros, la inecuación de control es:
+For the fastest passenger composition, the control inequality is:
 
 $$
-\left[\frac{V_{\text{max}}^{2}}{R}-\frac{g \cdot z}{a}\right] \cdot(1+s)<\alpha_{s c, \text { viajero}}
+\left[\frac{V_{\text{max}}^{2}}{R}-\frac{g \cdot z}{a}\right] \cdot(1+s)<\alpha_{s c, \text { passenger}}
 $$
 
-Para la composición más lenta de mercancías, la inecuación de control es:
+For the slowest freight composition, the control inequality is:
 
 $$
 \frac{g \cdot z}{a}-\frac{V_{\text{min}}^{2}}{R}<\frac{g \cdot E}{a}
 $$
 
-Mediante este sistema de inecuaciones simultáneas se puede acotar el rango admisible del valor z, o alternativamente, cuando el radio de curvatura R sea desconocido inicialmente, es posible resolver el sistema estableciendo la sustitución $$1/R = y$$, lo que reduce el problema a la solución de un sistema lineal de desigualdades.
+Through this system of simultaneous inequalities, the admissible range of the z value can be bounded, or alternatively, when the radius of curvature R is initially unknown, it is possible to solve the system by establishing the substitution $$1/R = y$$, which reduces the problem to the solution of a linear system of inequalities.
 
-Es imperativo que se respete invariablemente la limitación normativa que establece el peralte máximo permitido para cada línea específica o red ferroviaria. Si se dispusiera de información detallada sobre la distribución estadística exacta del tráfico y su contribución específica a los procesos de deterioro de la infraestructura vial, sería posible determinar con precisión el valor óptimo de peralte que garantizaría un equilibrio perfecto en los efectos dinámicos sobre ambas cabezas de carril, asegurando simultáneamente el cumplimiento de todas las exigencias técnicas relativas a seguridad y confort de los pasajeros.
+It is imperative that the regulatory limitation establishing the maximum permitted cant for each specific line or railway network be invariably respected. If detailed information were available on the exact statistical distribution of traffic and its specific contribution to the deterioration processes of the track infrastructure, it would be possible to accurately determine the optimal cant value that would guarantee a perfect balance in the dynamic effects on both rail heads, simultaneously ensuring compliance with all technical requirements regarding passenger safety and comfort.
 
-## Capítulo III Parámetros básicos del trazado
+## Chapter III Basic Parameters of Alignment
 
-La definición geométrica del trazado ferroviario se fundamenta en la consideración sistemática de tres categorías principales de parámetros, que integran criterios de operacionalidad, seguridad estructural y percepción del usuario:
+The geometric definition of railway alignment is based on the systematic consideration of three main categories of parameters, which integrate operability, structural safety, and user perception criteria:
 
-1. Velocidad de circulación
-2. Seguridad operacional
-3. Comodidad del viajero
+1. Circulation speed
+2. Operational safety
+3. Passenger comfort
 
-### III.1 VELOCIDAD
+### III.1 SPEED
 
-La ingeniería de trazados ferroviarios requiere la distinción cuidadosa entre diversos conceptos asociados al término velocidad, ya que cada uno de ellos constituye un parámetro fundamental que condiciona las decisiones de proyecto. La velocidad de circulación de los trenes representa un factor determinante en la definición de la geometría del trazado.
+Railway alignment engineering requires the careful distinction between various concepts associated with the term speed, since each of them constitutes a fundamental parameter that conditions project decisions. Train circulation speed represents a determining factor in the definition of alignment geometry.
 
-Se establecen las siguientes categorías de velocidad:
+The following speed categories are established:
 
-#### III.1.1 VELOCIDAD NOMINAL
+#### III.1.1 NOMINAL SPEED
 
-Se define como velocidad nominal de una composición ferroviaria a la máxima velocidad que teóricamente puede alcanzar bajo las condiciones más favorables de configuración geométrica de la infraestructura vial. Esta magnitud está determinada fundamentalmente por características propias del material rodante, tales como la tipología de la composición (ferrocarriles de viajeros o ferrocarriles de carga) y el estándar técnico específico de la línea sobre la cual opera.
+Nominal speed of a railway composition is defined as the maximum speed it can theoretically reach under the most favorable conditions of the track infrastructure's geometric configuration. This magnitude is fundamentally determined by characteristics inherent to the rolling stock, such as the type of composition (passenger railways or freight railways) and the specific technical standard of the line on which it operates.
 
-#### III.1.2 VELOCIDAD ESPECIFICA MAXIMA
+#### III.1.2 MAXIMUM SPECIFIC SPEED
 
-Se designa como velocidad específica máxima a la velocidad máxima que puede tolerarse para la circulación segura a través de un elemento geométrico específico del trazado, respetando criterios técnicos establecidos de seguridad operacional y confort del usuario.
+Maximum specific speed is designated as the maximum speed that can be tolerated for safe circulation through a specific geometric element of the alignment, respecting established technical criteria for operational safety and user comfort.
 
-Es técnicamente deseable que la velocidad específica máxima sea lo más uniforme posible en todos los elementos que constituyen un tramo ferroviario determinado, evitando de esta forma transiciones bruscas que obliguen a reducciones significativas de velocidad cuando las composiciones transitan de un elemento geométrico al siguiente.
+It is technically desirable for the maximum specific speed to be as uniform as possible across all elements constituting a given railway section, thus avoiding abrupt transitions that force significant speed reductions when compositions transit from one geometric element to the next.
 
-Los factores que pueden imponer limitaciones a la velocidad específica máxima incluyen:
+Factors that can impose limitations on the maximum specific speed include:
 
-- La máxima insuficiencia de peralte admisible en las trayectorias curvas
-- Los aparatos de vía que pueden limitar velocidades tanto en vía directa como en vía desviada
-- Los túneles, donde intervienen consideraciones de resistencia al avance y variaciones de presión atmosférica dinámica
-- Los puentes, con sus limitaciones estructurales específicas
-- El galibo cinemático disponible, considerando la proximidad de obstáculos fijos
+- The maximum admissible cant deficiency in curved trajectories
+- Track apparatus (switches) that can limit speeds in both direct and diverted tracks
+- Tunnels, where considerations of advance resistance and dynamic atmospheric pressure variations intervene
+- Bridges, with their specific structural limitations
+- The available kinematic gauge, considering the proximity of fixed obstacles
 
-Simultáneamente, debe definirse una velocidad específica mínima para las trayectorias curvas, de forma que se permita la circulación de composiciones lentas con un exceso de peralte dentro de los márgenes admisibles. Esta configuración mejora significativamente las condiciones de seguridad y confort para las composiciones que operan a velocidades reducidas.
+Simultaneously, a minimum specific speed must be defined for curved trajectories, so as to allow the circulation of slow compositions with a cant excess within admissible margins. This configuration significantly improves safety and comfort conditions for compositions operating at reduced speeds.
 
-#### III.1.3 VELOCIDAD DE PROYECTO
+#### III.1.3 PROJECT SPEED
 
-Se define como velocidad de proyecto a la velocidad de referencia fundamental establecida en base a criterios integrados de seguridad operacional y confort del usuario del transporte.
+Project speed is defined as the fundamental reference speed established based on integrated criteria of operational safety and transport user comfort.
 
-La velocidad máxima de proyecto debe ser menor o igual a la velocidad específica mínima registrada en cualquiera de los elementos geométricos que integran el tramo en consideración.
+The maximum project speed must be less than or equal to the minimum specific speed recorded in any of the geometric elements integrating the section under consideration.
 
-Desde una perspectiva económica, es importante señalar que el incremento de la velocidad de proyecto resulta generalmente en aumento de los costos de construcción de la infraestructura y en ampliación del impacto ambiental asociado a la obra de ingeniería.
+From an economic perspective, it is important to point out that increasing the project speed generally results in increased infrastructure construction costs and an expansion of the environmental impact associated with the engineering work.
 
-Es posible que la velocidad nominal de una composición ferroviaria supere la velocidad máxima de proyecto establecida para la línea. En tales circunstancias, se implementan restricciones operacionales que limitan la velocidad real en los tramos afectados.
+It is possible that the nominal speed of a railway composition exceeds the maximum project speed established for the line. In such circumstances, operational restrictions are implemented that limit the actual speed in the affected sections.
 
-La velocidad mínima de proyecto se define igualmente en base a criterios de seguridad y confort, debiendo ser mayor o igual a la máxima velocidad específica mínima requerida en cualquiera de los elementos del tramo.
+The minimum project speed is also defined based on safety and comfort criteria, and must be greater than or equal to the maximum specific speed required in any of the elements of the section.
 
-Es también posible que la velocidad nominal de ciertas composiciones sea inferior a la velocidad mínima de proyecto establecida.
+It is also possible that the nominal speed of certain compositions is lower than the established minimum project speed.
 
-#### III.1.4 VELOCIDAD DE RECORRIDO
+#### III.1.4 JOURNEY SPEED
 
-La velocidad de recorrido se define como la velocidad media que alcanza una composición ferroviaria al recorrer un trayecto determinado, sin considerar en el cálculo las paradas programadas o excepcionales.
+Journey speed is defined as the average speed achieved by a railway composition when traversing a determined route, without considering scheduled or exceptional stops in the calculation.
 
-Cuando la configuración geométrica del trazado incluye numerosas trayectorias curvas con radios reducidos, la velocidad de recorrido resultante será significativamente inferior a las velocidades nominales de las composiciones. Adicionalmente, resulta problemático recuperar el tiempo perdido en estos tramos mediante incrementos de velocidad en los segmentos rectilíneos, ya que la longitud de estos últimos es limitada.
+When the geometric configuration of the alignment includes numerous curved trajectories with reduced radii, the resulting journey speed will be significantly lower than the nominal speeds of the compositions. Additionally, it is problematic to recover the time lost in these sections through speed increases in straight segments, since the length of the latter is limited.
 
 $$
 V_{r}=\frac{\sum_{i=1}^{n} L_{i}}{\sum_{i=1}^{n} \frac{L_{i}}{V_{i}}}
 $$
 
-Un análisis detallado revela que un pequeño incremento de velocidad en el segmento más lento del trayecto puede producir mejoras en el tiempo total de recorrido equivalentes a incrementos más significativos de velocidad en los segmentos más rápidos.
+A detailed analysis reveals that a small speed increase in the slowest segment of the route can produce improvements in total travel time equivalent to more significant speed increases in faster segments.
 
-Seguridad operacional
+**Operational Safety**
 
-La operación segura de composiciones ferroviarias constituye un requisito fundamental e insoslayable en el diseño de cualquier infraestructura ferroviaria. Los criterios de seguridad que deben considerarse en el establecimiento del trazado incluyen:
+The safe operation of railway compositions constitutes a fundamental and unavoidable requirement in the design of any railway infrastructure. Safety criteria to be considered in establishing the alignment include:
 
-1. Garantizar márgenes de seguridad adecuados frente a potenciales fenómenos de descarrilamiento de composiciones
-2. Establecer márgenes de seguridad suficientes contra el fenómeno de vuelco de material rodante en trayectorias curvas
+1. Ensuring adequate safety margins against potential derailment phenomena of compositions
+2. Establishing sufficient safety margins against rolling stock overturning phenomena in curved trajectories
 
-### III.2 COMODIDAD DEL VIAJERO
+### III.2 PASSENGER COMFORT
 
-La comodidad percibida por el pasajero durante el trayecto constituye un indicador fundamental de calidad del servicio ferroviario. El parámetro más comúnmente utilizado para cuantificar objetivamente esta magnitud es la aceleración experimentada por el pasajero. El pasajero experimenta de forma simultánea dos componentes de aceleración de naturaleza diferente:
+The comfort perceived by the passenger during the journey constitutes a fundamental indicator of railway service quality. The parameter most commonly used to objectively quantify this magnitude is the acceleration experienced by the passenger. The passenger simultaneously experiences two acceleration components of different nature:
 
-1. Aceleraciones sin compensar $$(\alpha_{s c})$$ generadas por insuficiencias o excesos de peralte en las trayectorias curvas
-2. Aceleraciones originadas por deficiencias geométricas de la infraestructura $$(\alpha_{d})$$, incluyendo problemas de nivelación longitudinal y transversal, deficiencias de alineación horizontal, características constructivas inadecuadas y movimientos de lazo
+1. Uncompensated accelerations $$(\alpha_{s c})$$ generated by cant deficiencies or excesses in curved trajectories
+2. Accelerations originated by geometric deficiencies of the infrastructure $$(\alpha_{d})$$, including longitudinal and transverse leveling problems, horizontal alignment deficiencies, inadequate constructive characteristics, and hunting movements
 
 $$
 \alpha_{v}=\alpha_{s c}+\alpha_{d}
 $$
 
-El valor máximo admisible para la aceleración total experimentada por el pasajero $$\alpha_{v}$$ depende de múltiples factores contextuales:
+The maximum admissible value for the total acceleration experienced by the passenger $$\alpha_{v}$$ depends on multiple contextual factors:
 
-1. La duración total del trayecto: En desplazamientos de larga duración, el pasajero sufre mayor fatiga y estrés derivados de la exposición sostenida a aceleraciones
-2. La tipología y características del usuario del transporte: Es necesario considerar la capacidad de tolerancia del pasajero con menor resistencia física, incluyendo ancianos y personas con discapacidades
-3. La variabilidad temporal de la aceleración sin compensar: En trayectorias donde experimentan múltiples variaciones bruscas de aceleración, el estrés psicofísico puede incrementarse considerablemente
+1. The total duration of the journey: On long-duration trips, the passenger suffers greater fatigue and stress derived from sustained exposure to accelerations
+2. The typology and characteristics of the transport user: It is necessary to consider the tolerance capacity of passengers with lower physical resistance, including the elderly and people with disabilities
+3. The temporal variability of uncompensated acceleration: In trajectories where multiple abrupt acceleration variations are experienced, psychophysical stress can increase considerably
 
-Es importante señalar que los niveles de aceleración tolerables varían significativamente dependiendo de la postura del pasajero, siendo diferente para pasajeros sentados que para aquellos que viajan de pie.
+It is important to point out that tolerable acceleration levels vary significantly depending on the passenger's posture, being different for seated passengers than for those traveling standing.
 
-También resulta fundamental distinguir entre aceleraciones verticales y aceleraciones transversales, cada una con características de tolerancia distintas.
+It is also fundamental to distinguish between vertical accelerations and transverse accelerations, each with distinct tolerance characteristics.
 
-Aceleraciones verticales: Se admiten magnitudes significativamente menores en comparación con aceleraciones transversales de igual magnitud. Las aceleraciones continuas de baja frecuencia en el plano vertical afectan directamente al sistema vestibular y pueden inducir fenómenos de mareo. La percepción negativa es más intensa cuando la aceleración se dirige hacia arriba comparativamente con direcciones hacia abajo.
+Vertical accelerations: Significantly lower magnitudes are admitted compared to transverse accelerations of equal magnitude. Continuous low-frequency accelerations in the vertical plane directly affect the vestibular system and can induce motion sickness phenomena. Negative perception is more intense when acceleration is directed upwards compared with downward directions.
 
-Aceleraciones transversales: Aunque afectan principalmente a la estabilidad postural del pasajero, generan menor incomodidad comparativamente, a igualdad de magnitud de aceleración, que sus homólogas verticales.
+Transverse accelerations: Although they mainly affect the passenger's postural stability, they generate less discomfort comparatively, at equal acceleration magnitude, than their vertical counterparts.
 
-El marco normativo de la SNCF francesa ha establecido criterios específicos para evaluar la comodidad percibida en relación con aceleraciones transversales:
+The regulatory framework of the French SNCF has established specific criteria to evaluate perceived comfort in relation to transverse accelerations:
 
-| CRITERIOS DE COMODIDAD EN LA SNCF RESPECTO A LA ACELERACIÓN TRANSVERSAL ADMISIBLE POR EL VIAJERO |  |  |  |
+| COMFORT CRITERIA IN SNCF REGARDING ADMISSIBLE TRANSVERSE ACCELERATION FOR PASSENGER |  |  |  |
 | :--- | :--- | :--- | :--- |
-| NIVEL DE COMODIDAD | Aceleración transversal sobre el viajero $$\alpha_{\text{nc, viajero}}\left(\mathrm{m} / \mathrm{s}^{2}\right)$$ |  | Variación de la aceleración transversal sobre el viajero $$\mathrm{d} \alpha_{\mathrm{nc}, \text{viajero}} / \mathrm{dt}\left(\mathrm{m} / \mathrm{s}^{3}\right)$$ |
-|  | SENTADO | DE PIÉ |  |
-| Muy bueno | 1,0 | 0,85 | 0,30 |
-| Bueno | 1,2 | 1,0 | 0,45 |
-| Aceptable | 1,4 | 1,2 | 0,70 |
-| Aceptable excepcionalmente | 1,5 | 1,4 | 0,85 |
+| COMFORT LEVEL | Transverse acceleration on passenger $$\alpha_{\text{nc, passenger}}\left(\mathrm{m} / \mathrm{s}^{2}\right)$$ |  | Transverse acceleration variation on passenger $$\mathrm{d} \alpha_{\mathrm{nc}, \text{passenger}} / \mathrm{dt}\left(\mathrm{m} / \mathrm{s}^{3}\right)$$ |
+|  | SEATED | STANDING |  |
+| Very good | 1.0 | 0.85 | 0.30 |
+| Good | 1.2 | 1.0 | 0.45 |
+| Acceptable | 1.4 | 1.2 | 0.70 |
+| Exceptionally acceptable | 1.5 | 1.4 | 0.85 |
 
-## Capítulo IV Trazado en planta
+## Chapter IV Plan Alignment
 
-El perfil en planta de una línea ferroviaria se desarrolla mediante una sucesión ordenada de alineaciones de diferente tipología geométrica:
-- Curva de transición y
-- Curva circular
+The plan profile of a railway line is developed through an ordered succession of alignments of different geometric typology:
+- Transition curve and
+- Circular curve
 
-Que se representan a través de un eje.
+Which are represented through an axis defining the geometry of the railway line.
+- Single track: the axis coincides with the track axis
+- Double track: the alignment axis coincides with the intermediate axis between both adjacent track axes.
+- Station tracks: the main track axis is used, although in large stations different track bundles are treated separately.
 
-- Vía sencilla: el eje coincide con el eje de la vía
-- Vía doble: el eje del trazado coincide con el eje intermedio entre ambos ejes de las vía contiguas.
-- Vías de estación: se usa el de la vía general, aunque en estaciones grandes se tratan por separado los diferentes haces de vía.
+The plan geometry typically consists of:
+- Straight
+- Transition curve
+- Circular curve
 
-- Recta
-- Curva de transición
-- Curva circular
+In single-rail tracks, this axis coincides with the longitudinal axis of the track. In double-rail infrastructures, the alignment axis corresponds to the intermediate axis between the two geometric axes of the adjacent tracks. In complex railway station contexts, each bundle of tracks is treated as an independent geometric entity, although generally the main track is used as reference.
 
-Que se representan a través de un eje que define la geometría de la línea ferroviaria. En vías de carril sencillo, este eje coincide con el eje longitudinal de la vía. En infraestructuras de carril doble, el eje del trazado se corresponde con el eje intermedio entre los dos ejes geométricos de las vías contiguas. En contextos de estaciones ferroviarias complejas, cada haz de vías es tratado como una entidad geométrica independiente, aunque generalmente se utiliza la vía general como referencia.
+The orientation of the radius of curvature is defined by a sign convention: a positive sign is assigned when the curvature develops to the right with respect to the direction of train advance, and a negative sign when the curvature develops to the left.
 
-La orientación del radio de curvatura se define mediante una convención de signos: se asigna signo positivo cuando la curvatura se desarrolla hacia la derecha respecto al sentido de avance del tren, y signo negativo cuando la curvatura se desarrolla hacia la izquierda.
+Multiple parameters characterizing the geometric definition of the alignment are normatively limited with the purpose of simultaneously meeting operational safety, user comfort, and road infrastructure conservation requirements. The regulations establish a hierarchy of limit values:
 
-Múltiples parámetros que caracterizan la definición geométrica del trazado se encuentran limitados normativamente con el propósito de cumplir simultáneamente con exigencias de seguridad operacional, comodidad del usuario y conservación de la infraestructura vial. La normativa establece una jerarquía de valores límite:
+- Recommended value: It is the value that should not be exceeded during circulation at maximum or minimum speeds within the recommended range. It constitutes the value that should be implemented in the conceptual phase of the project.
+- Normal limit value: It is the value that should not be exceeded when operation occurs under normal conditions at maximum or minimum speeds within the admissible range.
+- Exceptional limit value: Represents a magnitude more unfavorable than the normal limit value, which can be used only when exceptional, duly justified circumstances concur.
 
-- Valor recomendable: Es el valor que no debe ser excedido durante la circulación a velocidades máxima o mínima dentro del rango recomendado. Constituye el valor que debe implementarse en la fase conceptual del proyecto.
-- Valor límite normal: Es el valor que no debe ser superado cuando la operación ocurre en condiciones normales a velocidades máxima o mínima dentro del rango admisible.
-- Valor límite excepcional: Representa una magnitud más desfavorable que el valor límite normal, que puede utilizarse únicamente cuando concurren circunstancias excepcionales debidamente justificadas.
+The recommended value constitutes a reference parameter for ordinary operational exploitation conditions, not being a binding compliance value in all cases.
 
-El valor recomendable constituye un parámetro de referencia para condiciones ordinarias de explotación operacional, no siendo un valor de cumplimiento vinculante en todos los casos.
+The final geometry of the alignment is fundamentally conditioned by the normal and exceptional limit values.
 
-La geometría final del trazado se condiciona fundamentalmente mediante los valores límite normal y excepcional.
+### IV.1 TRANSITION CURVES
 
-### IV.1 CURVAS DE TRANSICION
+Between rectilinear alignments and circular arcs, geometric transition curves are implemented that facilitate the gradual variation of both curvature and implemented cant. At the terminal points of these transition curves, specific mathematical conditions of tangency and curvature continuity with adjacent rectilinear and circular alignments must be satisfied.
 
-Entre alineaciones rectilíneas y arcos circulares se implementan curvas de transición geométrica que facilitan la variación gradual tanto de la curvatura como del peralte implementado. En los puntos terminales de estas curvas de transición deben satisfacerse condiciones matemáticas específicas de tangencia y continuidad de la curvatura con las alineaciones rectilínea y circular adyacentes.
-
-La curva de transición más ampliamente utilizada en la ingeniería de trazados ferroviarios es la clotoide (espiral de Euler), caracterizada por una variación lineal de la curvatura en función de la longitud del arco. La ecuación intrínseca que define matemáticamente la clotoide es:
+The transition curve most widely used in railway alignment engineering is the clothoid (Euler spiral), characterized by a linear variation of curvature as a function of arc length. The intrinsic equation mathematically defining the clothoid is:
 
 $$
 r \cdot s=A^{2} \rightarrow R \cdot L=A^{2}
 $$
 
-Donde:
-- $$R=$$ Radio de curvatura en cualquier punto del arco de transición
-- $$L=$$ Longitud medida del arco de transición desde su punto de inflexión (donde $$R=\infty$$) hasta el punto donde el radio adquiere el valor $$R$$
-- $$A=$$ Parámetro característico de la clotoide específica (con dimensiones de longitud)
+Where:
+- $$R=$$ Radius of curvature at any point of the transition arc
+- $$L=$$ Measured length of the transition arc from its inflection point (where $$R=\infty$$) to the point where the radius acquires value $$R$$
+- $$A=$$ Characteristic parameter of the specific clothoid (with length dimensions)
 
-### IV.2 RADIOS MINIMOS
+### IV.2 MINIMUM RADII
 
-#### IV.2.1 Limitación por comodidad de los viajeros
+#### IV.2.1 Limitation by passenger comfort
 
-Cuando una composición ferroviaria circula a través de una trayectoria curva, la aceleración centrífuga no compensada no debe alcanzar magnitudes que causen incomodidad o malestar excesivo a los pasajeros. Esta consideración requiere la fijación de valores mínimos admisibles para los radios de curvatura implementables en el proyecto.
+When a railway composition circulates through a curved trajectory, the uncompensated centrifugal acceleration must not reach magnitudes causing discomfort or excessive malaise to passengers. This consideration requires fixing minimum admissible values for curvature radii implementable in the project.
 
-Es importante recordar que la aceleración sin compensar se encuentra directamente condicionada por la magnitud del peralte implementado en la curva.
+It is important to remember that uncompensated acceleration is directly conditioned by the magnitude of the cant implemented in the curve.
 
-#### IV.2.2 Limitación por esfuerzos dinámicos transversales sobre la vía
+#### IV.2.2 Limitation by transverse dynamic forces on the track
 
-La infraestructura ferroviaria se somete a esfuerzos dinámicos transversales $$\boldsymbol{H}$$ generados por la circulación de composiciones ferroviarias. Estos esfuerzos pueden descomponerse en dos componentes de naturaleza diferente:
+The railway infrastructure is subjected to transverse dynamic forces $$\boldsymbol{H}$$ generated by the circulation of railway compositions. These forces can be decomposed into two components of different nature:
 
-- Un componente cuasi estático $$H_o$$ originado por la porción no compensada de la fuerza centrífuga, cuya magnitud es proporcional a la insuficiencia de peralte I (o exceso en su caso, medida en mm), al ancho de vía a (en mm) y a la carga por eje Q (en toneladas):
+- A quasi-static component $$H_o$$ originated by the uncompensated portion of centrifugal force, whose magnitude is proportional to cant deficiency I (or excess where applicable, measured in mm), track gauge a (in mm) and axle load Q (in tons):
 
 $$
 H_{o}=\frac{Q \cdot I}{a}
 $$
 
-Se ha observado experimentalmente que la distribución de este esfuerzo no es uniforme entre los dos ejes del mismo bastidor, por lo que habitualmente se aplica un factor de mayoración del 20%:
+It has been experimentally observed that the distribution of this force is not uniform between the two axles of the same bogie frame, so typically a 20% increase factor is applied:
 
 $$
 H_{o}=1,20 \cdot \frac{Q \cdot I}{a}
 $$
 
-- Un componente aleatorio $$\boldsymbol{H}_{\boldsymbol{a}}$$ que depende de características intrínsecas del vehículo tales como su estabilidad dinámica, de parámetros relativos a la calidad geométrica de la infraestructura y de características mecánicas de los componentes. La cuantificación de este término requiere validación experimental. Para vías convencionales, la organización ORE (Office de Recherches et d'Essais) ha establecido la siguiente relación empírica, siendo V la velocidad expresada en km/h:
+- A random component $$\boldsymbol{H}_{\boldsymbol{a}}$$ depending on intrinsic vehicle characteristics such as its dynamic stability, parameters reacting to infrastructure geometric quality, and mechanical characteristics of components. The quantification of this term requires experimental validation. For conventional tracks, the ORE organization (Office de Recherches et d'Essais) has established the following empirical relationship, V being speed expressed in km/h:
 
 $$
 H_{a}=\frac{Q \cdot V}{1.000}
 $$
 
-- Verificación de la resistencia transversal de la vía:
+- Verification of transverse track resistance:
 
-Los esfuerzos laterales totales $$\boldsymbol{H}$$ que genera el paso de un vehículo deben ser inferiores a la resistencia lateral mínima que la vía puede proporcionar:
+Total lateral forces $$\boldsymbol{H}$$ generated by vehicle passage must be less than minimum lateral resistance the track can provide:
 
 $$
 H=H_{o}+H_{a}<R_{L}
 $$
 
-La resistencia lateral de la vía se encuentra influenciada por múltiples factores operacionales e infraestructurales:
+Lateral track resistance is influenced by multiple operational and infrastructural factors:
 
-- Velocidad de circulación del vehículo
-- Magnitud de la carga transportada por eje
-- Condiciones termales (dilatación térmica)
-- Grado de consolidación y estabilización de la vía
-- Características de la estructura de la vía (balasto, sujeciones, traviesas)
+- Vehicle circulation speed
+- Magnitude of transported axle load
+- Thermal conditions (thermal expansion)
+- Degree of track consolidation and stabilization
+- Characteristics of track structure (ballast, fastenings, sleepers)
 
-La determinación del valor de resistencia lateral de la vía debe realizarse mediante validación experimental mediante ensayos in situ sobre la infraestructura. Para líneas de alta velocidad, la formulación propuesta por Prud'Homme establece que el valor mínimo de $$\mathrm{R}_{\mathrm{L}}$$ en kN es:
+Determination of lateral track resistance value must be performed by experimental validation through in situ tests on infrastructure. For high-speed lines, formulation proposed by Prud'Homme establishes that minimum value of $$\mathrm{R}_{\mathrm{L}}$$ in kN is:
 
 $$
 R_{L}=24+0,47^{*} Q
 $$
 
-A modo de ilustración, consideremos una situación hipotética donde la carga por eje es $$Q=170 \mathrm{kN}$$. La resistencia lateral resultante sería $$R_{L}=104 \mathrm{kN}$$. Si la componente aleatoria $$H_{a}$$ no sobrepasa el 60% de esta resistencia (lo que resulta en 62,4 kN), quedan disponibles 41,6 kN para absorber la componente cuasi estática $$H_{0}$$.
+By way of illustration, let us consider a hypothetical situation where axle load is $$Q=170 \mathrm{kN}$$. Resulting lateral resistance would be $$R_{L}=104 \mathrm{kN}$$. If random component $$H_{a}$$ does not exceed 60% of this resistance (resulting in 62.4 kN), 41.6 kN remain available to absorb quasi-static component $$H_{0}$$.
 
 $$
 H_{o}=1,20 \cdot \frac{Q \cdot I}{1.500}=1,20 \cdot \frac{170 \cdot I}{1.500} \leq 41,6 \mathrm{kN} \rightarrow I<305,88 \mathrm{~mm}
 $$
 
+In an analysis of transverse resistance limitations of track, it can be concluded that under normal operational conditions, lateral infrastructure resistance does not constitute limiting factor when determining minimum radii in curves, cant deficiency being invariably less than 305 mm.
 
-En un análisis de las limitaciones de resistencia transversal de la vía, puede concluirse que bajo condiciones operacionales normales la resistencia lateral de la infraestructura no constituye el factor limitante al momento de determinar radios mínimos en curvas, siendo la insuficiencia de peralte invariablemente menor a 305 mm.
+#### IV.2.3 Limitation by continuous welded rail
 
-#### IV.2.3 Limitación por barra larga soldada
+According to ADIF technical regulations regarding installation and maintenance of jointless railway infrastructure, the following minimum admissible radii are specified as function of sleeper typology:
 
-Conforme a las regulaciones técnicas de ADIF relativas a la instalación y mantenimiento de infraestructura ferroviaria sin juntas, se especifican los siguientes radios mínimos admisibles en función de la tipología de traviesa:
+- Sleepers built in monoblock type concrete: Minimum radius of 250 meters.
+- RS biblock type sleepers: Minimum radius of 300 meters.
+- Sleepers manufactured in wood with 16 cm height: Minimum radius of 435 meters.
 
-- Traviesas construidas en hormigón de tipo monobloque: Radio mínimo de 250 metros.
-- Traviesas tipo bibloque RS: Radio mínimo de 300 metros.
-- Traviesas fabricadas en madera con altura de 16 centímetros: Radio mínimo de 435 metros.
+In tunnel zones, RS biblock sleepers cannot be used due to extreme humidity environment causing deterioration by oxidation of metal tie bars. Consequently, in these scenarios wood sleepers or monoblock sleepers must be implemented, respecting corresponding minimum radii.
 
-En zonas de túneles no pueden emplearse traviesas bibloque RS debido al ambiente de humedad extrema que causa deterioro por oxidación de los arriostradores metálicos. Consecuentemente, en estos escenarios deben implementarse traviesas de madera o traviesas monobloque, respetando los radios mínimos correspondientes.
+Although presence of such small radii is unusual, certain railway lines of Spanish system have historically incorporated radii less than 250 meters.
 
-Aunque la presencia de radios tan pequeños es inusual, determinadas líneas ferroviarias del sistema español han históricamente incorporado radios inferiores a 250 metros.
+#### IV.2.4 Limitation in shunting tracks
 
-#### IV.2.4 Limitación en vías de maniobra
+In infrastructures intended exclusively for shunting operations where circulation speeds are very reduced, it is viable to adopt alignment configurations with minimum radii up to 160 meters for RENFE gauge, dispensing with need to implement geometric transition curves.
 
-En infraestructuras destinadas exclusivamente a operaciones de maniobra donde las velocidades de circulación son muy reducidas, es viable adoptar configuraciones de trazado con radios mínimos de hasta 160 metros para ancho RENFE, prescindiendo de la necesidad de implementar curvas de transición geométrica.
+Magnitude of admissible minimum radius reduces proportionally as available track gauge decreases. In alignments incorporating rapid alternation of curves and reverse curves with very reduced radii, it is fundamental to establish adequately dimensioned intermediate rectilinear alignments to avoid locking of defense buffer devices between contiguous vehicles, which could cause derailment phenomena.
 
-La magnitud del radio mínimo admisible se reduce proporcionalmente a medida que disminuye el ancho de vía disponible. En trazados que incorporan alternancia rápida de curvas y contracurvas con radios muy reducidos, es fundamental establecer alineaciones rectilíneas intermedias adecuadamente dimensionadas para evitar el enganche de los dispositivos de tope de defensa entre vehículos contiguos, lo que podría provocar fenómenos de descarrilamiento.
+- Regulations:
+a) Technical specification for interoperability relating to infrastructure subsystem of trans-European high-speed rail system:
 
-- Normativa:
-a) Especificación técnica de interoperabilidad relativa al subsistema infraestructura del sistema ferroviario transeuropeo de alta velocidad:
+On tracks where only low-speed shunting is performed (station tracks and sidings, depot and stabling tracks), design minimum radius of tracks must not be less than $$150 \boldsymbol{m}$$ for isolated curve. In operation, taking into account alignment variations that may occur, effective minimum radius must not be less than 125 m. These limit radii are defined for UIC track gauge.
 
-En las vías donde sólo se realizan maniobras a pequeña velocidad (vías de estación y vías de apartado, vías de depósito y de estacionamiento), el radio mínimo de diseño de las vías no debe ser inferior a $$150 \boldsymbol{m}$$ para una curva aislada. En explotación, teniendo en cuenta las variaciones de trazado que puedan producirse, el radio mínimo efectivo no debe ser inferior a 125 m . Estos radios límite se definen para ancho de vía UIC.
+### IV.3 MINIMUM LENGTH OF RECTILINEAR AND CIRCULAR ALIGNMENTS
 
-### IV.3 LONGITUD MINIMA DE ALINEACIONES RECTAS Y CIRCULARES
+Minimum lengths are established in circular curves and in rectilinear alignments between clothoids, to allow sufficient damping of vehicle body roll.
 
-Se establecen longitudes mínimas en curvas circulares y en alineaciones rectas entre clotoides, para permitir una amortiguación suficiente del balanceo de la caja de los vehículos.
+- ADIF Regulations: Limitations established for constant curvature alignments are as follows:
 
-- Normativa:
-a) Normativa ADIF: Las limitaciones establecidas para las alineaciones de curvatura constante son las siguientes:
+Minimum length between opposite sense curves:
 
-Longitud mínima entre curvas de sentido opuesto:
+- If $$\vee>100 \mathrm{~km} / \mathrm{h}$$, minimum length ranges between $$0,4^{*} \mathrm{v}$$ and $$0,55^{*} \mathrm{v}$$. Exceptionally can reach $$\mathrm{L}_{\text {Min }}= 0,35^{*} \mathrm{v}$$
+- If $$\mathrm{v}<100 \mathrm{~km} / \mathrm{h}: \mathrm{L}_{\text {Min }}=\operatorname{Max}\left(\mathrm{v}^{2} / 500 ; 0,1^{*} \mathrm{v}\right)$$
 
-- Si $$\vee>100 \mathrm{~km} / \mathrm{h}$$, la longitud mínima oscila entre $$0,4^{*} \mathrm{v}$$ y $$0,55^{*} \mathrm{v}$$. Excepcionalmente puede llegarse a $$\mathrm{L}_{\text {Mín }}= 0,35^{*} \mathrm{v}$$
-- Si $$\mathrm{v}<100 \mathrm{~km} / \mathrm{h}: \mathrm{L}_{\text {Min }}=\operatorname{Max}\left(\mathrm{v}^{2} / 500 ; 0,1^{*} \mathrm{v}\right)$$
+Minimum length between same sense curves: Zero.
 
-Longitud mínima entre curvas del mismo sentido: Cero.
-
-a) Normativa ADIF: Las limitaciones establecidas para las alineaciones de curvatura constante son las siguientes:
-
-| MÍNIMA LONGITUD DE ALINEACIONES RECTAS O CIRCULARES (m) - N.R.V. 0-2-0.0. |  |  |  |  |
+| MINIMUM LENGTH OF RECTILINEAR OR CIRCULAR ALIGNMENTS (m) - N.R.V. 0-2-0.0. |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
-| VELOCIDAD DE PROYECTO ( $$\mathrm{Km} / \mathrm{h}$$ ) | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<v=200$$ | $$200<v=250$$ |
-| NUEVAS LÍNEAS Y DESDOBLAMIENTO DE LÍNEAS ACTUALES CON MODIFICACIÓN DEL TRAZADO | NORMAL: 80 MÍNIMA: 60 | NORMAL: 90 MÍNIMA: 65 | NORMAL: 110 MÍNIMA: 80 | NORMAL: 140 MÍNIMA: 100 |
-| MEJORA DE LÍNEAS ACTUALES POR OBRAS (Renovaciones y rehabilitaciones de vía) | 70 | 80 | 100 | - |
+| PROJECT SPEED ( $$\mathrm{Km} / \mathrm{h}$$ ) | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<v=200$$ | $$200<v=250$$ |
+| NEW LINES AND DUPLICATION OF CURRENT LINES WITH ALIGNMENT MODIFICATION | NORMAL: 80 MINIMUM: 60 | NORMAL: 90 MINIMUM: 65 | NORMAL: 110 MINIMUM: 80 | NORMAL: 140 MINIMUM: 100 |
+| IMPROVEMENT OF CURRENT LINES BY WORKS (Track renovations and rehabilitations) | 70 | 80 | 100 | - |
 
-| VELOCIDAD DE PROYECTO (Km/h) | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=180$$ | $$180<\mathrm{v}=200$$ |
+| PROJECT SPEED (Km/h) | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=180$$ | $$180<\mathrm{v}=200$$ |
 | :--- | :---: | :---: | :---: | :---: |
-| ADAPTACIÓN DE LÍNEAS ACTUALES PARA <br> CIRCULACIÓN DE TRENES TIPO A SIN <br> LIMITACIÓN DE VELOCIDAD | 56 | 64 | 72 | 80 |
+| ADAPTATION OF CURRENT LINES FOR TYPE A TRAIN CIRCULATION WITHOUT SPEED LIMITATION | 56 | 64 | 72 | 80 |
 
-## Capítulo V Trazado en alzado
+## Chapter V Vertical Alignment
 
-En la definición del trazado en alzado se considerarán prioritarias la seguridad en la circulación y la comodidad de los viajeros.
+In definition of vertical alignment, operational safety and passenger comfort will be considered priority.
 
-El perfil longitudinal se define mediante los dos siguientes tipos de rasante:
+Longitudinal profile is defined by following two types of gradient line:
 
-- Rasante uniforme, en la que la inclinación $$i=d z / d s$$ es constante. La rasante uniforme es una rampa si la inclinación es creciente con el avance, y es una pendiente si disminuye.
-- Acuerdo vertical, en el que se realiza progresivamente un cambio de inclinación. El tipo de acuerdo a utilizar es la parábola de segundo grado de eje vertical.
+- Uniform gradient, in which inclination $$i=d z / d s$$ is constant. Uniform gradient is a ramp (ascent) if inclination is increasing with advance, and is a slope (descent) if it decreases.
+- Vertical curve, in which inclination change is performed progressively. Type of curve to use is second degree parabola with vertical axis.
 
-Dado que las pendientes admisibles en ferrocarriles son pequeñas, se expresan siempre en tanto por mil ‰.
+Given that admissible slopes in railways are small, they are always expressed in per thousand ‰.
 
+Parabolic vertical curve equation and characteristic parameters:
 
-Ecuación del acuerdo vertical parabólico y parámetros característicos:
+Parabolic vertical curve equation: $$\mathrm{z}=\mathrm{A}+\mathrm{B}^{*} \mathrm{~s}+\mathrm{C}^{*} \cdot \mathrm{~s}^{2}$$
 
-Ecuación del acuerdo vertical parabólico: $$\mathrm{z}=\mathrm{A}+\mathrm{B}^{*} \mathrm{~s}+\mathrm{C}^{*} \cdot \mathrm{~s}^{2}$$
-
-Imponiendo las condiciones de tangencia a la entrada y a la salida de la parábola se obtiene:
+Imposing tangency conditions at entry and exit of parabola obtained:
 
 $$
 \frac{d z}{d s}=B+2 \cdot C \cdot s=i \quad\left\{\begin{array}{l}
@@ -745,258 +725,256 @@ C=\frac{i_{E}-i_{S}}{2 \cdot\left(s_{T E}-s_{T S}\right)}
 \end{array}\right.
 $$
 
-Valores característicos del acuerdo vertical:
+Characteristic values of vertical curve:
 
-- Longitud del acuerdo: $$\mathrm{L}=\mathrm{S}_{\mathrm{TS}}-\mathrm{S}_{\mathrm{TE}}$$
-- Variación de inclinación de la rasante en el acuerdo: $$\theta=\mathrm{i}_{\mathrm{S}}-\mathrm{i}_{\mathrm{E}}$$
-- Parámetro del acuerdo vertical: $$\mathrm{K}_{\mathrm{V}}=\mathrm{L} / \theta$$
-- Si $$\mathrm{i}_{\mathrm{E}}$$, $$\mathrm{i}_{\mathrm{S}}$$ y $$\theta$$ se miden en \%o entonces: $$\mathrm{K}_{\mathrm{V}}=1000^{*} \mathrm{~L} / \theta$$
-$$\mathrm{K}_{\mathrm{v}}$$ es positivo en un acuerdo cóncavo, y negativo en uno convexo.
+- Curve length: $$\mathrm{L}=\mathrm{S}_{\mathrm{TS}}-\mathrm{S}_{\mathrm{TE}}$$
+- Variation of gradient inclination in curve: $$\theta=\mathrm{i}_{\mathrm{S}}-\mathrm{i}_{\mathrm{E}}$$
+- Vertical curve parameter: $$\mathrm{K}_{\mathrm{V}}=\mathrm{L} / \theta$$
+- If $$\mathrm{i}_{\mathrm{E}}$$, $$\mathrm{i}_{\mathrm{S}}$$ and $$\theta$$ are measured in ‰ then: $$\mathrm{K}_{\mathrm{V}}=1000^{*} \mathrm{~L} / \theta$$
+$$\mathrm{K}_{\mathrm{v}}$$ is positive in concave curve, and negative in convex one.
 
-Propiedades del acuerdo vertical parabólico:
+Properties of parabolic vertical curve:
 ![3f1cef6dba25769ab878c652668ed18c_MD5]({{ site.baseurl }}/assets/images/3f1cef6dba25769ab878c652668ed18c_MD5.webp)
 
-La distribución geométrica de los puntos de tangencia de entrada y salida respecto del vértice del acuerdo vertical es completamente simétrica, cumpliéndose que: $$T = L/2$$.
+Geometric distribution of tangency points of entry and exit with respect to curve vertex is completely symmetric, fulfilling: $$T = L/2$$.
 
-### V.1 INCLINACIÓN MÁXIMA DE LA RASANTE
+### V.1 MAXIMUM GRADIENT INCLINATION
 
-La selección de la pendiente máxima a implementar en la rasante requiere consideración sistemática de diversos factores técnicos y operacionales:
+Selection of maximum slope to implement in gradient requires systematic consideration of various technical and operational factors:
 
-- Limitaciones por adherencia rueda-carril: El coeficiente de fricción disponible en la interfaz rueda-carril establece un límite práctico en la magnitud de la pendiente del orden de $$70\%$$.
-- Capacidades técnicas del material rodante ferroviario:
-  - Para composiciones de transporte de viajeros: Bajo circunstancias excepcionales pueden tolerarse rampas de hasta $$50\%$$.
-  - Para composiciones de transporte de carga: La inclinación no debe exceder $$20\%$$.
-- Naturaleza y composición del tráfico que opera la línea (tráfico especializado versus tráfico heterogéneo).
-- Capacidad de arranque en rampa, que se manifiesta en distancias muy cortas (longitud típica de las composiciones).
-- Capacidad de frenado de emergencia, que interviene en distancias mayores, típicamente en el rango de 4 a 6 km para operaciones de alta velocidad.
+- Wheel-rail adhesion limitations: Friction coefficient available at wheel-rail interface establishes practical limit in magnitude of slope of order of 70‰.
+- Technical capabilities of railway rolling stock:
+  - For passenger transport compositions: Under exceptional circumstances ramps up to 50‰ can be tolerated.
+  - For freight transport compositions: Inclination should not exceed 20‰.
+- Nature and composition of traffic operating line (specialized traffic versus heterogeneous traffic).
+- Starting capacity on ramp, manifesting in very short distances (typical length of compositions).
+- Emergency braking capacity, intervening in greater distances, typically in range of 4 to 6 km for high speed operations.
 
-Consideraciones especiales para vías de estacionamiento de composiciones:
+Special considerations for vehicle stabling tracks:
 
-La configuración longitudinal ideal en infraestructuras de estación es la horizontal, ya que esta geometría elimina complicaciones operacionales asociadas al control de composiciones paradas.
+Ideal longitudinal configuration in station infrastructures is horizontal, as this geometry eliminates operational complications associated with control of stopped compositions.
 
-Si fuera imposible implementar una rasante perfectamente horizontal, debe optarse por una rasante uniforme con pendientes limitadas entre $$1,5$$ y $$3\%$$. En caso necesario de implementar acuerdos verticales, el parámetro $$K_V$$ debe ser superior a 5.000 m.
+If impossible to implement perfectly horizontal gradient, uniform gradient with slopes limited between 1.5 and 3‰ must be chosen. In case necessary to implement vertical curves, parameter Kv must be greater than 5,000 m.
 
-De conformidad con la Especificación Técnica de Interoperabilidad relativa a infraestructuras del sistema ferroviario transeuropeo de alta velocidad, las vías de apartadero dedicadas al estacionamiento de composiciones no deben tener pendientes que excedan $$2\%$$.
+In accordance with Technical Specification for Interoperability relating to infrastructures of trans-European high-speed rail system, siding tracks dedicated to stabling compositions must not have slopes exceeding 2.5 mm/m.
 
-Estas vías de estacionamiento deben estar dimensionadas para acomodar composiciones ferroviarias de hasta 400 metros de longitud.
+These stabling tracks must be dimensioned to accommodate railway compositions up to 400 meters in length.
 
-Limitaciones por rampas de longitud extendida:
+Limitations by extended length ramps:
 
-Resulta técnicamente indeseable la incorporación de tramos extensos caracterizados por pendientes elevadas continuas, ya que estas configuraciones generan:
+It is technically undesirable to incorporate extensive sections characterized by continuous high slopes, as these configurations generate:
 
-- Reducción significativa de las velocidades de circulación de composiciones durante el ascenso.
-- Incremento de distancias de frenado durante el descenso, lo que impacta negativamente en la seguridad operacional.
-- Aumento de costos de explotación derivados de mayor consumo energético y ampliación de tiempos de recorrido.
-- Incremento de costos de mantenimiento y conservación de la infraestructura vial.
+- Significant reduction of circulation speeds of compositions during ascent.
+- Increase of braking distances during descent, negatively impacting operational safety.
+- Increase of operating costs derived from greater energy consumption and expansion of travel times.
+- Increase of maintenance and conservation costs of road infrastructure.
 
-INCLINACIÓN MÁXIMA DE LA RASANTE
+MAXIMUM GRADIENT INCLINATION
 
-- Normativa:
-a) Normativa ADIF. Los valores de rampas máximas establecidos por esta norma son:
+- Regulations:
+a) ADIF Regulations. Maximum ramp values established by this standard are:
 
-| RAMPAS MÁXIMAS (\%) - N.R.V. 0-2-0.0. |  |  |  |  |  |
+| MAXIMUM RAMPS (\%) - N.R.V. 0-2-0.0. |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| VELOCIDAD DE PROYECTO ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
-| NUEVAS LÍNEAS Y DESDOBLAMIENTO DE LÍNEAS ACTUALES CON MODIFICACIÓN DEL TRAZADO | NORMAL | 20 | 15 | 12,5 | 12,5 |
-|  | EXCEPCIONA L | - | 20 | 15 | - |
+| PROJECT SPEED ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
+| NEW LINES AND DUPLICATION OF CURRENT LINES WITH ALIGNMENT MODIFICATION | NORMAL | 20 | 15 | 12.5 | 12.5 |
+|  | EXCEPTIONAL | - | 20 | 15 | - |
 
-- TRÁFICO PURO DE VIAJEROS PARA $$\mathrm{V}>250 \mathrm{~km} / \mathrm{h}$$ : RAMPA MÁXIMA DEL $$35 \%$$. 
-- ESTACIONES: RAMPA MÁXIMA DEL $$2,5 \%$$.
+- PURE PASSENGER TRAFFIC FOR $$\mathrm{V}>250 \mathrm{~km} / \mathrm{h}$$ : MAXIMUM RAMP OF $$35 \%$$.
+- STATIONS: MAXIMUM RAMP OF $$2,5 \%$$.
 
-**Normativa:**
+**Regulations:**
 
-b) Especificación Técnica de Interoperabilidad relativa al subsistema infraestructura del sistema ferroviario transeuropeo de alta velocidad:
+b) Technical Specification for Interoperability relating to infrastructure subsystem of trans-European high-speed rail system:
 
-El valor máximo de rampas y pendientes podrá alcanzar el $$35 \%$$, siempre que se respeten las condiciones siguientes:
+Maximum value of ramps and slopes may reach $$35 \%$$, provided following conditions are respected:
 
-- La pendiente media de la rasante en una longitud de 10 km deberá ser menor o igual a $$25 \%$$.
-- La longitud máxima en rampa o pendiente continua del $$35 \%$$ no deberá superar 6.000 m .
+- Average gradient slope over length of 10 km must be less than or equal to $$25 \%$$.
+- Maximum length on continuous ramp or slope of $$35 \%$$ must not exceed 6,000 m .
 c) IOS-98:
 
-Las rampas máximas admisibles en túneles son:
+Maximum admissible ramps in tunnels are:
 
-- Líneas de tráfico mixto: $$12,5 \%$$.
-- Líneas de tráfico exclusivo de viajeros: $$30 \%$$.
+- Mixed traffic lines: $$12,5 \%$$.
+- Exclusive passenger traffic lines: $$30 \%$$.
 
-### V.2 ACELERACION ADMISIBLE EN ACUERDOS VERTICALES
+### V.2 ADMISSIBLE ACCELERATION IN VERTICAL CURVES
 
-Cuando un vehículo recorre a velocidad "v" un acuerdo vertical de radio $$\mathrm{R}_{\mathrm{V}}$$, se ve sometido a una aceleración centrífuga:
-
-$$
-a_{v}=\frac{v^{2}}{R_{v}}
-$$
-
-Para respetar la comodidad del viajero esta aceleración se limita a valores que oscilan entre el $$\mathbf{1}$$ y el $$\mathbf{4 \%}$$ de " $$\boldsymbol{g}$$ " (valor de la gravedad).
-
-### V.2 ACELERACION ADMISIBLE EN ACUERDOS VERTICALES
-
-Cuando una composición ferroviaria transita a velocidad v a través de un acuerdo vertical de radio $$R_V$$, se ve sometida a una aceleración centrífuga vertical caracterizada por:
+When a vehicle travels at speed 'v' a vertical curve of radius Rv, it is subjected to centrifugal acceleration:
 
 $$
 a_{v}=\frac{v^{2}}{R_{v}}
 $$
 
-Para asegurar el cumplimiento de criterios de confort del pasajero, esta aceleración vertical debe ser limitada a valores que típicamente oscilan entre el 1 y el 4% de la aceleración gravitatoria (g).
+To respect passenger comfort this acceleration is limited to values ranging between 1 and 4% of 'g' (gravity value).
 
-El valor del radio $$R_V$$ tiene implicaciones significativas en la configuración de las explanaciones y en los costos de construcción. La administración francesa SNCF realizó investigaciones específicas para el proyecto TGV Sur-Este, procediendo a ensayos de simulación utilizando aviones en vuelo.
+When a railway composition transits at speed v through a vertical curve of radius Rv, it is subjected to a vertical centrifugal acceleration characterized by:
 
-Estos ensayos experimentales fueron realizados por el Centro de Ensayos en Vuelo de Brétigny, utilizando un avión que en vuelo programado describía trayectorias sinusoidales verticales controladas. Un grupo de pasajeros anotaba sus percepciones subjetivas en función de la magnitud de las aceleraciones y su espaciamiento temporal. Los pasajeros más sensibles reportaron no percibir aceleraciones de $$0,045 \cdot g$$, mientras que aceleraciones de $$0,06 \cdot g$$ eran claramente percibidas, especialmente en acuerdos de configuración cóncava.
+$$
+a_{v}=\frac{v^{2}}{R_{v}}
+$$
 
-Basándose en estos ensayos experimentales, la SNCF estableció los siguientes límites normativos para operaciones de alta velocidad:
+To ensure compliance with passenger comfort criteria, this vertical acceleration must be limited to values typically oscillating between 1 and 4% of gravitational acceleration (g).
 
-|  | Valor normal | Valor excepcional |
+Value of radius Rv has significant implications on configuration of earthworks and construction costs. French administration SNCF conducted specific research for TGV South-East project, proceeding to simulation tests using aircraft in flight.
+
+These experimental tests were performed by Brétigny Flight Test Center, using an aircraft that in scheduled flight described controlled vertical sinusoidal trajectories. A group of passengers noted their subjective perceptions as function of acceleration magnitude and temporal spacing. Most sensitive passengers reported not perceiving accelerations of 0.045 g, while accelerations of 0.06 g were clearly perceived, especially in concave configuration curves.
+
+Based on these experimental tests, SNCF established following normative limits for high speed operations:
+
+|  | Normal value | Exceptional value |
 | :---: | :---: | :---: |
-| Acuerdo cóncavo | $$a_v = 0,045 \, g$$ | $$a_v = 0,06 \, g$$ |
-| Acuerdo convexo | $$a_v = 0,045 \, g$$ | $$a_v = 0,05 \, g$$ |
+| Concave curve | $$a_v = 0,045 \, g$$ | $$a_v = 0,06 \, g$$ |
+| Convex curve | $$a_v = 0,045 \, g$$ | $$a_v = 0,05 \, g$$ |
 
-Estos límites de aceleración se traducen en los siguientes radios de acuerdo vertical mínimos:
+These acceleration limits translate into following minimum vertical curve radii:
 
-|  |  | Valor normal | Valor excepcional |
+|  |  | Normal value | Exceptional value |
 | :--- | :--- | :--- | :--- |
-| $$V = 300 \, \text{km/h}$$ | Acuerdo cóncavo | $$R_V = 16.000 \, \text{m}$$ | $$R_V = 12.000 \, \text{m}$$ |
-|  | Acuerdo convexo | $$R_V = 16.000 \, \text{m}$$ | $$R_V = 14.000 \, \text{m}$$ |
-| $$V = 350 \, \text{km/h}$$ | Acuerdo cóncavo | $$R_V = 19.000 \, \text{m}$$ | $$R_V = 18.500 \, \text{m}$$ |
-|  | Acuerdo convexo | $$R_V = 19.000 \, \text{m}$$ | $$R_V = 21.000 \, \text{m}$$ |
+| $$V = 300 \, \text{km/h}$$ | Concave curve | $$R_V = 16.000 \, \text{m}$$ | $$R_V = 12.000 \, \text{m}$$ |
+|  | Convex curve | $$R_V = 16.000 \, \text{m}$$ | $$R_V = 14.000 \, \text{m}$$ |
+| $$V = 350 \, \text{km/h}$$ | Concave curve | $$R_V = 19.000 \, \text{m}$$ | $$R_V = 18.500 \, \text{m}$$ |
+|  | Convex curve | $$R_V = 19.000 \, \text{m}$$ | $$R_V = 21.000 \, \text{m}$$ |
 
-El límite de aceleración de $$0,22 \, \text{m/s}^2$$ establecido en la norma europea ENV 13803-1 parece representar un valor excesivamente restrictivo desde la perspectiva de la práctica operacional.
+Acceleration limit of $$0,22 \, \text{m/s}^2$$ established in European standard ENV 13803-1 seems to represent excessively restrictive value from perspective of operational practice.
 
-Un valor de $$0,3 \, \text{m/s}^2$$ constituye un mínimo razonable, considerando que la línea francesa TGV Norte de Europa, proyectada para $$350 \, \text{km/h}$$, implementa como valor normal un radio de acuerdo de 25.000 m, correspondiente a una aceleración de $$0,38 \, \text{m/s}^2$$.
+A value of $$0,3 \, \text{m/s}^2$$ constitutes reasonable minimum, considering that French TGV North of Europe line, projected for 350 km/h, implements as normal value a curve radius of 25,000 m, corresponding to acceleration of $$0,38 \, \text{m/s}^2$$.
 
-- Normativa:
-a) Normativa ADIF. La máxima aceleración admisible en acuerdos verticales que fija la norma es:
+- ADIF Regulations. Maximum admissible acceleration in vertical curves fixed by standard is:
 
-| MÁXIMA ACELERACIÓN ADMISIBLE EN ACUERDOS VERTICALES $$\mathrm{a}_{\mathrm{v}} \mathbf{( m} \mathbf{s}^{\mathbf{2}} \boldsymbol{)}$$ - N.R.V. 0-2-0.0 |  |  |  |  |  |
+| MAXIMUM ADMISSIBLE ACCELERATION IN VERTICAL CURVES $$\mathrm{a}_{\mathrm{v}} \mathbf{( m} \mathbf{s}^{\mathbf{2}} \boldsymbol{)}$$ - N.R.V. 0-2-0.0 |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| VELOCIDAD DE PROYECTO ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
-| NUEVAS LÍNEAS Y DESDOBLAMIENTO DE LÍNEAS ACTUALES CON MODIFICACIÓN DEL TRAZADO | NORMAL | $$\leq 0,30$$ | $$\leq 0,30$$ | $$\leq 0,20$$ | $$\leq 0,20$$ |
-|  | EXCEPCIONAL | 0,40 | 0,40 | 0,30 | 0,30 |
+| PROJECT SPEED ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
+| NEW LINES AND DUPLICATION OF CURRENT LINES WITH ALIGNMENT MODIFICATION | NORMAL | $$\leq 0,30$$ | $$\leq 0,30$$ | $$\leq 0,20$$ | $$\leq 0,20$$ |
+|  | EXCEPTIONAL | 0,40 | 0,40 | 0,30 | 0,30 |
 
 
-Comentarios: Si el acuerdo vertical coincide con una curva en planta: $$\mathrm{a}_{\mathrm{v}} \leq 0,20$$ 
+Comments: If vertical curve coincides with plan curve: $$\mathrm{a}_{\mathrm{v}} \leq 0,20$$
 
-| VELOCIDAD DE PROYECTO ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
+| PROJECT SPEED ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| MEJORA DE LÍNEAS ACTUALES POR OBRAS (Renovaciones y rehabilitaciones de vía) | NORMAL | $$\leq 0,30$$ | $$\leq 0,30$$ | $$\leq 0,30$$ | - |
-|  | EXCEPCIONAL | 0,45 | 0,45 | 0,40 | - |
+| IMPROVEMENT OF CURRENT LINES BY WORKS (Track renovations and rehabilitations) | NORMAL | $$\leq 0,30$$ | $$\leq 0,30$$ | $$\leq 0,30$$ | - |
+|  | EXCEPTIONAL | 0,45 | 0,45 | 0,40 | - |
 
 
-Comentarios: Máximo en acuerdos convexos: 0,40 <br> Si el acuerdo vertical coincide con una curva en planta: $$\mathrm{a}_{\mathrm{v}} \leq 0,20$$
+Comments: Maximum in convex curves: 0.40 <br> If vertical curve coincides with plan curve: $$\mathrm{a}_{\mathrm{v}} \leq 0,20$$
 
-| VELOCIDAD DE PROYECTO (Km/h) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=180$$ | $$180<\mathrm{v}=200$$ |
+| PROJECT SPEED (Km/h) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=180$$ | $$180<\mathrm{v}=200$$ |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| ADAPTACIÓN DE LÍNEAS ACTUALES <br> PARA CIRCULACIÓN DE TRENES TIPO A <br> SIN LIMITACIÓN DE VELOCIDAD | CÓNCAVOS: | 0,50 | 0,50 | 0,45 | 0,45 |
-|  | CONVEXOS: | 0,40 | 0,40 | 0,40 | 0,40 |
+| ADAPTATION OF CURRENT LINES <br> FOR TYPE A TRAIN CIRCULATION <br> WITHOUT SPEED LIMITATION | CONCAVE: | 0,50 | 0,50 | 0,45 | 0,45 |
+|  | CONVEX: | 0,40 | 0,40 | 0,40 | 0,40 |
 
-- Normativa:
-- a) Normativa ADIF. Como consecuencia, resultan los siguientes parámetros mínimos para los acuerdos verticales:
+- Regulations:
+- a) ADIF Regulations. As consequence, following minimum parameters result for vertical curves:
 
-| RADIO MINIMO DEL ACUERDO VERTICAL $$\mathbf{R}_{\mathbf{V}}(\mathbf{m})$$ - N.R.V. 0-2-0.0. |  |  |  |  |  |
+| MINIMUM VERTICAL CURVE RADIUS $$\mathbf{R}_{\mathbf{V}}(\mathbf{m})$$ - N.R.V. 0-2-0.0. |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| VELOCIDAD DE PROYECTO ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
-| NUEVAS LÍNEAS Y DESDOBLAMIENTO DE LÍNEAS ACTUALES CON MODIFICACIÓN DEL TRAZADO | NORMAL | 5.100 | 6.600 | 16.000 | 24.000 |
-|  | EXCEPCIONA L | 3.800 | 4.900 | 10.000 | 16.000 |
-| MEJORA DE LÍNEAS ACTUALES POR OBRAS (Renovaciones y rehabilitaciones de vía) | NORMAL | 5.100 | 6.600 | 10.000 | - |
-|  | EXCEPCIONA L | 3.400 | 4.400 | 7.700 | - |
+| PROJECT SPEED ( $$\mathrm{Km} / \mathrm{h}$$ ) |  | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
+| NEW LINES AND DUPLICATION OF CURRENT LINES WITH ALIGNMENT MODIFICATION | NORMAL | 5,100 | 6,600 | 16,000 | 24,000 |
+|  | EXCEPTIONAL | 3,800 | 4,900 | 10,000 | 16,000 |
+| IMPROVEMENT OF CURRENT LINES BY WORKS (Track renovations and rehabilitations) | NORMAL | 5,100 | 6,600 | 10,000 | - |
+|  | EXCEPTIONAL | 3,400 | 4,400 | 7,700 | - |
 
-PARÁMETRO MÍNIMO EN ACUERDOS CONVEXOS: 3.000 m PARÁMETRO MÍNIMO EN ACUERDOS CÓNCAVOS: 2.000 m SI EL ACUERDO VERTICAL COINCIDE CON UNA CURVA EN PLANTA EL PARÁMETRO MÍNIMO SERÁ DE 5.000 m 
+MINIMUM PARAMETER IN CONVEX CURVES: 3,000 m
+MINIMUM PARAMETER IN CONCAVE CURVES: 2,000 m
+IF VERTICAL CURVE COINCIDES WITH PLAN CURVE MINIMUM PARAMETER WILL BE 5,000 m
 
-| VELOCIDAD DE PROYECTO $$(\mathrm{Km} / \mathrm{h})$$ | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=180$$ | $$180<\mathrm{v}=200$$ |
+| PROJECT SPEED $$(\mathrm{Km} / \mathrm{h})$$ | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=180$$ | $$180<\mathrm{v}=200$$ |
 | :--- | :---: | :---: | :---: | :---: |
-| ADAPTACIÓN DE LÍNEAS ACTUALES PARA CIRCULACIÓN <br> DE TRENES TIPO A SIN LIMITACIÓN DE VELOCIDAD | 3.100 | 4.000 | 5.000 | 6.900 |
+| ADAPTATION OF CURRENT LINES FOR CIRCULATION <br> OF TYPE A TRAINS WITHOUT SPEED LIMITATION | 3,100 | 4,000 | 5,000 | 6,900 |
 
-- Normativa:
-b) Norma europea ENV 13803-1
+- Regulations:
+b) European Standard ENV 13803-1
 
-| RADIO MINIMO DEL ACUERDO VERTICAL $$\mathrm{R}_{\mathrm{v}}(\mathrm{m})$$ - ENV 13803-1 |  |  |
+| MINIMUM VERTICAL CURVE RADIUS $$\mathrm{R}_{\mathrm{v}}(\mathrm{m})$$ - ENV 13803-1 |  |  |
 | :--- | :--- | :--- |
-| Categorías de tráfico | Valores máximos recomendados ( $$\mathrm{V}_{\text {Máx }}$$ en km/h) | Valores máximos permitidos ( $$\mathrm{V}_{\text {Máx }}$$ en $$\mathrm{km} / \mathrm{h}$$ ) |
-| I: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 80 y $$120 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ (2) | $$0,25 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ (3) |
-| lia: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 120 y $$160 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ | $$0,25 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ (3) |
-| lib: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 160 y $$200 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ | $$0,25 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ (3) |
-| III: Líneas de tráfico mixto, con trenes de pasajeros con velocidades máximas comprendidas entre 200 y $$300 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ | $$0,175 \cdot \bigvee_{\text {Máx }}{ }^{2}$$ (1) |
-| IV: Líneas de tráfico mixto, con trenes de pasajeros con velocidades hasta $$230 \mathrm{Km} / \mathrm{h}$$ (o $$250 \mathrm{Km} / \mathrm{h}$$ en las mejores líneas) con vehículos incorporando características técnicas especiales. | $$0,35 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ | $$0,25 \cdot \bigvee_{\text {Máx }^{2}}{ }^{2}$$ (3) |
-| V: Líneas de tráfico de viajeros con velocidades máximas comprendidas entre 250 y $$300 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Máx }}{ }^{2}$$ | $$0,175 \cdot \bigvee_{\text {Máx }}{ }^{2}$$ (1) |
+| Traffic Categories | Recommended maximum values ( $$\mathrm{V}_{\text {Max }}$$ in km/h) | Permitted maximum values ( $$\mathrm{V}_{\text {Max }}$$ in $$\mathrm{km} / \mathrm{h}$$ ) |
+| I: Mixed traffic lines, with passenger trains with maximum speeds between 80 and $$120 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ (2) | $$0,25 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ (3) |
+| IIa: Mixed traffic lines, with passenger trains with maximum speeds between 120 and $$160 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ | $$0,25 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ (3) |
+| IIb: Mixed traffic lines, with passenger trains with maximum speeds between 160 and $$200 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ | $$0,25 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ (3) |
+| III: Mixed traffic lines, with passenger trains with maximum speeds between 200 and $$300 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ | $$0,175 \cdot \bigvee_{\text {Max }}{ }^{2}$$ (1) |
+| IV: Mixed traffic lines, with passenger trains with speeds up to $$230 \mathrm{Km} / \mathrm{h}$$ (or $$250 \mathrm{Km} / \mathrm{h}$$ on the best lines) with vehicles incorporating special technical characteristics. | $$0,35 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ | $$0,25 \cdot \bigvee_{\text {Max }^{2}}{ }^{2}$$ (3) |
+| V: Passenger traffic lines with maximum speeds between 250 and $$300 \mathrm{Km} / \mathrm{h}$$. | $$0,35 \cdot \mathrm{~V}_{\text {Max }}{ }^{2}$$ | $$0,175 \cdot \bigvee_{\text {Max }}{ }^{2}$$ (1) |
 
-(1) Con una tolerancia de $$+10 \%$$ en acuerdo convexo y $$+30 \%$$ en acuerdo cóncavo. <br> (2) En líneas donde puede que los viajeros circulen de pié, se recomienda $$\mathrm{R}_{\mathrm{v}} \leq 0,77 \cdot \mathrm{~V}_{\operatorname{Máx}^{2}}{ }^{2}$$ <br> (3) Sin bajar de radios de 2.000 m .
+(1) With tolerance of +10% in convex curve and +30% in concave curve. <br> (2) On lines where passengers may travel standing, $$R_v \leq 0.77 \cdot V_{Max}^2$$ is recommended. <br> (3) Without going below radii of 2,000 m.
 
-### V.3 VARIACIONES BRUSCAS DE ACELERACIÓN VERTICAL
+### V.3 ABRUPT VARIATIONS OF VERTICAL ACCELERATION
 
-Los acuerdos verticales se definen geométricamente mediante parábolas con eje vertical, características que implican la ausencia de curvas de transición entre los segmentos de rasante uniforme y el acuerdo vertical propiamente dicho. Esta configuración genera un cambio discontinuo en la aceleración vertical en los puntos terminales del acuerdo, originando oscilaciones en los sistemas de suspensión de los vehículos y produciendo sensaciones desagradables de incomodidad en los pasajeros.
+Vertical curves are defined geometrically by parabolas with vertical axis, characteristics implying absence of transition curves between uniform gradient segments and vertical curve itself. This configuration generates discontinuous change in vertical acceleration at curve terminal points, originating oscillations in vehicle suspension systems and producing unpleasant sensations of discomfort in passengers.
 
-Cuando se acoplen consecutivamente dos acuerdos verticales de signo opuesto sin intercalar un tramo de rasante uniforme, los saltos de aceleración vertical asociados a cada acuerdo se superponen, produciendo efectos dinámicos adversos significativos.
+When two vertical curves of opposite sign are coupled consecutively without inserting uniform gradient section, vertical acceleration jumps associated with each curve superimpose, producing significant adverse dynamic effects.
 
-Esta configuración de acuerdos consecutivos genera los siguientes fenómenos:
+This configuration of consecutive curves generates following phenomena:
 
-- Descarga rápida de los elementos de suspensión durante la transición desde configuración cóncava a convexa.
-- Carga pronunciada de los elementos de suspensión durante la transición desde configuración convexa a cóncava.
-- Saltos de aceleración vertical experimentados por los pasajeros, cuya magnitud efectiva se modifica gradualmente por la amortiguación de la suspensión.
+- Rapid unloading of suspension elements during transition from concave to convex configuration.
+- Pronounced loading of suspension elements during transition from convex to concave configuration.
+- Vertical acceleration jumps experienced by passengers, whose effective magnitude is gradually modified by suspension damping.
 
-Existen dos estrategias de diseño para mitigar los saltos de aceleración vertical:
+There are two design strategies to mitigate vertical acceleration jumps:
 
-- Incrementar el valor del parámetro del acuerdo ($$K_V$$), lo que aumenta el radio de curvatura.
-- Diseñar el acuerdo vertical incorporando curvas de transición geométrica.
+- Increase value of curve parameter ($$K_V$$), which increases radius of curvature.
+- Design vertical curve incorporating geometric transition curves.
 
-Ambas alternativas resultan en incrementos considerables de la longitud total del acuerdo vertical.
+Both alternatives result in considerable increments of total length of vertical curve.
 
-La solución adoptada actualmente en la práctica de la ingeniería ferroviaria es la primera, implementando las siguientes restricciones:
-- Establecer longitudes mínimas para acuerdos verticales
-- Establecer longitudes mínimas para rasantes de inclinación uniforme
+Solution currently adopted in railway engineering practice is first one, implementing following restrictions:
+- Establish minimum lengths for vertical curves
+- Establish minimum lengths for uniform inclination gradients
 
-Justificación de la longitud mínima del acuerdo vertical:
+Justification of minimum vertical curve length:
 
-Es imperativo que transcurra un intervalo temporal suficiente entre un salto de aceleración vertical y el siguiente, permitiendo la amortiguación completa de la suspensión del vehículo y evitando la superposición de efectos dinámicos que podría provocar oscilaciones estructurales significativas.
+It is imperative that sufficient time interval elapses between one vertical acceleration jump and next, allowing complete damping of vehicle suspension and avoiding superposition of dynamic effects that could cause significant structural oscillations.
 
-Consecuentemente, se establecen limitaciones sobre las longitudes mínimas permitidas tanto para rasantes uniformes como para acuerdos verticales.
+Consequently, limitations are established on minimum permitted lengths for both uniform gradients and vertical curves.
 
-Justificación de la longitud mínima de rasante con pendiente uniforme:
+Justification of minimum uniform gradient length:
 
-Es factible diseñar un acuerdo parabólico donde el salto de aceleración vertical generado en el punto de tangencia sea individualmente admisible. Sin embargo, cuando se colocan dos acuerdos verticales de forma inmediata, los saltos de aceleración se duplican, alcanzando magnitudes considerablemente mayores.
+It is feasible to design parabolic curve where vertical acceleration jump generated at Tangency point is individually admissible. However, when two vertical curves are placed immediately, acceleration jumps double, reaching considerably greater magnitudes.
 
-Por esta razón se establece una longitud mínima obligatoria para los segmentos de rasante uniforme ubicados entre dos acuerdos verticales consecutivos, garantizando que los saltos de aceleración vertical no se superpongan. Esta configuración evita efectos negativos sobre los sistemas de suspensión de los vehículos y garantiza condiciones aceptables de confort para los pasajeros.
+For this reason, mandatory minimum length is established for uniform gradient segments located between two consecutive vertical curves, guaranteeing that vertical acceleration jumps do not superimpose. This configuration avoids negative effects on vehicle suspension systems and guarantees acceptable comfort conditions for passengers.
 
-Caso ilustrativo:
+Illustrative case:
 
-Consideremos una línea de alta velocidad operando a $$v = 350 \, \text{km/h}$$ con un parámetro de acuerdo vertical de $$K_V = 45.000 \, \text{m}$$. En esta configuración, el salto de aceleración vertical en el punto de tangencia resulta ser $$\Delta a_v = 0,21 \, \text{m/s}^2$$, valor considerado admisible. Sin embargo, si se acopla inmediatamente otro acuerdo vertical sin rasante intermedia, el salto total de aceleración resultante sería $$\Delta a_v = 0,42 \, \text{m/s}^2$$ (equivalente al 4,2% de g), representando un valor de aceleración considerable e inaceptable.
+Let us consider high-speed line operating at $$v = 350 \, \text{km/h}$$ with vertical curve parameter of $$K_V = 45.000 \, \text{m}$$. In this configuration, vertical acceleration jump at tangency point turns out to be $$\Delta a_v = 0,21 \, \text{m/s}^2$$, value considered admissible. However, if another vertical curve is immediately coupled without intermediate gradient, total resulting acceleration jump would be $$\Delta a_v = 0,42 \, \text{m/s}^2$$ (equivalent to 4.2% of g), representing considerable and unacceptable acceleration value.
 
-Limitaciones según normativa ADIF:
+Limitations according to ADIF regulations:
 
-La normativa técnica de ADIF especifica que la longitud mínima admisible para una rasante de inclinación uniforme debe estar comprendida entre el producto de $$0,4$$ por la velocidad de proyecto y el producto de $$0,5$$ por la misma velocidad.
+ADIF technical regulations specify that minimum admissible length for uniform inclination gradient must be comprised between product of 0.4 times project speed and product of 0.5 times same speed.
 
-| LONGITUD MÍNIMA DE RASANTE UNIFORME (m) - N.R.V. 0-2-0.0. |  |  |  |  |
+| MINIMUM UNIFORM GRADIENT LENGTH (m) - N.R.V. 0-2-0.0. |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
-| VELOCIDAD DE PROYECTO ( $$\mathrm{Km} / \mathrm{h}$$ ) | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
-| NUEVAS LÍNEAS Y DESDOBLAMIENTO DE LÍNEAS ACTUALES CON MODIFICACIÓN DEL TRAZADO | 70 | 80 | 100 | 100 |
-| MEJORA DE LÍNEAS ACTUALES POR OBRAS (Renovaciones y rehabilitaciones de vía) | 70 | 80 | 100 | - |
+| PROJECT SPEED ( $$\mathrm{Km} / \mathrm{h}$$ ) | $$\mathrm{V}=140$$ | $$140<\mathrm{v}=160$$ | $$160<\mathrm{v}=200$$ | $$200<\mathrm{v}=250$$ |
+| NEW LINES AND DUPLICATION OF CURRENT LINES WITH ALIGNMENT MODIFICATION | 70 | 80 | 100 | 100 |
+| IMPROVEMENT OF CURRENT LINES BY WORKS (Track renovations and rehabilitations) | 70 | 80 | 100 | - |
 
-## Preguntas de repaso
+## Review Questions
 
 <div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
-   question="¿Qué función principal cumple el peralte en una curva ferroviaria?"
-   answer="Elevar el carril exterior respecto al interior para reorientar la resultante de fuerzas y eliminar la aceleración lateral."
+   question="What main function does cant perform in a railway curve?"
+   answer="Elevating outer rail with respect to inner one to reorient force resultant and eliminate lateral acceleration."
 %}
 {% include flashcard.html
-   question="¿Qué nombre recibe la configuración donde la resultante de la fuerza centrífuga y el peso es perpendicular a la vía?"
-   answer="Se denomina **peralte teórico** o **peralte ideal** (compensa íntegramente la fuerza centrífuga)."
+   question="What name is given to configuration where resultant of centrifugal force and weight is perpendicular to track?"
+   answer="It is called **theoretical cant** or **ideal cant** (fully compensates centrifugal force)."
 %}
 {% include flashcard.html
-   question="¿Cómo se define la insuficiencia de peralte (I)?"
-   answer="Es la diferencia entre el **peralte teórico** (necesario para compensar la centrífuga) y el **peralte real** implementado en la vía."
+   question="How is cant deficiency (I) defined?"
+   answer="It is difference between **theoretical cant** (necessary to compensate centrifugal) and **real cant** implemented in track."
 %}
 {% include flashcard.html
-   question="¿Qué criterio de confort limita la aceleración transversal no compensada para un viajero según el texto?"
-   answer="El valor máximo tolerable sin molestias significativas se sitúa en torno a **1 m/s²**."
+   question="What comfort criterion limits uncompensated transverse acceleration for passenger according to text?"
+   answer="Maximum tolerable value without significant annoyance is situated around **1 m/s²**."
 %}
 {% include flashcard.html
-   question="¿Qué parámetro clasifica los tipos de trenes (Normal, A, B, C, D) según la normativa?"
-   answer="Se clasifican según los **valores máximos admisibles de aceleración transversal sin compensar** que pueden soportar."
+   question="What parameter classifies train types (Normal, A, B, C, D) according to regulations?"
+   answer="They are classified according to **maximum admissible values of uncompensated transverse acceleration** they can withstand."
 %}
 </div>
 
-## Bibliografía
+## Bibliography
 
 - Ferrocarriles. Apuntes de Clase. Jose Manuel Garcia Díaz de Villegas
 - Infraestructuras Ferroviarias. Andrés López Pita
 - Geometría y Calidad de la vía. Manuel Losada
 - La geometría en el trazado de ferrocarriles
-

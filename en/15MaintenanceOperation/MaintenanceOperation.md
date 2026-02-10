@@ -7,11 +7,11 @@ nav_order: 15
 parent: Start
 ---
 
-# Conservación y Gestión de Infraestructuras Ferroviarias
+# Conservation and Management of Railway Infrastructures
 ---
 <details open markdown="block">
 <summary>
-Índice de contenidos
+Table of Contents
 </summary>
 {: .text-delta }
 1. TOC
@@ -20,450 +20,449 @@ parent: Start
 
 ---
 
-## Capítulo I. Introducción
+## Chapter I. Introduction
 
-En la actualidad, las infraestructuras ferroviarias enfrentan demandas cada vez más exigentes derivadas de múltiples factores operacionales y comerciales. Estas presiones se manifiestan en diversos aspectos del sistema férreo:
+Currently, railway infrastructures face increasingly demanding requirements derived from multiple operational and commercial factors. These pressures manifest in various aspects of the railway system:
 
-- Incremento continuo de las velocidades de circulación en las líneas modernas.
-- Aumento de las cargas transmitidas por eje a la infraestructura.
-- Intensificación de la frecuencia de circulaciones en tramos críticos.
-- Requerimientos mejorados en términos de confort para los usuarios del transporte.
-- Mayor énfasis en la seguridad operativa y la regularidad de los servicios.
+- Continuous increase in circulation speeds on modern lines.
+- Increase in loads transmitted per axle to the infrastructure.
+- Intensification of circulation frequency in critical sections.
+- Improved requirements in terms of comfort for transport users.
+- Greater emphasis on operational safety and service regularity.
 
-Ante estas demandas, los entes gestores de transporte ferroviario han implementado estrategias innovadoras enfocadas en la mejora integral de las instalaciones. Estas acciones incluyen avances en el diseño conceptual de las infraestructuras y en la optimización de los componentes estructurales para incrementar su capacidad resistente y extender su vida útil operativa. Entre las medidas más significativas destacan los **programas de renovación integral de vías** y la **sustitución sistemática de materiales de balasto deteriorados**.
+Faced with these demands, railway transport management entities have implemented innovative strategies focused on the comprehensive improvement of facilities. These actions include advances in the conceptual design of infrastructures and the optimization of structural components to increase their load-bearing capacity and extend their operational useful life. Among the most significant measures are **comprehensive track renewal programs** and the **systematic replacement of deteriorated ballast materials**.
 
-El **mantenimiento** constituye un pilar fundamental para preservar la calidad operativa de los sistemas ferroviarios a lo largo de su ciclo de vida. Las acciones de mantenimiento engloban todas aquellas operaciones orientadas a la conservación, reparación, reemplazo y modernización tecnológica de los componentes de la infraestructura, permitiendo que éstos mantengan el **funcionamiento óptimo** y la **seguridad requerida**, en conformidad con los estándares establecidos en la normativa del Sector Ferroviario.
+**Maintenance** constitutes a fundamental pillar to preserve the operational quality of railway systems throughout their life cycle. Maintenance actions encompass all those operations aimed at conservation, repair, replacement, and technological modernization of infrastructure components, allowing them to maintain **optimal functioning** and **required safety**, in compliance with standards established in the Railway Sector regulations.
 {: .highlight }
 
-Este proceso estratégico de gestión del mantenimiento define los procedimientos necesarios para ejecutar tanto las intervenciones preventivas como las correctivas en todas las categorías de infraestructuras, abarcando tanto las redes de Alta Velocidad como las líneas de transporte convencional. La implementación efectiva del programa incluye la planificación pormenorizada, la ejecución controlada y el monitoreo continuo de todas las actividades preventivas, complementadas con la gestión ágil de las acciones correctivas que surjan durante la operación de la red.
+This strategic maintenance management process defines the necessary procedures to execute both preventive and corrective interventions in all infrastructure categories, covering both High-Speed networks and conventional transport lines. Effective implementation of the program includes detailed planning, controlled execution, and continuous monitoring of all preventive activities, complemented by agile management of corrective actions arising during network operation.
 
-El proceso de mantenimiento puede clasificarse atendiendo a criterios múltiples que contemplan diferentes dimensiones de la gestión operativa:
+The maintenance process can be classified according to multiple criteria that contemplate different dimensions of operational management:
 
-**CLASIFICACIONES**
+**CLASSIFICATIONS**
 
-**SEGÚN ESTRATEGIA**
-- Explotación hasta fallo: modelo reactivo que interviene cuando se produce la avería.
-- Puesta a punto periódica preventiva: intervenciones planificadas a intervalos temporales regulares.
-- Puesta a punto según estado: evaluación continua que determina intervenciones basadas en la condición actual del elemento.
-- Inspección y diagnosis: evaluación sistemática para identificar problemas potenciales.
+**ACCORDING TO STRATEGY**
+- Run to failure: reactive model that intervenes when a breakdown occurs.
+- Periodic preventive tuning: planned interventions at regular time intervals.
+- Condition-based tuning: continuous evaluation determining interventions based on the element's current condition.
+- Inspection and diagnosis: systematic evaluation to identify potential problems.
 
-**Según Etapas**
-- Mantenimiento Preventivo: acciones anticipadas para evitar fallos.
-- Mantenimiento Correctivo: intervenciones para reparar defectos una vez ocurridos.
+**According to Stages**
+- Preventive Maintenance: anticipated actions to avoid failures.
+- Corrective Maintenance: interventions to repair defects once occurred.
 
-**Según Recursos**
-- Medios Propios: personal y equipamiento internos de la organización.
-- Externalizado: contratación de servicios externos especializados.
-- Mixto: combinación de recursos propios y externos según necesidades.
+**According to Resources**
+- Own Means: internal personnel and equipment of the organization.
+- Outsourced: contracting of specialized external services.
+- Mixed: combination of own and external resources according to needs.
 
 ![0acb2485bd0d52104f87e0194245ebc7_MD5]({{ site.baseurl }}/assets/images/0acb2485bd0d52104f87e0194245ebc7_MD5.webp)
 
-**Mantenimiento correctivo:** Esta estrategia comprende la reparación de equipos e instalaciones que han experimentado fallo o avería, ejecutándose intervenciones destinadas a restaurar la funcionalidad de los componentes de vía después de que se manifiesten los defectos. Se trata de un enfoque de intervención tardía, reactivo a los problemas identificados.
+**Corrective maintenance:** This strategy comprises the repair of equipment and facilities that have experienced failure or breakdown, executing interventions destined to restore the functionality of track components after defects manifest. It is a late intervention approach, reactive to identified problems.
 
-**Mantenimiento preventivo:** Implica la realización de inspecciones y revisiones sistemáticas establecidas en función de parámetros temporales desde la última intervención, datos de kilometraje acumulado, ciclos de carga operados, u otros indicadores relevantes. Este modelo busca anticiparse al deterioro progresivo de la vía para evitar su degradación avanzada.
+**Preventive maintenance:** Implies the performance of systematic inspections and revisions established based on temporal parameters since the last intervention, accumulated mileage data, operated load cycles, or other relevant indicators. This model seeks to anticipate progressive track deterioration to avoid advanced degradation.
 
-**Mantenimiento según estado:** Caracterizado por la vigilancia continua y el monitoreo de la evolución de instalaciones y equipos, permitiendo determinar el momento óptimo para ejecutar revisiones o cambios cuando los indicadores señalan proximidad a los umbrales críticos de fallo. Esta metodología posibilita la corrección de defectos de manera oportuna, basada en datos objetivos del estado actual de la vía.
+**Condition-based maintenance:** Characterized by continuous surveillance and monitoring of the evolution of facilities and equipment, allowing determination of the optimal moment to execute revisions or changes when indicators signal proximity to critical failure thresholds. This methodology enables defect correction in a timely manner, based on objective data of the current track state.
 
 ![4637e79d3f27fcfb6c83526b58b6a9c7_MD5]({{ site.baseurl }}/assets/images/4637e79d3f27fcfb6c83526b58b6a9c7_MD5.webp)
 
-Cabe destacar que la vida útil global aproximada de una infraestructura ferroviaria moderna oscila entre 35 y 40 años, período durante el cual se requiere la aplicación sistemática de estas estrategias de mantenimiento:
+It should be noted that the approximate global useful life of a modern railway infrastructure ranges between 35 and 40 years, a period during which the systematic application of these maintenance strategies is required:
 
-**VIDA ÚTIL GLOBAL APROXIMADA: 35-40 AÑOS**
+**APPROXIMATE GLOBAL USEFUL LIFE: 35-40 YEARS**
 
 ![99fc7164da8231873fbfd6f5812fe244_MD5]({{ site.baseurl }}/assets/images/99fc7164da8231873fbfd6f5812fe244_MD5.webp)
-### I.1. Mantenimiento según estado
+### I.1. Condition-based maintenance
 
-La metodología de mantenimiento basado en el estado de condición demanda requisitos específicos para su implementación exitosa. En primer término, es indispensable disponer de información permanentemente actualizada acerca de las características técnicas y condición actual de la vía. Esto requiere de:
+The condition-based maintenance methodology demands specific requirements for its successful implementation. Firstly, it is indispensable to have permanently updated information about technical characteristics and current track condition. This requires:
 
 ![9af5a045165fc4835cdfa8cc53204e5f_MD5]({{ site.baseurl }}/assets/images/9af5a045165fc4835cdfa8cc53204e5f_MD5.webp)
 
 Make optimum decision based on analysis results
 Perceive changes and conduct maintenance at appropriate timing
 
-Como segundo requisito se requiere la capacidad de respuesta ágil ante la detección de defectos localizados, conjugada con la utilización metodológica y controlada de los recursos de maquinaria pesada disponibles. En esencia, el mantenimiento según estado se fundamenta en la repetición sistemática de un ciclo iterativo de evaluación y corrección, aplicándose tantas veces como sea necesario para mantener los parámetros de operación dentro de los rangos admisibles.
+As a second requirement, agile response capacity is required upon detection of localized defects, conjugated with the methodological and controlled use of available heavy machinery resources. In essence, condition-based maintenance is based on the systematic repetition of an iterative cycle of evaluation and correction, applied as many times as necessary to maintain operation parameters within admissible ranges.
 
 ![4e30dc50905123df7fb9ae569778d111_MD5]({{ site.baseurl }}/assets/images/4e30dc50905123df7fb9ae569778d111_MD5.webp)
 
-Sistemas de auscultación, que proporcionen en tiempo real un conocimiento objetivo sobre el estado de la vía: Instalaciones tecnológicas especializadas capaces de suministrar información objetiva y en tiempo real respecto al estado integral de la vía, facilitando la toma de decisiones basada en datos reales de operación.
+Monitoring systems, providing objective real-time knowledge on track state: Specialized technological facilities capable of supplying objective and real-time information regarding the integral state of the track, facilitating decision-making based on real operation data.
 
-Brigadas de vía con herramientas ligeras, dotadas de gran agilidad, para la corrección de defectos puntuales: Equipos de personal debidamente entrenado, equipados con herramientas ligeras y ágiles, destinados a la corrección expedita de defectos puntuales y localizados que no requieren intervención de maquinaria mayor.
+Track brigades with light tools, endowed with great agility, for correction of point defects: Teams of duly trained personnel, equipped with light and agile tools, destined for expeditious correction of point and localized defects not requiring major machinery intervention.
 
-Unos equipos de maquinaria pesada con rapidez en la respuesta: para la corrección de la degradación generalizada de la geometría de la vía o sustitución de materiales de vía defectuosos: Conjuntos de máquinas especializadas con capacidad de respuesta rápida para atender tanto la corrección de degradación generalizada en la geometría de la vía como la sustitución de materiales estructurales que hayan llegado al final de su vida útil operativa.
+Heavy machinery teams with rapid response: for correction of generalized track geometry degradation or replacement of defective track materials: Sets of specialized machines with rapid response capacity to attend both correction of generalized degradation in track geometry and replacement of structural materials that have reached the end of their operational useful life.
 
-Para la formulación efectiva de medidas preventivas resulta imprescindible contar con conocimiento detallado del estado actual de materiales e instalaciones, así como del seguimiento de la trayectoria evolutiva de los defectos potenciales. El paso de circulaciones sobre la vía genera respuestas dinámicas en los vehículos que atraviesan las irregularidades presentes, produciendo esfuerzos internos y aceleraciones cuyas magnitudes dependen directamente del grado de defectología presente en la vía y de la velocidad de operación aplicada.
+For effective formulation of preventive measures, it is essential to have detailed knowledge of the current state of materials and facilities, as well as tracking the evolutionary trajectory of potential defects. The passage of circulations over the track generates dynamic responses in vehicles traversing present irregularities, producing internal forces and accelerations whose magnitudes depend directly on the degree of defectology present in the track and the operating speed applied.
 
-A medida que aumenta el volumen acumulado de circulaciones, se incrementa progresivamente el nivel de defectos presentes en la vía y, consecuentemente, se amplifica la respuesta dinámica experimentada por los vehículos que circulan sobre ella. Cuando estos parámetros de respuesta dinámica se aproximan a los umbrales críticos establecidos para asegurar el confort de pasajeros, para preservar las condiciones aceptables de explotación, o para garantizar los márgenes de seguridad operativa definidos, se requiere activar protocolos de intervención mediante acciones de mantenimiento o, alternativamente, mediante la implementación de restricciones de velocidad en los tramos afectados.
+As the accumulated volume of circulations increases, the level of defects present in the track progressively increases and, consequently, the dynamic response experienced by vehicles circulating on it amplifies. When these dynamic response parameters approach critical thresholds established to ensure passenger comfort, to preserve acceptable operating conditions, or to guarantee defined operational safety margins, it is required to activate intervention protocols through maintenance actions or, alternatively, through implementation of speed restrictions in affected sections.
 
-## Capítulo II. Auscultación
+## Chapter II. Monitoring
 
-El sistema de auscultación constituye el conjunto de procedimientos, técnicas y equipos destinados a evaluar, controlar y documentar el estado actual de la infraestructura ferroviaria. A través de la auscultación, se recopila información sistemática que permite conocer el nivel de degradación de la vía y planificar las acciones correctivas necesarias. Entre las metodologías disponibles se encuentran:
+The monitoring system constitutes the set of procedures, techniques, and equipment destined to evaluate, control, and document the current state of railway infrastructure. Through monitoring, systematic information is collected allowing knowledge of the track degradation level and planning of necessary corrective actions. Among available methodologies are:
 
-- VIGILANCIA A PIE: inspecciones realizadas mediante recorridos pedestres a lo largo de la vía.
-- RECORRIDOS EN CABINA: observaciones desde vehículos especialmente equipados que circulan sobre la vía.
-- AUSCULTACIÓN ULTRASÓNICA DE CARRILES: técnicas acústicas para detectar defectos internos en los elementos de carril.
-- AUSCULTACIONES DINÁMICAS: medición de aceleraciones y respuestas dinámicas experimentadas durante la circulación.
-- AUSCULTACIÓN GEOMÉTRICA DE LA VÍA: evaluación de parámetros geométricos como nivelación, alineación y peralte.
-- ESTADO MATERIALES DE VÍA: inspección del estado de traviesas, balasto y sujeciones.
-- DETECTORES DE IMPACTO DE VÍA (DIV): dispositivos para identificar defectos que generan impactos anormales.
-- MEDICIONES MANUALES - SONDEOS: evaluaciones de campo utilizando equipos topográficos y de medición directa.
+- FOOT PATROLS: inspections performed through pedestrian tours along the track.
+- CAB RIDES: observations from specially equipped vehicles circulating on the track.
+- ULTRASONIC RAIL INSPECTION: acoustic techniques to detect internal defects in rail elements.
+- DYNAMIC MONITORING: measurement of accelerations and dynamic responses experienced during circulation.
+- TRACK GEOMETRY MONITORING: evaluation of geometric parameters such as leveling, alignment, and cant.
+- TRACK MATERIALS STATE: inspection of the state of sleepers, ballast, and fastenings.
+- TRACK IMPACT DETECTORS (DIV): devices to identify defects generating abnormal impacts.
+- MANUAL MEASUREMENTS - PROBES: field evaluations using topographic and direct measurement equipment.
 
 ![d0503eb20d01d40676d9e7de79158234_MD5]({{ site.baseurl }}/assets/images/d0503eb20d01d40676d9e7de79158234_MD5.webp)
 
-| ACTUACIONES |  | CRITERIOS |  |  |
+| ACTIONS |  | CRITERIA |  |  |
 | :--- | :--- | :--- | :--- | :--- |
-| INSPECCION DE LA SUPERESTRUCTURA DE LA VIA | VIGILANCIAS A PIE | Todas las líneas 2 veces/año (si no hay auscultación) <br> En tramos auscultados con ZUT 1 y 2 (Actuaciones inmediatas y a corto plazo) |  |  |
-|  | VIGILANCIA DE APARATOS DE VIA | Vias generales |  | Vías secundarias |
-|  |  | B1, B2 C1, C2 | 2 veces/año | 1 vez/año |
-|  |  | DyE | 1 vez/año | 1 vez/año |
-|  | VIGILANCIAS EN CABINA | Toda la Red: 3 veces/año |  |  |
-| AUSCULTACIÓN | AUSCULTACIÓN GEOMETRICA DE VIA | - Líneas B1, B2, C1 y C2 : 2 veces/año <br> - Líneas D y E: 1 vez al año |  |  |
-|  | AUSCULTACIÓN ULTRASONICA DE CARRILES | - Líneas B1, B2, D y E : 1 vez al año <br> Lineas C1 y C2: 2 veces/año |  |  |
-| TRATAMIENTO MECANIZADO DE VÎA | NIVELACIÓN Y <br> ALINEACIÓN DE TRAMOS UNITARIOS | Actuación preferente con medios propios en líneas B1,B2, C1 y C2 con Calidad de Estado DEFICIENTE O MAL. <br> Preferentemente en tramos no inferiores a 20 Km <br> No actuar en tramos con Calidad de Estado BIEN, ACEPTABLE 0 REGULAR |  |  |
-|  | NIVELACIÓN Y ALINEACIÓN DE DEFECTOS PUNTUALES | Se actuará preferentemente con medios ajenos en Zonas de Urgente Tratamiento Y en Aparatos de vía |  |  |
-|  | AMOLADO DE CARRILES | Se distribuyen los recursos en función de: <br> Peticiones de las SS. 00 territoriales <br> Y de los resultados del Análisis III del Coche Auscultador <br> Actuación preferente en líneas B1,B2, C1 y C2 |  |  |
+| TRACK SUPERSTRUCTURE INSPECTION | FOOT PATROLS | All lines 2 times/year (if no monitoring) <br> In sections monitored with ZUT 1 and 2 (Immediate and short-term actions) |  |  |
+|  | SWITCH AND CROSSING PATROLS | General tracks |  | Secondary tracks |
+|  |  | B1, B2 C1, C2 | 2 times/year | 1 time/year |
+|  |  | D and E | 1 time/year | 1 time/year |
+|  | CAB RIDES | Entire Network: 3 times/year |  |  |
+| MONITORING | TRACK GEOMETRY MONITORING | - Lines B1, B2, C1 and C2: 2 times/year <br> - Lines D and E: 1 time per year |  |  |
+|  | ULTRASONIC RAIL INSPECTION | - Lines B1, B2, D and E: 1 time per year <br> Lines C1 and C2: 2 times/year |  |  |
+| MECHANIZED TRACK TREATMENT | LEVELING AND <br> ALIGNMENT OF UNITARY SECTIONS | Preferential action with own means on lines B1, B2, C1 and C2 with DEFICIENT OR POOR State Quality. <br> Preferably in sections not less than 20 km <br> Do not act in sections with GOOD, ACCEPTABLE OR REGULAR State Quality |  |  |
+|  | LEVELING AND ALIGNMENT OF POINT DEFECTS | Action will be preferably with external means in Urgent Treatment Zones AND in Switches and crossings |  |  |
+|  | RAIL GRINDING | Resources are distributed based on: <br> Requests from territorial Sub-directorates of Ops. <br> AND results from Analysis III of the Monitoring Car <br> Preferential action on lines B1, B2, C1 and C2 |  |  |
 
-### II.1. Auscultación: objetivos
+### II.1. Monitoring: objectives
 
-La auscultación busca alcanzar una serie de objetivos estratégicos en la gestión del mantenimiento ferroviario:
+Monitoring seeks to achieve a series of strategic objectives in railway maintenance management:
 
-- **Medir, cuantificar y analizar la evolución del estado de la vía:** Mediante la recopilación sistemática de datos, se establecen métricas objetivas que permiten seguimiento temporal del deterioro y su trayectoria.
-- **Identificar los defectos críticos:** Se busca detectar tanto aquellos defectos que se aproximan a los límites de mantenibilidad (identificando oportunidades para mantenimiento preventivo), como aquellos que señalan el agotamiento de la vida útil del elemento (justificando actuaciones de mejora integral).
-- **Definir y valorar actuaciones de mantenimiento correctivo:** Cuando se detectan defectos que en su evolución proyectada se acercarían a situaciones de riesgo para la seguridad operativa, es necesario evaluar y planificar intervenciones correctivas de manera expedita.
-- **Priorizar actividades:** La información recopilada permite establecer un orden de prioridades para la aplicación eficaz de recursos disponibles, tanto humanos como materiales, asignándolos a los tramos que lo requieran de manera más urgente.
+- **Measure, quantify and analyze the evolution of track state:** Through systematic data collection, objective metrics are established allowing temporal tracking of deterioration and its trajectory.
+- **Identify critical defects:** Seeks to detect both those defects approaching maintainability limits (identifying opportunities for preventive maintenance), and those signaling exhaustion of the element's useful life (justifying comprehensive improvement actions).
+- **Define and value corrective maintenance actions:** When defects are detected that in their projected evolution would approach risk situations for operational safety, it is necessary to evaluate and plan corrective interventions expeditiously.
+- **Prioritize activities:** Collected information allows establishing an order of priorities for effective application of available resources, both human and material, assigning them to sections requiring them most urgently.
 
-### II.2. Auscultación: tipos
+### II.2. Monitoring: types
 
-Existen múltiples metodologías de auscultación que pueden clasificarse en función del grado de mecanización y el tipo de parámetros evaluados:
+There are multiple monitoring methodologies that can be classified based on the degree of mechanization and type of parameters evaluated:
 
-**Auscultación con metodología general:** Esta aproximación comprende un procedimiento integral mediante el cual se analizan los principales parámetros técnicos de la vía. Su ejecución puede realizarse de forma "manual" mediante recorridos pedestres y visuales, o bien mediante la utilización de vehículos especializados provistos de sensores integrados a sistemas informáticos que registran y procesan automáticamente los parámetros, generando diagnósticos automatizados de calidad.
+**Monitoring with general methodology:** This approach comprises an integral procedure through which main technical track parameters are analyzed. Its execution can be performed "manually" through pedestrian and visual tours, or through utilization of specialized vehicles provided with sensors integrated into computer systems automatically recording and processing parameters, generating automated quality diagnoses.
 
-Entre los parámetros usualmente medidos en una auscultación completa se incluyen:
-- Geometría vertical de la vía (cotas y peralte)
-- Geometría horizontal de la vía (alineación en planta)
-- Geometría del carril (desgaste, deformaciones)
-- Trazado general del segmento
-- Calidad de la marcha (medida de confort dinámico)
+Among parameters usually measured in complete monitoring are included:
+- Vertical track geometry (levels and cant)
+- Horizontal track geometry (plane alignment)
+- Rail geometry (wear, deformations)
+- General segment layout
+- Ride quality (dynamic comfort measure)
 
-**Auscultación visual:** Esta metodología tiene por objeto evaluar el estado físico de los componentes que integran la vía y la plataforma, realizándose generalmente mediante inspección directa a través de recorridos pedestres. Permite identificar: defectos en el balasto (incluyendo balasto de mala calidad o en mal estado), daños en traviesas (zonas podridas o quemadas en traviesas de madera, o grietas en traviesas de hormigón), deficiencias en sistemas de sujeción, desgaste o roturas en carriles, problemas en juntas de vía, y defectos en soldaduras.
+**Visual monitoring:** This methodology aims to evaluate the physical state of components integrating track and platform, generally performed through direct inspection via pedestrian tours. It allows identifying: ballast defects (including poor quality or bad state ballast), sleeper damage (rotted or burnt zones in wooden sleepers, or cracks in concrete sleepers), fastening system deficiencies, rail wear or breaks, track joint problems, and welding defects.
 
-**Auscultación geométrica:** Se enfoca en la evaluación de los parámetros geométricos de la vía, tales como: nivelación longitudinal (cuyas irregularidades generan efecto de galope o cabeceo en vehículos), nivelación transversal (cuyas irregularidades provocan movimientos de balanceo), alabeo (cuyos defectos pueden originar descarrilamientos), ancho de vía (que afecta indirectamente el movimiento de lazo según el juego disponible), alineación (cuyo defecto genera movimientos de lazo), peralte y radio de curvatura.
+**Geometric monitoring:** Focuses on evaluation of track geometric parameters, such as: longitudinal leveling (whose irregularities generate galloping or pitching effect in vehicles), transverse leveling (whose irregularities cause rolling movements), twist (whose defects can originate derailments), track gauge (indirectly affecting hunting movement depending on available play), alignment (whose defect generates hunting movements), cant and curvature radio.
 
-**Auscultación dinámica:** Consiste en la medición y registro sistemático de aceleraciones que experimenta un vehículo circulando por la vía, registrando simultáneamente su velocidad de paso. Mediante múltiples acelerómetros instalados en posiciones estratégicas, se miden aceleraciones verticales y horizontales originadas por las imperfecciones de la vía, tomando datos tanto en zonas de caja de grasa del eje como en la caja de pasajeros. Este enfoque proporciona información sobre la interacción dinámica real entre vía y tren, permitiendo conocer las condiciones de confort experimentadas por los usuarios en operación real. Esta metodología es especialmente sensible para detectar **desgaste ondulatorio**, uno de los defectos más críticos en vías de alta velocidad, siendo considerada la forma preferida de auscultación periódica para líneas modernas.
+**Dynamic monitoring:** Consists of systematic measurement and recording of accelerations experienced by a vehicle circulating on the track, simultaneously recording its passing speed. Through multiple accelerometers installed in strategic positions, vertical and horizontal accelerations originated by track imperfections are measured, taking data in both axle box zones and passenger car body. This approach provides information on real dynamic interaction between track and train, allowing knowledge of comfort conditions experienced by users in real operation. This methodology is especially sensitive for detecting **corrugation**, one of the most critical defects in high-speed tracks, being considered the preferred form of periodic monitoring for modern lines.
 
-### II.3. Auscultación: equipos
+### II.3. Monitoring: equipment
 
-Para la ejecución de las tareas de auscultación se dispone de una diversidad de equipos que varían desde instrumentos manuales simples hasta sistemas automatizados complejos.
+For execution of monitoring tasks, a diversity of equipment is available varying from simple manual instruments to complex automated systems.
 
-#### II.3.1. Equipos manuales de auscultación:
+#### II.3.1. Manual monitoring equipment:
 
-Los equipos manuales constituyen herramientas portátiles utilizadas por brigadas de campo para inspecciones directas y mediciones locales. Entre estos se incluyen equipos topográficos para toma de datos de posición y cota, reglas de vía para verificación de dimensiones, dispositivos de comprobación de soldaduras, asas de flechar para control de geometría, medidores especializados de perfil de carril, y equipos láser de precisión empleados particularmente en inspección de desvíos y aparatos de vía.
+Manual equipment constitutes portable tools used by field brigades for direct inspections and local measurements. Among these are included topographic equipment for position and level data taking, track gauges for dimension verification, welding check devices, versatile handles for geometry control, specialized rail profile gauges, and precision laser equipment employed particularly in switch and crossing inspection.
 
-#### II.3.2. Carros manuales de auscultación:
+#### II.3.2. Manual monitoring trolleys:
 
-Los carros auscultadores manuales constituyen equipos semi-mecanizados que permiten mediciones más rápidas y precisas que los instrumentos puramente manuales. Estos incluyen carros auscultadores de empuje manual que transportan al personal de medición, auscultadores de coordenadas absolutas que utilizan sistemas de posicionamiento para capturar datos tridimensionales de la vía, así como otros sistemas complementarios especializados que aumentan la productividad de los equipos de inspección de campo.
+Manual monitoring trolleys constitute semi-mechanized equipment allowing faster and more precise measurements than purely manual instruments. These include hand-pushed monitoring trolleys transporting measurement personnel, absolute coordinate monitors utilizing positioning systems to capture three-dimensional track data, as well as other specialized complementary systems increasing productivity of field inspection teams.
 
-#### II.3.3. Vehículos auscultadores:
+#### II.3.3. Monitoring vehicles:
 
-Los vehículos auscultadores son sistemas mecanizados de alto nivel que permiten capturar datos de auscultación a velocidad de operación o velocidades controladas. Se incluyen entre estos trenes-laboratorio especializados como el Séneca, que combina amplia instrumentación con capacidad de desplazamiento autónomo, vehículos adaptados en sistemas de transporte urbano como los del Metro de Madrid que cuentan con equipamiento interno especializado, y dresinas que son plataformas ligeras con sistemas de medición embarcados destinadas a líneas de menor tráfico. Estos equipos permiten captura automatizada de datos a gran escala, generando bases de información que alimentan los sistemas de análisis centralizado.
+Monitoring vehicles are high-level mechanized systems allowing capture of monitoring data at operation speed or controlled speeds. Included among these are specialized laboratory trains like the Seneca, combining wide instrumentation with autonomous displacement capacity, vehicles adapted in urban transport systems like those of Madrid Metro counting with specialized internal equipment, and draisines which are light platforms with onboard measurement systems destined for lower traffic lines. These teams allow automated large-scale data capture, generating information bases feeding centralized analysis systems.
 
-## Capítulo III. Operaciones
+## Chapter III. Operations
 
-Las operaciones de mantenimiento comprenden un conjunto de actividades mecanizadas y manuales diseñadas para corregir y prevenir defectos específicos de la infraestructura ferroviaria. A continuación se describen las principales operaciones de mantenimiento utilizadas en la industria ferroviaria moderna.
+Maintenance operations comprise a set of mechanized and manual activities designed to correct and prevent specific defects of railway infrastructure. Following describes main maintenance operations used in modern railway industry.
 
-### III.1. Amolado
+### III.1. Grinding
 
-La operación de amolado constituye un procedimiento especializado de mantenimiento preventivo dirigido a la **eliminación de una película superficial de acero descarburado** que se genera durante el proceso de fabricación industrial de los carriles, así como para la remoción simultánea de otros tipos de defectos superficiales. Esta operación persigue los siguientes objetivos técnicos:
+Grinding operation constitutes a specialized preventive maintenance procedure directed to **elimination of a superficial film of decarburized steel** generated during industrial rail manufacturing process, as well as for simultaneous removal of other types of superficial defects. This operation pursues the following technical objectives:
 
-**Objetivos principales del amolado:**
+**Main objectives of grinding:**
 
-- **Generación de superficie de rodadura uniforme:** Permite conseguir una superficie de rodadura que presente una inclinación constante del carril, mejorando la distribución de cargas.
-- **Preservación del perfil geométrico:** Asegura que se mantiene el perfil correcto de la cabeza del carril y elimina o reduce significativamente los defectos superficiales existentes.
-- **Mejora del trazado longitudinal:** Se logra mediante el aplanamiento de ondas superficiales originadas en la fabricación del carril y del esmerilado posterior de soldaduras aluminotérmicas.
-- **Prolongación de vida útil:** Mantener en buen estado los carriles mediante amolado periódico mejora sustancialmente la vida útil tanto de carriles como de ruedas de vehículos, reduciendo simultáneamente los niveles de ruido operativo.
-- **Eliminación de defectos de fabricación:** Se eliminan defectos residuales presentes en la superficie activa del carril tras su manufactura.
-- **Eliminación de defectos de montaje:** Se remueven marcas y daños producidos durante los procesos de descarga y manipulación de materiales en campo.
-- **Control del desgaste ondulatorio:** El amolado proporciona un control mejorado del deterioro general de la vía y retrasa significativamente la formación y progresión del desgaste ondulatorio, defecto que tiende a acelerarse con la velocidad de circulación.
-- **Reducción de fisuras:** Contribuye a reducir la aparición y propagación de fisuras longitudinales en los carriles.
+- **Generation of uniform running surface:** Allows achieving a running surface presenting constant rail inclination, improving load distribution.
+- **Preservation of geometric profile:** Assures correct rail head profile is maintained and eliminates or significantly reduces existing superficial defects.
+- **Longitudinal layout improvement:** Achieved through flattening of superficial waves originated in rail manufacturing and posterior grinding of aluminothermic welds.
+- **Extension of useful life:** Maintaining rails in good state through periodic grinding substantially improves useful life of both rails and vehicle wheels, simultaneously reducing operational noise levels.
+- **Elimination of manufacturing defects:** Residual defects present in rail active surface after manufacture are eliminated.
+- **Elimination of assembly defects:** Marks and damage produced during unloading and material handling processes in field are removed.
+- **Corrugation control:** Grinding provides improved control of general track deterioration and significantly delays formation and progression of corrugation, a defect tending to accelerate with circulation speed.
+- **Crack reduction:** Contributes to reducing appearance and propagation of longitudinal cracks in rails.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqc_5feGXgo?si=TZB9PhaNtZvIkS4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### III.2. Bateadora-Niveladora:
+### III.2. Tamping-Leveling Machine:
 
-La operación de bateado constituye el proceso mediante el cual se **introduce material de balasto debajo de las traviesas** con el fin de **restaurar la nivelación de la vía** o **consolidar su posición** después de asentamientos. Esta función, ejecutada por máquinas especializadas denominadas **bateadoras**, puede realizarse mediante procesos de **vibración**, **compresión mecánica**, o combinaciones de ambos métodos.
+Tamping operation constitutes the process through which **ballast material is introduced under sleepers** with the aim of **restoring track leveling** or **consolidating its position** after settlements. This function, executed by specialized machines called **tampers**, can be performed through **vibration**, **mechanical compression**, or combinations of both methods.
 
-Las bateadoras se encuentran equipadas con un conjunto coordinado de elementos batidores que se posicionan de manera estratégica para atacar las cabezas de las traviesas por sus caras laterales, operando por ambos lados del carril simultáneamente. El sistema de bateado integra tres movimientos principales:
+Tampers are equipped with a coordinated set of tamping tines positioned strategically to attack sleeper heads by their lateral faces, operating on both sides of the rail simultaneously. The tamping system integrates three main movements:
 
-- **Movimiento vertical del conjunto de bateo:** Proporciona la acción de introducción y extracción de los bates del lecho de balasto, permitiendo la alternancia entre penetración y retroceso.
-- **Movimiento vibratorio de los bates:** Generado por mecanismos excéntricos, facilita el movimiento de los bates dentro de la masa del balasto, permitiendo su penetración progresiva.
-- **Movimiento de aproximación de los bates:** Mediante sistemas de husillo sinfín, se coloca y se aprisiona el balasto debajo de la traviesa, consolidando su posición vertical.
+- **Vertical movement of tamping assembly:** Provides insertion and extraction action of tines from ballast bed, allowing alternation between penetration and retraction.
+- **Vibratory movement of tines:** Generated by eccentric mechanisms, facilitates movement of tines within ballast mass, allowing progressive penetration.
+- **Approximation movement of tines:** Through worm screw systems, ballast is placed and imprisoned under sleeper, consolidating its vertical position.
 
-La niveladora constituye una máquina especializada derivada de la bateadora convencional, equipada adicionalmente con sistemas de levante del carril que permiten combinar operaciones de levantamiento y bateado simultáneamente, dejando la vía finalmente a la altura geométrica deseada. El procedimiento más habitual de nivelación se ejecuta bajo control de un operador provisto de un visor-nivel de precisión y mandos de radio control remoto que detiene el movimiento de levante en el instante exacto en que se alcanza la cota objetivo.
+The leveler constitutes a specialized machine derived from conventional tamper, additionally equipped with rail lifting systems allowing combination of lifting and tamping operations simultaneously, leaving track finally at desired geometric height. Most habitual leveling procedure is executed under control of an operator provided with precision sight-level and remote radio control commands stopping lifting movement at exact instant target level is reached.
 
-Las niveladoras cuentan con un grupo especializado de levantadores constituido por discos circulares de acero (denominados "uñas") asociados a sistemas hidráulicos de accionamiento. Estos discos se acoplan a la cabeza del carril sujetándolo firmemente durante el levantamiento, permitiendo un control preciso de la altura final. Una característica importante es que todas las máquinas bateadoras modernas incorporan capacidad de nivelación. Históricamente, las bateadoras primitivas carecían de esta función y la nivelación se realizaba mediante gatos hidráulicos posicionados secuencialmente al paso de la máquina por la vía.
+Levelers count with a specialized group of lifters constituted by steel circular discs (called "claws") associated to hydraulic actuation systems. These discs couple to rail head holding it firmly during lifting, allowing precise control of final height. An important characteristic is that all modern tamping machines incorporate leveling capacity. Historically, primitive tampers lacked this function and leveling was performed through hydraulic jacks positioned sequentially as machine passed along track.
 
-Operaciones
+Operations
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L1B6KCwSs9I?si=I5HbSJnq1gngbI9d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### III.3. Alineadora:
+### III.3. Liner:
 
-Las máquinas alineadoras son equipos especializados provistos de elementos sujetadores similares a los utilizados en las niveladoras, pero caracterizados por poseer movimiento horizontal controlado. Este movimiento horizontal permite desplazar la vía lateralmente hasta conseguir la posición correcta en planta, rectificando defectos de alineación general. Las máquinas alineadoras operan típicamente mediante el procedimiento de las cuerdas deslizantes, que establece referencias geométricas mediante líneas de referencia que se desplazan con la máquina. 
+Lining machines are specialized equipment provided with holding elements similar to those used in levelers, but characterized by possessing controlled horizontal movement. This horizontal movement allows displacing track laterally until correct position in plan is achieved, rectifying general alignment defects. Lining machines typically operate through sliding wires procedure, establishing geometric references through reference lines displacing with machine.
 
-En la práctica operativa moderna, existen máquinas alineadoras especializadas exclusivamente en esta función, aunque lo más frecuente es encontrar máquinas combinadas denominadas bateadoras-niveladoras-alineadoras que integran las tres funciones en una sola unidad de trabajo, permitiendo optimizar tiempos y recursos mediante la ejecución simultaneada de múltiples tareas correctivas.
+In modern operational practice, specialized lining machines exist exclusively for this function, although it is most frequent to find combined machines called tamper-leveler-liners integrating three functions in single work unit, allowing optimization of times and resources through simultaneous execution of multiple corrective tasks.
 
-### III.4 Perfiladora:
+### III.4 Ballast Regulator:
 
-Las máquinas perfiladoras constituyen equipos especializados en la distribución y conformación del balasto de la banqueta lateral, dando forma y espesor apropiados a esta zona de transición entre la plataforma y la caja de la vía. Estas máquinas se equipan con arados frontales y laterales de diseño especializado que empujan el balasto hacia las posiciones correctas, conformando la geometría de la banqueta. Muchas perfiladoras incorporan adicionalmente un cepillo de barrido que recoge el balasto sobrante y deteriorado, transportándolo mediante una cinta transportadora hacia una tolva integrada en la máquina, desde la cual se redistribuye selectivamente el material limpio según las necesidades operacionales.
+Profiling machines (ballast regulators) constitute equipment specialized in distribution and shaping of side ballast shoulder, giving appropriate shape and thickness to this transition zone between platform and track box. These machines are equipped with frontal and lateral plows of specialized design pushing ballast towards correct positions, shaping shoulder geometry. Many regulators additionally incorporate sweeping brush collecting surplus and deteriorated ballast, transporting it through conveyor belt towards hopper integrated in machine, from which clean material is selectively redistributed according to operational needs.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aMbN2awhVRs?si=nMteI3pmU0D_KbzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### III.5. Operaciones: Trabajos continuos
+### III.5. Operations: Continuous works
 
-#### Trenes BCP:
+#### BCP Trains:
 
-Cuando los análisis realizados con vehículos auscultadores detectan que la pérdida acumulada de nivelación y alineación de una línea ferroviaria se aproxima a los umbrales críticos permitidos, se procede a su corrección mediante la utilización coordinada de trenes BCP (sigla que representa Bateadora, Compactadora y Perfiladora).
+When analyses performed with monitoring vehicles detect that accumulated loss of leveling and alignment of a railway line approaches allowed critical thresholds, correction proceeds through coordinated utilization of BCP trains (acronym representing Tamper, Compactor and Profiler - Bateadora, Compactadora y Perfiladora).
 
-Un tren BCP típico está conformado por tres máquinas especializadas que trabajan de manera complementaria e integrada:
+A typical BCP train is conformed by three specialized machines working in complementary and integrated manner:
 
-- Una máquina Bateadora (con capacidades de nivelación y alineación) que corrige la geometría defectuosa.
-- Una máquina Compactadora que consolida el balasto después del bateado.
-- Una máquina Perfiladora que define y consolida la forma final de la banqueta.
+- A Tamping machine (with leveling and alignment capabilities) correcting defective geometry.
+- A Compacting machine consolidating ballast after tamping.
+- A Profiling machine defining and consolidating final shoulder shape.
 
-Estos trenes pueden operar en dos configuraciones distintas: en tajos sencillos donde trabaja un único tren BCP, o en tajos de gran rendimiento donde operan simultáneamente tres trenes BCP en el mismo segmento, dividiendo el tramo de vía a corregir en tres zonas de trabajo equivalentes que avanzan coordinadamente.
+These trains can operate in two distinct configurations: in simple sites where single BCP train works, or in high-yield sites where three BCP trains operate simultaneously in same segment, dividing track section to correct in three equivalent work zones advancing steadily.
 
-#### Parámetros operacionales de los trenes BCP:
+#### BCP trains operational parameters:
 
-Para ejecutar correctamente una operación de nivelación, se realiza típicamente un levantamiento de la vía entre 2 a 5 centímetros, lo que requiere una aportación de balasto nuevo entre 100 a 200 litros por metro lineal. Esta aportación preliminar de balasto se realiza previo al ciclo de bateado.
+To correctly execute leveling operation, typically track lifting between 2 to 5 centimeters is performed, requiring new ballast contribution between 100 to 200 liters per linear meter. This preliminary ballast contribution is performed prior to tamping cycle.
 
-Los trenes BCP requieren de 3 a 4 horas continuas de operación ininterrumpida para alcanzar productividad óptima. En líneas con tráfico de pasajeros, frecuentemente es necesario efectuar transbordes de servicios de viajeros para permitir esta continuidad. Por esta razón, en muchos casos se recurre a la estrategia de emplear tres trenes BCP operando en configuración de gran rendimiento, lo que reduce significativamente los tiempos de transborde requeridos. La productividad típica de un tren BCP operando en jornadas de duración variable es de aproximadamente 1500 metros diarios cuando se trabaja en ciclos de 3 a 4 horas.
+BCP trains require 3 to 4 hours of continuous uninterrupted operation to reach optimal productivity. In lines with passenger traffic, frequently transshipments of traveler services are necessary to allow this continuity. For this reason, in many cases strategy of employing three BCP trains operating in high-yield configuration is resorted to, significantly reducing required transshipment times. Typical productivity of BCP train operating in variable duration shifts is approximately 1500 daily meters when working in 3 to 4 hour cycles.
 
-Operaciones: Trabajos contínuos
+Operations: Continuous works
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DLYKn9yfCa8?si=JXVlHpTxjKM1y99M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### III.6. Operaciones: Desguarnecido de vía
+### III.6. Operations: Track Undercutting
 
-La operación de desguarnecido constituye el proceso de **extracción selectiva del material de balasto** de la vía sin efectuar desmantelamiento de los elementos estructurales principales. Con los equipos desguarnecedores especializados se ejecutan dos modalidades operacionales distintas:
+Undercutting operation constitutes process of **selective extraction of ballast material** from track without performing dismantling of main structural elements. With specialized undercutting equipment two distinct operational modalities are executed:
 
-- **Desguarnecido total:** Consiste en la extracción completa de todo el material de balasto presente en la vía, permitiendo posteriormente su sustitución por balasto de mejor calidad o generando las condiciones previas necesarias para una operación de levante de vía en contextos de renovación integral.
-- **Depuración de balasto o desguarnecido parcial:** Comprende un proceso de reciclaje mediante el cual se extrae todo el balasto, se lo somete a procesamiento de machacado y cribado, se descartan las fracciones excesivamente gruesas o finas así como los detritos contaminantes procedentes de la descomposición del material, y finalmente se reintroduce en la vía el balasto limpio y clasificado que resulta apto.
+- **Total undercutting:** Consists of complete extraction of all ballast material present in track, subsequently allowing its replacement by better quality ballast or generating necessary previous conditions for track lifting operation in integral renewal contexts.
+- **Ballast cleaning or partial undercutting:** Comprises recycling process through which all ballast is extracted, subjected to crushing and screening processing, excessively coarse or fine fractions as well as contaminating detritus proceeding from material decomposition are discarded, and finally clean and classified ballast resulting apt is reintroduced in track.
 
-Las máquinas desguarnecedoras están equipadas con una cadena sinfín provista de elementos batidores con puntas de acero al manganeso de alta dureza, que rompen progresivamente la banqueta de balasto ubicada debajo de las traviesas, transportando el material extraído hacia una tolva equipada con sistemas de cribas y clasificación. Estas máquinas poseen capacidad adicional para levantar y ripar la vía, machacar el balasto en su sistema interno, y en algunos casos avanzados, extienden capas de arena y geotextiles para sanear y mejorar la explanación de fundación.
+Undercutting machines are equipped with endless chain provided with tamping elements with high hardness manganese steel tips, aggressively breaking ballast shoulder located under sleepers, transporting extracted material towards hopper equipped with screening and classification systems. These machines possess additional capacity to lift and shift track, crush ballast in internal system, and in some advanced cases, spread sand and geotextile layers to sanitize and improve foundation subgrade.
 
-#### Desguarnecedora
+#### Undercutter
 
-Los componentes principales de una máquina desguarnecedora incluyen:
+Main components of undercutter machine include:
 
-1.- CADENA DE RECOGIDA Y ARRASTRE DEL BALASTO DE LA VIA: Sistema de transporte que extrae material.
-2.- MACHACADORA: Equipo que reduce el tamaño del balasto extraído.
-3.- CRIBADORA: Sistema de clasificación que separa fracciones según granulometría.
-4.- CINTA PRINCIPAL QUE TIRA EL DETRITO FUERA DE LA EXPLANACION: Transporta material rechazado fuera de la infraestructura.
-5.- TOLVA REPARTIDORA DEL BALASTO LIMPIO: Almacena balasto clasificado listo para redistribución.
-6.- REPARTIDOR CENTRAL: Distribuye balasto hacia la zona axial de la vía.
-7.- REPARTIDORES LATERALES: Distribuyen balasto hacia las zonas laterales de la banqueta.
+1.- TRACK BALLAST COLLECTION AND DRAG CHAIN: Transport system extracting material.
+2.- CRUSHER: Equipment reducing size of extracted ballast.
+3.- SCREENER: Classification system separating fractions according to granulometry.
+4.- MAIN BELT THROWING DETRITUS OUT OF SUBGRADE: Transports rejected material out of infrastructure.
+5.- CLEAN BALLAST DISTRIBUTING HOPPER: Stores classified ballast ready for redistribution.
+6.- CENTRAL DISTRIBUTOR: Distributes ballast towards track axial zone.
+7.- SIDE DISTRIBUTORS: Distribute ballast towards shoulder lateral zones.
 
-#### Parámetros de operación del desguarnecido:
+#### Undercutting operation parameters:
 
-El desguarnecido total requiere típicamente ser acompañado por operaciones complementarias de mejora de la explanación, incluyendo drenaje, saneamiento de suelo y otras medidas de acondicionamiento. La operación de desguarnecido demanda un intervalo de trabajo de aproximadamente 4 horas continuas, además de la implementación de restricciones de velocidad para el tráfico que pueda atravesar la zona durante los trabajos. Por esta razón, la planificación del intervalo de trabajo debe realizarse con análisis detallado de impactos operacionales.
+Total undercutting typically requires being accompanied by complementary operations of subgrade improvement, including drainage, soil sanitation and other conditioning measures. Undercutting operation demands work interval of approximately 4 continuous hours, besides implementation of speed restrictions for traffic potentially traversing zone during works. For this reason, work interval planning must be performed with detailed analysis of operational impacts.
 
-La productividad típica del desguarnecido oscila entre 400 a 800 metros por jornada de trabajo, dependiendo de las condiciones específicas del balasto y de la complejidad de los trabajos de acondicionamiento asociados.
+Typical undercutting productivity oscillates between 400 to 800 meters per work shift, depending on specific ballast conditions and complexity of associated conditioning works.
 
-Operaciones: Desguarnecido de vía
+Operations: Track Undercutting
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ay1CPC2NR1c?si=IAYh5Z54J9E-g1va" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Capítulo IV. Renovación de vía
+## Chapter IV. Track Renewal
 
-La renovación de infraestructuras ferroviarias constituye uno de los procesos más relevantes en la gestión del ciclo de vida de las vías, implicando decisiones estratégicas complejas, inversiones significativas e impactos operacionales considerables.
+Railway infrastructure renewal constitutes one of most relevant processes in track life cycle management, implying complex strategic decisions, significant investments and considerable operational impacts.
 
-### IV.1. Concepto de renovación de via:
+### IV.1. Concept of track renewal:
 
-Por **renovación de vía** se entiende un proceso integral cuyo propósito fundamental es **reemplazar de manera sistemática** los elementos constitutivos de la superestructura de la vía (carriles, traviesas, sujeciones y balasto), al tiempo que se acondiciona y mejora la infraestructura subyacente (explanación, drenaje) y su entorno (desmontes, terraplenes) para que sean capaces de cumplir con funciones típicamente más exigentes que las del establecimiento anterior, en términos de carga, velocidad o frecuencia de circulación.
+By **track renewal** is understood an integral process whose fundamental purpose is to **systematically replace** constitutive elements of track superstructure (rails, sleepers, fastenings and ballast), while conditioning and improving underlying infrastructure (subgrade, drainage) and its environment (cuttings, embankments) to be capable of complying with functions typically more demanding than previous establishment, in terms of load, speed or circulation frequency.
 {: .highlight }
 
-### IV.2. Causas:
+### IV.2. Causes:
 
-**Causas principales:** El envejecimiento progresivo de los componentes de la vía y sus elementos constitutivos (carriles deteriorados, traviesas fisuradas, balasto descompuesto) constituye la causa más frecuente que justifica la decisión de proceder a renovación integral de un segmento.
+**Main causes:** Progressive aging of track components and its constitutive elements (deteriorated rails, cracked sleepers, decomposed ballast) constitutes most frequent cause justifying decision to proceed to integral renewal of a segment.
 
-**Causas secundarias:** La necesidad de adaptar una línea existente a nuevos patrones de tráfico más exigentes (mayor velocidad, mayores cargas por eje, mayor frecuencia) representa otra motivación importante para acometer proyectos de renovación.
+**Secondary causes:** Need to adapt existing line to new more demanding traffic patterns (higher speed, higher axle loads, higher frequency) represents other important motivation to undertake renewal projects.
 
-**Consideraciones económicas y operacionales:** El costo elevado de ejecutar una renovación, así como el impacto disruptivo que genera en la explotación operativa de una línea (especialmente crítico en contextos de vía única sin alternativas de circulación), hacen que el análisis y la posterior decisión de renovar sean objeto de estudios técnico-económicos exhaustivos en la fase de evaluación preliminar.
+**Economic and operational considerations:** High cost of executing renewal, as well as disruptive impact generated on operation of a line (especially critical in single track contexts without circulation alternatives), make analysis and subsequent decision to renew object of exhaustive technical-economic studies in preliminary evaluation phase.
 
-Las gráficas adjuntas ilustran conceptualmente cómo se comporta el deterioro de una vía a lo largo de su vida útil bajo diferentes estrategias de mantenimiento:
+Attached graphs illustrate conceptually how track deterioration behaves throughout useful life under different maintenance strategies:
 
-- **a:** Límite mínimo admisible (límite de explotación) - umbral bajo el cual la vía no puede operar
-- **b:** Límite mínimo aceptable (límite de mantenimiento) - nivel a partir del cual se requieren intervenciones
-- **e:** Eficacia previsible de renovación - capacidad de restauración esperada
-- **X1, X2, X3:** Deterioro exponencial bajo diferentes condiciones de operación
-- **(1), (2), (3):** Ciclos de bateado preventivo
-- **d:** Alargamiento de vida útil debido a la estabilización dinámica después de mantenimiento
-- **AC:** Calidad inicial del bateado (depende de capacidad de máquinas)
-- **BC:** Asiento inicial causado por primeras circulaciones (depende de propiedades del balasto)
-- **AB:** Eficacia previsible del bateado (depende de diseño de carril, traviesas, tendido y condiciones del subsuelo)
-- **DE:** Asientos ahorrados por efecto de estabilización dinámica
+- **a:** Minimum admissible limit (operational limit) - threshold under which track cannot operate
+- **b:** Minimum acceptable limit (maintenance limit) - level from which interventions are required
+- **e:** Foreseeable renewal efficacy - expected restoration capacity
+- **X1, X2, X3:** Exponential deterioration under different operation conditions
+- **(1), (2), (3):** Preventive tamping cycles
+- **d:** Useful life lengthening due to dynamic stabilization after maintenance
+- **AC:** Initial tamping quality (depends on machine capacity)
+- **BC:** Initial settlement caused by first circulations (depends on ballast properties)
+- **AB:** Foreseeable tamping efficacy (depends on rail design, sleepers, laying and subsoil conditions)
+- **DE:** Settlements saved by dynamic stabilization effect
 
-**Restricciones operacionales de renovación:**
+**Renewal operational restrictions:**
 
-- Se favorece la ejecución de trabajos preferentemente durante horas diurnas
-- Se requieren trabajos previos de preparación y desmovilización
-- En casos de vía única renovada por fases, se implementan limitaciones de velocidad mientras continúan los trabajos
+- Execution of works preferably during daytime hours is favored
+- Previous preparation and demobilization works are required
+- In single track cases renewed by phases, speed limitations are implemented while works continue
 
-### IV.3. Pasos a seguir:
+### IV.3. Steps to follow:
 
-La secuencia constructiva de una renovación de vía comprende los siguientes pasos metodológicamente ordenados:
+Constructive sequence of track renewal comprises following methodologically ordered steps:
 
-1. **Replanteo de la vía:** Establecimiento de referencias geométricas y líneas de referencia para controlar la ejecución.
-2. **Recepción de los materiales:** Acopio verificado de todos los elementos nuevos (carriles, traviesas, sujeciones, balasto).
-3. **Levante y desguace de la vía antigua:** Extracción controlada de todos los componentes obsoletos para reciclaje o disposición.
-4. **Montaje de vía:** Posicionamiento e instalación de los nuevos elementos estructurales.
-5. **Aporte de balasto y perfilado:** Distribución del balasto nuevo y conformación de la banqueta.
-6. **Montaje y nivelación de los desvíos:** Instalación de aparatos de vía si es aplicable.
-7. **Primera nivelación:** Control geométrico preliminar tras el tendido.
-8. **Soldaduras:** Realización de soldaduras aluminotérmicas en juntas de carril si corresponde.
-9. **Segunda nivelación:** Ajuste geométrico final después de soldaduras.
-10. **Liberación de tensiones:** Alivio de tensiones residuales acumuladas en carriles continuos soldados.
+1. **Track staking:** Establishment of geometric references and reference lines to control execution.
+2. **Material reception:** Verified stockpiling of all new elements (rails, sleepers, fastenings, ballast).
+3. **Lifting and scrapping of old track:** Controlled extraction of all obsolete components for recycling or disposal.
+4. **Track assembly:** Positioning and installation of new structural elements.
+5. **Ballast contribution and profiling:** Distribution of new ballast and shoulder shaping.
+6. **Assembly and leveling of switches:** Installation of track devices if applicable.
+7. **First leveling:** Preliminary geometric control after laying.
+8. **Welding:** Execution of aluminothermic welds in rail joints if corresponding.
+9. **Second leveling:** Final geometric adjustment after welding.
+10. **Stress relieving:** Relief of accumulated residual stresses in continuous welded rails.
 
-### IV.4. Montaje de vía con materiales sueltos
+### IV.4. Track assembly with loose materials
 
-Este procedimiento tradicional de renovación se caracteriza por la disposición estratégica de materiales a lo largo del tramo de renovación, seguida de su incorporación progresiva mediante procedimientos de manejo manual y semi-mecanizado.
+This traditional renewal procedure is characterized by strategic disposition of materials along renewal section, followed by progressive incorporation through manual and semi-mechanized handling procedures.
 
-**Preparación y distribución de materiales:**
+**Preparation and material distribution:**
 
-Los materiales requeridos se distribuyen de manera ordenada en el tramo designado para renovación:
-- Las traviesas nuevas se apilan en uno de los laterales de la vía para acceso conveniente.
-- Los carriles se extienden a lo largo de ambos lados de la traza de vía, apoyados sobre la banqueta de balasto para facilitar su manipulación posterior.
-- Se mantiene disponible un tren de trabajo con plataformas vacías destinadas al transporte y retirada del material antiguo a medida que se desmonta.
+Required materials are distributed in orderly manner in section designated for renewal:
+- New sleepers are stacked on one of track sides for convenient access.
+- Rails are extended along both sides of track trace, supported on ballast shoulder to facilitate posterior manipulation.
+- Work train is kept available with empty platforms destined for transport and removal of old material as dismantled.
 
-**Secuencia operativa:**
+**Operational sequence:**
 
-- **Corte de vía:** Se realiza el corte de los carriles antiguos para facilitar su levante.
-- **Levante de vía antigua:** Se emplea pórticos de carga de capacidad apropiada para elevar la vía antigua completa y colocarla sobre el tren de retirada.
-- **Colocación de traviesas:** Se utiliza equipo retroexcavador especializado (denominado Vaiacar) para posicionar las traviesas nuevas en sus ubicaciones proyectadas con precisión geométrica.
-- **Colocación de carril:** Se instalan los carriles utilizando máquinas posicionadoras que aseguran la alineación precisa.
-- **Embridado:** Se colocan y aprietan los elementos de sujeción que fijan carriles a traviesas.
-- **Riego de balasto, perfilado, bateado y primera nivelación:** Se incorpora el balasto, se conforma la banqueta, se ejecuta el bateado de consolidación y se realiza un primer control geométrico.
-- **Comprobaciones geométricas y segunda nivelación:** Se efectúan mediciones de verificación y ajustes finales de geometría.
+- **Track cutting:** Cutting of old rails is performed to facilitate lifting.
+- **Old track lifting:** Portals of appropriate capacity are employed to elevate complete old track and place it on removal train.
+- **Sleeper placement:** Specialized backhoe equipment (called Vaiacar) is used to position new sleepers in projected locations with geometric precision.
+- **Rail placement:** Rails are installed using positioning machines ensuring precise alignment.
+- **Clipping:** Fastening elements fixing rails to sleepers are placed and tightened.
+- **Ballast watering, profiling, tamping and first leveling:** Ballast is incorporated, shoulder shaped, consolidation tamping executed and first geometric control performed.
+- **Geometric checks and second leveling:** Verification measurements and final geometry adjustments are effected.
 
-Renovación de vía
+Track renewal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pbf8uHLrvg0?si=XVnFMP01D22FM6LS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### IV.5. Montaje de vía con tren de renovacion rápida TRR
+### IV.5. Track assembly with rapid renewal train TRR
 
-El Tren de Renovación Rápida (TRR) constituye un sistema mecanizado avanzado que permite ejecutar operaciones de renovación de vía de manera expedita y con control de calidad elevado. Su capacidad operativa abarca múltiples funciones:
+Rapid Renewal Train (TRR) constitutes advanced mechanized system allowing execution of track renewal operations expeditiously and with high quality control. Its operational capacity spans multiple functions:
 
-#### Funciones que puede ejecutar el TRR:
-- Renovación integral de vía existente
-- Sustitución aislada de traviesas defectuosas
-- Sustitución selectiva de carriles deteriorados
-- Montaje de vía sobre plataformas completamente nuevas
-- Operaciones de mantenimiento pesado
+#### Functions TRR can execute:
+- Integral renewal of existing track
+- Isolated replacement of defective sleepers
+- Selective replacement of deteriorated rails
+- Track assembly on completely new platforms
+- Heavy maintenance operations
 
-#### Parámetros de rendimiento:
+#### Performance parameters:
 
-El rendimiento típico del TRR es de 100-200 metros por hora en operación normal, aunque este rendimiento es dependiente del tiempo requerido para efectuar cortes de vía y preparación de interfaces.
+Typical TRR performance is 100-200 meters per hour in normal operation, although this performance is dependent on time required to effect track cuts and interface preparation.
 
-#### Composición del sistema TRR:
+#### TRR system composition:
 
-El Tren de Renovación Rápida está integrado por los siguientes componentes principales:
-- **Vagón de manutención de traviesas:** Transporta y suministra traviesas en el frente de obra
-- **Grupo de trabajo:** Conjunto de máquinas especializadas que ejecutan las operaciones de renovación (amolado, bateado, nivelación, alineación)
-- **Vagón tractor:** Proporciona tracción al conjunto y potencia a los sistemas hidráulicos
+Rapid Renewal Train is integrated by following main components:
+- **Sleeper handling wagon:** Transports and supplies sleepers at work front
+- **Work group:** Set of specialized machines executing renewal operations (grinding, tamping, leveling, alignment)
+- **Tractor wagon:** Provides traction to assembly and power to hydraulic systems
 
-Este sistema integrado permite una ejecución coordinada y eficiente de todas las operaciones, reduciendo significativamente los tiempos de intervención comparado con metodologías convencionales de materiales sueltos.
+This integrated system allows coordinated and efficient execution of all operations, significantly reducing intervention times compared to conventional loose material methodologies.
 
-Renovación de vía
+Track renewal
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P4vrkyCafU8?si=oHUHvl-n8k2EopH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Capítulo V. Interferencias con la explotación
+## Chapter V. Interferences with operation
 
-El transporte ferroviario como sistema operativo posee características de rigidez operacional que lo distinguen de otros modos de transporte. Esta rigidez implica que la capacidad de vía es fija y que en cualquier operación de mantenimiento o construcción inevitablemente se generan interferencias con el tráfico regular. Esto hace necesario establecer protocolos cuidadosos de coordinación entre operaciones y explotación.
-**Definición de corte de vía:** Se entiende por **corte de vía** la **interrupción programada de las circulaciones ferroviarias** durante un período determinado y en un tramo concreto específico, con el propósito de permitir la ejecución de trabajos de mantenimiento, renovación o construcción que requieren acceso dedicado a la infraestructura.
+Railway transport as operating system possesses operational rigidity characteristics distinguishing it from other transport modes. This rigidity implies track capacity is fixed and in any maintenance or construction operation inevitably interferences with regular traffic are generated. This makes necessary establishing careful coordination protocols between maintenance works and operation.
+**Track possession (Corte de vía) definition:** By **track possession** is understood **scheduled interruption of railway circulations** during determined period and in specific concrete section, with purpose of allowing execution of maintenance, renewal or construction works requiring dedicated access to infrastructure.
 {: .highlight }
 
-**Organización del modelo ferroviario:**
+**Railway model organization:**
 
-La gestión de la explotación ferroviaria responde a modelos organizacionales que coordinan múltiples funciones desde la planificación comercial hasta la operación operacional en tiempo real.
+Railway operation management responds to organizational models coordinating multiple functions from commercial planning to real-time operation.
 ![0926790d03faee85f08e2fce13829da8_MD5]({{ site.baseurl }}/assets/images/0926790d03faee85f08e2fce13829da8_MD5.webp)
 
-### V.1. Zonas de trabajo:
+### V.1. Work zones:
 
-Para garantizar la seguridad durante las operaciones de mantenimiento y construcción, se definen zonas de trabajo con grados crecientes de riesgo:
+To guarantee safety during maintenance and construction operations, work zones with increasing degrees of risk are defined:
 
-- **Zona de seguridad:** Esta zona se extiende desde una línea paralela trazada a **más de 3 metros de distancia** desde el borde exterior de la cabeza del carril, hacia ambos lados de la vía. En esta zona pueden permanecer personas sin protecciones especiales durante circulaciones de vehículos ferroviarios.
+- **Safety zone:** This zone extends from parallel line traced at **more than 3 meters distance** from outer edge of rail head, towards both sides of track. In this zone people can remain without special protections during railway vehicle circulations.
 
-- **Zona de riesgo:** Comprende el espacio intermedio entre la zona de seguridad y la zona de peligro. En esta región existe **riesgo moderado de afectación** por la circulación ferroviaria, requiriéndose vigilancia y precauciones de seguridad.
+- **Risk zone:** Comprises intermediate space between safety zone and danger zone. In this region acts **moderate risk of affectation** by railway circulation, requiring surveillance and safety precautions.
 
-- **Zona de Peligro:** Esta es la zona de **máximo riesgo**, definida como aquella donde el personal, herramientas o materiales pueden ser potencialmente arrollados por circulaciones ferroviarias o expuestos a efectos de **succión-absorción** provocados por vehículos en movimiento. Abarca la caja de la vía y los espacios laterales comprendidos entre la cabeza del carril y una línea paralela trazada a **2 metros de distancia** hacia cada lado. Esta zona requiere protecciones especiales y bloqueo de circulaciones para trabajos intensivos.
+- **Danger zone:** This is zone of **maximum risk**, defined as that where personnel, tools or materials can be potentially run over by railway circulations or exposed to **suction-absorption** effects provoked by moving vehicles. Covers track box and lateral spaces included between rail head and parallel line traced at **2 meters distance** towards each side. This zone requires special protections and circulation blocking for intensive works.
 
-### V.2. Documentos contracturales en la gesti'on del corte:
+### V.2. Contractual documents in possession management:
 
-La coordinación efectiva entre operaciones de mantenimiento y explotación requiere de un conjunto de documentos normativos y de gestión:
+Effective coordination between maintenance operations and exploitation requires set of normative and management documents:
 
-- **Ley del sector ferroviario:** Marco legal fundamental que establece los principios y regulaciones bajo los cuales operan los ferrocarriles españoles, incluyendo derechos y obligaciones de operadores y usuarios.
+- **Railway Sector Law:** Fundamental legal framework establishing principles and regulations under which Spanish railways operate, including rights and obligations of operators and users.
 
-- **Normas RENFE de Vía (N.R.V.) o Normas ADIF de Vía (N.A.V.):** Normativa técnica de carácter mandatorio que especifica los parámetros técnicos, materiales y procedimientos constructivos que debe cumplir cualquier obra ferroviaria, garantizando compatibilidad y seguridad del sistema.
+- **RENFE Track Standards (N.R.V.) or ADIF Track Standards (N.A.V.):** Mandatory technical regulations specifying technical parameters, materials and constructive procedures any railway work must comply with, guaranteeing system compatibility and safety.
 
-- **Reglamento General de Circulación:** Documento exhaustivo que recopila todos los artículos necesarios para la circulación correcta y segura de trenes. Incluye especificaciones sobre señalización de la vía, condiciones técnicas de distintos tipos de cortes de vía, medios de seguridad adicionales requeridos, y procedimientos operativos. Se complementa operacionalmente con el Manual de Circulación.
+- **General Circulation Regulations:** Exhaustive document recompiling all necessary articles for correct and safe train circulation. Includes specifications on track signaling, technical conditions of distinct types of track possessions, additional safety means required, and operational procedures. Operationally complemented with Circulation Manual.
 
-- **Plan Marco:** Documento específico elaborado para cada obra ferroviaria individual. Es firmado conjuntamente por los responsables de Mantenimiento y de Circulación del área donde se ejecutan las obras. Define explícitamente los cortes de vía asignados para la obra, precauciones de velocidad aplicables, e identifica de manera pormenorizada las interferencias específicas entre explotación y construcción en ese tramo.
+- **Framework Plan:** Specific document elaborated for each individual railway work. Signed jointly by Maintenance and Circulation managers of area where works are executed. Explicitly defines track possessions assigned for work, applicable speed precautions, and identifies in detail specific interferences between exploitation and construction in that section.
 
-- **Tiempos TOC:** Parámetro establecido anualmente que representa los tiempos adicionales previstos para que los trenes absorban las demoras causadas por las precauciones requeridas durante las obras. El Plan Marco establece que no se pueden superar estos tiempos TOC asignados en los servicios de una línea determinada.
+- **TOC Times:** Parameter established annually representing additional times foreseen for trains to absorb delays caused by precautions required during works. Framework Plan establishes these assigned TOC times cannot be exceeded in services of determined line.
 
-Complementando los documentos de nivel estratégico, existen documentos operacionales de gestión táctica y operativa:
+Complementing strategic level documents, exist tactical and operational management operational documents:
 
-- **Consignas:** Documentos emitidos por la función de Circulación cada vez que se identifica una condición que afecta a la seguridad de la circulación o la integridad de instalaciones. Proporcionan instrucciones específicas que deben aplicarse de manera inmediata.
+- **Orders (Consignas):** Documents issued by Circulation function whenever condition affecting circulation safety or facility integrity is identified. Provide specific instructions must be applied immediately.
 
-- **Consignas Serie C:** Documentos de distribución mensual emitidos por Circulación que recopilan todas las precauciones que los maquinistas encontrarán a lo largo de una línea determinada durante ese mes, incluyendo trabajos en curso, restricciones temporales y condiciones especiales.
+- **Series C Orders:** Monthly distribution documents issued by Circulation recompiling all precautions drivers will encounter along determined line during that month, including works in progress, temporary restrictions and special conditions.
 
-- **Acta de trabajos:** Documento semanal elaborado por la función de Mantenimiento de Infraestructuras que documenta e identifica detalladamente los trayectos específicos donde se ejecutarán trabajos durante esa semana y qué tipo de trabajos se realizarán.
+- **Works Act:** Weekly document elaborated by Infrastructure Maintenance function documenting and identifying in detail specific paths where works will be executed during that week and what type of works will be performed.
 
-- **Programación de los trabajos:** Documento semanal emitido por la empresa constructora responsable de las obras, que detalla el Plan de Obra, necesidades de personal especializado, requerimientos de maquinaria, y afecciones previstas a la circulación durante esa semana.
+- **Work Scheduling:** Weekly document issued by construction company responsible for works, detailing Work Plan, specialized personnel needs, machinery requirements, and foreseen affections to circulation during that week.
 
-- **Diagrama de Capacidad de la Línea:** Herramienta gráfica tipo espacio-tiempo que refleja esquemáticamente la circulación de todos los trenes programados en una línea. Es particularmente importante para solicitar cortes de vía, ya que en él quedan claramente identificados los intervalos horarios en los que no hay circulaciones y, por lo tanto, son disponibles para trabajos.
+- **Line Capacity Diagram:** Graphic tool time-space type reflecting schematically circulation of all trains scheduled on line. Particularly important for requesting track possessions, since in it are clearly identified time intervals where there are no circulations and, therefore, are available for works.
 
-### V.3. Tipos de corte de vía
+### V.3. Track possession types
 
-Existen varios regímenes operacionales para ejecutar trabajos en infraestructura ferroviaria, cada uno con características, requisitos y restricciones específicas:
+Several operational regimes exist to execute works on railway infrastructure, each with specific characteristics, requirements and restrictions:
 
-- **Régimen de interrupción de la circulación:** Este régimen contempla la interrupción completa de circulaciones durante intervalos horarios previamente programados, según especificaciones del Plan Marco. El bloqueo se formaliza entregando la vía al inicio del intervalo y devolviéndola al término del mismo, realizando estas transferencias en estaciones colaterales establecidas. Este régimen permite trabajos intensivos con protecciones reducidas.
+- **Circulation interruption regime:** This regime contemplates complete interruption of circulations during previously scheduled time intervals, according to Framework Plan specifications. Blocking is formalized delivering track at beginning of interval and returning it at end of same, performing these transfers in established collateral stations. This regime allows intensive works with reduced protections.
 
-- **Régimen de liberación por tiempos:** Bajo este régimen, los trabajos se ejecutan durante los intervalos temporales disponibles entre circulaciones de trenes. Constituye un régimen de alto riesgo operacional, ya que requiere vigilancia permanente y capacidad de reacción rápida. El Reglamento General de Circulación impone que debe mantenerse comunicación permanente con las estaciones colaterales o con la central de tráfico (CTC) para coordinar movimientos de trenes.
+- **Time liberation regime:** Under this regime, works are executed during available time intervals between train circulations. Constitutes high operational risk regime, since it requires permanent surveillance and rapid reaction capacity. General Circulation Regulations impose permanent communication must be maintained with collateral stations or traffic control center (CTC) to coordinate train movements.
 
-- **Corte permanente en vía doble:** Cuando la infraestructura de vía doble lo permite, se puede establecer un corte permanente de una de las vías durante toda la duración del proyecto de obras, permitiendo trabajar 24 horas. En este caso, se trabaja como si se estuviera en zona de riesgo con régimen de liberación por tiempos, requiriéndose detener los trabajos en los momentos en que circulan trenes por la vía adyacente en servicio. Obligatoriamente se debe disponer de un sistema de Bloqueo Automático de Bloqueo (BAB) activado.
+- **Permanent possession in double track:** When double track infrastructure permits, permanent possession of one of tracks can be established during entire duration of work project, allowing working 24 hours. In this case, work proceeds as if in risk zone with time liberation regime, requiring stopping works at moments trains circulate on adjacent service track. Obligatorily must possess Automatic Block System (BAB) activated.
 
-- **Trabajo en estaciones:** Las operaciones en estaciones pueden ejecutarse bajo régimen de interrupción de circulación o bajo régimen de corte permanente de vía, según las necesidades. En cualquier caso, se deben implementar protecciones específicas: inmovilización física de agujas en posiciones que impidan acceso a vía cortada, ocupación del circuito de vía mediante dispositivos en cuadros de mando o utilizando herramientas de cortocircuito, y en casos donde no sea posible bloquear físicamente las agujas, instalación de señales de parada de carácter restrictivo.
+- **Work in stations:** Operations in stations can be executed under circulation interruption regime or under permanent track possession regime, according to needs. In any case, specific protections must be implemented: physical immobilization of switches in positions preventing access to possessed track, track circuit occupation through devices in control panels or utilizing short-circuit tools, and in cases where generally not possible to physically block switches, installation of restrictive stop signals.
 
-## Preguntas de repaso
+## Review Questions
 
 <div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
-   question="¿En qué se diferencia el mantenimiento preventivo del mantenimiento correctivo?"
-   answer="El **preventivo** se anticipa al fallo mediante inspecciones sistemáticas, mientras que el **correctivo** actúa para reparar averías una vez que se han producido."
+   question="How does preventive maintenance differ from corrective maintenance?"
+   answer="**Preventive** anticipates failure through systematic inspections, while **corrective** acts to repair breakdowns once they have occurred."
 %}
 {% include flashcard.html
-   question="¿Qué función principal tiene la operación de amolado de carriles?"
-   answer="Eliminar defectos superficiales y la película de acero descarburado, retrasando la aparición del **desgaste ondulatorio** y mejorando el contacto rueda-carril."
+   question="What is the main function of rail grinding operation?"
+   answer="Eliminate surface defects and decarburized steel film, delaying appearance of **corrugation** and improving wheel-rail contact."
 %}
 {% include flashcard.html
-   question="¿Qué maquinaria compone un tren BCP y cuál es su finalidad?"
-   answer="Lo forman una **Bateadora**, una **Compactadora** y una **Perfiladora**. Se utilizan coordinadamente para corregir la geometría de la vía y consolidar el balasto."
+   question="What machinery makes up a BCP train and what is its purpose?"
+   answer="It is formed by a **Tamper**, a **Compactor** and a **Profiler**. They are used coordinately to correct track geometry and consolidate ballast."
 %}
 {% include flashcard.html
-   question="¿Qué es el Tren de Renovación Rápida (TRR)?"
-   answer="Es un sistema mecanizado capaz de sustituir carriles y traviesas de forma integral con un rendimiento típico de **100 a 200 metros/hora**."
+   question="What is the Rapid Renewal Train (TRR)?"
+   answer="It is a mechanized system capable of replacing rails and sleepers integrally with typical performance of **100 to 200 meters/hour**."
 %}
 {% include flashcard.html
-   question="¿Qué se entiende por \"Corte de Vía\"?"
-   answer="Es la **interrupción programada** de la circulación en un tramo determinado para permitir la ejecución de trabajos de mantenimiento o construcción sin riesgo."
+   question="What is meant by \"Track Possession\" (Corte de Vía)?"
+   answer="It is the **scheduled interruption** of circulation in a determined section to allow execution of maintenance or construction works without risk."
 %}
 </div>
 
-## Bibliografía
+## Bibliography
 
 - Díaz de Villegas, J.M. (2003) Ferrocarriles. Apuntes de clase. E.T.S. Ing. Caminos, Canales y Puertos Santander.
 - García Álvarez, A. (2022) Manual de ferrocarriles. El sistema ferroviario español. Ed. Garceta.
 - Lichtberger, B. (2011) Manual de vía. Infraestructura, superestructura, conservación, rentabilidad. Eurail Press.
 - Villaronte Fernández-Villa, J.A. (2009) Ingeniería y Tecnología Ferroviaria - Tecnología de la vía. Delta Publicaciones.
 - Adif: normativa técnica: http://descargas.adif.es/ade/u18/GCN/ NormativaTecnica.nsf
-
