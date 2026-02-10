@@ -703,7 +703,7 @@ La evolución tecnológica continua, evidenciada en el desarrollo de sistemas co
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Cómo se define el concepto de **riesgo** en el ámbito de la seguridad ferroviaria?"
    answer="Como la combinación resultante entre la **probabilidad** de ocurrencia de un accidente y la **severidad del daño** que este podría ocasionar."

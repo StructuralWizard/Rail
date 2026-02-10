@@ -618,7 +618,7 @@ Entre los defectos documentados encontramos:
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Cuáles son las funciones principales de los sistemas de sujeción?"
    answer="Mantener unidos el carril y la traviesa, absorber cargas dinámicas, preservar la geometría/ancho de vía, evitar el vuelco del carril y proporcionar aislamiento eléctrico."

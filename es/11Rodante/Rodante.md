@@ -1030,7 +1030,7 @@ Ambas series incorporan:
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Cuál es la diferencia fundamental entre trenes de tracción concentrada y trenes de tracción distribuida?"
    answer="En la **tracción concentrada**, la motricidad reside en locomotoras independientes; en la **tracción distribuida**, los motores se reparten a lo largo de coches-motor en la composición (ej. Civia, Alaris)."

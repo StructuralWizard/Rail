@@ -251,7 +251,7 @@ El proyecto de ADIF, en su concepción moderna, trasciende el plano constructivo
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Qué principio fundamental debe cumplir todo proyecto de ADIF para garantizar su funcionalidad operativa?"
    answer="El principio de **\"obra completa\"**, que implica definir todas las actuaciones necesarias para que la infraestructura sea funcional al finalizar."

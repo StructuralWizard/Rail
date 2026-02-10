@@ -297,7 +297,7 @@ Estas dos soluciones tecnológicas representan los paradigmas principales en la 
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Qué es el piquete de entrevía y qué implicación tiene en la longitud de vía?"
    answer="Es el punto límite entre dos vías convergentes a partir del cual las composiciones colisionarían. Su posición determina una **pérdida de vía útil**."

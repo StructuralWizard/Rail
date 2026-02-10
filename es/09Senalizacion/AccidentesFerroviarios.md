@@ -211,7 +211,7 @@ En resumen, los diez accidentes ferroviarios más graves de la historia han deja
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Qué sistema se implementó a nivel global tras el desastre del Tsunami en Sri Lanka (2004)?"
    answer="El **IOTWMS** (Sistema de Alerta y Mitigación de Tsunamis) y protocolos de frenado automático ante sismos."

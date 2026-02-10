@@ -831,7 +831,7 @@ En el horizonte de este siglo XXI, el ferrocarril es especialmente adecuado para
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Cuáles fueron las tres innovaciones tecnológicas principales que permitieron el surgimiento del ferrocarril moderno?"
    answer="La rueda (dispositivo de rotación), el carril (estructura de guiado) y la locomotora de vapor (máquina motriz)."

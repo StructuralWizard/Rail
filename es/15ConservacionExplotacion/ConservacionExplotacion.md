@@ -436,7 +436,7 @@ Existen varios regímenes operacionales para ejecutar trabajos en infraestructur
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿En qué se diferencia el mantenimiento preventivo del mantenimiento correctivo?"
    answer="El **preventivo** se anticipa al fallo mediante inspecciones sistemáticas, mientras que el **correctivo** actúa para reparar averías una vez que se han producido."

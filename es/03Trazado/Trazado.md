@@ -970,7 +970,7 @@ La normativa técnica de ADIF especifica que la longitud mínima admisible para 
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Qué función principal cumple el peralte en una curva ferroviaria?"
    answer="Elevar el carril exterior respecto al interior para reorientar la resultante de fuerzas y eliminar la aceleración lateral."

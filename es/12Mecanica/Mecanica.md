@@ -969,7 +969,7 @@ Específicamente en contextos de desvíos y cruzamientos, el valor del factor cr
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Qué representa físicamente el módulo de la vía K?"
    answer="Representa la **magnitud de carga** que, al actuar uniforme y continuadamente sobre el carril, genera un desplazamiento vertical unitario."

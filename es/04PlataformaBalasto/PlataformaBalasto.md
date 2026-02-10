@@ -625,7 +625,7 @@ El espesor y las características del subbalasto están condicionados por múlti
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Qué se entiende por \"explanación\" en ingeniería ferroviaria?"
    answer="Es la franja de terreno modificada topográficamente (mediante desmontes o terraplenes) sobre la cual se asienta la infraestructura ferroviaria."

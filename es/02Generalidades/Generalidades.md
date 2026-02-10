@@ -578,7 +578,7 @@ En líneas de Alta Velocidad, estos parámetros deben ser revisados y ampliados 
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Cuáles son los dos componentes principales que conforman la estructura de una vía férrea?"
    answer="La **infraestructura** (plataforma o lecho de apoyo) y la **superestructura** (elementos de rodadura y fijación como carriles, traviesas y balasto)."

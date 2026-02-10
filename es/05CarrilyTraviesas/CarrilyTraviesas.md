@@ -657,7 +657,7 @@ Los esquemas técnicos que figuran a continuación muestran las diversas configu
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Cuáles son los tres elementos fundamentales que componen la superestructura ferroviaria?"
    answer="La superestructura está formada por los **carriles** (guía y rodadura), las **traviesas** (elementos transversales que mantienen el ancho) y el **balasto** (lecho elástico que distribuye las cargas)."

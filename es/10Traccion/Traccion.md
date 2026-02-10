@@ -1287,7 +1287,7 @@ Para mitigar los efectos perjudiciales del desgaste localizado excesivo en los e
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Cuál es la ecuación fundamental del movimiento longitudinal de un tren?"
    answer="Es $$E-R=\frac{P}{g} \cdot \gamma$$, donde **E** es el esfuerzo de tracción, **R** las resistencias, **P** el peso y **$$\gamma$$** la aceleración."

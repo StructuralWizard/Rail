@@ -752,7 +752,7 @@ Este código corresponde a un desvío sencillo de ancho RENFE (vía estrecha), a
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Cómo se definen los **aparatos de vía** en ingeniería ferroviaria?"
    answer="Son dispositivos especializados que garantizan la continuidad operacional en los puntos donde se conectan distintas trayectorias, permitiendo la conexión y cruce de vías con seguridad."

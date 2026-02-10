@@ -739,7 +739,7 @@ Nota técnica: Los valores presentados constituyen estimaciones de referencia pa
 
 ## Preguntas de repaso
 
-<div class="flashcard-container">
+<div class="flashcard-container" onclick="void(0)" ontouchstart="">
 {% include flashcard.html
    question="¿Qué define fundamentalmente a un sistema de vía en placa frente a la vía convencional?"
    answer="La sustitución del **balasto** por capas de materiales estructurales (hormigón o asfalto) que aportan soporte continuo y mayor rigidez."
