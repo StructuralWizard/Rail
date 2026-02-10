@@ -1,6 +1,7 @@
 title: 10 Dias De Python con IA
 description: Una guía de inicio rápido para programadores de Vibe sin experiencia en codificación
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://just-the-docs.github.io
 baseurl: "/Rail" # Use this for production
@@ -11,6 +12,9 @@ aux_links:
   #"Español": "/Rail/es/" # /es/ to work in local and /Rail/es/ to work in GitHub Pages
 
 permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
 
 # External navigation links
 nav_external_links:
