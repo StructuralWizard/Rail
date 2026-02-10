@@ -25,13 +25,14 @@ parent: Inicio
 
 Dentro del contexto de la ingeniería ferroviaria, la explanación constituye el espacio territorial, ya sea de origen natural o sometido a procesos de preparación, que ha sido concebido específicamente para albergar el conjunto integral de componentes ferroviarios (infraestructura de vías, sistemas de electrificación, instalaciones edilicias y demás estructuras complementarias). 
 
-Cuando se examina una sección específica de la vía férrea en su trayecto operacional, se denomina explanación a aquel segmento del terreno delimitado por los límites externos de las obras de tierra que constituyen el sistema de soporte fundamental del ferrocarril. Es importante destacar que esta definición conceptual no aplica a zonas especiales como túneles, puentes, viaductos y complejos de estaciones, los cuales presentan características constructivas y funcionales distintas.
+Cuando se examina una sección específica de la vía férrea en su trayecto operacional, se denomina **explanación** a aquel segmento del terreno delimitado por los límites externos de las **obras de tierra** que constituyen el sistema de soporte fundamental del ferrocarril. Es importante destacar que esta definición conceptual no aplica a zonas especiales como túneles, puentes, viaductos y complejos de estaciones, los cuales presentan características constructivas y funcionales distintas.
+{: .highlight }
 
 ### I.1. Protección Legal de la Explanación
 
 En el contexto internacional, es práctica común que los diversos estados implementen mecanismos legales y administrativos para proteger tanto al sistema ferroviario como a otros modos de transporte, extendiendo particularmente esta protección al dominio territorial que constituye la explanación. 
 
-En el caso específico de España, esta protección se materializa a través de dos instrumentos legislativos fundamentales: la Ley de Ordenación del Transporte Terrestre (LOTT) promulgada el 30 de julio de 1987, complementada posteriormente por su Reglamento de desarrollo (RLOTT) de fecha 28 de septiembre de 1990. Estos marcos normativos establecen criterios técnicos y administrativos que permiten una regulación ordenada del dominio ferroviario. La legislación vigente define conceptualmente la explanación en los siguientes términos, según lo establecido en el artículo 280 del RLOTT:
+En el caso específico de España, esta protección se materializa a través de dos instrumentos legislativos fundamentales: la **Ley de Ordenación del Transporte Terrestre (LOTT)** promulgada el 30 de julio de 1987, complementada posteriormente por su **Reglamento de desarrollo (RLOTT)** de fecha 28 de septiembre de 1990. Estos marcos normativos establecen criterios técnicos y administrativos que permiten una regulación ordenada del dominio ferroviario. La legislación vigente define conceptualmente la explanación en los siguientes términos, según lo establecido en el artículo 280 del RLOTT:
 
 ![8c863605b1ad407effe9f269b26a5a3a_MD5]({{ site.baseurl }}/assets/images/8c863605b1ad407effe9f269b26a5a3a_MD5.webp)
 Zonas de protección de la explanación (según LOTT y RLOTT). [Ministerio de Transportes, movilidad y agenda urbana, 2022](https://www.vitoria-gasteiz.org/docs/wb021/contenidosEstaticos/adjuntos/es/06/40/100640.pdf)
@@ -42,7 +43,7 @@ A fin de materializar eficazmente la defensa del dominio ferroviario, las normat
 
 ### I.2. ZONA DE DOMINIO PUBLICO
 
-La Zona de Dominio Público se configura como el espacio territorial que comprende la explanación propiamente dicha más una franja perimetral de ocho metros de ancho que se proyecta linealmente a ambos lados de esta última. Dentro de los límites de la Zona de Dominio Público, se prohíbe expresamente la realización de cualquier tipo de actividad comercial, construcción de obras civiles o instalación de infraestructuras de naturaleza diversa. Sin embargo, se exceptúan de esta prohibición general aquellas estructuras cuya finalidad específica es la protección y preservación de la propia red ferroviaria y sus elementos constitutivos.
+La **Zona de Dominio Público** se configura como el espacio territorial que comprende la explanación propiamente dicha más una franja perimetral de **ocho metros** de ancho que se proyecta linealmente a ambos lados de esta última. Dentro de los límites de la **Zona de Dominio Público**, se prohíbe expresamente la realización de cualquier tipo de actividad comercial, construcción de obras civiles o instalación de infraestructuras de naturaleza diversa. Sin embargo, se exceptúan de esta prohibición general aquellas estructuras cuya finalidad específica es la protección y preservación de la propia red ferroviaria y sus elementos constitutivos.
 
 ### I.3. Protección Legal de la Explanación
 
@@ -54,15 +55,15 @@ El marco regulatorio para la protección de la explanación ferroviaria se suste
 
 ![eeef5182fb725aac03d2335033c5ad48_MD5]({{ site.baseurl }}/assets/images/eeef5182fb725aac03d2335033c5ad48_MD5.webp)
 
-Dentro de estas normativas se establecen definiciones precisas de los elementos constitutivos del dominio ferroviario: La EXPLANACIÓN se define como aquella franja de terreno sobre la cual se ha modificado la topografía natural del suelo y que sirve de base para la construcción de la línea férrea, la disposición de sus elementos funcionales y la ubicación de sus instalaciones complementarias. La ARISTA EXTERIOR DE LA EXPLANACIÓN, por su parte, representa la línea imaginaria que marca la intersección entre el pie del talud del terraplén, o alternativamente la línea de coronación de trinchera o desmonte, o en su caso, los muros de sostenimiento con el terreno natural circundante.
+Dentro de estas normativas se establecen definiciones precisas de los elementos constitutivos del dominio ferroviario: La **EXPLANACIÓN** se define como aquella franja de terreno sobre la cual se ha modificado la topografía natural del suelo y que sirve de base para la construcción de la línea férrea, la disposición de sus elementos funcionales y la ubicación de sus instalaciones complementarias. La **ARISTA EXTERIOR DE LA EXPLANACIÓN**, por su parte, representa la línea imaginaria que marca la intersección entre el pie del talud del terraplén, o alternativamente la línea de coronación de trinchera o desmonte, o en su caso, los muros de sostenimiento con el terreno natural circundante.
 
 #### I.3.1. ZONA DE SERVIDUMBRE
 
-La Zona de Servidumbre se configura como un área territorial dividida en dos franjas paralelas, ubicadas en ambos costados de la línea férrea. Estas franjas presentan un límite interior marcado por la Zona de Dominio Público y se extienden hacia el exterior hasta alcanzar dos líneas imaginarias que corren paralelas a las aristas exteriores de la explanación, situadas a una distancia de veinte metros de dichas aristas. Dentro de los límites de esta zona, las actividades que se deseen realizar requieren de autorización expresa de la compañía explotadora del ferrocarril, y solamente pueden efectuarse en aquellos casos en los que tal ejecución no implique una cesión o transferencia de derechos ferroviarios fundamentales.
+La **Zona de Servidumbre** se configura como un área territorial dividida en dos franjas paralelas, ubicadas en ambos costados de la línea férrea. Estas franjas presentan un límite interior marcado por la **Zona de Dominio Público** y se extienden hacia el exterior hasta alcanzar dos líneas imaginarias que corren paralelas a las aristas exteriores de la explanación, situadas a una distancia de **veinte metros** de dichas aristas. Dentro de los límites de esta zona, las actividades que se deseen realizar requieren de autorización expresa de la compañía explotadora del ferrocarril, y solamente pueden efectuarse en aquellos casos en los que tal ejecución no implique una cesión o transferencia de derechos ferroviarios fundamentales.
 
 #### I.3.2. ZONA DE AFECCIÓN
 
-La Zona de Afección constituye un área territorial complementaria formada por dos bandas laterales adicionales, cuyo límite exterior se marca mediante líneas paralelas al borde perimetral de la explanación, distanciadas cincuenta metros de estos bordes. En el caso de que se pretenda desarrollar trabajos, ejecutar obras civiles u otras actividades dentro de esta zona de afección, resulta imperativo obtener la autorización previa de la Compañía Ferroviaria responsable de la explotación de la línea. Una característica diferenciadora importante es que el nivel de exigencia regulatoria y administrativa que la administración estatal e incluso las propias compañías ferroviarias ejercen en esta Zona de Afección resulta considerablemente menor comparado con las restricciones y controles aplicables en la Zona de Servidumbre, permitiendo así un régimen más flexible en la gestión de actividades en este espacio territorial.
+La **Zona de Afección** constituye un área territorial complementaria formada por dos bandas laterales adicionales, cuyo límite exterior se marca mediante líneas paralelas al borde perimetral de la explanación, distanciadas **cincuenta metros** de estos bordes. En el caso de que se pretenda desarrollar trabajos, ejecutar obras civiles u otras actividades dentro de esta **zona de afección**, resulta imperativo obtener la autorización previa de la Compañía Ferroviaria responsable de la explotación de la línea. Una característica diferenciadora importante es que el nivel de exigencia regulatoria y administrativa que la administración estatal e incluso las propias compañías ferroviarias ejercen en esta Zona de Afección resulta considerablemente menor comparado con las restricciones y controles aplicables en la Zona de Servidumbre, permitiendo así un régimen más flexible en la gestión de actividades en este espacio territorial.
 
 ### I.4. Dimensiones de la Explanación
 
@@ -88,7 +89,8 @@ En la práctica constructiva ferroviaria contemporánea se reconoce un principio
 
 ## Capítulo II Plataforma
 
-La plataforma constituye el estrato más profundo de la infraestructura vial, funcionando como el elemento estructural responsable de absorber, distribuir y resistir de manera definitiva todos los esfuerzos mecánicos generados por la dinámica de circulación de los trenes, así como por el propio peso de la superestructura de vía que descansa sobre ella.
+La **plataforma** constituye el **estrato más profundo** de la infraestructura vial, funcionando como el elemento estructural responsable de absorber, distribuir y resistir de manera definitiva todos los esfuerzos mecánicos generados por la dinámica de circulación de los trenes, así como por el propio peso de la superestructura de vía que descansa sobre ella.
+{: .highlight }
 
 Desde una perspectiva de clasificación constructiva, es posible categorizar la plataforma según su naturaleza y proceso de conformación en tres tipologías fundamentales:
 
@@ -101,9 +103,9 @@ Estas tres categorías representan distintos niveles de complejidad constructiva
 
 
 ### II.1. Misiones de la Plataforma
+**capacidad de carga** y **resistencia mecánica** suficiente para soportar tanto los esfuerzos estáticos originados por el peso propio de la superestructura y su contenido, como los esfuerzos dinámicos derivados de la circulación de los trenes, con sus correspondientes cargas impulsivas y vibratorias.
 
-La plataforma ferroviaria cumple con una serie de funciones técnicas críticas que son esenciales para el correcto desempeño del sistema completo de vía. Su misión principal consiste en proporcionar capacidad de carga y resistencia mecánica suficiente para soportar tanto los esfuerzos estáticos originados por el peso propio de la superestructura y su contenido, como los esfuerzos dinámicos derivados de la circulación de los trenes, con sus correspondientes cargas impulsivas y vibratorias.
-
+Adicionalmente, la plataforma debe cumplir una **función hidráulica fundamental**
 Adicionalmente, la plataforma debe cumplir una función hidráulica fundamental: evacuar eficientemente las aguas que de otro modo se infiltrarían y permanecerían en contacto prolongado con la banqueta y la propia plataforma, causando daños significativos. La presencia de agua en la estructura de la plataforma genera múltiples efectos perjudiciales que comprometen su durabilidad y funcionalidad:
 
 - **Expansión de arcillas**: La presencia de agua provoca la expansión volumétrica incontrolada de materiales arcillosos, simultáneamente contaminando las capas de balasto con finos que cierran los intersticios.
@@ -168,9 +170,9 @@ La solución de estos problemas críticos requiere:
 
 En el proceso de diseño y especificación de la plataforma más apropiada para una nueva línea férrea, es imprescindible recopilar y analizar un conjunto de datos técnicos fundamentales que determinarán las características de la solución constructiva:
 
-- **Calidad geotécnica del suelo natural existente**: Determinación mediante estudios estratigráficos de la capacidad portante y características de compresibilidad del terreno
+- **Calidad geotécnica del suelo natural existente**: Determinación mediante estudios estratigráficos de la **capacidad portante** y características de compresibilidad del terreno
 - **Categoría técnica de la línea a construir**: Función de la velocidad máxima de operación prevista y del volumen de tráfico que se espera
-- **Capacidad portante deseada**: El valor del índice CBR (California Bearing Ratio) objetivo para la plataforma terminada
+- **Capacidad portante deseada**: El valor del índice **CBR (California Bearing Ratio)** objetivo para la plataforma terminada
 
 **1. Determinación de la calidad del suelo:**
 
@@ -189,13 +191,13 @@ Las líneas ferroviarias se clasifican en categorías conforme al volumen de tr�
 
 | CATEGORIA |  | TRAFICO FICTICIO DIARIO |
 | :--- | :--- | :--- |
-| 1 | A | $85.000 \geq \mathrm{Tf} \geq 50.000$ |
-|  | B | $50.000>\mathrm{Tf} \geq 28.000$ |
-|  | C | $28.000>\mathrm{Tf} \geq 14.000$ |
-| 2 |  | $14.000>\mathrm{Tf} \geq 7.000$ |
-| 3 | A | $7.000>\mathrm{Tf} \geq 3.500$ |
-|  | B | $3.500>\mathrm{Tf} \geq 1.500$ |
-| 4 |  | $1.500 \geq \mathrm{Tf}$ |
+| 1 | A | $$85.000 \geq \mathrm{Tf} \geq 50.000$$ |
+|  | B | $$50.000>\mathrm{Tf} \geq 28.000$$ |
+|  | C | $$28.000>\mathrm{Tf} \geq 14.000$$ |
+| 2 |  | $$14.000>\mathrm{Tf} \geq 7.000$$ |
+| 3 | A | $$7.000>\mathrm{Tf} \geq 3.500$$ |
+|  | B | $$3.500>\mathrm{Tf} \geq 1.500$$ |
+| 4 |  | $$1.500 \geq \mathrm{Tf}$$ |
 
 El cálculo del tráfico ficticio diario se realiza mediante la siguiente expresión normalizada:
 
@@ -203,30 +205,30 @@ $$T_{f}=\left(T_{v}+T_{m} \cdot K_{m}+T_{t} \cdot K_{t}\right) \cdot S$$
 
 Donde los parámetros se definen conforme a:
 
-- $\mathrm{T}_{v}$ = Volumen anual de tráfico de viajeros expresado en toneladas equivalentes
-- $\mathrm{T}_{\mathrm{m}}$ = Volumen anual de tráfico de mercancías en toneladas
-- $\mathrm{T}_{\mathrm{t}}$ = Volumen anual de tráfico de locomotoras de tracción en toneladas
-- $\mathrm{K}_{\mathrm{m}}$ = Coeficiente de mayoración por características del tráfico de mercancías. Su valor estándar es 1,15; salvo para vías que soportan tráfico preponderante de ejes de 20 toneladas, en que adopta el valor de 1,30
-- $\mathrm{K}_{\mathrm{t}}$ = Coeficiente de mayoración por circulación de locomotoras de tracción (factor fijo de 1,40)
-- $\mathrm{S}$ = Coeficiente adimensional de calidad de la vía que varía de 1,00 a 1,25, determinado según:
-  - $S=1,00$ para líneas sin tráfico de viajeros o con tráfico esencialmente local
-  - $S=1,10$ para líneas cuyo tráfico de viajeros utiliza trenes de velocidad máxima $\leq 120 \mathrm{Km} / \mathrm{h}$
-  - $S=1,20$ para líneas cuyo tráfico de viajeros utiliza trenes con velocidades comprendidas en el rango $120<v \leq 140 \mathrm{Km} / \mathrm{h}$
-  - $S=1,25$ para líneas cuyo tráfico de viajeros utiliza trenes con velocidad máxima $>140 \mathrm{Km} / \mathrm{h}$
+- $$\mathrm{T}_{v}$$ = Volumen anual de tráfico de viajeros expresado en toneladas equivalentes
+- $$\mathrm{T}_{\mathrm{m}}$$ = Volumen anual de tráfico de mercancías en toneladas
+- $$\mathrm{T}_{\mathrm{t}}$$ = Volumen anual de tráfico de locomotoras de tracción en toneladas
+- $$\mathrm{K}_{\mathrm{m}}$$ = Coeficiente de mayoración por características del tráfico de mercancías. Su valor estándar es 1,15; salvo para vías que soportan tráfico preponderante de ejes de 20 toneladas, en que adopta el valor de 1,30
+- $$\mathrm{K}_{\mathrm{t}}$$ = Coeficiente de mayoración por circulación de locomotoras de tracción (factor fijo de 1,40)
+- $$\mathrm{S}$$ = Coeficiente adimensional de calidad de la vía que varía de 1,00 a 1,25, determinado según:
+  - $$S=1,00$$ para líneas sin tráfico de viajeros o con tráfico esencialmente local
+  - $$S=1,10$$ para líneas cuyo tráfico de viajeros utiliza trenes de velocidad máxima $$\leq 120 \mathrm{Km} / \mathrm{h}$$
+  - $$S=1,20$$ para líneas cuyo tráfico de viajeros utiliza trenes con velocidades comprendidas en el rango $$120<v \leq 140 \mathrm{Km} / \mathrm{h}$$
+  - $$S=1,25$$ para líneas cuyo tráfico de viajeros utiliza trenes con velocidad máxima $$>140 \mathrm{Km} / \mathrm{h}$$
 
 **3. Elección de la capacidad portante:**
 
 Conforme a la capacidad portante que se desea obtener en el suelo tratado, se clasifican las diferentes opciones de plataforma en tres grupos diferenciados:
 
-- **P1**: Plataformas malas, con índice CBR $<5$ (limitada capacidad portante)
-- **P2**: Plataformas medias, con índice CBR comprendido entre $5<\mathrm{CBR}<20$ (capacidad portante moderada)
-- **P3**: Plataformas buenas, con índice CBR $>20$ (excelente capacidad portante)
+- **P1**: Plataformas malas, con índice CBR $$<5$$ (limitada capacidad portante)
+- **P2**: Plataformas medias, con índice CBR comprendido entre $$5<\mathrm{CBR}<20$$ (capacidad portante moderada)
+- **P3**: Plataformas buenas, con índice CBR $$>20$$ (excelente capacidad portante)
 
 En la matriz de decisión presentada a continuación se desarrolla el proceso de diseño para obtener la plataforma deseada (P1, P2 o P3) mediante la construcción de la capa de forma (estrato superior de la plataforma) a partir de un suelo sin tratar o ya mejorado previamente (categorías QS0, QS1, QS2 o QS3).
 
 ### II.4. Espesor de la capa de forma (UIC 719 R)
 
-El dimensionamiento de la capa de forma que constituye el estrato superior de la plataforma requiere consultar matrices de diseño normalizadas que relacionan la calidad del suelo inicial con el espesor y características de los materiales a utilizar. La siguiente tabla UIC 719 R especifica los espesores mínimos requeridos para obtener distintos niveles de capacidad portante:
+El dimensionamiento de la **capa de forma** que constituye el estrato superior de la plataforma requiere consultar matrices de diseño normalizadas que relacionan la calidad del suelo inicial con el espesor y características de los materiales a utilizar. La siguiente tabla **UIC 719 R** especifica los espesores mínimos requeridos para obtener distintos niveles de capacidad portante:
 
 **CAPACIDAD PORTANTE DE UNA PLATAFORMA**
 
@@ -245,7 +247,7 @@ Esta tabla debe interpretarse de la siguiente manera: Si el suelo natural existe
 
 ### II.5. Espesor de la capa de forma (NRV 3-4-1.0)
 
-La normativa española vigente establecida por la administración ferroviaria (Norma de Renfe-Vía NRV 3-4-1.0) proporciona especificaciones complementarias para el dimensionamiento de la capa de forma, con criterios técnicos que pueden resultar más exigentes que los estándares UIC en algunos casos:
+La normativa española vigente establecida por la administración ferroviaria (**Norma de Renfe-Vía NRV 3-4-1.0**) proporciona especificaciones complementarias para el dimensionamiento de la **capa de forma**, con criterios técnicos que pueden resultar más exigentes que los estándares UIC en algunos casos:
 
 **N.R.V. 3-4-1.0 - ESPESOR DE CAPA DE FORMA SEGÚN CALIDAD DEL SUELO Y CLASE DE CARGA REQUERIDA**
 
@@ -263,27 +265,27 @@ La normativa española vigente establecida por la administración ferroviaria (N
 
 Donde las clasificaciones de capacidad portante se definen como:
 
-- **P. 1** : $\mathrm{CBR} \leq 5$ (Plataforma de baja capacidad portante)
-- **P. 2** : $5<C B R \leq 20$ (Plataforma de capacidad portante media)
-- **P. 3** : $20<C B R$ (Plataforma de alta capacidad portante)
+- **P. 1** : $$\mathrm{CBR} \leq 5$$ (Plataforma de baja capacidad portante)
+- **P. 2** : $$5<C B R \leq 20$$ (Plataforma de capacidad portante media)
+- **P. 3** : $$20<C B R$$ (Plataforma de alta capacidad portante)
 
-Observando ambas normas, se aprecia que la especificación NRV española introduce el concepto de "suelo fino tratado con ligantes" como alternativa economizadora de espesor cuando se trabaja con suelos deficientes, permitiendo reducir espesores mediante estabilización con cemento o cal.
+Observando ambas normas, se aprecia que la especificación NRV española introduce el concepto de **"suelo fino tratado con ligantes"** como alternativa economizadora de espesor cuando se trabaja con suelos deficientes, permitiendo reducir espesores mediante estabilización con cemento o cal.
 
 ### II.6. Espesor de la capa de Balasto
 
 La determinación del espesor óptimo que debe presentar la capa de balasto constituye una cuestión central en el diseño estructural de la vía ferroviaria. Existen numerosos estudios científicos y técnicos desarrollados a lo largo de décadas que abordan la cuantificación del espesor apropiado para la capa de balasto o para el conjunto combinado de balasto más sub-balasto cuando éste último se posiciona directamente bajo las traviesas. Notablemente, los resultados cuantitativos obtenidos mediante investigaciones teóricas rigurosas coinciden sustancialmente con los criterios empíricos que la experiencia acumulada ha sedimentado a través de los años.
 
-El espesor de la capa de balasto está determinado primariamente por parámetros operacionales: el número total de trenes que circulan diariamente, la carga máxima transportada por cada eje de los vehículos, y la velocidad de operación de las composiciones, todos los cuales se sintetizan en el concepto de categoría de la línea (recordar que esta categoría se determina mediante el concepto de tráfico ficticio diario Tf calculado anteriormente).
+El **espesor de la capa de balasto** está determinado primariamente por parámetros operacionales: el número total de trenes que circulan diariamente, la carga máxima transportada por cada eje de los vehículos, y la velocidad de operación de las composiciones, todos los cuales se sintetizan en el concepto de categoría de la línea (recordar que esta categoría se determina mediante el concepto de **tráfico ficticio diario Tf** calculado anteriormente).
 
-Adicionalmente, el espesor requerido depende de la calidad del suelo o más precisamente de la calidad conseguida tras la conformación de la plataforma. Sin embargo, una vez que se ha alcanzado la configuración de plataforma tipo P3 (excelente capacidad portante), el espesor de balasto dependerá principalmente de la categoría de la línea, de acuerdo con los siguientes valores normalizados:
+Adicionalmente, el espesor requerido depende de la calidad del suelo o más precisamente de la calidad conseguida tras la conformación de la plataforma. Sin embargo, una vez que se ha alcanzado la configuración de plataforma tipo **P3 (excelente capacidad portante)**, el espesor de balasto dependerá principalmente de la categoría de la línea, de acuerdo con los siguientes valores normalizados:
 
-- **Grupo 1A** (máximo tráfico y velocidad): $e=45$ centímetros
-- **Grupo 1B**: $e=40$ centímetros
-- **Grupo 1C**: $e=40$ centímetros
-- **Grupo 2**: $e=35$ centímetros
-- **Grupo 3A**: $e=30$ centímetros
-- **Grupo 3B**: $e=25$ centímetros
-- **Grupo 4** (mínimo tráfico y velocidad): $e=25$ centímetros
+- **Grupo 1A** (máximo tráfico y velocidad): $$e=45$$ centímetros
+- **Grupo 1B**: $$e=40$$ centímetros
+- **Grupo 1C**: $$e=40$$ centímetros
+- **Grupo 2**: $$e=35$$ centímetros
+- **Grupo 3A**: $$e=30$$ centímetros
+- **Grupo 3B**: $$e=25$$ centímetros
+- **Grupo 4** (mínimo tráfico y velocidad): $$e=25$$ centímetros
 
 El valor de los espesores de balasto y de la capa sub-balasto se establece respetando las siguientes restricciones técnicas fundamentales:
 
@@ -299,10 +301,10 @@ Para determinar estos espesores óptimos en renovaciones de vía existente, es i
 
 Leyenda:
 - TRAVIESA DE MADERA
-- TRAVIESA DE HORMIGÓN DE LONGITUD $\ell \geq 2,40 \mathrm{~m}$
-- TRAVIESA DE HORMIGÓN DE $2,20 \leq \ell<2,40 \mathrm{~m}$
+- TRAVIESA DE HORMIGÓN DE LONGITUD $$\ell \geq 2,40 \mathrm{~m}$$
+- TRAVIESA DE HORMIGÓN DE $$2,20 \leq \ell<2,40 \mathrm{~m}$$
 
-(1) $T_{f_{2}}=$ Tráfico ficticio diario
+(1) $$T_{f_{2}}=$$ Tráfico ficticio diario
 [NRV 3-4-1.0 para cálculo de espesor de balasto](https://normativatecnica.adif.es/)
 
 
@@ -315,7 +317,8 @@ Esta matriz permite determinar, en función de la clase de capacidad de carga al
 
 ## Capítulo III La Banqueta
 
-La banqueta constituye la capa de material granular que forma la superficie de apoyo inmediata sobre la cual se dispone todo el armazón estructural de la vía (el conjunto formado por traviesas, carriles y sistemas de sujeción que unen ambos elementos). Esta capa se compone típicamente de áridos seleccionados que envuelven las traviesas y las mantienen empotradas, siendo los materiales componentes diversos según disponibilidad regional: arenas, tierras mejoradas, grava, balasto de distintas características, escorias de industrias siderúrgicas machacadas, y otros áridos compatibles con los requisitos técnicos.
+La **banqueta** constituye la **capa de material granular** que forma la superficie de apoyo inmediata sobre la cual se dispone todo el armazón estructural de la vía (el conjunto formado por traviesas, carriles y sistemas de sujeción que unen ambos elementos). Esta capa se compone típicamente de áridos seleccionados que envuelven las traviesas y las mantienen empotradas, siendo los materiales componentes diversos según disponibilidad regional: arenas, tierras mejoradas, grava, balasto de distintas características, escorias de industrias siderúrgicas machacadas, y otros áridos compatibles con los requisitos técnicos.
+{: .highlight }
 
 Geométricamente, la sección transversal de la banqueta presenta forma trapezoidal característica, con la base de mayor dimensión apoyada sobre la plataforma y dimensiones específicas que se describen en las figuras posteriores (en este contexto refiriéndose específicamente a banquetas constituidas por balasto). La capacidad de la banqueta para mantener las traviesas en su posición relativa se logra fundamentalmente mediante el rozamiento interno generado entre los áridos constitutivos, complementado por el rozamiento producido entre las traviesas y estos mismos materiales.
 
@@ -354,7 +357,7 @@ Según las especificaciones técnicas requeridas por la administración ferrovia
 
 | Dimensiones | Grupos.1AyIB | Grupos.IBylC | Grupos.ICy 2 | Grupos 2y 3 A | Grupos 3 Ay 3 B | Grupos 3 By 4 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Espesores: $\mathrm{e}_{\mathrm{b}}=\mathrm{e}_{\mathrm{sb}}$ | 23 cm | 23 cm | 20 cm | 18 cm | 15 cm | 13 cm |
+| Espesores: $$\mathrm{e}_{\mathrm{b}}=\mathrm{e}_{\mathrm{sb}}$$ | 23 cm | 23 cm | 20 cm | 18 cm | 15 cm | 13 cm |
 | Capa de enrase | Superficie: 2 cm por debajo del punto más bajo del patín del carril |  |  |  |  |  |
 | Hombro: H | 105 cm | 105 cm | 100 cm | 100 cm | 95 cm | 90 cm |
 | Pendiente transversal: i | 5\% | 5\% | 5\% | 3\% | 3\% | 3\% |
@@ -365,16 +368,16 @@ Según las especificaciones técnicas requeridas por la administración ferrovia
 
 | Dimensiones | Grupos IAyIB | Grupos IBylC | Grupos ICy 2 | Grupos 2 y 3 A | Grupos 3Ay3B | Grupos 3 By 4 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Espesor: $\mathrm{e}_{\mathrm{b}}=\mathrm{e}_{\mathrm{sb}}$ | 23 cm | 23 cm | 20 cm | 18 cm | 15 cm | 13 cm |
+| Espesor: $$\mathrm{e}_{\mathrm{b}}=\mathrm{e}_{\mathrm{sb}}$$ | 23 cm | 23 cm | 20 cm | 18 cm | 15 cm | 13 cm |
 | Capa de enrase | Superficie: 2 cm por debajo del punto más bajo del patín del carril. |  |  |  |  |  |
 | Hombro: H | 105 cm | 105 cm | 100 cm | 100 cm | 95 cm | 90 cm |
-| Ancho de entrevia: gen | 234 cm | 234 cm | 230 cm | $\mathbf{2 3 0 ~ c m}$ | $\mathbf{2 2 0 ~ c m}$ | 210 cm |
+| Ancho de entrevia: gen | 234 cm | 234 cm | 230 cm | $$\mathbf{2 3 0 ~ c m}$$ | $$\mathbf{2 2 0 ~ c m}$$ | 210 cm |
 | Pendiente transversal: i | 5\% | 5\% | 5\% | 3\% | 3\% | 3\% |
 
 Estas especificaciones técnicas aseguran que independientemente de la categoría de la línea, las banquetas proporcionen el arriostramiento adecuado, manteniendo coherencia con los requisitos de drenaje y estabilidad establecidos.
 
 ## Capítulo IV El Balasto
-
+**balasto** constituye un árido específicamente preparado y seleccionado, cuya composición base es piedra o roca machacada y clasificada mediante cribado conforme a especificaciones técnicas normalizadas que cada administración ferroviaria ha desarrollado para su aplicación en obras ferroviarias. En términos generales, el balasto moderno consiste en una grava limpia y de granulometría controlada, cuyos elementos componentes presentan un tamaño medio comprendido entre **30 y 60 milímetros**
 El balasto constituye un árido específicamente preparado y seleccionado, cuya composición base es piedra o roca machacada y clasificada mediante cribado conforme a especificaciones técnicas normalizadas que cada administración ferroviaria ha desarrollado para su aplicación en obras ferroviarias. En términos generales, el balasto moderno consiste en una grava limpia y de granulometría controlada, cuyos elementos componentes presentan un tamaño medio comprendido entre 30 y 60 milímetros de diámetro equivalente.
 
 Según las especificaciones normalizadas, ciertos límites de granulometría deben ser respetados obligatoriamente. El porcentaje de elementos con dimensiones comprendidas entre 25 y 16 milímetros, determinado mediante ensayos de tamizado normalizados, no debe exceder el 27 por ciento en peso respecto al total de la muestra analizada. Similarmente, el porcentaje de elementos con dimensiones inferiores a 16 milímetros no debe superar el 5 por ciento en peso respecto a la muestra total, conforme lo especificado en el anexo B de la norma UNE 146147.
@@ -385,7 +388,7 @@ En las configuraciones modernas de vías ferroviarias, el balasto constituye el 
 
 La geometría de los elementos constitutivos del balasto (las piedras individuales) es un aspecto crítico del rendimiento de la banqueta. Estos elementos deben poseer aristas vivas y pronunciadas, característica fundamental que, una vez que la banqueta ha alcanzado su estado de consolidación operacional tras el paso repetido de trenes, favorece el máximo rozamiento interno entre las partículas, mejorando significativamente la estabilidad longitudinal y transversal de toda la vía.
 
-Más específicamente, los elementos de balasto deben presentar una forma geométrica poliédrica (aproximadamente cúbica), con múltiples caras y aristas. Por el contrario, debe evitarse completamente el balasto con formas lajosas (planas y extendidas) o aciculares (alargadas y puntiagudas). Estos elementos de forma deficiente presentan un comportamiento mecánico indeseable: los elementos aciculares y lajosos tienden a romperse bajo las cargas cíclicas de operación, alterando irreversiblemente la granulometría original del árido y creando zonas plásticas dentro de la banqueta que comprometen su función portante y de arriostramiento.
+Más específicamente, los elementos de balasto deben presentar una **forma geométrica poliédrica** (aproximadamente cúbica), con múltiples caras y aristas. Por el contrario, debe evitarse completamente el balasto con formas **lajosas** (planas y extendidas) o **aciculares** (alargadas y puntiagudas). Estos elementos de forma deficiente presentan un comportamiento mecánico indeseable: los elementos aciculares y lajosos tienden a romperse bajo las cargas cíclicas de operación, alterando irreversiblemente la granulometría original del árido y creando zonas plásticas dentro de la banqueta que comprometen su función portante y de arriostramiento.
 
 ### IV.2. Estudio petrográfico
 
@@ -402,7 +405,7 @@ De manera complementaria, cuando se estime técnicamente necesario por encontrar
 
 ### IV.3. Homogeneidad
 
-El ensayo de homogeneidad constituye un control de calidad esencial que se ejecuta cuando, durante el proceso de muestreo inicial de balasto para ensayos de caracterización, se observa la presencia evidente de partículas que evidencian meteorización o componentes blandos en una proporción estimada visualmente superior al **5%** del total de la muestra examinada.
+El **ensayo de homogeneidad** constituye un control de calidad esencial que se ejecuta cuando, durante el proceso de muestreo inicial de balasto para ensayos de caracterización, se observa la presencia evidente de partículas que evidencian meteorización o componentes blandos en una proporción estimada visualmente superior al **5%** del total de la muestra examinada.
 
 En los casos donde se detecte heterogeneidad, es necesario proceder a la recolección de múltiples muestras, en cantidad suficiente para que, tras su tamizado empleando tamices normalizados con aberturas de **50 mm**, **40 mm** y **31,5 mm**, se obtenga una masa mínima de **100 kg** de material retenido en el tamiz de **31,5 mm**, complementado con otros **100 kg** adicionales retenidos en el tamiz de **40 mm**.
 
@@ -414,7 +417,7 @@ En este procedimiento alternativo, debe además recolectarse una muestra complem
 
 ### IV.4. Dureza y Resistencia del Balasto
 
-La presencia de aristas vivas y pronunciadas en los elementos del balasto le confiere también una característica de elasticidad fundamental: los elementos se acoplan y entrelazan entre sí al paso repetido de trenes, permitiendo redistribuciones microestructurales que mantienen la estabilidad dimensional de la banqueta. Para que esta elasticidad se mantenga durante el largo período de vida operacional de la vía, es imperativo que los elementos del balasto posean una dureza específica a la compresión amplia, así como una resistencia muy elevada al desgaste abrasivo y a la rotura por impacto.
+La presencia de **aristas vivas y pronunciadas** en los elementos del balasto le confiere también una **característica de elasticidad** fundamental: los elementos se acoplan y entrelazan entre sí al paso repetido de trenes, permitiendo redistribuciones microestructurales que mantienen la estabilidad dimensional de la banqueta. Para que esta elasticidad se mantenga durante el largo período de vida operacional de la vía, es imperativo que los elementos del balasto posean una **dureza específica a la compresión** amplia, así como una **resistencia muy elevada al desgaste** abrasivo y a la rotura por impacto.
 
 Simultáneamente, las operaciones de mantenimiento rutinario y modernización de vía emplean maquinaria pesada especializada (baterías vibrobatidoras, etc.) que somete el balasto a ciclos intensivos de impacto y fricción. Esta realidad operacional exige que las piedras de balasto posean una resistencia extraordinariamente alta al desgaste, tanto por abrasión como por rotura frágil, para evitar la creación rápida de finos que comprometan la funcionalidad de la banqueta.
 
@@ -432,7 +435,7 @@ Tampoco resultan aceptables rocas que presenten susceptibilidad a procesos de ox
 
 El balasto destinado a uso ferroviario debe proceder específicamente de operaciones de extracción minera en cantera, seguidas de las operaciones de machaqueo (fragmentación controlada), cribado (clasificación granulométrica) y selección con o sin tratamiento industrial complementario que implique modificación térmica (calcinación, etc.).
 
-Las características geológicas de la roca madre de balasto requieren que posea naturaleza silícea (rica en sílice) y preferiblemente origen ígneo (volcánico o plutónico) o metamórfico. En consecuencia, no se admitirán rocas de naturaleza caliza (carbonato cálcico) ni dolomítica (carbonato de calcio y magnesio), aunque estas sean más económicas de extraer.
+Las características geológicas de la roca madre de balasto requieren que posea **naturaleza silícea** (rica en sílice) y preferiblemente **origen ígneo** (volcánico o plutónico) o metamórfico. En consecuencia, **no se admitirán rocas de naturaleza caliza** (carbonato cálcico) ni dolomítica (carbonato de calcio y magnesio), aunque estas sean más económicas de extraer.
 
 El balasto resulta inaceptable si contiene fragmentos de madera, material orgánico, metales, plásticos, rocas fácilmente alterables o meteorizables, materiales de comportamiento tixotrópico, sustancias expansivas o solubles, materiales putrescibles, compuestos combustibles, o cualquier contaminante de origen industrial (desechos, residuos contaminantes, etc.).
 
@@ -464,7 +467,7 @@ Este ensayo experimental permite evaluar y cuantificar el comportamiento elasto-
 
 El ensayo se efectúa sometiendo una probeta cilíndrica normalizada (dimensiones: 10 cm de altura y 5 cm de diámetro exterior) a una carga axial compresiva aplicada uniformemente sobre sus dos caras planas paralelas. Se incrementa la carga gradualmente hasta alcanzar el punto de rotura frágil del espécimen. La carga por unidad de área de sección transversal en el momento exacto de la rotura constituye el parámetro de resistencia que se busca cuantificar.
 
-La administración ferroviaria española ADIF especifica un requisito mínimo de resistencia: el valor debe exceder los 1.200 kilopondios por centímetro cuadrado (kp/cm²), que corresponde aproximadamente a 117,7 megapascales (MPa) en unidades del Sistema Internacional.
+La administración ferroviaria española ADIF especifica un requisito mínimo de resistencia: el valor debe exceder los **1.200 kilopondios por centímetro cuadrado (kp/cm²)**, que corresponde aproximadamente a 117,7 megapascales (MPa) en unidades del Sistema Internacional.
 
 ### IV.9. Resistencia de la piedra al choque y desgaste
 
@@ -490,9 +493,9 @@ El balasto cuya distribución granulométrica sea técnicamente adecuada debe po
 - **Primera función**: Sujetar eficazmente y arriostrar las traviesas de manera firme, característica que requiere la presencia de piedras de dimensiones grandes que generen rozamiento y trabazón. Esta exigencia implica rechazar completamente la presencia de piedras pequeñas.
 - **Segunda función**: Permitir el movimiento libre de los bates (equipos vibrantes) en operaciones de bateo mecanizado de vía, y conseguir una nivelación durable de la vía. Esta segunda característica requiere la presencia de piedras relativamente pequeñas, pero que sean lo suficientemente grandes para que resistan sin desmembrarse bajo la vibración intensa de los bates, ya que se conoce que las piedras muy pequeñas se desmenuzan más fácilmente.
 
-Compaginando y balanceando todas estas necesidades técnicas conflictivas, se ha llegado a especificar una distribución granulométrica particular y exigente para el balasto. Este ensayo de granulometría se realiza conforme a los procedimientos técnicos contenidos en la norma UNE-EN 933-1, utilizando tamizado por vía seca.
+Compaginando y balanceando todas estas necesidades técnicas conflictivas, se ha llegado a especificar una distribución granulométrica particular y exigente para el balasto. Este ensayo de granulometría se realiza conforme a los procedimientos técnicos contenidos en la norma **UNE-EN 933-1**, utilizando tamizado por vía seca.
 
-La serie de tamices a utilizar es: 63 mm - 50 mm - 40 mm - 31,5 mm - 22,4 mm.
+La serie de tamices a utilizar es: **63 mm - 50 mm - 40 mm - 31,5 mm - 22,4 mm**.
 
 En cada uno de estos tamices debe retenerse una cantidad variable de piedra que debe estar comprendida obligatoriamente dentro de unos porcentajes mínimos y máximos establecidos por especificación técnica.
 
@@ -619,6 +622,31 @@ El espesor y las características del subbalasto están condicionados por múlti
 - Características intrínsecas del suelo soporte (naturaleza geológica, sensibilidad a ciclos de helada, índice de portancia CBR)
 - Contexto geológico general del lugar de implantación (estratigrafía, composición de acuíferos, etc.)
 - Condiciones climáticas regionalesque determinan intensidad de precipitación, amplitud de ciclos térmicos, y profundidad de penetración de heladas
+
+## Preguntas de repaso
+
+<div class="flashcard-container">
+{% include flashcard.html
+   question="¿Qué se entiende por \"explanación\" en ingeniería ferroviaria?"
+   answer="Es la franja de terreno modificada topográficamente (mediante desmontes o terraplenes) sobre la cual se asienta la infraestructura ferroviaria."
+%}
+{% include flashcard.html
+   question="¿Cuáles son las tres zonas de protección definidas por la legislación ferroviaria española?"
+   answer="La **Zona de Dominio Público** (8 m), la **Zona de Servidumbre** (20 m) y la **Zona de Afección** (50 m), medidas desde la arista exterior de la explanación."
+%}
+{% include flashcard.html
+   question="¿Qué dos funciones principales debe cumplir la plataforma ferroviaria?"
+   answer="Debe tener suficiente **capacidad portante** para soportar cargas estáticas y dinámicas, y asegurar el **drenaje** eficaz de las aguas."
+%}
+{% include flashcard.html
+   question="¿Qué es el índice CBR y para qué se utiliza en el diseño de plataformas?"
+   answer="Es el **California Bearing Ratio**, un índice que mide la capacidad portante del suelo y sirve para clasificar la calidad de la plataforma (P1, P2, P3)."
+%}
+{% include flashcard.html
+   question="¿Cuál es la función principal de la capa de subbalasto?"
+   answer="Proteger la plataforma de la erosión y las heladas, además de colaborar en la distribución de las cargas hacia el terreno."
+%}
+</div>
 
 ## Bibliografía
 

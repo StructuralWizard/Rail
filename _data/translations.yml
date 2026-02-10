@@ -4,7 +4,7 @@
 en:
   # Site
   site_title: "Rail Apprentice to Expert"
-  site_description: "A quick start guide for Vibe programmers with no coding experience"
+  site_description: "A guide on railway engineering for getting started and growing"
   
   # Search
   search_placeholder: "Search"
@@ -21,7 +21,7 @@ en:
   
   # External links
   external_link: "(external link)"
-  python_code_examples: "🐍 PYTHON CODE EXAMPLES"
+  python_code_examples: "🐍 NUMÉRICAL EXAMPLES"
   
   # Table of contents
   toc_heading: "Table of contents"
@@ -31,8 +31,8 @@ en:
 
 es:
   # Site
-  site_title: "10 Días De Python con IA"
-  site_description: "Una guía de inicio rápido para programadores de Vibe sin experiencia en codificación"
+  site_title: "Ferrocarriles de cero a Ingeniero"
+  site_description: "Una guía sobre ingeniería ferroviaria para empezar y para crecer"
   
   # Search
   search_placeholder: "Buscar"
@@ -49,7 +49,7 @@ es:
   
   # External links
   external_link: "(enlace externo)"
-  python_code_examples: "🐍 EJEMPLOS DE CÓDIGO EN PYTHON"
+  python_code_examples: "🐍 EJERCICIOS NUMÉRICOS"
   
   # Table of contents
   toc_heading: "Tabla de contenidos"

@@ -22,11 +22,12 @@ parent: Inicio
 
 ## Capítulo I. Introducción
 
-En el contexto de la ingeniería ferroviaria, se define como material rodante la totalidad de vehículos equipados con sistemas de ruedas que tienen la capacidad de desplazarse sobre una infraestructura de vías ferroviarias. Este concepto abarca una amplia gama de equipos especializados diseñados para el transporte eficiente tanto de pasajeros como de mercancías.
+{: .highlight }
+En el contexto de la ingeniería ferroviaria, se define como **material rodante** la totalidad de vehículos equipados con sistemas de ruedas que tienen la capacidad de desplazarse sobre una infraestructura de vías ferroviarias. Este concepto abarca una amplia gama de equipos especializados diseñados para el transporte eficiente tanto de pasajeros como de mercancías.
 
-Cuando nos referimos a un tren, estamos hablando de una configuración integrada de uno o más vehículos destinados al transporte ferroviario, los cuales se encuentran mecánicamente conectados y operan sobre una infraestructura ferroviaria común. Estas composiciones pueden adoptar diferentes configuraciones según sus funciones específicas:
+Cuando nos referimos a un **tren**, estamos hablando de una configuración integrada de uno o más vehículos destinados al transporte ferroviario, los cuales se encuentran mecánicamente conectados y operan sobre una infraestructura ferroviaria común. Estas composiciones pueden adoptar diferentes configuraciones según sus funciones específicas:
 
-- Unidades autónomas constituidas por un único vehículo, que puede ser una locomotora o un automotor autopropulsado
+- **Unidades autónomas** constituidas por un único vehículo, que puede ser una **locomotora** o un **automotor** autopropulsado
 ![998bb0a49c5c258004d0e32e1a6b1169_MD5]({{ site.baseurl }}/assets/images/998bb0a49c5c258004d0e32e1a6b1169_MD5.webp)
 - Composiciones compuestas por una o varias unidades motrices que ejercen función tractora sobre un conjunto de vehículos remolcados, ya sean coches de viajeros o vagones de mercancías
 ![7eff4e5aa85ba04ed99e23356b6dfd84_MD5]({{ site.baseurl }}/assets/images/7eff4e5aa85ba04ed99e23356b6dfd84_MD5.webp)
@@ -94,31 +95,32 @@ La selección del sistema de tracción constituye una de las decisiones más det
 **TRACCIÓN ANIMAL**
 
 
-<iframe width="315" height="560" src="https://youtube.com/shorts/uy8TGU-4lFU?si=EK8yui4EZL9Dxjxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-La tracción mediante animales representa la forma más primitiva de propulsión ferroviaria y marca los orígenes del ferrocarril como sistema de transporte. Aunque actualmente es prácticamente obsoleta, la tracción animal fue fundamental en los primeros ferrocarriles, particularmente en aplicaciones mineras y de transporte de corta distancia donde se aprovechaba la capacidad de carga y la tracción de animales como caballos, mulas y bueyes.
+<iframe width="315" height="560" src="https://youtube.com/embed/uy8TGU-4lFU?si=EK8yui4EZL9Dxjxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+La **tracción mediante animales** representa la forma más primitiva de propulsión ferroviaria y marca los orígenes del ferrocarril como sistema de transporte. Aunque actualmente es prácticamente obsoleta, la tracción animal fue fundamental en los primeros ferrocarriles, particularmente en aplicaciones mineras y de transporte de corta distancia donde se aprovechaba la capacidad de carga y la tracción de animales como caballos, mulas y bueyes.
 
 **TRACCIÓN ATMOSFÉRICA**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjUZ-kDxVH0?si=WEIgu16yksHXG9J5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-La propulsión atmosférica constituye un capítulo fascinante en la historia de la ingeniería ferroviaria. Este sistema innovador se basaba en la creación de una diferencia de presión entre la atmósfera y un sistema de vacío generado mediante tubos neumáticos dispuestos entre los carriles. El funcionamiento se realizaba mediante motores de vacío que aprovechaban esta diferencia de presión para generar movimiento. Aunque representó un avance tecnológico importante, esta tecnología fue eventualmente abandonada debido a limitaciones inherentes, problemas operacionales y desventajas económicas que hicieron inviable su continuidad frente a soluciones más prácticas.
+La **propulsión atmosférica** constituye un capítulo fascinante en la historia de la ingeniería ferroviaria. Este sistema innovador se basaba en la creación de una diferencia de presión entre la atmósfera y un sistema de vacío generado mediante tubos neumáticos dispuestos entre los carriles. El funcionamiento se realizaba mediante motores de vacío que aprovechaban esta diferencia de presión para generar movimiento. Aunque representó un avance tecnológico importante, esta tecnología fue eventualmente abandonada debido a limitaciones inherentes, problemas operacionales y desventajas económicas que hicieron inviable su continuidad frente a soluciones más prácticas.
 
 **TRACCIÓN DE VAPOR**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kPQGPlA7t1I?si=3Y1j6vlPgFMQLe98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-La propulsión por vapor representa la verdadera revolución industrial en el transporte ferroviario. Este sistema innovador generaba movimiento mediante vapor de agua generado en calderas, que actuaba sobre pistones conectados directamente a las ruedas motrices del vehículo. La era del vapor fue una época dorada del ferrocarril que se extendió durante más de un siglo. Sin embargo, con la aparición y consolidación de tecnologías más modernas, particularmente la tracción diesel y eléctrica, la era del vapor llegó a su fin, quedando reducida actualmente a aplicaciones históricas y de preservación patrimonial.
+La **propulsión por vapor** representa la verdadera revolución industrial en el transporte ferroviario. Este sistema innovador generaba movimiento mediante **vapor de agua** generado en calderas, que actuaba sobre pistones conectados directamente a las ruedas motrices del vehículo. La era del vapor fue una época dorada del ferrocarril que se extendió durante más de un siglo. Sin embargo, con la aparición y consolidación de tecnologías más modernas, particularmente la tracción diesel y eléctrica, la era del vapor llegó a su fin, quedando reducida actualmente a aplicaciones históricas y de preservación patrimonial.
 
 **TRACCIÓN POR TURBINA**
 
-La propulsión mediante turbinas ha tenido una implantación fundamentalmente testimonial en el contexto ferroviario, no llegando a consolidarse como sistema traccionario mainstream. Aunque en otros sectores las turbinas demostraron ser tecnologías viables, en el ámbito ferroviario fueron rápidamente superadas por el desarrollo de la tracción diesel y eléctrica. Las ventajas relativas que ofrecían en ciertos contextos fueron insuficientes para contrarrestar las limitaciones operacionales, los problemas de mantenimiento y las desventajas económicas que caracterizaban a estos sistemas.
+La **propulsión mediante turbinas** ha tenido una implantación fundamentalmente testimonial en el contexto ferroviario, no llegando a consolidarse como sistema traccionario mainstream. Aunque en otros sectores las turbinas demostraron ser tecnologías viables, en el ámbito ferroviario fueron rápidamente superadas por el desarrollo de la tracción diesel y eléctrica. Las ventajas relativas que ofrecían en ciertos contextos fueron insuficientes para contrarrestar las limitaciones operacionales, los problemas de mantenimiento y las desventajas económicas que caracterizaban a estos sistemas.
 
 
 ### II.2. POR TIPO DE TRACCIÓN → DIÉSEL
 
 **CARACTERÍSTICAS GENERALES DEL SISTEMA DE TRACCIÓN DIÉSEL**
 
-La propulsión mediante motores de combustión interna diésel representa un hito importante en la evolución del transporte ferroviario. Se trata de una tecnología profundamente desarrollada que ofrece ventajas significativas en múltiples aspectos operacionales y económicos.
+La propulsión mediante **motores de combustión interna diésel** representa un hito importante en la evolución del transporte ferroviario. Se trata de una tecnología profundamente desarrollada que ofrece ventajas significativas en múltiples aspectos operacionales y económicos.
 
 Entre las ventajas fundamentales se encuentran: la capacidad de autonomía operacional gracias a la capacidad de almacenamiento de combustible, que permite al vehículo funcionar independientemente de infraestructuras externas fijas; el bajo costo asociado a la implantación de infraestructura en comparación con sistemas electrificados; y la madurez tecnológica que permite una operación confiable y un mantenimiento bien establecido.
 
@@ -128,9 +130,9 @@ Sin embargo, esta tecnología también presenta desventajas significativas: la e
 
 La forma en que se transmite la potencia del motor diésel a las ruedas motrices es determinante para las características de operación y desempeño del vehículo. Se han desarrollado tres enfoques principales:
 
-- **DIÉSEL-MECÁNICA (DMU)**: Utiliza transmisión mecánica
-- **DIÉSEL-HIDRÁULICA (DMU)**: Utiliza transmisión hidráulica
-- **DIÉSEL-ELÉCTRICA (DEMU)**: Utiliza sistemas de generación eléctrica
+- **DIÉSEL-MECÁNICA (DMU)**: Utiliza **transmisión mecánica**
+- **DIÉSEL-HIDRÁULICA (DMU)**: Utiliza **transmisión hidráulica**
+- **DIÉSEL-ELÉCTRICA (DEMU)**: Utiliza sistemas de **generación eléctrica**
 
 **LOCOMOTORA DIESEL DMU (DIESEL MULTIPLE UNIT)**
 
@@ -138,20 +140,20 @@ La forma en que se transmite la potencia del motor diésel a las ruedas motrices
 
 #### II.2.1. TRANSMISIÓN DIÉSEL-MECÁNICA (DMU)
 
-Este sistema de transmisión transmite la potencia del motor directamente a través de componentes mecánicos como engranajes y embragues. La característica fundamental es la conexión mecánica directa entre el motor de combustión y los ejes motrices, lo que permite una transmisión inmediata de fuerzas.
+Este sistema de **transmisión mecánica** transmite la potencia del motor directamente a través de componentes mecánicos como engranajes y embragues. La característica fundamental es la conexión mecánica directa entre el motor de combustión y los ejes motrices, lo que permite una transmisión inmediata de fuerzas.
 
 
 ![6d9efd6379485f286a3ad0e9973e6e47_MD5]({{ site.baseurl }}/assets/images/6d9efd6379485f286a3ad0e9973e6e47_MD5.webp)
 
 #### II.2.2. TRANSMISIÓN DIÉSEL-HIDRÁULICA (DMU)
 
-En este sistema, la potencia del motor se transmite mediante un medio fluido, típicamente aceite bajo presión, que actúa en componentes hidráulicos como bombas y motores. Este tipo de transmisión ofrece una transición más suave entre velocidades y una mejor adaptación del motor a las condiciones de operación variables.
+En este sistema, la potencia del motor se transmite mediante un **medio fluido**, típicamente aceite bajo presión, que actúa en componentes hidráulicos como bombas y motores. Este tipo de **transmisión hidráulica** ofrece una transición más suave entre velocidades y una mejor adaptación del motor a las condiciones de operación variables.
 
 ![06c75af8ea8bf24b77bd0c45a27d0e4f_MD5]({{ site.baseurl }}/assets/images/06c75af8ea8bf24b77bd0c45a27d0e4f_MD5.webp)
 
 #### II.2.3. TRANSMISIÓN DIÉSEL-ELÉCTRICA (DEMU)
 
-En este enfoque, el motor diésel actúa como generador de energía eléctrica, que posteriormente es convertida en movimiento por motores eléctricos de tracción. Este sistema ofrece una flexibilidad significativa en el control del esfuerzo de tracción y ha demostrado ser muy eficiente en múltiples aplicaciones ferroviarias.
+En este enfoque, el motor diésel actúa como generador de energía eléctrica, que posteriormente es convertida en movimiento por motores eléctricos de tracción. Este sistema de **transmisión eléctrica** ofrece una flexibilidad significativa en el control del esfuerzo de tracción y ha demostrado ser muy eficiente en múltiples aplicaciones ferroviarias.
 
 ![0d7385b2c0b66eade6d610837665e007_MD5]({{ site.baseurl }}/assets/images/0d7385b2c0b66eade6d610837665e007_MD5.webp)
 
@@ -159,12 +161,12 @@ En este enfoque, el motor diésel actúa como generador de energía eléctrica, 
 
 **CARACTERÍSTICAS FUNDAMENTALES DEL SISTEMA DE TRACCIÓN ELÉCTRICA**
 
-La propulsión eléctrica constituye actualmente la solución más avanzada y sostenible para el transporte ferroviario de pasajeros en sistemas de alta prestación. Se trata de una tecnología profundamente desarrollada que ha experimentado evoluciones continuas en las últimas décadas.
+La **propulsión eléctrica** constituye actualmente la solución más avanzada y sostenible para el transporte ferroviario de pasajeros en sistemas de alta prestación. Se trata de una tecnología profundamente desarrollada que ha experimentado evoluciones continuas en las últimas décadas.
 
 El sistema de tracción eléctrica se caracteriza por su dependencia de una fuente de energía externa, que debe ser suministrada mediante infraestructura dedicada. Esta fuente puede adoptar varias formas:
 
-- Catenarias aéreas que suministran tensiones en corriente continua (DC) desde 750 V hasta 3000 V, o en corriente alterna (AC) hasta 25 kV
-- Tercer carril situado a lo largo de la vía que suministra tensiones típicamente entre 600 y 750 V en corriente continua
+- **Catenarias aéreas** que suministran tensiones en **corriente continua (DC)** desde 750 V hasta 3000 V, o en **corriente alterna (AC)** hasta 25 kV
+- **Tercer carril** situado a lo largo de la vía que suministra tensiones típicamente entre 600 y 750 V en corriente continua
 
 Las ventajas principales del sistema eléctrico incluyen: un rendimiento energético significativamente superior al de la propulsión diésel, lo que se traduce en menores costos operacionales a largo plazo; la ausencia de emisiones contaminantes locales en el punto de uso del vehículo; y una capacidad de aceleración y control superiores.
 
@@ -210,15 +212,15 @@ Con el avance de la electrónica de potencia, particularmente el desarrollo de s
 ![f2de90940a558755880bdc02a9c313e5_MD5]({{ site.baseurl }}/assets/images/f2de90940a558755880bdc02a9c313e5_MD5.webp)
 ### II.4. POR TIPO DE TRACCIÓN → HIDRÓGENO
 
-## Capítulo III. PROPULSIÓN POR HIDRÓGENO: TECNOLOGÍA EMERGENTE PARA EL FUTURO FERROVIARIO
+## Capítulo III. Propulsión por hidrógeno: tecnología emergente para el futuro ferroviario
 
-La tecnología de propulsión mediante hidrógeno representa una de las fronteras más prometedoras en la búsqueda de soluciones de transporte sostenible y de bajas emisiones para el sector ferroviario. Este sistema emerge como una alternativa viable a los sistemas tradicionales de combustibles fósiles.
+La tecnología de **propulsión mediante hidrógeno** representa una de las fronteras más prometedoras en la búsqueda de soluciones de transporte sostenible y de bajas emisiones para el sector ferroviario. Este sistema emerge como una alternativa viable a los sistemas tradicionales de combustibles fósiles.
 
 **PRINCIPIOS FUNDAMENTALES DE FUNCIONAMIENTO**
 
-El hidrógeno en estado gaseoso es sometido a una reacción química controlada con el oxígeno ambiental dentro de componentes especializados denominados celdas de combustible. Esta reacción controlada genera vapor de agua como producto residual mientras libera energía eléctrica. La energía eléctrica producida se utiliza de forma integrada para:
+El hidrógeno en estado gaseoso es sometido a una reacción química controlada con el oxígeno ambiental dentro de componentes especializados denominados **celdas de combustible**. Esta reacción controlada genera vapor de agua como producto residual mientras libera energía eléctrica. La energía eléctrica producida se utiliza de forma integrada para:
 
-- Cargar sistemas de almacenamiento de energía basados en baterías de iones de litio
+- Cargar sistemas de almacenamiento de energía basados en **baterías de iones de litio**
 - Accionar los sistemas de tracción mediante motores eléctricos
 
 El conjunto del sistema es gestionado por unidades de control electrónico que optimizan el flujo de energía y el desempeño del vehículo de acuerdo a los perfiles operacionales requeridos.
@@ -285,11 +287,14 @@ Según su arquitectura, los trenes pueden clasificarse en varios grupos claramen
 
 Con la proliferación de los sistemas autopropulsados, la distinción tradicional entre material motor y material remolcado se ha vuelto progresivamente menos clara. Los trenes autopropulsados modernos se subdividen en dos categorías principales según la distribución de sus sistemas motrices:
 
-**a) Trenes de tracción concentrada**: En estos sistemas, toda la capacidad motriz se concentra en una o varias locomotoras (también denominadas unidades motrices) que están acopladas permanentemente a la composición. Aunque los vehículos motrices están integrados de forma permanente, conservan su identidad como componentes separados. Ejemplos representativos de esta configuración incluyen algunas composiciones del sistema de Alta Velocidad (AVE) español y el tren Euromed.
+**a) Trenes de tracción concentrada**: En estos sistemas, toda la capacidad motriz se concentra en una o varias **locomotoras** (también denominadas unidades motrices) que están acopladas permanentemente a la composición. Aunque los vehículos motrices están integrados de forma permanente, conservan su identidad como componentes separados. Ejemplos representativos de esta configuración incluyen algunas composiciones del sistema de **Alta Velocidad (AVE)** español y el tren Euromed.
 
 ![341a13bd848d62a847d82f6f498a5465_MD5]({{ site.baseurl }}/assets/images/341a13bd848d62a847d82f6f498a5465_MD5.webp)
 
-**b) Trenes de tracción distribuida**: En esta arquitectura alternativa, los sistemas de tracción no se concentran en locomotoras específicas, sino que se distribuyen en varios vehículos de la composición denominados coches-motor. Estos coches-motor son vehículos que simultáneamente alojan pasajeros o carga y proporcionan capacidad motriz. Ejemplos representativos incluyen la Serie 103, el tren Civia, el Alaris y otros sistemas modernos de transporte regional.
+**b) Trenes de tracción distribuida**: 
+
+{: .highlight }
+En esta arquitectura alternativa, los sistemas de tracción no se concentran en locomotoras específicas, sino que se distribuyen en varios vehículos de la composición denominados **coches-motor**. Estos coches-motor son vehículos que simultáneamente alojan pasajeros o carga y proporcionan capacidad motriz. Ejemplos representativos incluyen la Serie 103, el tren Civia, el Alaris y otros sistemas modernos de transporte regional.
 
 ![c6ccfbdeb5f129115cd83ea1573216d4_MD5]({{ site.baseurl }}/assets/images/c6ccfbdeb5f129115cd83ea1573216d4_MD5.webp)
 
@@ -304,7 +309,7 @@ Cualquier vehículo ferroviario, ya sea una locomotora, un coche de viajeros o u
 
 **CAJA O CARROCERÍA**
 
-La caja constituye el elemento estructural principal de cualquier vehículo ferroviario, funcionando simultáneamente como esqueleto o bastidor soporte y como espacio funcional para la operación. En su función estructural, la caja proporciona la rigidez necesaria para resistir las cargas y esfuerzos derivados de la operación. En su función de alojamiento, constituye el espacio donde se encuentran alojados todos los equipos y sistemas especializados.
+La **caja** constituye el elemento estructural principal de cualquier vehículo ferroviario, funcionando simultáneamente como esqueleto o **bastidor** soporte y como espacio funcional para la operación. En su función estructural, la caja proporciona la rigidez necesaria para resistir las cargas y esfuerzos derivados de la operación. En su función de alojamiento, constituye el espacio donde se encuentran alojados todos los equipos y sistemas especializados.
 
 En las locomotoras y material autopropulsado, la caja aloja una serie de equipos especializados que varían según el tipo y función del vehículo. Entre estos equipos se encuentran: transformadores y reactancias para sistemas eléctricos; compresores neumáticos para sistemas de freno y auxiliares; resistencias de freno dinámico; baterías de almacenamiento de energía; ventiladores para refrigeración de sistemas; y pantógrafos para captura de energía desde catenarias.
 
@@ -312,13 +317,13 @@ La caja también constituye el espacio donde se encuentran los viajeros en coche
 
 **BOGIE O CARRETÓN**
 
-El bogie constituye la estructura de soporte dinámico que soporta el peso de la caja y la transmite hacia el terreno a través de los elementos de rodadura. La caja descansa sobre los bogies mediante sistemas de conexión y suspensión especializados. En estas conexiones entre ejes y bogie se utilizan cajas de grasa que permiten la transmisión de cargas mientras posibilitan movimientos relativos controlados.
+El **bogie** constituye la estructura de soporte dinámico que soporta el peso de la caja y la transmite hacia el terreno a través de los elementos de rodadura. La caja descansa sobre los bogies mediante sistemas de conexión y suspensión especializados. En estas conexiones entre ejes y bogie se utilizan **cajas de grasa** que permiten la transmisión de cargas mientras posibilitan movimientos relativos controlados.
 
 El bogie representa mucho más que un simple soporte estructural. En su estructura se alojan componentes críticos para la operación dinámica del vehículo: los motores de tracción (en vehículos motorizados); los reductores que transmiten la potencia desde los motores a los ejes; los mecanismos especializados de freno que disipan la energía cinética; y los sistemas de suspensión que aíslan la caja de las irregularidades de la vía.
 
 **EJES Y RUEDAS**
 
-Los ejes y las ruedas constituyen los elementos finales de la cadena de transmisión de fuerzas, siendo los únicos componentes del vehículo que entran en contacto físico directo con la vía ferroviaria. Estos elementos son críticos para la seguridad operacional y tienen especificaciones técnicas muy rigurosas.
+Los **ejes** y las **ruedas** constituyen los elementos finales de la cadena de transmisión de fuerzas, siendo los únicos componentes del vehículo que entran en contacto físico directo con la vía ferroviaria. Estos elementos son críticos para la seguridad operacional y tienen especificaciones técnicas muy rigurosas.
 
 Los ejes son componentes estructurales que albergan los sistemas de rodadura (ruedas) y transmiten las fuerzas longitudinales (tracción y freno) y laterales. Las ruedas son los elementos circulares que ruedan sobre los carriles, transfiriendo el peso del vehículo y permitiendo el desplazamiento controlado sobre la vía.
 
@@ -349,15 +354,18 @@ La instrucción es aplicable a las líneas ferroviarias integradas en la red fer
 
 **DEFINICIÓN TÉCNICA**
 
-El gálibo dinámico constituye la envolvente geométrica que define el espacio máximo que puede ocupar un vehículo ferroviario durante todas las fases de su operación. Esta envolvente no es simplemente la proyección geométrica estática del vehículo, sino que incluye todos los desplazamientos posibles que pueden experimentar los puntos del vehículo debidos a causas múltiples. La envolvente integra tanto los desplazamientos predecibles (cuasiestáticos) derivados de fenómenos como la fuerza centrífuga en curvas, los efectos del peralte de la vía, y las oscilaciones predecibles debidas a irregularidades de la infraestructura, como los desplazamientos aleatorios (oscilaciones aleatorias del material en circulación) que resultan de la interacción impredecible vía-vehículo y de los posibles movimientos laterales, elásticos o permanentes de la superestructura de vía.
+{: .highlight }
+El **gálibo dinámico** constituye la **envolvente geométrica** que define el espacio máximo que puede ocupar un vehículo ferroviario durante todas las fases de su operación. Esta envolvente no es simplemente la proyección geométrica estática del vehículo, sino que incluye todos los desplazamientos posibles que pueden experimentar los puntos del vehículo debidos a causas múltiples. La envolvente integra tanto los desplazamientos predecibles (cuasiestáticos) derivados de fenómenos como la fuerza centrífuga en curvas, los efectos del peralte de la vía, y las oscilaciones predecibles debidas a irregularidades de la infraestructura, como los desplazamientos aleatorios (oscilaciones aleatorias del material en circulación) que resultan de la interacción impredecible vía-vehículo y de los posibles movimientos laterales, elásticos o permanentes de la superestructura de vía.
 
 ![b4d6b7f81944e32163617d6b9a7bad6e_MD5]({{ site.baseurl }}/assets/images/b4d6b7f81944e32163617d6b9a7bad6e_MD5.webp)
+
 (1) Gálibo de implantación de obstáculos
 (2) Perfil constructivo máximo del material
 (3) Suma de los movimientos del vehículo y de los fenómenos de interacción con la infraestructura
 (4) Infraestructura
 (5) Vehículo
 (6) Contorno de referencia
+
 [Instruccion ferroviaria de Gálibos](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8765)
 
 | TIPOS DE GÁLIBO | ANCHO DE VÍA (mm) |  |  |
@@ -370,37 +378,37 @@ El gálibo dinámico constituye la envolvente geométrica que define el espacio 
 |  |  | GC14 |  |
 
 
-
 **COMPONENTES DE LA ENVOLVENTE DE GÁLIBO DINÁMICO**
 
 La construcción rigurosa del gálibo dinámico requiere considerar varios componentes progresivos que se integran de forma acumulativa:
 
 1. **Perfil constructivo máximo del material**: La envolvente dimensional del vehículo en su forma de reposo
-2. **Desplazamientos cuasiestáticos**: Considerando las variaciones en disimetría de carga cuando se superan los valores de referencia ($I_0$ o $D_0$), particularmente cuando se exceden los valores máximos en función del peralte ($s > s_0$) y altura del centro de gravedad ($h_c > h_{co}$)
-3. **Márgenes de reducción**: Aplicación de factores de reducción ($E_i$ o $E_a$) que consideran criterios de optimización
+2. **Desplazamientos cuasiestáticos**: Considerando las variaciones en disimetría de carga cuando se superan los valores de referencia ($$I_0$$ o $$D_0$$), particularmente cuando se exceden los valores máximos en función del peralte ($$s > s_0$$) y altura del centro de gravedad ($$h_c > h_{co}$$)
+3. **Márgenes de reducción**: Aplicación de factores de reducción ($$E_i$$ o $$E_a$$) que consideran criterios de optimización
 4. **Contorno de referencia**: La envolvente cinemática que integra el perfil constructivo y los desplazamientos cuasiestáticos
-5. **Desplazamientos aleatorios laterales**: Considerando los movimientos no predecibles derivados de la interacción vía-vehículo ($M_1 + M_2$)
-6. **Márgenes de seguridad complementarios**: Espacios adicionales de seguridad lateral ($M_{3b}$) para asegurar el funcionamiento correcto de sistemas adyacentes
+5. **Desplazamientos aleatorios laterales**: Considerando los movimientos no predecibles derivados de la interacción vía-vehículo ($$M_1 + M_2$$)
+6. **Márgenes de seguridad complementarios**: Espacios adicionales de seguridad lateral ($$M_{3b}$$) para asegurar el funcionamiento correcto de sistemas adyacentes
 7. **Gálibo nominal de implantación de obstáculos**: El límite final que define dónde pueden colocarse obstáculos y elementos de infraestructura
 
 **REFERENCIAS TÉCNICAS DE ELEMENTOS COMPONENTES**
 
 La especificación normativa utiliza una serie de parámetros y referencias técnicas para describir componentes específicos de la envolvente de gálibo:
 
-- $I_0$ o $D_0$: Valores de referencia de disimetría de carga
-- $(I_{\text{máx}} - I_0)$ o $(D_{\text{máx}} - D_0)$: Excesos de disimetría sobre los valores de referencia, aplicables cuando se superan los umbrales de peralte ($s > s_0$) y altura del centro de gravedad ($h_c > h_{co}$)
-- $E_i$ o $E_a$: Factores de reducción aplicados a la envolvente
+- $$I_0$$ o $$D_0$$: Valores de referencia de disimetría de carga
+- $$(I_{\text{máx}} - I_0)$$ o $$(D_{\text{máx}} - D_0)$$: Excesos de disimetría sobre los valores de referencia, aplicables cuando se superan los umbrales de peralte ($$s > s_0$$) y altura del centro de gravedad ($$h_c > h_{co}$$)
+- $$E_i$$ o $$E_a$$: Factores de reducción aplicados a la envolvente
 - S: Saliente de la envolvente
-- $D$: Desplazamiento lateral del vehículo
+- $$D$$: Desplazamiento lateral del vehículo
 - Contorno de referencia más salientes: Envolvente que integra el contorno de referencia básico y los salientes localizados
-- Desplazamiento cuasiestático: Para los parámetros de referencia $s = s_0$ y $h_c = h_{co}$
+- Desplazamiento cuasiestático: Para los parámetros de referencia $$s = s_0$$ y $$h_c = h_{co}$$
 - Envolvente cinemática: Lugar geométrico del material considerado con libertad de movimiento cinemático
-- Desplazamientos aleatorios laterales: $M_1 + M_2$ que representan los movimientos no predecibles
+- Desplazamientos aleatorios laterales: $$M_1 + M_2$$ que representan los movimientos no predecibles
 - Gálibo límite de implantación de obstáculos: Límite máximo inicial
-- Márgenes complementarios laterales: $M_{3b}$ que proporciona espacios de seguridad adicionales
+- Márgenes complementarios laterales: $$M_{3b}$$ que proporciona espacios de seguridad adicionales
 - Gálibo nominal de implantación de obstáculos: Límite final de operación
 
 ![86179c8558f4a8181a366f427617454c_MD5]({{ site.baseurl }}/assets/images/86179c8558f4a8181a366f427617454c_MD5.webp)
+
 ![a842329cc7f320f4fa2298771d86377e_MD5]({{ site.baseurl }}/assets/images/a842329cc7f320f4fa2298771d86377e_MD5.webp)
 
 **PARÁMETROS DE ALTURA EN ACUERDOS VERTICALES**
@@ -411,9 +419,9 @@ En el contexto de perfiles altimétricos complejos con acuerdos verticales curva
 (2) Contorno de referencia: La envolvente de referencia del vehículo
 (3) Posición límite de los obstáculos: La zona prohibida para infraestructura
 
-$h_{\text{umin}}$: La altura mínima considerada para el desplazamiento vertical del material rodante por debajo del contorno de referencia cuando circula en acuerdos verticales cóncavos. Este parámetro define cuánto puede "hundirse" el vehículo
-$h_{\text{omin}}$: La altura mínima considerada para el desplazamiento vertical del material rodante por encima del contorno de referencia cuando circula en acuerdos verticales convexos. Este parámetro define cuánto puede "elevarse" el vehículo
-$R_{\text{vmin}}$: El radio de curvatura mínimo del acuerdo vertical que debe considerarse en el diseño de la infraestructura
+$$h_{\text{umin}}$$: La altura mínima considerada para el desplazamiento vertical del material rodante por debajo del contorno de referencia cuando circula en acuerdos verticales cóncavos. Este parámetro define cuánto puede "hundirse" el vehículo
+$$h_{\text{omin}}$$: La altura mínima considerada para el desplazamiento vertical del material rodante por encima del contorno de referencia cuando circula en acuerdos verticales convexos. Este parámetro define cuánto puede "elevarse" el vehículo
+$$R_{\text{vmin}}$$: El radio de curvatura mínimo del acuerdo vertical que debe considerarse en el diseño de la infraestructura
 
 ![527f0fdd7c6fcd8602a92cc297ce0b45_MD5]({{ site.baseurl }}/assets/images/527f0fdd7c6fcd8602a92cc297ce0b45_MD5.webp)
 
@@ -447,7 +455,8 @@ Las especificaciones de gálibos para las partes bajas del vehículo constituyen
 
 Las especificaciones de gálibos de partes bajas varían según el tipo de servicio previsto. Las líneas que están diseñadas para ser compatibles con sistemas de autopista ferroviaria (que permiten el transporte de vehículos de carretera sobre soportes ferroviarios) tienen requisitos dimensional diferentes respecto a las líneas convencionales que no incorporan esta capacidad operacional.
 
-## Capítulo VIII. Sistemas de Ejes, Ruedas y Bogies: Configuraciones de Rodadura
+
+## Capítulo VIII. Sistemas de Ejes, Ruedas y Bogies: Configuraciones de Rodadura   
 
 El sistema de rodadura de un vehículo ferroviario define cómo se transmiten y distribuyen las cargas hacia la infraestructura ferroviaria. Las diferentes configuraciones de rodadura tienen implicaciones significativas en el comportamiento dinámico, la capacidad de carga, y la estabilidad del vehículo.
 
@@ -455,6 +464,7 @@ El sistema de rodadura de un vehículo ferroviario define cómo se transmiten y 
 
 En los vehículos de pasajeros, existen dos configuraciones fundamentales de sistemas de ejes y bogies:
 ![c772b47b997ab19566acc97fef0abdd3_MD5]({{ site.baseurl }}/assets/images/c772b47b997ab19566acc97fef0abdd3_MD5.webp)
+
 **Coches de ejes/rodales simples**: En esta configuración, el vehículo descansa directamente sobre ejes simples sin que exista un bogie intermedio. Esta es una configuración más simple y económica, pero con limitaciones en velocidad y confort.
 
 ![c99af4fe8d15e569876c54cfc05cfdb9_MD5]({{ site.baseurl }}/assets/images/c99af4fe8d15e569876c54cfc05cfdb9_MD5.webp)
@@ -573,20 +583,15 @@ Estos vehículos especializados representan una categoría operacional important
 
 ## Capítulo XI. Material Remolcado: Clasificación y Características Constructivas
 
-El material remolcado constituye la categoría de vehículos ferroviarios que no poseen capacidad de tracción propia, sino que son impulsados por unidades motrices conectadas a través de sistemas de enganches. Esta categoría es fundamental en sistemas convencionales donde una o varias locomotoras remolcan múltiples vehículos.
+El **material remolcado** constituye la categoría de vehículos ferroviarios que no poseen capacidad de tracción propia, sino que son impulsados por unidades motrices conectadas a través de sistemas de enganches. Esta categoría es fundamental en sistemas convencionales donde una o varias locomotoras remolcan múltiples vehículos.
 
 **DEFINICIÓN Y CLASIFICACIÓN FUNDAMENTAL**
 
-Se denomina "vagones" específicamente a los vehículos diseñados para el transporte de cargas (mercancías), mientras que se utiliza el término "coches" para referirse a los vehículos destinados al transporte de personas. Aunque estas categorías tienen funciones distintas, comparten características estructurales similares en términos de composición general.
+Se denomina "**vagones**" específicamente a los vehículos diseñados para el transporte de cargas (mercancías), mientras que se utiliza el término "**coches**" para referirse a los vehículos destinados al transporte de personas. Aunque estas categorías tienen funciones distintas, comparten características estructurales similares en términos de composición general.
 
 **ESTRUCTURA CONSTRUCTIVA COMÚN**
 
 En ambos tipos de material remolcado, la caja o carrocería del vehículo se encuentra montada sobre un bastidor portante que actúa como estructura de soporte y transmisión de cargas. Este bastidor, a su vez, descansa sobre el tren de rodado, que está constituido por ejes simples o por bogies, típicamente de dos ejes cada uno. Esta estructura modular permite adaptar la capacidad de carga y las características operacionales del vehículo a las necesidades específicas de cada aplicación.
-
-![f795d0808b5303b40dd1de8fbcb87924_MD5]({{ site.baseurl }}/assets/images/f795d0808b5303b40dd1de8fbcb87924_MD5.webp)
-![c2537d68ca73f7ba5941c32ee2c3efa6_MD5]({{ site.baseurl }}/assets/images/c2537d68ca73f7ba5941c32ee2c3efa6_MD5.webp)
-![ad07e008aa5da1537f04ec0d9c5a5342_MD5]({{ site.baseurl }}/assets/images/ad07e008aa5da1537f04ec0d9c5a5342_MD5.webp)
-![e33c75f3ba449ceb56257649997e7e9b_MD5]({{ site.baseurl }}/assets/images/e33c75f3ba449ceb56257649997e7e9b_MD5.webp)
 
 ## Capítulo XII. Mercancías: Tipología, Características y Composiciones de Vagones de Carga
 
@@ -1022,7 +1027,33 @@ Ambas series incorporan:
 
 ![e0f3984bd9cd4d1871812a7da1ec7d78_MD5]({{ site.baseurl }}/assets/images/e0f3984bd9cd4d1871812a7da1ec7d78_MD5.webp)
 ![0d68640ae870ed73f1dc0863944b5fc6_MD5]({{ site.baseurl }}/assets/images/0d68640ae870ed73f1dc0863944b5fc6_MD5.webp)
-## Capítulo XV. Bibliografía
+
+## Preguntas de repaso
+
+<div class="flashcard-container">
+{% include flashcard.html
+   question="¿Cuál es la diferencia fundamental entre trenes de tracción concentrada y trenes de tracción distribuida?"
+   answer="En la **tracción concentrada**, la motricidad reside en locomotoras independientes; en la **tracción distribuida**, los motores se reparten a lo largo de coches-motor en la composición (ej. Civia, Alaris)."
+%}
+{% include flashcard.html
+   question="¿Qué ventajas ofrece la electrificación ferroviaria frente a la tracción diésel?"
+   answer="Mayor **rendimiento energético**, ausencia de emisiones locales, menores costos operacionales a largo plazo y mejor capacidad de aceleración."
+%}
+{% include flashcard.html
+   question="¿Qué función principal desempeña el \"bogie\" en un vehículo ferroviario?"
+   answer="Es la estructura de **soporte dinámico** que alberga los ejes y ruedas, permitiendo la inscripción en curvas, la suspensión de la caja y (en vehículos motores) la transmisión de tracción."
+%}
+{% include flashcard.html
+   question="¿Qué característica define a los vagones de mercancías \"schnabel\"?"
+   answer="Su diseño con forma de pico para transportar **cargas extraordinarias** de gran peso y dimensión, permitiendo aprovechar al máximo el gálibo disponible."
+%}
+{% include flashcard.html
+   question="¿Qué es el gálibo dinámico en el contexto ferroviario?"
+   answer="La **envolvente geométrica** máxima que ocupa un vehículo en movimiento, integrando su perfil constructivo, desplazamientos por suspensión, curvas, peraltes y márgenes de seguridad."
+%}
+</div>
+
+## Bibliografía
 
 La presente documentación técnica ha sido desarrollada basándose en referencias académicas, normativas de operación ferroviaria, y especificaciones técnicas de fabricantes reconocidos en el sector:
 

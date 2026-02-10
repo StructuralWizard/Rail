@@ -22,14 +22,14 @@ parent: Inicio
 
 ## Capítulo I INTRODUCCIÓN
 
-En el ámbito de la ingeniería ferroviaria, el sistema de transporte sobre raíles presenta una característica distintiva fundamental: los vehículos ferroviarios operan siguiendo una trayectoria predeterminada y fija. Esta particularidad se debe a la relación existente entre la rueda y el carril, donde el elemento guía denominado pestaña cumple una función esencial al dirigir el movimiento del material rodante a lo largo de la vía.
+En el ámbito de la ingeniería ferroviaria, el sistema de transporte sobre raíles presenta una característica distintiva fundamental: los vehículos ferroviarios operan siguiendo una trayectoria predeterminada y fija. Esta particularidad se debe a la relación existente entre la rueda y el carril, donde el elemento guía denominado **pestaña** cumple una función esencial al dirigir el movimiento del material rodante a lo largo de la vía.
 
-Desde una perspectiva operacional, la infraestructura ferroviaria requiere la interconexión de múltiples itinerarios para que sea posible ejecutar diversas maniobras tales como el cruce de vías, el rebase de convoyes, el estacionamiento y apartado de unidades de transporte, y otras operaciones esenciales en la explotación diaria. Sin embargo, todas estas funciones deben realizarse sin que el elemento de guiado, la pestaña de la rueda, encuentre obstrucciones o impedimentos en su trayecto.
+Desde una perspectiva operacional, la infraestructura ferroviaria requiere la interconexión de múltiples itinerarios para que sea posible ejecutar diversas maniobras tales como el cruce de vías, el rebase de convoyes, el estacionamiento y apartado de unidades de transporte, y otras operaciones esenciales en la explotación diaria. Sin embargo, todas estas funciones deben realizarse sin que el elemento de guiado, la **pestaña de la rueda**, encuentre obstrucciones o impedimentos en su trayecto.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZuR5QTlfOzk?si=dc4UZd93IBeJyHFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Históricamente, la solución a esta problemática fue desarrollada en el año 1796 por el ingeniero John Curr, quien implementó los dispositivos de conexión de vías en el contexto del proyecto de red ferroviaria para el condado de Norfolk en Inglaterra. Estos aparatos constituyeron un hito fundamental en la evolución del transporte ferroviario.
+Históricamente, la solución a esta problemática fue desarrollada en el año 1796 por el ingeniero **John Curr**, quien implementó los **dispositivos de conexión de vías** en el contexto del proyecto de red ferroviaria para el condado de Norfolk en Inglaterra. Estos aparatos constituyeron un hito fundamental en la evolución del transporte ferroviario.
 
 
 <iframe width="315" height="560" src="https://youtube.com/embed/bc46J0id2JA?si=JHJZMiz4DpJRCe_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -40,23 +40,24 @@ THE BEHR MONO-RAIL BETWEEN LISTOWEL AND BALLYBUNION, IN KERRY, IRELAND
 
 Durante los siglos posteriores, la tecnología ferroviaria ha experimentado una serie de mejoras tecnológicas y de diseño, todas ellas orientadas hacia objetivos comunes de optimización. Los adelantos sucesivos han perseguido tres metas principales:
 
-- Elevar significativamente los niveles de seguridad en la operación de los sistemas ferroviarios
-- Posibilitar la circulación de los convoyes a velocidades cada vez más altas
-- Extender considerablemente la durabilidad y la vida útil de los aparatos de vía
+- Elevar significativamente los niveles de **seguridad** en la operación de los sistemas ferroviarios
+- Posibilitar la circulación de los convoyes a **velocidades** cada vez más altas
+- Extender considerablemente la **durabilidad** y la vida útil de los aparatos de vía
 ![79f2b1137794b4b7f46e7d43579c7edd_MD5]({{ site.baseurl }}/assets/images/79f2b1137794b4b7f46e7d43579c7edd_MD5.webp)
 
 ## Capítulo II DEFINICIONES GENERALES
 
-En el contexto de la ingeniería ferroviaria, se define como aparatos de vía al conjunto de dispositivos especializados cuya función es garantizar la continuidad operacional de la infraestructura ferroviaria en los puntos donde se conectan distintas trayectorias o itinerarios. Estos aparatos permiten mantener el mismo nivel de seguridad y fiabilidad que existe en una vía recta y continua, posibilitando la conexión y el cruce entre diferentes líneas o ramales de forma segura y eficiente.
+{: .highlight }
+En el contexto de la ingeniería ferroviaria, se define como **aparatos de vía** al conjunto de dispositivos especializados cuya función es garantizar la continuidad operacional de la infraestructura ferroviaria en los puntos donde se conectan distintas trayectorias o itinerarios. Estos aparatos permiten mantener el mismo nivel de **seguridad y fiabilidad** que existe en una vía recta y continua, posibilitando la conexión y el cruce entre diferentes líneas o ramales de forma segura y eficiente.
 
-Los aparatos de vía se componen mediante combinaciones de únicamente dos tipos de dispositivos fundamentales:
+Los **aparatos de vía** se componen mediante combinaciones de únicamente dos tipos de dispositivos fundamentales:
 
 1. **El desvío**: se define como un aparato de vía especializado que permite la bifurcación de una vía férrea en dos o más ramales, de manera que los ejes de estas nuevas vías convergen tangencialmente con el eje de la vía principal o forman un ángulo muy reducido con respecto al mismo. Esto permite que el material rodante transite de forma suave desde una trayectoria a otra.
 
 2. **La travesía**: constituye un dispositivo que facilita el cruce perpendicular de dos vías distintas. En este caso, los ejes de ambas vías se interceptan entre sí, permitiendo que los convoyes transiten en las cuatro direcciones posibles.
 ![a7557e214463b95a178c4d4fddbac4f5_MD5]({{ site.baseurl }}/assets/images/a7557e214463b95a178c4d4fddbac4f5_MD5.webp)
 
-La construcción de los desvíos y travesías se realiza mediante la combinación estratégica de tres elementos estructurales fundamentales, que se encuentran interconectados por segmentos de vía convencional conocidos como carriles intermedios.
+La construcción de los **desvíos** y **travesías** se realiza mediante la combinación estratégica de tres elementos estructurales fundamentales, que se encuentran interconectados por segmentos de vía convencional conocidos como **carriles intermedios**.
 
 Estos tres elementos constituyentes son:
 
@@ -70,17 +71,17 @@ Estos tres elementos constituyentes son:
 - **El cruzamiento doble**: constituye una variante más compleja que posibilita la intersección de dos hilos de carril del mismo lado o mano, permitiendo configuraciones geométricas más complejas.
 ![8315a7379b8e6f7ff2edd935da527c00_MD5]({{ site.baseurl }}/assets/images/8315a7379b8e6f7ff2edd935da527c00_MD5.webp)
 
-Estructuralmente, los desvíos se conforman mediante la unión de un cambio y un cruzamiento simple, conectados por los carriles intermedios mencionados anteriormente.
+Estructuralmente, los **desvíos** se conforman mediante la unión de un **cambio** y un **cruzamiento simple**, conectados por los carriles intermedios mencionados anteriormente.
 
-Las travesías, por su parte, constituyen una combinación más elaborada formada por dos cruzamientos simples y dos cruzamientos dobles, lo que les confiere la capacidad de permitir circulación en múltiples direcciones.
+Las **travesías**, por su parte, constituyen una combinación más elaborada formada por dos **cruzamientos simples** y dos **cruzamientos dobles**, lo que les confiere la capacidad de permitir circulación en múltiples direcciones.
 
 ## Capítulo III DESVÍOS: PRINCIPIOS BASICOS
 
-La configuración más elemental de un desvío es la denominada sencilla o de dos vías, la cual proporciona a los convoyes que circulan por él la alternativa de dirigirse hacia uno u otro ramal de bifurcación. De forma convencional, la vía que mantiene la continuidad de la dirección original se denomina vía directa, mientras que la otra recibe la denominación de vía desviada.
+La configuración más elemental de un desvío es la denominada **sencilla o de dos vías**, la cual proporciona a los convoyes que circulan por él la alternativa de dirigirse hacia uno u otro ramal de bifurcación. De forma convencional, la vía que mantiene la continuidad de la dirección original se denomina **vía directa**, mientras que la otra recibe la denominación de **vía desviada**.
 
-El proceso de separación de ambas vías y su posterior cruce se lleva a cabo mediante la acción combinada de dos elementos previamente descritos: el cambio, responsable de la separación, y el cruzamiento, que materializa la intersección de los carriles.
+El proceso de separación de ambas vías y su posterior cruce se lleva a cabo mediante la acción combinada de dos elementos previamente descritos: el **cambio**, responsable de la separación, y el **cruzamiento**, que materializa la intersección de los carriles.
 
-Un desvío sencillo consta de una serie de componentes identificables que se suceden en el sentido del recorrido:
+Un **desvío sencillo** consta de una serie de componentes identificables que se suceden en el sentido del recorrido:
 
 - **El cambio**: ubicado en el origen común de ambas vías, donde se produce la bifurcación. En esta zona se separan, en parejas, los cuatro carriles que componen las dos vías (dos carriles de cada vía).
 
@@ -88,11 +89,11 @@ Un desvío sencillo consta de una serie de componentes identificables que se suc
 
 - **El cruzamiento**: localizado al final del aparato, donde se produce la intersección efectiva del carril derecho (o izquierdo) de la vía directa con el carril izquierdo (o derecho) de la vía desviada.
 
-Dimensionalmente, un desvío se delimita mediante seis juntas estratégicamente ubicadas: las dos juntas correspondientes al cambio marcan el comienzo del desvío (CD); mientras que las cuatro juntas finales del cruzamiento determinan el final del desvío (FD).
+Dimensionalmente, un desvío se delimita mediante seis juntas estratégicamente ubicadas: las dos juntas correspondientes al cambio marcan el **comienzo del desvío (CD)**; mientras que las cuatro juntas finales del cruzamiento determinan el **final del desvío (FD)**.
 
 Desde el punto de vista de su clasificación, los desvíos pueden categorizarse según diversos criterios de diseño y funcionalidad:
 
-![101554aa56869e60dc8a019e716c3465_MD5]({{ site.baseurl }}/assets/images/101554aa56869e60dc8a019e716c3465_MD5.webp|700x228)
+![101554aa56869e60dc8a019e716c3465_MD5]({{ site.baseurl }}/assets/images/101554aa56869e60dc8a019e716c3465_MD5.webp){: width="700" height="228"}
 
 
 <iframe width="315" height="560" src="https://youtube.com/embed/-TR3oNG0TU8?si=4UO_GCSHjgsR8i-Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -100,10 +101,10 @@ Desde el punto de vista de su clasificación, los desvíos pueden categorizarse 
 
 ## Capítulo IV CAMBIO: FUNCION Y COMPONENTES
 
-El cambio es un mecanismo esencial en la estructura de los aparatos de vía, cuya función es dirigir el flujo de circulación de los convoyes hacia el ramal específico de la vía por el cual deben transitar. Este componente está integrado por varios elementos mecánicos que trabajan de manera coordinada para lograr esta función. A continuación se describen los componentes estructurales del cambio:
+El **cambio** es un mecanismo esencial en la estructura de los aparatos de vía, cuya función es dirigir el flujo de circulación de los convoyes hacia el ramal específico de la vía por el cual deben transitar. Este componente está integrado por varios elementos mecánicos que trabajan de manera coordinada para lograr esta función. A continuación se describen los componentes estructurales del cambio:
 
 
-**1. Las agujas o espadines**: constituyen las piezas interiores móviles del cambio. Están diseñadas para girar sobre uno de sus extremos (el talón), permitiendo que la rueda sea guiada hacia un lado u otro de la vía. Su movimiento es fundamental para redirigir el material rodante.
+**1. Las agujas o espadines**: constituyen las piezas interiores móviles del cambio. Están diseñadas para girar sobre uno de sus extremos (**el talón**), permitiendo que la rueda sea guiada hacia un lado u otro de la vía. Su movimiento es fundamental para redirigir el material rodante.
 
 **2. Las contraagujas**: son piezas fijas que se posicionan en el exterior del cambio. Trabajan como superficies de soporte contra las cuales se acoplan las agujas cuando se posicionan en sus distintas configuraciones.
 
@@ -118,18 +119,18 @@ Adicionalmente, el cambio posee otras características mecánicas importantes:
 
 **6. El talón**: constituye el extremo posterior de la aguja, opuesto a la punta. A diferencia de la punta, esta zona no está mecanizada finalmente y es el punto donde la aguja se conecta con los carriles de unión que la integran en el aparato.
 
-El inicio del desvío (CD) queda determinado técnicamente por la junta de la contraaguja, no por la punta de la aguja, lo cual es un parámetro fundamental en el diseño y construcción de los aparatos.
+El **inicio del desvío (CD)** queda determinado técnicamente por la junta de la contraaguja, no por la punta de la aguja, lo cual es un parámetro fundamental en el diseño y construcción de los aparatos.
 
 Durante su operación, la aguja se desplaza lateralmente para dejar paso libre a la pestaña de la rueda, permitiendo que el material rodante transite sin obstáculos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kU20J82CiVU?si=hLI8vGKLNTpRk4yf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Es importante aclarar que en los esquemas de representación, los trazos más gruesos no representan los ejes teóricos de los carriles, sino el borde activo de cada uno de ellos. Se define como borde activo la línea situada sobre la cara lateral del carril (denominada cara activa) que tiene contacto potencial con la pestaña de la rueda para realizar su función guía, ubicada a una profundidad de $\mathbf{15 ~ mm}$ bajo el borde superior del carril.
+Es importante aclarar que en los esquemas de representación, los trazos más gruesos no representan los ejes teóricos de los carriles, sino el **borde activo** de cada uno de ellos. Se define como **borde activo** la línea situada sobre la cara lateral del carril (denominada cara activa) que tiene contacto potencial con la pestaña de la rueda para realizar su función guía, ubicada a una profundidad de $$\mathbf{15 ~ mm}$$ bajo el borde superior del carril.
 ![4fa6fdbf4cf012fa3e79481135fb7103_MD5]({{ site.baseurl }}/assets/images/4fa6fdbf4cf012fa3e79481135fb7103_MD5.webp)
 
 **Definiciones geométricas y funcionales del cambio:**
-![3b3f9a2347e77cb6c9b737fcd31b69a6_MD5]({{ site.baseurl }}/assets/images/3b3f9a2347e77cb6c9b737fcd31b69a6_MD5.webp|700x228)
+![3b3f9a2347e77cb6c9b737fcd31b69a6_MD5]({{ site.baseurl }}/assets/images/3b3f9a2347e77cb6c9b737fcd31b69a6_MD5.webp){: width="700" height="228"}
 
 - **Punta matemática de una aguja (PMA)**: representa el punto teórico de convergencia de los bordes activos de los elementos que conforman el cambio, es decir, donde los bordes activos de la aguja y la contraaguja se interceptarían geométricamente.
 
@@ -141,7 +142,7 @@ Es importante aclarar que en los esquemas de representación, los trazos más gr
 
 **Sistema de accionamiento del cambio:**
 
-Las agujas de los cambios pueden ser accionadas mediante diversos procedimientos tecnológicos que se adaptan a las diferentes necesidades operacionales: sistemas manuales mediante palancas, sistemas mecánicos con conexiones rígidas, sistemas hidráulicos con fluidos a presión, o sistemas eléctricos con motores de baja tensión. Estos sistemas pueden desplazar las agujas simultáneamente o con pequeños intervalos de tiempo controlados. Una vez que la aguja se acopla correctamente con su contraaguja, la inmovilidad se mantiene mediante un dispositivo de bloqueo denominado cerrojo o encerrojamiento. Durante su desplazamiento, las agujas se deslizan sobre superficies lubricadas especiales llamadas cojinetes de resbalamiento o resbaladeras, hasta que se adaptan perfectamente a su posición de reposo.
+Las agujas de los cambios pueden ser accionadas mediante diversos procedimientos tecnológicos que se adaptan a las diferentes necesidades operacionales: sistemas manuales mediante palancas, sistemas mecánicos con conexiones rígidas, sistemas hidráulicos con fluidos a presión, o sistemas eléctricos con motores de baja tensión. Estos sistemas pueden desplazar las agujas simultáneamente o con pequeños intervalos de tiempo controlados. Una vez que la aguja se acopla correctamente con su contraaguja, la inmovilidad se mantiene mediante un dispositivo de bloqueo denominado **cerrojo** o **encerrojamiento**. Durante su desplazamiento, las agujas se deslizan sobre superficies lubricadas especiales llamadas **cojinetes de resbalamiento o resbaladeras**, hasta que se adaptan perfectamente a su posición de reposo.
 
 ![9d69477910315ee3a6fd7f7335c3a2c6_MD5]({{ site.baseurl }}/assets/images/9d69477910315ee3a6fd7f7335c3a2c6_MD5.webp)
 
@@ -159,7 +160,7 @@ Operacionalmente, se establece que de forma simultánea, excepto durante las ope
 ![5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5]({{ site.baseurl }}/assets/images/5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5.webp)
 **Accionamientos específicos del cambio:**
 
-Los cambios pueden operarse de forma manual mediante una palanca ubicada al pie del aparato, la cual actúa sobre el mecanismo de maniobra de la aguja. Dependiendo de su configuración, estas palancas pueden tener una única posición de equilibrio (simple efecto) o dos posiciones (doble efecto). En los sistemas de doble efecto, se utilizan contrapesos especiales (denominados "quesos") para determinar automáticamente la posición de las agujas.
+Los cambios pueden operarse de forma manual mediante una palanca ubicada al pie del aparato, la cual actúa sobre el mecanismo de maniobra de la aguja. Dependiendo de su configuración, estas palancas pueden tener una única posición de equilibrio (**simple efecto**) o dos posiciones (**doble efecto**). En los sistemas de doble efecto, se utilizan contrapesos especiales (denominados "quesos") para determinar automáticamente la posición de las agujas.
 
 <iframe width="315" height="560" src="https://youtube.com/embed/iA1JIksl-PQ?si=IBjyNUQBvnq19xpV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -207,7 +208,7 @@ En el proceso de ingeniería de diseño y selección del perfil más adecuado pa
 
 ### V.1. RIGIDEZ TRANSVERSAL
 
-La rigidez transversal del carril constituye un parámetro de crucial importancia debido a las fuerzas y solicitaciones ejercidas por la pestaña de la rueda cuando el eje del vehículo entra en la vía desviada, particularmente durante la maniobra de talonamiento. El momento de inercia transversal, designado como ly, debe poseer una magnitud suficiente para garantizar que la aguja no experimente deformación plástica y que no se incline o torsione durante su movimiento operacional.
+La **rigidez transversal** del carril constituye un parámetro de crucial importancia debido a las fuerzas y solicitaciones ejercidas por la pestaña de la rueda cuando el eje del vehículo entra en la vía desviada, particularmente durante la maniobra de talonamiento. El momento de inercia transversal, designado como ly, debe poseer una magnitud suficiente para garantizar que la aguja no experimente deformación plástica y que no se incline o torsione durante su movimiento operacional.
 
 ### V.2. EL MANTENIMIENTO DE LA ENTRECALLE AGUJA-CONTRAAGUJA
 
@@ -220,13 +221,13 @@ $$
 Al realizar estos cálculos, es fundamental aplicar todas las tolerancias en el sentido más desfavorable, además de considerar la posibilidad de desgaste lateral de los carriles a lo largo de la vida operativa.
 ![d6690ac7fcdb4b677b03bb51d2b567de_MD5]({{ site.baseurl }}/assets/images/d6690ac7fcdb4b677b03bb51d2b567de_MD5.webp)
 
-Los valores típicamente empleados en la práctica están en el rango de: $r=55-65 \mathrm{~mm}$.
+Los valores típicamente empleados en la práctica están en el rango de: $$r=55-65 \mathrm{~mm}$$.
 
-Para cambios especializados en sistemas de alta velocidad, mantener la separación requerida exige la instalación de múltiples puntos de accionamiento distribuidos a lo largo del cambio, puesto que la flexibilidad inherente a las agujas de mayor longitud no garantiza por sí sola el mantenimiento de esta dimensión crítica. Consecuentemente, la Rigidez Transversal del carril (ly) debe ser particularmente importante en estas aplicaciones.
+Para cambios especializados en sistemas de alta velocidad, mantener la separación requerida exige la instalación de múltiples puntos de accionamiento distribuidos a lo largo del cambio, puesto que la flexibilidad inherente a las agujas de mayor longitud no garantiza por sí sola el mantenimiento de esta dimensión crítica. Consecuentemente, la **Rigidez Transversal del carril (ly)** debe ser particularmente importante en estas aplicaciones.
 
 ### V.3. INCLINACION DE LOS CARRILES EN EL CAMBIO
 
-En las vías ferroviarias convencionales, los carriles se instalan con una inclinación respecto a la vertical dirigida hacia el interior de la vía, típicamente de 1:20. Sin embargo, esta práctica varía según la administración ferroviaria:
+En las vías ferroviarias convencionales, los carriles se instalan con una **inclinación respecto a la vertical** dirigida hacia el interior de la vía, típicamente de 1:20. Sin embargo, esta práctica varía según la administración ferroviaria:
 
 - Ferrocarriles Ingleses, Alemanes y Austriacos: mantienen una inclinación de 1:40
 - Algunas compañías de Estados Unidos: utilizan inclinaciones de 1:100 o incluso carriles completamente verticales
@@ -280,7 +281,7 @@ La ingeniería de aparatos de vía contempla diversas clasificaciones de cambios
 
 ### VI.1. ACCIONAMIENTO
 
-**Operación a pie de aparato:** Los cambios pueden ser manipulados manualmente mediante una palanca de maniobra ubicada en el mismo sitio del aparato. Esta palanca actúa directamente sobre el mecanismo de transmisión de la aguja. Dependiendo de su configuración mecánica, estas palancas pueden poseer una única posición de equilibrio (denominadas de simple efecto) o bien dos posiciones diferenciadas (de doble efecto). En los cambios de doble efecto, se utilizan contrapesos especiales, coloquialmente llamados "quesos", para estabilizar y determinar automáticamente la posición en reposo de las agujas.
+**Operación a pie de aparato:** Los cambios pueden ser manipulados manualmente mediante una palanca de maniobra ubicada en el mismo sitio del aparato. Esta palanca actúa directamente sobre el mecanismo de transmisión de la aguja. Dependiendo de su configuración mecánica, estas palancas pueden poseer una única posición de equilibrio (denominadas de **simple efecto**) o bien dos posiciones diferenciadas (de **doble efecto**). En los cambios de doble efecto, se utilizan contrapesos especiales, coloquialmente llamados "quesos", para estabilizar y determinar automáticamente la posición en reposo de las agujas.
 ![c86ed28b18218aed160ab13640117350_MD5]({{ site.baseurl }}/assets/images/c86ed28b18218aed160ab13640117350_MD5.webp)
 
 **Operación a distancia:** Para aplicaciones donde se requiere control remoto desde puestos de maniobra centralizados, existen múltiples alternativas tecnológicas de transmisión:
@@ -297,14 +298,15 @@ En términos del movimiento del material rodante a través de los cambios, estos
 Un cambio puede ser transitado desde la zona del cambio propiamente dicho (punta), en cuyo caso el material rodante toma la dirección que impone la posición actual de las agujas. Alternativamente, el convoy puede ingresar por el talón del cambio. Si la maniobra se ha ejecutado correctamente, el tren encontrará la vía expedita para circular según corresponda. Sin embargo, si la maniobra no se realizó adecuadamente y el cambio permanece en configuración cerrada para ese itinerario específico, las pestañas de las ruedas se introducirán en el espacio entre la aguja y la contraaguja, provocando su separación forzada y rompiéndose los tirantes que mantienen la correcta separación entre ambas piezas.
 ![247539d6b73a02522e8f9a7e85513ed5_MD5]({{ site.baseurl }}/assets/images/247539d6b73a02522e8f9a7e85513ed5_MD5.webp)
 
+{: .highlight }
 Se denomina **talonamiento** a este evento donde el material rodante fuerza la apertura de un cambio que no estaba preparado para recibirlo por esa dirección. El proceso comienza con la deformación o ruptura de los tirantes, seguido por la separación forzada de las agujas.
 
-El talonamiento de un cambio ordinario no produce necesariamente el descarrilamiento inmediato del tren que lo ocasiona. No obstante, si el convoy intenta retroceder después de un talonamiento, especialmente si no ha rebasado completamente el desvío, sí puede producirse un descarrilamiento. Esta situación es particularmente peligrosa si el convoy tiene una parte de sus vehículos en la vía directa y otra parte en la vía desviada del cambio. Este tipo de accidente suele ocurrir por errores operacionales de los agentes encargados de las maniobras en las estaciones.
+El **talonamiento** de un cambio ordinario no produce necesariamente el descarrilamiento inmediato del tren que lo ocasiona. No obstante, si el convoy intenta retroceder después de un talonamiento, especialmente si no ha rebasado completamente el desvío, sí puede producirse un descarrilamiento. Esta situación es particularmente peligrosa si el convoy tiene una parte de sus vehículos en la vía directa y otra parte en la vía desviada del cambio. Este tipo de accidente suele ocurrir por errores operacionales de los agentes encargados de las maniobras en las estaciones.
 En ciertos tipos de ferrocarriles de menor importancia o tráfico reducido, existen agujas especiales denominadas **normalmente talonables**. Estas agujas están diseñadas de forma que un resorte o contrapeso automáticamente devuelve los espadines a su posición original después de que el material rodante que los talonó ha superado el aparato. Los espadines en este tipo de configuración operan de forma independiente uno del otro.
 
 ## Capítulo VII EL CRUZAMIENTO
 
-El cruzamiento representa el componente más complejo y crítico del desvío, siendo el lugar donde se produce la superposición geométrica de los dos itinerarios ferroviarios. Su estructura está constituida por tres componentes fundamentales: el corazón, los contracarriles, y los carriles colaterales.
+El **cruzamiento** representa el componente más complejo y crítico del desvío, siendo el lugar donde se produce la superposición geométrica de los dos itinerarios ferroviarios. Su estructura está constituida por tres componentes fundamentales: el **corazón**, los **contracarriles**, y los **carriles colaterales**.
 ![063e248cb4180743b84f7ae5dcd5b265_MD5]({{ site.baseurl }}/assets/images/063e248cb4180743b84f7ae5dcd5b265_MD5.webp)
 ![5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5]({{ site.baseurl }}/assets/images/5ffbf5e38bbd1e4b9d085c54bdef5a40_MD5.webp)
 
@@ -312,7 +314,7 @@ El cruzamiento representa el componente más complejo y crítico del desvío, si
 
 **El Corazón del Cruzamiento:**
 
-Se define como corazón la zona constructiva donde se produce la unión física de los dos carriles que se interceptan. Los hilos de la vía directa y de la vía desviada forman, al cortarse mutuamente, la línea característica denominada punta del corazón. El punto PM (punta matemática) marca la posición teórica e ideal donde se interceptarían geométricamente ambos hilos de carril; el punto PR (punta real) materializa la posición física efectiva donde comienza la unión de los dos carriles. La punta real del corazón suele estar ligeramente rebajada o conformada para conseguir un ascenso suave y gradual de la rueda sobre esta zona crítica.
+Se define como **corazón** la zona constructiva donde se produce la unión física de los dos carriles que se interceptan. Los hilos de la vía directa y de la vía desviada forman, al cortarse mutuamente, la línea característica denominada **punta del corazón**. El punto **PM (punta matemática)** marca la posición teórica e ideal donde se interceptarían geométricamente ambos hilos de carril; el punto **PR (punta real)** materializa la posición física efectiva donde comienza la unión de los dos carriles. La punta real del corazón suele estar ligeramente rebajada o conformada para conseguir un ascenso suave y gradual de la rueda sobre esta zona crítica.
 
 El corazón constituye la zona más solicitada del cruzamiento, ya que recibe continuamente los impactos de las ruedas de los vehículos durante el paso de los convoyes. Se denomina talón del corazón al extremo de esta zona que coincide con el final del desvío.
 ![d175505d302dde1253661f7a4553edef_MD5]({{ site.baseurl }}/assets/images/d175505d302dde1253661f7a4553edef_MD5.webp)
@@ -327,22 +329,22 @@ La separación espacial entre las caras activas del corazón y la correspondient
 
 **Función de los Contracarriles:**
 
-Los contracarriles constituyen elementos estructurales especializados cuya función es garantizar el guiado bidireccional de la rueda del eje que atraviesa la zona crítica del corazón, pasando sobre la laguna. Su presencia es esencial para evitar el descarrilamiento del vehículo y para proteger la integridad del corazón frente a daños acelerados. Tanto los contracarriles como las patas de liebre presentan aberturas en sus extremos de entrada, diseñadas para encauzar suavemente a las ruedas que se aproximan, evitando así los choques frontales destructivos que podrían danar las piezas.
+Los **contracarriles** constituyen elementos estructurales especializados cuya función es garantizar el guiado bidireccional de la rueda del eje que atraviesa la zona crítica del corazón, pasando sobre la laguna. Su presencia es esencial para evitar el descarrilamiento del vehículo y para proteger la integridad del corazón frente a daños acelerados. Tanto los contracarriles como las patas de liebre presentan aberturas en sus extremos de entrada, diseñadas para encauzar suavemente a las ruedas que se aproximan, evitando así los choques frontales destructivos que podrían danar las piezas.
 
 ### VII.1. DEFINICION DE UN CRUZAMIENTO
 
-Los cruzamientos y los desvíos de los cuales forman parte se caracterizan fundamentalmente por el **ángulo de cruzamiento** (α), que representa el ángulo que forman los dos hilos de las vías que se interceptan. Este parámetro es también conocido como **ángulo del corazón**. En los corazones curvos, donde la geometría es más compleja, este ángulo se define como el que forman las tangentes a los hilos en el talón del corazón.
+Los cruzamientos y los desvíos de los cuales forman parte se caracterizan fundamentalmente por el **ángulo de cruzamiento (α)**, que representa el ángulo que forman los dos hilos de las vías que se interceptan. Este parámetro es también conocido como **ángulo del corazón**. En los corazones curvos, donde la geometría es más compleja, este ángulo se define como el que forman las tangentes a los hilos en el talón del corazón.
 
-En la práctica profesional, no es habitual definir un cruzamiento o desvío mediante su ángulo de cruzamiento expresado en grados, sino más bien mediante el valor de la tangente de dicho ángulo. Esta tangente puede expresarse numéricamente (por ejemplo, 0.11) o mediante una relación tipo 1:n que resulta más fácil de recordar y utilizar (por ejemplo, 1:9). En ciertas administraciones ferroviarias, el número n recibe la denominación de **índice del desvío** o **número del desvío**.
+En la práctica profesional, no es habitual definir un cruzamiento o desvío mediante su ángulo de cruzamiento expresado en grados, sino más bien mediante el valor de la **tangente de dicho ángulo**. Esta tangente puede expresarse numéricamente (por ejemplo, 0.11) o mediante una relación tipo 1:n que resulta más fácil de recordar y utilizar (por ejemplo, 1:9). En ciertas administraciones ferroviarias, el número n recibe la denominación de **índice del desvío** o **número del desvío**.
 
 Los valores más comúnmente utilizados por la administración española ADIF son los siguientes:
 
 | TANGENTE DEL ÁNGULO | Relación | n | ÁNGULO DEL CRUZAMIENTO |
 | :--- | :--- | :--- | :--- |
-| 0.075 | 1:13 | 13 | $4^{\circ} 17^{\prime} 21^{\prime \prime}$ |
-| 0.09 | 1:11 | 11 | $5^{\circ} 8^{\prime} 34^{\prime \prime}$ |
-| 0.11 | 1:9 | 9 | $5^{\circ} 16^{\prime} 38^{\prime \prime}$ |
-| 0.13 | 1:7.5 | 7.5 | $7^{\circ} 35^{\prime} 41^{\prime \prime}$ |
+| 0.075 | 1:13 | 13 | $$4^{\circ} 17^{\prime} 21^{\prime \prime}$$ |
+| 0.09 | 1:11 | 11 | $$5^{\circ} 8^{\prime} 34^{\prime \prime}$$ |
+| 0.11 | 1:9 | 9 | $$5^{\circ} 16^{\prime} 38^{\prime \prime}$$ |
+| 0.13 | 1:7.5 | 7.5 | $$7^{\circ} 35^{\prime} 41^{\prime \prime}$$ |
 
 **Criterios de diseño de contracarriles:**
 
@@ -380,7 +382,7 @@ $$
 
 **Corazones curvos:**
 
-Adicionalmente a los corazones rectos tradicionales, existen geometrías más sofisticadas denominadas corazones curvos, donde los bordes activos del corazón presentan una curvatura continua en lugar de líneas rectas. Comparados con corazones rectos de igual ángulo de cruzamiento, estos corazones curvos permiten un radio mayor para la trayectoria de la vía desviada, lo cual posibilita la operación a velocidades más altas, mejorando significativamente el desempeño del aparato de vía.
+Adicionalmente a los corazones rectos tradicionales, existen geometrías más sofisticadas denominadas **corazones curvos**, donde los bordes activos del corazón presentan una curvatura continua en lugar de líneas rectas. Comparados con corazones rectos de igual ángulo de cruzamiento, estos corazones curvos permiten un radio mayor para la trayectoria de la vía desviada, lo cual posibilita la operación a velocidades más altas, mejorando significativamente el desempeño del aparato de vía.
 
 ## Capítulo IX ASIENTO DE LOS DESVIOS
 
@@ -626,8 +628,8 @@ Es importante notar que, con la introducción de las locomotoras y unidades mode
 
 ### XII.3. TRIANGULOS DE VÍA
 
-Este dispositivo ocupa mas espacio que los puentes giratorios, permitiendo el giro de $\mathbf{1 8 0}^{\boldsymbol{\circ}}$ de un tren entero.
-Triangulos de vía $\left\{\begin{array}{c}\text { Simétricos }\left\{\begin{array}{l}\text { con vía principal en recta } \\ \text { con vía principal en curva }\end{array}\right. \\ \text { Asimétricos }\left\{\begin{array}{l}\text { con vía principal en recta } \\ \text { con vía principal en curva }\end{array}\right.\end{array}\right.$
+Este dispositivo ocupa mas espacio que los puentes giratorios, permitiendo el giro de $$\mathbf{1 8 0}^{\boldsymbol{\circ}}$$ de un tren entero.
+Triangulos de vía $$\left\{\begin{array}{c}\text { Simétricos }\left\{\begin{array}{l}\text { con vía principal en recta } \\ \text { con vía principal en curva }\end{array}\right. \\ \text { Asimétricos }\left\{\begin{array}{l}\text { con vía principal en recta } \\ \text { con vía principal en curva }\end{array}\right.\end{array}\right.$$
 Para establecer estos dispositivos debe hacerse un estudio que relacione espacio ocupado y capacidad diaria.
 
 ![8fad552096c2157ad6f663d9b42930d9_MD5]({{ site.baseurl }}/assets/images/8fad552096c2157ad6f663d9b42930d9_MD5.webp)
@@ -665,7 +667,15 @@ Los calces de seguridad son pequeños dispositivos mecánicos anclados permanent
 
 ![7ddac05aa9eef60ca0b8d1147946c1d4_MD5]({{ site.baseurl }}/assets/images/7ddac05aa9eef60ca0b8d1147946c1d4_MD5.webp)
 ### XIII.4. AGUJA DESCARRILADORA
-<iframe width="560" height="315" src="https://youtube.com/embed/esc_qwOm7yg?si=4Zp81ZI8MR3iXO-C)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Una aguja descarriladora (también llamada derail o aparato descarrilador) se utiliza en los sistemas ferroviarios como un mecanismo de seguridad para evitar que un vehículo ferroviario no autorizado o fuera de control invada una vía donde podría causar un accidente mayor. La aguja descarriladora se utiliza para. 
+
+1. Protección de vías principales: Se coloca en vías secundarias, apartaderos o zonas de maniobras para impedir que un tren o vagón mal frenado entre accidentalmente en una vía principal donde circulan trenes a alta velocidad.
+2. Protección de trabajadores: Cuando hay personal trabajando en una vía, la aguja descarriladora evita que un vehículo no autorizado llegue a la zona de trabajo.
+3. Control de material rodante estacionado: En patios o estaciones, si un vagón queda mal asegurado y comienza a moverse, la aguja lo descarrila de forma controlada antes de que alcance zonas peligrosas.
+4. Prevención de colisiones: Si un tren se aproxima sin autorización a un área protegida (por ejemplo, un taller, un depósito o una vía ocupada), la aguja descarriladora actúa como último recurso para evitar una colisión.
+
+
+<iframe width="315" height="560" src="https://youtube.com/embed/esc_qwOm7yg?si=4Zp81ZI8MR3iXO-C)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Capítulo XIV REPRESENTACIÓN DE LOS APARATOS DE VÍA EN LOS PLANOS
 
@@ -738,9 +748,34 @@ El sentido de la desviación se determina observando el desvío desde el comienz
 
 A modo de ejemplo, consideremos la denominación: **DS-C-60-318-0.11-CR-D**
 
-Este código corresponde a un **desvío sencillo de ancho RENFE (vía estrecha), asentado sobre traviesas de madera, tipo C, con carril UIC 60, radio de la vía desviada de 318 metros, tangente del ángulo de cruzamiento de 0.11 (relación 1:9), corazón de geometría recta, y vía desviada hacia la derecha**.
+Este código corresponde a un desvío sencillo de ancho RENFE (vía estrecha), asentado sobre traviesas de madera, tipo C, con carril UIC 60, radio de la vía desviada de 318 metros, tangente del ángulo de cruzamiento de 0.11 (relación 1:9), corazón de geometría recta, y vía desviada hacia la derecha.
 
-## Capítulo XV Bibliografía
+## Preguntas de repaso
+
+<div class="flashcard-container">
+{% include flashcard.html
+   question="¿Cómo se definen los **aparatos de vía** en ingeniería ferroviaria?"
+   answer="Son dispositivos especializados que garantizan la continuidad operacional en los puntos donde se conectan distintas trayectorias, permitiendo la conexión y cruce de vías con seguridad."
+%}
+{% include flashcard.html
+   question="¿Cuáles son los dos tipos de dispositivos fundamentales que componen los aparatos de vía?"
+   answer="**El desvío** (bifurcación de una vía en dos o más ramales) y **la travesía** (cruce perpendicular de dos vías)."
+%}
+{% include flashcard.html
+   question="¿Qué es el **talonamiento** de un cambio y qué consecuencias tiene?"
+   answer="Es cuando un tren fuerza la apertura de un cambio no preparado desde el talón. Provoca deformación o ruptura de los tirantes y la separación forzada de las agujas."
+%}
+{% include flashcard.html
+   question="¿Cuál es la función principal de los **contracarriles** en la zona del corazón de un cruzamiento?"
+   answer="Garantizar el **guiado del eje** cuando atraviesa la **laguna del corazón**, evitando el descarrilamiento y protegiendo la punta del corazón."
+%}
+{% include flashcard.html
+   question="¿Cómo se soluciona el problema de la **laguna** en los desvíos de **Alta Velocidad**?"
+   answer="Mediante el uso de **corazones de punta móvil** o **patas de liebre móviles**, que eliminan la discontinuidad en la superficie de rodadura."
+%}
+</div>
+
+## Bibliografía
 
 - Ferrocarriles. Apuntes de Clase. Jose Manuel Garcia Díaz de Villegas
 - Desvíos Ferroviarios. Jose Manuel Garcia Díaz de Villegas - Miguel Rodriguez Bugarin

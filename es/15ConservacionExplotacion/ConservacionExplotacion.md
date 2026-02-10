@@ -30,9 +30,10 @@ En la actualidad, las infraestructuras ferroviarias enfrentan demandas cada vez 
 - Requerimientos mejorados en términos de confort para los usuarios del transporte.
 - Mayor énfasis en la seguridad operativa y la regularidad de los servicios.
 
-Ante estas demandas, los entes gestores de transporte ferroviario han implementado estrategias innovadoras enfocadas en la mejora integral de las instalaciones. Estas acciones incluyen avances en el diseño conceptual de las infraestructuras y en la optimización de los componentes estructurales para incrementar su capacidad resistente y extender su vida útil operativa. Entre las medidas más significativas destacan los programas de renovación integral de vías y la sustitución sistemática de materiales de balasto deteriorados.
+Ante estas demandas, los entes gestores de transporte ferroviario han implementado estrategias innovadoras enfocadas en la mejora integral de las instalaciones. Estas acciones incluyen avances en el diseño conceptual de las infraestructuras y en la optimización de los componentes estructurales para incrementar su capacidad resistente y extender su vida útil operativa. Entre las medidas más significativas destacan los **programas de renovación integral de vías** y la **sustitución sistemática de materiales de balasto deteriorados**.
 
-El mantenimiento constituye un pilar fundamental para preservar la calidad operativa de los sistemas ferroviarios a lo largo de su ciclo de vida. Las acciones de mantenimiento engloban todas aquellas operaciones orientadas a la conservación, reparación, reemplazo y modernización tecnológica de los componentes de la infraestructura, permitiendo que éstos mantengan el funcionamiento óptimo y la seguridad requerida, en conformidad con los estándares establecidos en la normativa del Sector Ferroviario.
+El **mantenimiento** constituye un pilar fundamental para preservar la calidad operativa de los sistemas ferroviarios a lo largo de su ciclo de vida. Las acciones de mantenimiento engloban todas aquellas operaciones orientadas a la conservación, reparación, reemplazo y modernización tecnológica de los componentes de la infraestructura, permitiendo que éstos mantengan el **funcionamiento óptimo** y la **seguridad requerida**, en conformidad con los estándares establecidos en la normativa del Sector Ferroviario.
+{: .highlight }
 
 Este proceso estratégico de gestión del mantenimiento define los procedimientos necesarios para ejecutar tanto las intervenciones preventivas como las correctivas en todas las categorías de infraestructuras, abarcando tanto las redes de Alta Velocidad como las líneas de transporte convencional. La implementación efectiva del programa incluye la planificación pormenorizada, la ejecución controlada y el monitoreo continuo de todas las actividades preventivas, complementadas con la gestión ágil de las acciones correctivas que surjan durante la operación de la red.
 
@@ -147,7 +148,7 @@ Entre los parámetros usualmente medidos en una auscultación completa se incluy
 
 **Auscultación geométrica:** Se enfoca en la evaluación de los parámetros geométricos de la vía, tales como: nivelación longitudinal (cuyas irregularidades generan efecto de galope o cabeceo en vehículos), nivelación transversal (cuyas irregularidades provocan movimientos de balanceo), alabeo (cuyos defectos pueden originar descarrilamientos), ancho de vía (que afecta indirectamente el movimiento de lazo según el juego disponible), alineación (cuyo defecto genera movimientos de lazo), peralte y radio de curvatura.
 
-**Auscultación dinámica:** Consiste en la medición y registro sistemático de aceleraciones que experimenta un vehículo circulando por la vía, registrando simultáneamente su velocidad de paso. Mediante múltiples acelerómetros instalados en posiciones estratégicas, se miden aceleraciones verticales y horizontales originadas por las imperfecciones de la vía, tomando datos tanto en zonas de caja de grasa del eje como en la caja de pasajeros. Este enfoque proporciona información sobre la interacción dinámica real entre vía y tren, permitiendo conocer las condiciones de confort experimentadas por los usuarios en operación real. Esta metodología es especialmente sensible para detectar desgaste ondulatorio, uno de los defectos más críticos en vías de alta velocidad, siendo considerada la forma preferida de auscultación periódica para líneas modernas.
+**Auscultación dinámica:** Consiste en la medición y registro sistemático de aceleraciones que experimenta un vehículo circulando por la vía, registrando simultáneamente su velocidad de paso. Mediante múltiples acelerómetros instalados en posiciones estratégicas, se miden aceleraciones verticales y horizontales originadas por las imperfecciones de la vía, tomando datos tanto en zonas de caja de grasa del eje como en la caja de pasajeros. Este enfoque proporciona información sobre la interacción dinámica real entre vía y tren, permitiendo conocer las condiciones de confort experimentadas por los usuarios en operación real. Esta metodología es especialmente sensible para detectar **desgaste ondulatorio**, uno de los defectos más críticos en vías de alta velocidad, siendo considerada la forma preferida de auscultación periódica para líneas modernas.
 
 ### II.3. Auscultación: equipos
 
@@ -171,7 +172,7 @@ Las operaciones de mantenimiento comprenden un conjunto de actividades mecanizad
 
 ### III.1. Amolado
 
-La operación de amolado constituye un procedimiento especializado de mantenimiento preventivo dirigido a la eliminación de una película superficial de acero descarburado que se genera durante el proceso de fabricación industrial de los carriles, así como para la remoción simultánea de otros tipos de defectos superficiales. Esta operación persigue los siguientes objetivos técnicos:
+La operación de amolado constituye un procedimiento especializado de mantenimiento preventivo dirigido a la **eliminación de una película superficial de acero descarburado** que se genera durante el proceso de fabricación industrial de los carriles, así como para la remoción simultánea de otros tipos de defectos superficiales. Esta operación persigue los siguientes objetivos técnicos:
 
 **Objetivos principales del amolado:**
 
@@ -188,7 +189,7 @@ La operación de amolado constituye un procedimiento especializado de mantenimie
 
 ### III.2. Bateadora-Niveladora:
 
-La operación de bateado constituye el proceso mediante el cual se introduce material de balasto debajo de las traviesas con el fin de restaurar la nivelación de la vía o consolidar su posición después de asentamientos. Esta función, ejecutada por máquinas especializadas denominadas bateadoras, puede realizarse mediante procesos de vibración, compresión mecánica, o combinaciones de ambos métodos.
+La operación de bateado constituye el proceso mediante el cual se **introduce material de balasto debajo de las traviesas** con el fin de **restaurar la nivelación de la vía** o **consolidar su posición** después de asentamientos. Esta función, ejecutada por máquinas especializadas denominadas **bateadoras**, puede realizarse mediante procesos de **vibración**, **compresión mecánica**, o combinaciones de ambos métodos.
 
 Las bateadoras se encuentran equipadas con un conjunto coordinado de elementos batidores que se posicionan de manera estratégica para atacar las cabezas de las traviesas por sus caras laterales, operando por ambos lados del carril simultáneamente. El sistema de bateado integra tres movimientos principales:
 
@@ -241,7 +242,7 @@ Operaciones: Trabajos contínuos
 
 ### III.6. Operaciones: Desguarnecido de vía
 
-La operación de desguarnecido constituye el proceso de extracción selectiva del material de balasto de la vía sin efectuar desmantelamiento de los elementos estructurales principales. Con los equipos desguarnecedores especializados se ejecutan dos modalidades operacionales distintas:
+La operación de desguarnecido constituye el proceso de **extracción selectiva del material de balasto** de la vía sin efectuar desmantelamiento de los elementos estructurales principales. Con los equipos desguarnecedores especializados se ejecutan dos modalidades operacionales distintas:
 
 - **Desguarnecido total:** Consiste en la extracción completa de todo el material de balasto presente en la vía, permitiendo posteriormente su sustitución por balasto de mejor calidad o generando las condiciones previas necesarias para una operación de levante de vía en contextos de renovación integral.
 - **Depuración de balasto o desguarnecido parcial:** Comprende un proceso de reciclaje mediante el cual se extrae todo el balasto, se lo somete a procesamiento de machacado y cribado, se descartan las fracciones excesivamente gruesas o finas así como los detritos contaminantes procedentes de la descomposición del material, y finalmente se reintroduce en la vía el balasto limpio y clasificado que resulta apto.
@@ -275,7 +276,8 @@ La renovación de infraestructuras ferroviarias constituye uno de los procesos m
 
 ### IV.1. Concepto de renovación de via:
 
-Por renovación de vía se entiende un proceso integral cuyo propósito fundamental es reemplazar de manera sistemática los elementos constitutivos de la superestructura de la vía (carriles, traviesas, sujeciones y balasto), al tiempo que se acondiciona y mejora la infraestructura subyacente (explanación, drenaje) y su entorno (desmontes, terraplenes) para que sean capaces de cumplir con funciones típicamente más exigentes que las del establecimiento anterior, en términos de carga, velocidad o frecuencia de circulación.
+Por **renovación de vía** se entiende un proceso integral cuyo propósito fundamental es **reemplazar de manera sistemática** los elementos constitutivos de la superestructura de la vía (carriles, traviesas, sujeciones y balasto), al tiempo que se acondiciona y mejora la infraestructura subyacente (explanación, drenaje) y su entorno (desmontes, terraplenes) para que sean capaces de cumplir con funciones típicamente más exigentes que las del establecimiento anterior, en términos de carga, velocidad o frecuencia de circulación.
+{: .highlight }
 
 ### IV.2. Causas:
 
@@ -376,8 +378,8 @@ Renovación de vía
 ## Capítulo V. Interferencias con la explotación
 
 El transporte ferroviario como sistema operativo posee características de rigidez operacional que lo distinguen de otros modos de transporte. Esta rigidez implica que la capacidad de vía es fija y que en cualquier operación de mantenimiento o construcción inevitablemente se generan interferencias con el tráfico regular. Esto hace necesario establecer protocolos cuidadosos de coordinación entre operaciones y explotación.
-
-**Definición de corte de vía:** Se entiende por corte de vía la interrupción programada de las circulaciones ferroviarias durante un período determinado y en un tramo concreto específico, con el propósito de permitir la ejecución de trabajos de mantenimiento, renovación o construcción que requieren acceso dedicado a la infraestructura.
+**Definición de corte de vía:** Se entiende por **corte de vía** la **interrupción programada de las circulaciones ferroviarias** durante un período determinado y en un tramo concreto específico, con el propósito de permitir la ejecución de trabajos de mantenimiento, renovación o construcción que requieren acceso dedicado a la infraestructura.
+{: .highlight }
 
 **Organización del modelo ferroviario:**
 
@@ -388,11 +390,11 @@ La gestión de la explotación ferroviaria responde a modelos organizacionales q
 
 Para garantizar la seguridad durante las operaciones de mantenimiento y construcción, se definen zonas de trabajo con grados crecientes de riesgo:
 
-- **Zona de seguridad:** Esta zona se extiende desde una línea paralela trazada a más de 3 metros de distancia desde el borde exterior de la cabeza del carril, hacia ambos lados de la vía. En esta zona pueden permanecer personas sin protecciones especiales durante circulaciones de vehículos ferroviarios.
+- **Zona de seguridad:** Esta zona se extiende desde una línea paralela trazada a **más de 3 metros de distancia** desde el borde exterior de la cabeza del carril, hacia ambos lados de la vía. En esta zona pueden permanecer personas sin protecciones especiales durante circulaciones de vehículos ferroviarios.
 
-- **Zona de riesgo:** Comprende el espacio intermedio entre la zona de seguridad y la zona de peligro. En esta región existe riesgo moderado de afectación por la circulación ferroviaria, requiriéndose vigilancia y precauciones de seguridad.
+- **Zona de riesgo:** Comprende el espacio intermedio entre la zona de seguridad y la zona de peligro. En esta región existe **riesgo moderado de afectación** por la circulación ferroviaria, requiriéndose vigilancia y precauciones de seguridad.
 
-- **Zona de Peligro:** Esta es la zona de máximo riesgo, definida como aquella donde el personal, herramientas o materiales pueden ser potencialmente arrollados por circulaciones ferroviarias o expuestos a efectos de succión-absorción provocados por vehículos en movimiento. Abarca la caja de la vía y los espacios laterales comprendidos entre la cabeza del carril y una línea paralela trazada a 2 metros de distancia hacia cada lado. Esta zona requiere protecciones especiales y bloqueo de circulaciones para trabajos intensivos.
+- **Zona de Peligro:** Esta es la zona de **máximo riesgo**, definida como aquella donde el personal, herramientas o materiales pueden ser potencialmente arrollados por circulaciones ferroviarias o expuestos a efectos de **succión-absorción** provocados por vehículos en movimiento. Abarca la caja de la vía y los espacios laterales comprendidos entre la cabeza del carril y una línea paralela trazada a **2 metros de distancia** hacia cada lado. Esta zona requiere protecciones especiales y bloqueo de circulaciones para trabajos intensivos.
 
 ### V.2. Documentos contracturales en la gesti'on del corte:
 
@@ -431,6 +433,31 @@ Existen varios regímenes operacionales para ejecutar trabajos en infraestructur
 - **Corte permanente en vía doble:** Cuando la infraestructura de vía doble lo permite, se puede establecer un corte permanente de una de las vías durante toda la duración del proyecto de obras, permitiendo trabajar 24 horas. En este caso, se trabaja como si se estuviera en zona de riesgo con régimen de liberación por tiempos, requiriéndose detener los trabajos en los momentos en que circulan trenes por la vía adyacente en servicio. Obligatoriamente se debe disponer de un sistema de Bloqueo Automático de Bloqueo (BAB) activado.
 
 - **Trabajo en estaciones:** Las operaciones en estaciones pueden ejecutarse bajo régimen de interrupción de circulación o bajo régimen de corte permanente de vía, según las necesidades. En cualquier caso, se deben implementar protecciones específicas: inmovilización física de agujas en posiciones que impidan acceso a vía cortada, ocupación del circuito de vía mediante dispositivos en cuadros de mando o utilizando herramientas de cortocircuito, y en casos donde no sea posible bloquear físicamente las agujas, instalación de señales de parada de carácter restrictivo.
+
+## Preguntas de repaso
+
+<div class="flashcard-container">
+{% include flashcard.html
+   question="¿En qué se diferencia el mantenimiento preventivo del mantenimiento correctivo?"
+   answer="El **preventivo** se anticipa al fallo mediante inspecciones sistemáticas, mientras que el **correctivo** actúa para reparar averías una vez que se han producido."
+%}
+{% include flashcard.html
+   question="¿Qué función principal tiene la operación de amolado de carriles?"
+   answer="Eliminar defectos superficiales y la película de acero descarburado, retrasando la aparición del **desgaste ondulatorio** y mejorando el contacto rueda-carril."
+%}
+{% include flashcard.html
+   question="¿Qué maquinaria compone un tren BCP y cuál es su finalidad?"
+   answer="Lo forman una **Bateadora**, una **Compactadora** y una **Perfiladora**. Se utilizan coordinadamente para corregir la geometría de la vía y consolidar el balasto."
+%}
+{% include flashcard.html
+   question="¿Qué es el Tren de Renovación Rápida (TRR)?"
+   answer="Es un sistema mecanizado capaz de sustituir carriles y traviesas de forma integral con un rendimiento típico de **100 a 200 metros/hora**."
+%}
+{% include flashcard.html
+   question="¿Qué se entiende por \"Corte de Vía\"?"
+   answer="Es la **interrupción programada** de la circulación en un tramo determinado para permitir la ejecución de trabajos de mantenimiento o construcción sin riesgo."
+%}
+</div>
 
 ## Bibliografía
 

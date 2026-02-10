@@ -22,24 +22,26 @@ parent: Inicio
 ---
 ## Capítulo I. Elasticidad de la via
 
-En los materiales granulares como el balasto, así como en las capas del terreno natural que lo soportan, y de manera general en cualquier medio formado por partículas discretas, cuando se aplica una carga por primera ocasión se genera una deformación de naturaleza irreversible conocida como deformación plástica. Sin embargo, cuando estas solicitaciones se repiten de forma consecutiva durante un número considerablemente elevado de ciclos, el comportamiento mecánico del material transita hacia un estado de verdadera elasticidad, caracterizado por respuestas similares a las que experimentan los sólidos monolíticos y homogéneos.
+{: .highlight }
+En los materiales granulares como el balasto, así como en las capas del terreno natural que lo soportan, y de manera general en cualquier medio formado por partículas discretas, cuando se aplica una carga por primera ocasión se genera una deformación de naturaleza irreversible conocida como **deformación plástica**. Sin embargo, cuando estas solicitaciones se repiten de forma consecutiva durante un número considerablemente elevado de ciclos, el comportamiento mecánico del material transita hacia un estado de **verdadera elasticidad**, caracterizado por respuestas similares a las que experimentan los sólidos monolíticos y homogéneos.
 
 Para cuantificar y caracterizar adecuadamente esta propiedad elástica presente en la estructura de la vía ferroviaria, se recurre a la utilización de diversos parámetros matemáticos y modelos de comportamiento que capturan los aspectos más relevantes de esta respuesta.
 
 
 ![73e868d942143e44172b4a62371bca4f_MD5]({{ site.baseurl }}/assets/images/73e868d942143e44172b4a62371bca4f_MD5.webp)
+
 ### I.1. MODULO DE LA VÍA K
 
-Considerando que $\boldsymbol{q}(\boldsymbol{t} / \boldsymbol{m})$ representa una carga distribuida uniformemente a lo largo de la longitud de un carril, e identificando como el asiento o hundimiento vertical que se produce en el carril como resultado de la aplicación de dicha carga.
+Considerando que $$\boldsymbol{q}(\boldsymbol{t} / \boldsymbol{m})$$ representa una carga distribuida uniformemente a lo largo de la longitud de un carril, e identificando como el asiento o hundimiento vertical que se produce en el carril como resultado de la aplicación de dicha carga.
 
-Desde una perspectiva del significado físico: este parámetro representa la magnitud de carga que, cuando actúa de manera uniforme y continuada sobre el carril, genera en éste un desplazamiento vertical de magnitud unitaria.
+Desde una perspectiva del significado físico: este parámetro representa la **magnitud de carga** que, cuando actúa de manera uniforme y continuada sobre el carril, genera en éste un desplazamiento vertical de magnitud unitaria.
 
 Este módulo es particularmente empleado en contextos de ingeniería ferroviaria americanos y canadienses. Cuando la unidad de asiento considerada es de 1 centímetro, el módulo de la vía K típicamente se encuentra dentro del rango comprendido entre 8 y 22 toneladas por metro lineal
 ![8870049c1d5f0e6b5e823b51129618ec_MD5]({{ site.baseurl }}/assets/images/8870049c1d5f0e6b5e823b51129618ec_MD5.webp)
 
 ### I.2. COEFICIENTE DE REACCIÓN DE LA TRAVIESA R
 
-Este parámetro fue propuesto inicialmente por el investigador y profesor Timoshenko en el año 1915 como parte de su trabajo fundamental en mecánica de estructuras. En este contexto, $\boldsymbol{R}$ se define como la reacción vertical que emerge en la traviesa, siendo evaluada específicamente por cada uno de los hilos o carriles de apoyo, en tanto que $\boldsymbol{y}$ representa el asentamiento o desplazamiento vertical producido en ese punto de evaluación (medido en toneladas por milímetro).
+Este parámetro fue propuesto inicialmente por el investigador y profesor Timoshenko en el año 1915 como parte de su trabajo fundamental en mecánica de estructuras. En este contexto, $$\boldsymbol{R}$$ se define como la **reacción vertical que emerge en la traviesa**, siendo evaluada específicamente por cada uno de los hilos o carriles de apoyo, en tanto que $$\boldsymbol{y}$$ representa el asentamiento o desplazamiento vertical producido en ese punto de evaluación (medido en toneladas por milímetro).
 
 $$
 r=\frac{R}{y}
@@ -51,7 +53,7 @@ $$
 r=\frac{R}{y}=R \cdot \frac{K}{r}=d \cdot r \cdot \frac{K}{r}=K \cdot d
 $$
 
-De donde se desprendem las siguientes relaciones: $K=\frac{r}{y}$ y $R=r \cdot d$
+De donde se desprendem las siguientes relaciones: $$K=\frac{r}{y}$$ y $$R=r \cdot d$$
 
 Conviene señalar que esta relación constituye una aproximación a la realidad, ya que en su formulación se ha omitido el efecto de influencia mutua que ejercen las traviesas adyacentes y vecinas entre sí.
 
@@ -61,23 +63,23 @@ $$
 C=\frac{r}{S}
 $$
 
-Este coeficiente fue propuesto por Winkler en 1867 y representa la relación entre la reacción elástica y el área de contacto. En esta expresión, $\boldsymbol{S}$ corresponde a la superficie de apoyo que presenta la traviesa en su interfaz con el balasto. Si representamos mediante P (en k/cm²) la presión promedio que se transmite sobre la zona de apoyo $S$ de la traviesa:
+Este coeficiente fue propuesto por Winkler en 1867 y representa la **relación entre la reacción elástica y el área de contacto**. En esta expresión, $$\boldsymbol{S}$$ corresponde a la superficie de apoyo que presenta la traviesa en su interfaz con el balasto. Si representamos mediante P (en k/cm²) la presión promedio que se transmite sobre la zona de apoyo $$S$$ de la traviesa:
 
 $$
 C=\frac{r}{S}=\frac{R}{y \cdot S}=\frac{P}{y}
 $$
 
-A partir de esta formulación, el coeficiente de balasto puede interpretarse físicamente como la presión unitaria que, cuando se aplica sobre el material del balasto, produce en éste una depresión o asentamiento de exactamente 1 centímetro. Para ilustrar este concepto mediante un ejemplo práctico: consideremos una traviesa apoyada sobre balasto que transmite una presión de $\mathbf{2}$ K/cm² y genera un asiento de $\mathbf{0,05}$ cm; en este caso, el coeficiente de balasto resultante sería:
+A partir de esta formulación, el coeficiente de balasto puede interpretarse físicamente como la presión unitaria que, cuando se aplica sobre el material del balasto, produce en éste una depresión o asentamiento de exactamente 1 centímetro. Para ilustrar este concepto mediante un ejemplo práctico: consideremos una traviesa apoyada sobre balasto que transmite una presión de $$\mathbf{2}$$ K/cm² y genera un asiento de $$\mathbf{0,05}$$ cm; en este caso, el coeficiente de balasto resultante sería:
 
 $$
 C=\frac{P}{y}=\frac{2 \mathrm{k} / \mathrm{cm}^{2}}{0,05 \mathrm{~cm}}=40 \mathrm{k} / \mathrm{cm}^{3}
 $$
 
-Este parámetro cambia notablemente con el proceso de bateo (apisonamiento) del balasto. De acuerdo con la práctica y la experiencia en diseño de infraestructuras ferroviarias, el coeficiente de balasto debe mantenerse típicamente dentro del intervalo de $5-10$ K/cm³.
+Este parámetro cambia notablemente con el proceso de bateo (apisonamiento) del balasto. De acuerdo con la práctica y la experiencia en diseño de infraestructuras ferroviarias, el coeficiente de balasto debe mantenerse típicamente dentro del intervalo de $$5-10$$ K/cm³.
 
 ### I.4. COEFICIENTE DE ELASTICIDAD
 
-La infraestructura de la vía férrea está compuesta por un sistema integrado de múltiples capas y materiales, cada uno de los cuales presenta características elásticas individuales diferenciadas (plataforma de apoyo, capa de balasto, traviesas, carriles, fijaciones, etc.). Para cada uno de estos componentes constitutivos, es posible asignar un coeficiente de elasticidad específico denotado como $\boldsymbol{r}_{\boldsymbol{n}}$, el cual se establece por definición de la siguiente manera:
+La infraestructura de la vía férrea está compuesta por un sistema integrado de múltiples capas y materiales, cada uno de los cuales presenta características elásticas individuales diferenciadas (plataforma de apoyo, capa de balasto, traviesas, carriles, fijaciones, etc.). Para cada uno de estos componentes constitutivos, es posible asignar un coeficiente de elasticidad específico denotado como $$\boldsymbol{r}_{\boldsymbol{n}}$$, el cual se establece por definición de la siguiente manera:
 
 $$
 r_{n}=\frac{R}{y_{n}}
@@ -93,13 +95,13 @@ De conformidad con diversos estudios y registros experimentales obtenidos en pro
 
 | **Componente**           | **Rigidez (t/mm)** | **Observaciones**                                 |
 | ------------------------ | ------------------ | ------------------------------------------------- |
-| **Alma de carril**       | $5000 - 10000$     | El componente con mayor rigidez.                  |
-| **Traviesa de hormigón** | $1200 - 1500$      | Significativamente más rígida que la madera.      |
-| **Traviesa de madera**   | $50 - 80$          | Mayor elasticidad que el hormigón.                |
-| **Balasto bateado**      | $10 - 30$          | Aumenta con el espesor y disminuye con el tiempo. |
-| **Plataforma rocosa**    | $2 - 8$            | -                                                 |
-| **Plataforma arcillosa** | $1,5 - 2$          | -                                                 |
-| **Plataforma pantanosa** | $0,5 - 1,5$        | El componente con menor rigidez.                  |
+| **Alma de carril**       | $$5000 - 10000$$     | El componente con mayor rigidez.                  |
+| **Traviesa de hormigón** | $$1200 - 1500$$      | Significativamente más rígida que la madera.      |
+| **Traviesa de madera**   | $$50 - 80$$          | Mayor elasticidad que el hormigón.                |
+| **Balasto bateado**      | $$10 - 30$$          | Aumenta con el espesor y disminuye con el tiempo. |
+| **Plataforma rocosa**    | $$2 - 8$$            | -                                                 |
+| **Plataforma arcillosa** | $$1,5 - 2$$          | -                                                 |
+| **Plataforma pantanosa** | $$0,5 - 1,5$$        | El componente con menor rigidez.                  |
 
 Desde una perspectiva del comportamiento global de la estructura de la vía, son precisamente el balasto y la plataforma de apoyo los elementos que ejercen la influencia más determinante sobre las características elásticas del conjunto completo de la infraestructura ferroviaria.
 
@@ -107,9 +109,9 @@ $$
 y=\sum_{n} y_{n}=\sum_{n} \frac{R}{r_{n}}=R \cdot \sum_{n} \frac{1}{r_{n}}=\frac{R}{r}
 $$
 
-El coeficiente de reacción consolidado que representa toda la estructura puede fluctuar dentro de un rango bastante amplio comprendido entre $\mathbf{1 , 5 - 1 0}$ t/mm, dependiendo esencialmente de las características y propiedades del material de balasto empleado y de la naturaleza y composición geológica de la plataforma subyacente. El valor más comúnmente encontrado en proyectos de ingeniería ferroviaria convencional es de aproximadamente $\mathbf{3}$ t/mm.
+El coeficiente de reacción consolidado que representa toda la estructura puede fluctuar dentro de un rango bastante amplio comprendido entre $$\mathbf{1 , 5 - 1 0}$$ t/mm, dependiendo esencialmente de las características y propiedades del material de balasto empleado y de la naturaleza y composición geológica de la plataforma subyacente. El valor más comúnmente encontrado en proyectos de ingeniería ferroviaria convencional es de aproximadamente $$\mathbf{3}$$ t/mm.
 
-En contextos especiales, como es el caso de estructuras construidas sobre obras de fábrica, puentes u otras obras de arte, se obtienen valores notablemente más elevados dentro del rango $12-15$ t/mm, evidenciando una diferencia significativa en las propiedades de rigidez.
+En contextos especiales, como es el caso de estructuras construidas sobre obras de fábrica, puentes u otras obras de arte, se obtienen valores notablemente más elevados dentro del rango $$12-15$$ t/mm, evidenciando una diferencia significativa en las propiedades de rigidez.
 
 Debe resaltarse que la plataforma es el componente que presenta el coeficiente elástico más bajo en la cadena de transmisión de cargas, motivo por el cual la presión específica ejercida a nivel de esta plataforma se convierte en el parámetro que condiciona de forma determinante el asentamiento total de la vía. Esta presión sobre la plataforma resulta tanto más reducida cuanto mayor sea el espesor de la capa de balasto interpuesta entre ésta y la estructura superior.
 
@@ -142,8 +144,8 @@ De acuerdo con la naturaleza temporal de su aplicación, las cargas que actúan 
 Complementando las tres categorías descritas anteriormente, es igualmente relevante considerar y analizar de forma específica una categoría adicional de solicitaciones verticales que puede denominarse como "cargas características" que definen el comportamiento de la vía. Esta subcategoría engloba los siguientes componentes:
 
 - La carga por eje Q
-- El tráfico ficticio diario equivalente $T_{f}$
-- La carga vertical de proyecto por rueda $Q_{d}$
+- El tráfico ficticio diario equivalente $$T_{f}$$
+- La carga vertical de proyecto por rueda $$Q_{d}$$
 
 Una característica distintiva y fundamental de todas estas cargas características, las cuales pueden presentar tanto naturaleza estática como dinámica, es que ejercen una influencia determinante sobre los procesos de dimensionamiento y diseño de la infraestructura ferroviaria, así como sobre las estrategias y políticas de mantenimiento preventivo y correctivo que deben implementarse a lo largo de la vida útil de la vía.
 
@@ -151,7 +153,7 @@ Una característica distintiva y fundamental de todas estas cargas característi
 
 ##### Carga por eje
 
-El término "carga por eje" se utiliza para designar la magnitud de carga vertical de naturaleza estática Q que transmite y transfiere cada eje componente de un vehículo ferroviario, y en un sentido más amplio de un tren completo, hacia los carriles a través de sus ruedas de contacto.
+El término "**carga por eje**" se utiliza para designar la magnitud de carga vertical de naturaleza estática Q que transmite y transfiere cada eje componente de un vehículo ferroviario, y en un sentido más amplio de un tren completo, hacia los carriles a través de sus ruedas de contacto.
 
 Bajo la hipótesis fundamental de que la carga se distribuye de manera simétrica en las distintas partes constitutivas del vehículo, la magnitud de la carga por eje se expresa matemáticamente como el cociente entre el peso total de la unidad vehicular y el número total de ejes que componen el tren.
 
@@ -163,14 +165,14 @@ $$
 
 donde los términos se definen como:
 Q: Magnitud de la carga transferida por cada eje.
-$\bar{M}$ : Masa de la estructura de la carrocería del vehículo.
-$\mathrm{M}^{\prime}$ : Masa de cada uno de los bogies.
+$$\bar{M}$$ : Masa de la estructura de la carrocería del vehículo.
+$$\mathrm{M}^{\prime}$$ : Masa de cada uno de los bogies.
 m: Masa de un conjunto completo de eje ferroviario, incluyendo el eje, las ruedas, y todos los componentes asociados como cajas de grasa.
 g: Aceleración causada por la gravedad terrestre.
 
 La Unión Internacional de Ferrocarriles (UIC) ha establecido una clasificación sistemática de las vías ferroviarias en función de la capacidad máxima de carga permitida por cada eje, dividiéndolas en cuatro categorías o niveles de servicio: A, B, C y D:
 
-| Track category | Axle load $(t)$ |
+| Track category | Axle load $$(t)$$ |
 | :--- | :---: |
 | A | 16 |
 | B | 18 |
@@ -182,11 +184,11 @@ lignes au point de vue de la maintenance de la voie.
 
 Es importante reconocer que la carga máxima permitida por eje varía considerablemente de un país ferroviario a otro, e incluso dentro de un mismo país pueden existir variaciones significativas de una línea ferroviaria a otra.
 
-Un aspecto de considerable relevancia práctica es que el incremento del ancho de vía (vía ancha) permite y facilita el aumento significativo de la carga transferida por cada eje. Adicionalmente, las cargas por eje superiores a $Q>16-17$ t se consideran en general como prohibitivas o incompatibles con el desarrollo de velocidades de circulación muy elevadas (superiores a $V \geq 250$ km/h) por razones de seguridad y confort.
+Un aspecto de considerable relevancia práctica es que el incremento del ancho de vía (vía ancha) permite y facilita el aumento significativo de la carga transferida por cada eje. Adicionalmente, las cargas por eje superiores a $$Q>16-17$$ t se consideran en general como prohibitivas o incompatibles con el desarrollo de velocidades de circulación muy elevadas (superiores a $$V \geq 250$$ km/h) por razones de seguridad y confort.
 
 ##### Carga por rueda
 
-El término "carga por rueda" se refiere a la magnitud de la carga vertical de naturaleza estática $\mathbf{Q}_{\mathbf{o}}$ que transmite cada rueda individual del vehículo hacia su punto de contacto correspondiente sobre el carril.
+El término "**carga por rueda**" se refiere a la magnitud de la carga vertical de naturaleza estática $$\mathbf{Q}_{\mathbf{o}}$$ que transmite cada rueda individual del vehículo hacia su punto de contacto correspondiente sobre el carril.
 
 Considerando condiciones de carga simétricamente distribuida en la unidad vehicular, la carga por rueda se obtiene mediante la siguiente relación matemática:
 
@@ -200,99 +202,99 @@ La carga individual de cada rueda, junto con especial énfasis en la distribuci�
 
 ##### Trafico ficticio diario
 
-La determinación de la cantidad y características del tráfico que circula sobre una vía se realiza típicamente mediante la introducción del concepto de tráfico ficticio diario $\boldsymbol{T}_{\boldsymbol{f}}$ (expresado en toneladas). Este parámetro constituye una de las denominadas "cargas características" más importantes. Mediante la evaluación del valor total de este tráfico ficticio diario, es posible clasificar las vías ferroviarias en diferentes categorías, permitiendo de esta forma normalizar y estandarizar los criterios de dimensionamiento estructural y los programas de mantenimiento preventivo de las infraestructuras.
+La determinación de la cantidad y características del tráfico que circula sobre una vía se realiza típicamente mediante la introducción del concepto de **tráfico ficticio diario** $$\boldsymbol{T}_{\boldsymbol{f}}$$ (expresado en toneladas). Este parámetro constituye una de las denominadas "**cargas características**" más importantes. Mediante la evaluación del valor total de este tráfico ficticio diario, es posible clasificar las vías ferroviarias en diferentes categorías, permitiendo de esta forma normalizar y estandarizar los criterios de dimensionamiento estructural y los programas de mantenimiento preventivo de las infraestructuras.
 
-Para llevar a cabo el cálculo sistemático de $\boldsymbol{T}_{\boldsymbol{f}}$, la organización internacional UIC ha propuesto y recomendado dos formulaciones matemáticas distintas que pueden emplearse según las características específicas de cada infraestructura:
+Para llevar a cabo el cálculo sistemático de $$\boldsymbol{T}_{\boldsymbol{f}}$$, la organización internacional UIC ha propuesto y recomendado dos formulaciones matemáticas distintas que pueden emplearse según las características específicas de cada infraestructura:
 
-$T_{f}=T_{p} \cdot \frac{V_{\text {max }}}{100}+T_{g} \cdot \frac{Q_{D_{o}}}{18 \cdot D_{o}}$
+$$T_{f}=T_{p} \cdot \frac{V_{\text {max }}}{100}+T_{g} \cdot \frac{Q_{D_{o}}}{18 \cdot D_{o}}$$
 
 donde:
 
-| Track category | Total daily traffic load $(t)$ |
+| Track category | Total daily traffic load $$(t)$$ |
 | :--- | :--- |
-| I | $T_{\mathrm{f}}>40,000$ |
-| II | $40,000 \geq T_{\mathrm{f}}>20,000$ |
-| III | $20,000 \geq T_{\mathrm{f}}>10,000$ |
-| IV | $10,000 \geq T_{\mathrm{f}}$ |
+| I | $$T_{\mathrm{f}}>40,000$$ |
+| II | $$40,000 \geq T_{\mathrm{f}}>20,000$$ |
+| III | $$20,000 \geq T_{\mathrm{f}}>10,000$$ |
+| IV | $$10,000 \geq T_{\mathrm{f}}$$ |
 
-$T_{f}$ : Trafico ficticio diario (en t).
-$T_{p}$ : Tráfico de trenes de viajeros (en t ).
-$T_{g}$ : Tráfico de trenes de mercancías (en t).
-$V_{\text {max }}$ : Velocidad máxima de circulación (en km/h).
-$D_{0}$ : Diámetro mínimo de rueda de los trenes que circulan por la línea (en m ).
-$Q_{D o}$ : Carga máxima por eje pasante (ruedas de diámetro Do) (en t).
+$$T_{f}$$ : Trafico ficticio diario (en t).
+$$T_{p}$$ : Tráfico de trenes de viajeros (en t ).
+$$T_{g}$$ : Tráfico de trenes de mercancías (en t).
+$$V_{\text {max }}$$ : Velocidad máxima de circulación (en km/h).
+$$D_{0}$$ : Diámetro mínimo de rueda de los trenes que circulan por la línea (en m ).
+$$Q_{D o}$$ : Carga máxima por eje pasante (ruedas de diámetro Do) (en t).
 
-| Track category | Total daily traffic load ( $T_{p}$ ) |
+| Track category | Total daily traffic load ( $$T_{p}$$ ) |
 | :--- | :--- |
-| UIC I | $130,000 \mathrm{t}<\mathrm{T}_{6}$ |
-| UIC 2 | $80,000 \mathrm{t}<\mathrm{T}_{\mathrm{r}} \leq 130,000 \mathrm{t}$ |
-| UIC 3 | $40,000 \mathrm{t}<\mathrm{T}_{\mathrm{f}} \leq 80,000 \mathrm{t}$ |
-| UIC 4 | $20,000 \mathrm{t}<\mathrm{T}_{\mathrm{f}} \leq 40,000 \mathrm{t}$ |
-| UIC 5 | $5,000 \mathrm{t}<\mathrm{T}_{1} \leq 20,000 \mathrm{t}$ |
-| UIC 6 | $\mathrm{T}_{4} \leq 5,000 \mathrm{t}$ |
+| UIC I | $$130,000 \mathrm{t}<\mathrm{T}_{6}$$ |
+| UIC 2 | $$80,000 \mathrm{t}<\mathrm{T}_{\mathrm{r}} \leq 130,000 \mathrm{t}$$ |
+| UIC 3 | $$40,000 \mathrm{t}<\mathrm{T}_{\mathrm{f}} \leq 80,000 \mathrm{t}$$ |
+| UIC 4 | $$20,000 \mathrm{t}<\mathrm{T}_{\mathrm{f}} \leq 40,000 \mathrm{t}$$ |
+| UIC 5 | $$5,000 \mathrm{t}<\mathrm{T}_{1} \leq 20,000 \mathrm{t}$$ |
+| UIC 6 | $$\mathrm{T}_{4} \leq 5,000 \mathrm{t}$$ |
 
 Source: Adapted from UIC. 1989, Fiche 714R, Classification des voies des lignes au point de vue de la maintenance de la voie.
 
-$T_{f}=S_{v} \cdot\left(T_{V}+K_{t}+T_{t v}\right)+S_{m} \cdot\left(K_{m} \cdot T_{m}+K_{t} \cdot T_{t m}\right)$
+$$T_{f}=S_{v} \cdot\left(T_{V}+K_{t}+T_{t v}\right)+S_{m} \cdot\left(K_{m} \cdot T_{m}+K_{t} \cdot T_{t m}\right)$$
 
 donde:
-$T_{f}$ : Trafico ficticio diario (en t).
+$$T_{f}$$ : Trafico ficticio diario (en t).
 Tv: Trafico medio diario de coches de viajeros remolcados (en t).
-$T_{m}$ : Trafico medio diario de vagones de mercancías (en t).
-$T_{t v}$ : Trafico medio diario de locomotoras de pasajeros (en t).
+$$T_{m}$$ : Trafico medio diario de vagones de mercancías (en t).
+$$T_{t v}$$ : Trafico medio diario de locomotoras de pasajeros (en t).
 Ttm: Trafico medio diario de locomotoras de mercancías (en t).
-$K_{m}$ : Coeficiente con valores que varían entre 1,15 (valor estándar) y 1,45 (cuando > $50 \%$ del tráfico es con vehículos con carga por eje $\mathrm{Q}=22,5 \mathrm{t}$ o cuando $75 \%$ del tráfico es con vehículos de carga por eje $\mathrm{Q} \geq 20 \mathrm{t}$ ).
-$K_{t}$ : Coeficiente que depende de las condiciones de rodadura de los ejes de las locomotoras sobre la vía. Suele ser igual a 1,40.
-$S_{v}, S_{m}$ : Coeficientes cuyos valores dependen de la velocidad de los trenes de viajeros (con la mayor velocidad) y de mercancías (con la menor velocidad), respectivamente, que circulan por la vía.
+$$K_{m}$$ : Coeficiente con valores que varían entre 1,15 (valor estándar) y 1,45 (cuando > $$50 \%$$ del tráfico es con vehículos con carga por eje $$\mathrm{Q}=22,5 \mathrm{t}$$ o cuando $$75 \%$$ del tráfico es con vehículos de carga por eje $$\mathrm{Q} \geq 20 \mathrm{t}$$ ).
+$$K_{t}$$ : Coeficiente que depende de las condiciones de rodadura de los ejes de las locomotoras sobre la vía. Suele ser igual a 1,40.
+$$S_{v}, S_{m}$$ : Coeficientes cuyos valores dependen de la velocidad de los trenes de viajeros (con la mayor velocidad) y de mercancías (con la menor velocidad), respectivamente, que circulan por la vía.
 
 
 ##### Carga vertical de la rueda debida a los vientos transversales
 
-Las solicitaciones atmosféricas ejercen influencias significativas sobre el comportamiento dinámico de los vehículos ferroviarios. La carga vertical inducida por los vientos transversales $\mathbf{Q}_{\boldsymbol{w}}$ representa la redistribución de cargas verticals entre las ruedas de un mismo eje, resultado de la acción de fuerzas transversales del viento sobre la carrocería del vehículo. Esta carga se cuantifica mediante la expresión matemática presentada en la siguiente ecuación (Esveld, 2001):
-$\pm Q_{w}=H_{w} \cdot \frac{q_{o}}{a}$
+Las solicitaciones atmosféricas ejercen influencias significativas sobre el comportamiento dinámico de los vehículos ferroviarios. La **carga vertical inducida por los vientos transversales** $$\mathbf{Q}_{\boldsymbol{w}}$$ representa la redistribución de cargas verticals entre las ruedas de un mismo eje, resultado de la acción de fuerzas transversales del viento sobre la carrocería del vehículo. Esta carga se cuantifica mediante la expresión matemática presentada en la siguiente ecuación (Esveld, 2001):
+$$\pm Q_{w}=H_{w} \cdot \frac{q_{o}}{a}$$
 ![0c507df92afabf3764716aac252f9bad_MD5]({{ site.baseurl }}/assets/images/0c507df92afabf3764716aac252f9bad_MD5.webp)
 En esta expresión, los parámetros se definen como sigue:
-$H_{w}$ : Fuerza transversal del viento aplicada en el centro geométrico de la superficie lateral de la carrocería
-$q_{o}$ : Distancia vertical entre el centro geométrico de la superficie lateral de la carrocería y la superficie de rodadura del carril.
+$$H_{w}$$ : Fuerza transversal del viento aplicada en el centro geométrico de la superficie lateral de la carrocería
+$$q_{o}$$ : Distancia vertical entre el centro geométrico de la superficie lateral de la carrocería y la superficie de rodadura del carril.
 a: Distancia entre el eje vertical de simetría de los dos carriles.
 
-El mecanismo de distribución de cargas funciona de forma tal que, cuando la fuerza horizontal del viento $H_{w}$ se dirige desde la rueda 2 hacia la rueda 1, la carga soportada por la rueda 1 se incrementa en la cantidad $Q_{w}$, en tanto que simultáneamente la carga de la rueda 2 experimenta una disminución de idéntica magnitud. Esta característica revela el carácter redistributivo de los esfuerzos transversales.
+El mecanismo de distribución de cargas funciona de forma tal que, cuando la fuerza horizontal del viento $$H_{w}$$ se dirige desde la rueda 2 hacia la rueda 1, la carga soportada por la rueda 1 se incrementa en la cantidad $$Q_{w}$$, en tanto que simultáneamente la carga de la rueda 2 experimenta una disminución de idéntica magnitud. Esta característica revela el carácter redistributivo de los esfuerzos transversales.
 
 Desde una perspectiva temporal, la carga originada por los vientos transversales se manifiesta únicamente durante el movimiento del vehículo, tanto en segmentos de vía recta como en tramos curvos, manteniéndose mientras persistan las condiciones de viento. Una vez que cesan dichas condiciones climáticas, la solicitación desaparece, retornando el sistema a su estado de carga estática inicial.
 
 Carga vertical de la rueda debida a la fuerza centrífuga no compensada
 
-En el contexto del movimiento en curvas, la compensación incompleta de la aceleración centrífuga a través del peralte de la vía genera una fuerza residual que se transmite a la estructura de la vía. La carga vertical inducida por esta fuerza centrífuga no compensada $Q_{s c}$ se expresa matemáticamente según se indica en la siguiente ecuación, que establece la relación entre la fuerza residual y la redistribución vertical de cargas (véase la figura adjunta):
-$\pm Q_{s c}=\frac{F_{s c} \cdot h_{k B}}{a}=\frac{Q \cdot I \cdot h_{k B}}{a^{2}}$
+En el contexto del movimiento en curvas, la compensación incompleta de la aceleración centrífuga a través del peralte de la vía genera una fuerza residual que se transmite a la estructura de la vía. La **carga vertical inducida por esta fuerza centrífuga no compensada** $$Q_{s c}$$ se expresa matemáticamente según se indica en la siguiente ecuación, que establece la relación entre la fuerza residual y la redistribución vertical de cargas (véase la figura adjunta):
+$$\pm Q_{s c}=\frac{F_{s c} \cdot h_{k B}}{a}=\frac{Q \cdot I \cdot h_{k B}}{a^{2}}$$
 ![8e092dcb7f781ad99d3404a2e54d424f_MD5]({{ site.baseurl }}/assets/images/8e092dcb7f781ad99d3404a2e54d424f_MD5.webp)
 Los términos que integran esta formulación se definen de la siguiente manera:
-$F_{s c}$ : Fuerza centrífuga no compensada.
+$$F_{s c}$$ : Fuerza centrífuga no compensada.
 I: Insuficiencia de peralte.
-$h_{\text {кв }}$ : Distancia entre el centro de gravedad del vehículo $\mathrm{G}^{\prime}$ y la
+$$h_{\text {кв }}$$ : Distancia entre el centro de gravedad del vehículo $$\mathrm{G}^{\prime}$$ y la
 
 superficie de rodadura del carril.
-$z_{p}$ : Peralte de la vía.
-$\delta_{p}$ : Ángulo del peralte.
+$$z_{p}$$ : Peralte de la vía.
+$$\delta_{p}$$ : Ángulo del peralte.
 
-La magnitud de la carga cuasiestática derivada de la insuficiencia centrífuga presenta características particulares: se activa exclusivamente durante el desplazamiento del vehículo en tramos curvos de la infraestructura, y típicamente adopta valores comprendidos en el intervalo del $\mathbf{1 0 - 2 5 \%}$ de la carga estática nominal de la rueda, dependiendo de los parámetros geométricos y dinámicos de la curva. Respecto a la distribución transversal, la rueda que circula por el carril exterior experimenta un incremento de carga de magnitud $Q_{s c}$, mientras que la rueda interior registra simultáneamente una disminución proporcional de idéntica cuantía, estableciéndose así un equilibrio redistributivo en el sistema de carga de ejes.
+La magnitud de la carga cuasiestática derivada de la insuficiencia centrífuga presenta características particulares: se activa exclusivamente durante el desplazamiento del vehículo en tramos curvos de la infraestructura, y típicamente adopta valores comprendidos en el intervalo del $$\mathbf{1 0 - 2 5 \%}$$ de la carga estática nominal de la rueda, dependiendo de los parámetros geométricos y dinámicos de la curva. Respecto a la distribución transversal, la rueda que circula por el carril exterior experimenta un incremento de carga de magnitud $$Q_{s c}$$, mientras que la rueda interior registra simultáneamente una disminución proporcional de idéntica cuantía, estableciéndose así un equilibrio redistributivo en el sistema de carga de ejes.
 
 #### I.6.2. Cargas Verticales Dinámicas
 
-La interacción entre el material rodante y la infraestructura ferroviaria genera fenómenos dinámicos complejos que introducen solicitaciones fluctuantes superpuestas a las cargas estáticas y cuasiestáticas previamente analizadas. Estas cargas dinámicas constituyen la manifestación de mecanismos de vibración e impacto que derivan tanto de las características constructivas del vehículo como de las irregularidades geométricas presentes en la vía.
+La interacción entre el material rodante y la infraestructura ferroviaria genera fenómenos dinámicos complejos que introducen solicitaciones fluctuantes superpuestas a las cargas estáticas y cuasiestáticas previamente analizadas. Estas **cargas dinámicas** constituyen la manifestación de mecanismos de vibración e impacto que derivan tanto de las características constructivas del vehículo como de las irregularidades geométricas presentes en la vía.
 
-La carga vertical dinámica total por rueda $\left(\mathbf{Q}_{\text {dyn }}\right)$ es suma de:
+La carga vertical dinámica total por rueda $$\left(\mathbf{Q}_{\text {dyn }}\right)$$ es suma de:
 
-- las masas suspendidas del vehículo ( $\mathbf{Q}_{\text {dyn1 }}$ ): Caja vehículo
-- las masas semisuspendidas del vehículo ( $Q_{\text {dyn2). }}$ Bogies
-- las masas no suspendidas del vehículo ( $Q_{\text {dyn3). Ejes }}$
-- las masas debida a las oscilaciones de las partes elásticas del sistema de fijación carril-traviesa ( $Q_{\text {dyn4 }}$ ).
+- las masas suspendidas del vehículo ( $$\mathbf{Q}_{\text {dyn1 }}$$ ): Caja vehículo
+- las masas semisuspendidas del vehículo ( $$Q_{\text {dyn2). }}$$ Bogies
+- las masas no suspendidas del vehículo ( $$Q_{\text {dyn3). Ejes }}$$
+- las masas debida a las oscilaciones de las partes elásticas del sistema de fijación carril-traviesa ( $$Q_{\text {dyn4 }}$$ ).
 
 
 La naturaleza de las fuerzas dinámicas ejercidas sobre la vía durante la interacción con el material rodante es predominantemente aleatoria, no determinística. Esta característica fundamenta la necesidad de un tratamiento probabilístico y estadístico en su análisis.
 
 Mediante la aplicación de la hipótesis de linealidad en la respuesta estructural, el estudio de los fenómenos dinámicos puede subdividirse en diferentes rangos de frecuencia, según el mecanismo específ ico de oscilación en cuestión, la causa originante de la vibración, y el componente estructural o del vehículo participante en el movimiento oscilatorio.
 
-Consecuentemente, la carga dinámica vertical total por rueda $\boldsymbol{Q}_{\boldsymbol{d} \boldsymbol{y}}$ se obtiene mediante la suma ponderada de todas las categorías de fuerzas dinámicas identificadas:
+Consecuentemente, la carga dinámica vertical total por rueda $$\boldsymbol{Q}_{\boldsymbol{d} \boldsymbol{y}}$$ se obtiene mediante la suma ponderada de todas las categorías de fuerzas dinámicas identificadas:
 
 $$
 Q_{d y n j}=Q_{d y n 1 j}+Q_{d y n 2 j}+Q_{d y n 3 j}+Q_{d y n 4 j}
@@ -300,17 +302,17 @@ $$
 
 
 En esta expresión:
-$\mathrm{j}=1,2$ : Subíndice indicativo de cada una de las dos ruedas que componen un eje de rodaje.
+$$\mathrm{j}=1,2$$ : Subíndice indicativo de cada una de las dos ruedas que componen un eje de rodaje.
 
 La evolución histórica de los sistemas ferroviarios ha demostrado que velocidades cada vez más elevadas, combinadas con incrementos progresivos del peso de los vehículos y mayor rigidez de los componentes de la infraestructura, generan un aumento sustancial en la magnitud de los efectos dinámicos, resultando en un incremento significativo de las solicitaciones transmitidas a la superestructura de la vía, la plataforma de asiento y los componentes del vehículo.
 
 Desde una perspectiva metodológica, el cálculo preciso de las fuerzas dinámicas continúa siendo un problema de considerable complejidad analítica, frecuentemente intratable mediante métodos puramente analíticos. En la práctica profesional, la mayoría de los análisis se limitan a aproximaciones cuasiestáticas simplificadas. Sin embargo, el enfoque predominante en ingeniería moderna consiste en la adopción de metodologías empíricas fundamentadas en datos de medición experimental (Giannakos, 2014, 2016).
 
-La magnitud de la carga dinámica adicional puede alcanzar valores tan elevados como el $50 \%$ de la carga estática nominal de la rueda (Alias, 1977). Conforme a la literatura técnica especializada (Profillidis, 1995; Zicha, 1989), en el rango de velocidades hasta 200 $\mathrm{km} / \mathrm{h}$, el coeficiente de impacto dinámico típicamente fluctuá entre 1,35 y 1,6. Por este motivo, para velocidades que no excedan 200 $\mathrm{~km} / \mathrm{h}$, se recomienda la adopción de un coeficiente de impacto dinámico de 1,5 en diseño. Para velocidades superiores a $200 \mathrm{~km} / \mathrm{h}$, es prudente realizar estudios analíticos detallados fundamentados en datos experimentales específicos de la infraestructura en estudio.
+La magnitud de la carga dinámica adicional puede alcanzar valores tan elevados como el $$50 \%$$ de la carga estática nominal de la rueda (Alias, 1977). Conforme a la literatura técnica especializada (Profillidis, 1995; Zicha, 1989), en el rango de velocidades hasta 200 $$\mathrm{km} / \mathrm{h}$$, el coeficiente de impacto dinámico típicamente fluctuá entre 1,35 y 1,6. Por este motivo, para velocidades que no excedan 200 $$\mathrm{~km} / \mathrm{h}$$, se recomienda la adopción de un coeficiente de impacto dinámico de 1,5 en diseño. Para velocidades superiores a $$200 \mathrm{~km} / \mathrm{h}$$, es prudente realizar estudios analíticos detallados fundamentados en datos experimentales específicos de la infraestructura en estudio.
 
 #### I.6.3. Carga vertical total de la rueda
 
-La cuantificación integral de la solicitación vertical transmitida por el material rodante hacia la estructura de la vía requiere la consideración conjunta de todos los componentes de carga identificados en secciones precedentes. La carga vertical total de la rueda $Q_{t}$ representa la envolvente de solicitaciones, expressándose como la composición algebraica de las cargas verticales estáticas nominales, las adiciones cuasiestáticas derivadas de efectos ambientales y de curvatura, y las fluctuaciones dinámicas aleatorias:
+La cuantificación integral de la solicitación vertical transmitida por el material rodante hacia la estructura de la vía requiere la consideración conjunta de todos los componentes de carga identificados en secciones precedentes. La **carga vertical total de la rueda** $$Q_{t}$$ representa la envolvente de solicitaciones, expressándose como la composición algebraica de las cargas verticales estáticas nominales, las adiciones cuasiestáticas derivadas de efectos ambientales y de curvatura, y las fluctuaciones dinámicas aleatorias:
 
 $$
 Q_{t j}=Q_{o j} \pm Q_{w j} \pm Q_{s c j} \pm Q_{d y n j}
@@ -320,21 +322,22 @@ Esta expresión integral proporciona el marco de referencia para la evaluación 
 
 #### I.6.4. Carga vertical de proyecto por rueda
 
-La metodología de diseño de infraestructuras ferroviarias requiere el establecimiento de un parámetro de solicitación representativo que encapsule la probabilidad estadística de no ser excedido durante la vida útil de la vía. Este parámetro se denomina "carga vertical de proyecto por rueda" $\mathbf{Q}_{\boldsymbol{d}}$, y representa el valor característico de la solicitación vertical que, desde una perspectiva probabilística, está asociado a la máxima probabilidad teórica de no ser superado en condiciones reales de operación a lo largo del ciclo de vida completo de la infraestructura.
+{: .highlight }
+La metodología de diseño de infraestructuras ferroviarias requiere el establecimiento de un parámetro de solicitación representativo que encapsule la probabilidad estadística de no ser excedido durante la vida útil de la vía. Este parámetro se denomina "carga vertical de proyecto por rueda" $$\mathbf{Q}_{\boldsymbol{d}}$$, y representa el valor característico de la solicitación vertical que, desde una perspectiva probabilística, está asociado a la máxima probabilidad teórica de no ser superado en condiciones reales de operación a lo largo del ciclo de vida completo de la infraestructura.
 
-La formulación de la carga vertical de proyecto incorpora un tratamiento estadístico riguroso que reconoce la naturaleza aleatoria de los fenómenos dinámicos. La carga de proyecto $\boldsymbol{Q}_{\boldsymbol{d}}$ se calcula como la suma integrada de la componente estática nominal, la contribución cuasiestática (derivada de condiciones ambientales y geométricas), y un término que representa la dispersión estadística de las fuerzas dinámicas, ponderado por un factor de probabilidad. Esta ponderación estadística garantiza un margen de seguridad probabilístico frente a excedencias de carga en condiciones operacionales. La formulación matemática que expresa este concepto proviene de la literatura especializada (Esveld, 2001; Giannakos, 2002) y se presenta a continuación:
+La formulación de la carga vertical de proyecto incorpora un tratamiento estadístico riguroso que reconoce la naturaleza aleatoria de los fenómenos dinámicos. La carga de proyecto $$\boldsymbol{Q}_{\boldsymbol{d}}$$ se calcula como la suma integrada de la componente estática nominal, la contribución cuasiestática (derivada de condiciones ambientales y geométricas), y un término que representa la dispersión estadística de las fuerzas dinámicas, ponderado por un factor de probabilidad. Esta ponderación estadística garantiza un margen de seguridad probabilístico frente a excedencias de carga en condiciones operacionales. La formulación matemática que expresa este concepto proviene de la literatura especializada (Esveld, 2001; Giannakos, 2002) y se presenta a continuación:
 
 $$
 Q_{d j}=Q_{o j}+Q_{H j}+n_{p} \cdot \sqrt{\sigma\left(Q_{d y n 3 i}\right)^{2}+\sigma\left(Q_{d y n 1 i}+Q_{d y n 2 i}\right)^{2}}
 $$
 
 Los términos que integran esta ecuación se definen según se especifica a continuación:
-$\mathrm{Q}_{\mathrm{d}}$ : Carga vertical de proyecto por rueda.
+$$\mathrm{Q}_{\mathrm{d}}$$ : Carga vertical de proyecto por rueda.
 Qo: Componente estática de la carga vertical por rueda.
-$Q_{H}$ : Componente cuasiestática de la carga vertical por rueda.
-$\sigma\left(Q_{\mathrm{dyn}}\right)$ : Desviación típica (o estándar) de las fuerzas dinámicas verticales asociadas a las masas no suspendidas del vehículo.
-$\sigma$ ( $Q_{\text {dyn1 }}, Q_{\text {dyn2) }}$ : Desviación típica de las fuerzas dinámicas verticales correspondientes a las masas suspendidas y semisuspendidas del vehículo.
-$\mathrm{n}_{\mathrm{p}}$ : Coeficiente multiplicador que amplifica el valor cuadrático medio de las desviaciones típicas dinámicas, asegurando la cobertura de la probabilidad estadística de no excedencia durante la vida útil de la infraestructura. Este coeficiente adopta típicamente un valor de 5,00 (Demiridis y Pyrgidis, 2010). $\mathrm{j}=1,2$ : Índice subscript indicativo de cada una de las dos ruedas del mismo juego de ruedas de un eje.
+$$Q_{H}$$ : Componente cuasiestática de la carga vertical por rueda.
+$$\sigma\left(Q_{\mathrm{dyn}}\right)$$ : Desviación típica (o estándar) de las fuerzas dinámicas verticales asociadas a las masas no suspendidas del vehículo.
+$$\sigma$$ ( $$Q_{\text {dyn1 }}, Q_{\text {dyn2) }}$$ : Desviación típica de las fuerzas dinámicas verticales correspondientes a las masas suspendidas y semisuspendidas del vehículo.
+$$\mathrm{n}_{\mathrm{p}}$$ : Coeficiente multiplicador que amplifica el valor cuadrático medio de las desviaciones típicas dinámicas, asegurando la cobertura de la probabilidad estadística de no excedencia durante la vida útil de la infraestructura. Este coeficiente adopta típicamente un valor de 5,00 (Demiridis y Pyrgidis, 2010). $$\mathrm{j}=1,2$$ : Índice subscript indicativo de cada una de las dos ruedas del mismo juego de ruedas de un eje.
 
 ### I.7. Cargas Transversales
 
@@ -350,39 +353,39 @@ Una segunda categoría de fuerzas transversales es originada por efectos exogén
 
 #### I.7.2. Fuerzas Gravitatorias
 
-En el punto de contacto rueda-carril, la reacción normal global $\boldsymbol{R}_{\mathbf{o}}$ puede descomponerse en dos componentes ortogonales: una componente vertical $\boldsymbol{Q}_{\mathbf{o}}$ (la carga de la rueda) y una componente transversal $\boldsymbol{S}_{\boldsymbol{p o}}$ (véase la figura de referencia). La componente transversal $\mathrm{S}_{\mathrm{po}}$, denominada "fuerza gravitatoria", "fuerza restauradora" o "rigidez gravitatoria", constituye un mecanismo de recentraje que actúa para mantener el eje de ruedas en su posición de equilibrio sobre la vía. Esta fuerza es causada exclusivamente por la geometría cónica de la banda de rodadura de la rueda, transmitiéndose a través del eje hacia la superficie de rodadura del carril.
+En el punto de contacto rueda-carril, la reacción normal global $$\boldsymbol{R}_{\mathbf{o}}$$ puede descomponerse en dos componentes ortogonales: una componente vertical $$\boldsymbol{Q}_{\mathbf{o}}$$ (la carga de la rueda) y una componente transversal $$\boldsymbol{S}_{\boldsymbol{p o}}$$ (véase la figura de referencia). La componente transversal $$\mathrm{S}_{\mathrm{po}}$$, denominada "**fuerza gravitatoria**", "**fuerza restauradora**" o "**rigidez gravitatoria**", constituye un mecanismo de recentraje que actúa para mantener el eje de ruedas en su posición de equilibrio sobre la vía. Esta fuerza es causada exclusivamente por la geometría cónica de la banda de rodadura de la rueda, transmitiéndose a través del eje hacia la superficie de rodadura del carril.
 
 Se considera una fuerza de naturaleza dinámica y se expresa matemáticamente según:
-$S_{p o}=Q_{o} \cdot \tan \gamma_{o}$
+$$S_{p o}=Q_{o} \cdot \tan \gamma_{o}$$
 en la que:
 ![746eedb844ecf05e104f8f9a44a3b11c_MD5]({{ site.baseurl }}/assets/images/746eedb844ecf05e104f8f9a44a3b11c_MD5.webp)
 
 Qo: Carga estática de la rueda.
-$\gamma_{o}$: Ángulo de inclinación de la superficie de rodadura respecto al plano horizontal en la posición central de equilibrio de la rueda.
+$$\gamma_{o}$$: Ángulo de inclinación de la superficie de rodadura respecto al plano horizontal en la posición central de equilibrio de la rueda.
 
-En el caso de un eje de ruedas conv encional, cada una de las dos ruedas genera su propia fuerza gravitatoria ( $\boldsymbol{S}_{\boldsymbol{p} j,} \mathrm{j}=1,2$ ), como se ilustra esquemáticamente en la figura adjunta.
+En el caso de un eje de ruedas conv encional, cada una de las dos ruedas genera su propia fuerza gravitatoria ( $$\boldsymbol{S}_{\boldsymbol{p} j,} \mathrm{j}=1,2$$ ), como se ilustra esquemáticamente en la figura adjunta.
 
 Cuando se produce un desplazamiento transversal del eje de ruedas, simbolizado por "y", la distribución asimétrica del contacto rueda-carril origina variaciones en las fuerzas gravitatorias individuales. Las expresiones matemáticas que describen este comportamiento son:
-$S_{p 1}=Q_{1} \cdot \tan \gamma_{1}=Q_{1} \cdot \gamma_{1}$
-$S_{p 2}=Q_{2} \cdot \tan \gamma_{2}=Q_{2} \cdot \gamma_{2}$
+$$S_{p 1}=Q_{1} \cdot \tan \gamma_{1}=Q_{1} \cdot \gamma_{1}$$
+$$S_{p 2}=Q_{2} \cdot \tan \gamma_{2}=Q_{2} \cdot \gamma_{2}$$
 donde:
 ![f23db77e77235061f73aac4ecececb96_MD5]({{ site.baseurl }}/assets/images/f23db77e77235061f73aac4ecececb96_MD5.webp)
-$Q_{1}$, $Q_{2}$ : Componentes verticales de las reacciones $R_{1}$ y $R_{2}$ en los puntos de contacto $\mathrm{I}_{1}$ e $\mathrm{I}_{2}$, respectivamente.
-$\gamma_{1}$, $\gamma_{2}$ : Ángulos formados por el plano horizontal y los planos tangentes en los puntos de contacto $\mathrm{l}_{1}$ e $\mathrm{l}_{2}$, respectivamente (como $\gamma_{1}$, $\gamma_{2}$ son cantidades muy pequeñas, se aplica $\tan \gamma_{1}=\gamma_{1}$ y $\tan \gamma_{2}=\gamma_{2}$ ).
+$$Q_{1}$$, $$Q_{2}$$ : Componentes verticales de las reacciones $$R_{1}$$ y $$R_{2}$$ en los puntos de contacto $$\mathrm{I}_{1}$$ e $$\mathrm{I}_{2}$$, respectivamente.
+$$\gamma_{1}$$, $$\gamma_{2}$$ : Ángulos formados por el plano horizontal y los planos tangentes en los puntos de contacto $$\mathrm{l}_{1}$$ e $$\mathrm{l}_{2}$$, respectivamente (como $$\gamma_{1}$$, $$\gamma_{2}$$ son cantidades muy pequeñas, se aplica $$\tan \gamma_{1}=\gamma_{1}$$ y $$\tan \gamma_{2}=\gamma_{2}$$ ).
 
 
 La determinación rigurosa de las relaciones anteriores se obtiene mediante el análisis geométrico de la interacción rueda-carril, asumiendo que: (i) la rueda posee una forma cónica con una inclinación de curvatura de radio constante, y (ii) la cabeza del carril presenta una superficie esférica de curvatura complementaria. A partir de esta resolución geométrica, se derivan las siguientes ecuaciones lineales que caracterizan el comportamiento dinámico (Pyrgidis, 1990):
-$\gamma_{1}=\gamma_{o}+\frac{\gamma_{e}}{R \cdot \gamma_{o}} \cdot y$
-$\gamma_{2}=-\gamma_{0}+\frac{\gamma_{e}}{R \cdot \gamma_{0}} \cdot y$
-$\gamma_{e}=\frac{R \cdot \gamma_{o}}{R-R^{\prime}}$
+$$\gamma_{1}=\gamma_{o}+\frac{\gamma_{e}}{R \cdot \gamma_{o}} \cdot y$$
+$$\gamma_{2}=-\gamma_{0}+\frac{\gamma_{e}}{R \cdot \gamma_{0}} \cdot y$$
+$$\gamma_{e}=\frac{R \cdot \gamma_{o}}{R-R^{\prime}}$$
 
 R = Radio de curvatura de la banda de rodadura de la rueda
-$R^{\prime}$= Radio de curvatura de la superficie de rodadura de la cabeza de carril
-$\gamma_{o}$: Ángulo de inclinación en la posición central de equilibrio.
+$$R^{\prime}$$= Radio de curvatura de la superficie de rodadura de la cabeza de carril
+$$\gamma_{o}$$: Ángulo de inclinación en la posición central de equilibrio.
 
 Considerando una distribución simétrica de la carga entre ambas ruedas, se obtiene la fuerza gravitatoria total resultante mediante:
 
-$S_{p}=S_{p 1}+S_{p 2}=2 Q_{o} \cdot \frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o}}$
+$$S_{p}=S_{p 1}+S_{p 2}=2 Q_{o} \cdot \frac{\gamma_{e} \cdot y}{R \cdot \gamma_{o}}$$
 
 Alternativamente, expresada en términos de los parámetros de curvatura:
 
@@ -390,7 +393,7 @@ Alternativamente, expresada en términos de los parámetros de curvatura:
 
 ##### Circulación en línea recta
 
-Las fuerzas de rozamiento que emergen en la interfaz rueda-carril constituyen un mecanismo fundamental de interacción dinámica entre el vehículo y la infraestructura. Las componentes longitudinales de estas fuerzas de rozamiento son responsables de múltiples efectos perjudiciales: promueven el desgaste progresivo de la banda de rodadura tanto del vehículo como del carril, generan fatiga cíclica en los materiales constitutivos de la zona de contacto, producen emisiones acústicas significativas (ruido de rodadura), e inducen oscilaciones longitudinales del vehículo.
+Las **fuerzas de rozamiento** que emergen en la interfaz rueda-carril constituyen un mecanismo fundamental de interacción dinámica entre el vehículo y la infraestructura. Las componentes longitudinales de estas fuerzas de rozamiento son responsables de múltiples efectos perjudiciales: promueven el desgaste progresivo de la banda de rodadura tanto del vehículo como del carril, generan fatiga cíclica en los materiales constitutivos de la zona de contacto, producen emisiones acústicas significativas (ruido de rodadura), e inducen oscilaciones longitudinales del vehículo.
 
 Para caracterizar las fuerzas de rozamiento resultantes de la dinámica de una rueda convencional circulando por una trayectoria recta, se aplica la teoría lineal de Kalker, que proporciona las siguientes expresiones analíticas:
 
@@ -410,20 +413,20 @@ $$
 
 ![a464f236915a6b0c2783f7e343f2cfce_MD5]({{ site.baseurl }}/assets/images/a464f236915a6b0c2783f7e343f2cfce_MD5.webp)
 donde:
-$\mathrm{X}_{1}, \mathrm{X}_{2}$ : Fuerzas de rozamiento longitudinales aplicadas en ambas ruedas.
-$\mathrm{T}_{1}, \mathrm{~T}_{2}$ : Fuerzas de rozamiento laterales aplicadas en ambas ruedas.
-$\mathrm{M}_{1}, \mathrm{M}_{2}$ : Momento de giro en ambas ruedas.
+$$\mathrm{X}_{1}, \mathrm{X}_{2}$$ : Fuerzas de rozamiento longitudinales aplicadas en ambas ruedas.
+$$\mathrm{T}_{1}, \mathrm{~T}_{2}$$ : Fuerzas de rozamiento laterales aplicadas en ambas ruedas.
+$$\mathrm{M}_{1}, \mathrm{M}_{2}$$ : Momento de giro en ambas ruedas.
 ro: radio de la rueda en su posición central de equilibrio
 R: Radio de curvatura de la banda de rodadura de la rueda
 x: Desplazamiento longitudinal del eje de ruedas.
 y : Desplazamiento lateral del eje de ruedas.
-$\alpha$ : Ángulo de ataque del eje de ruedas.
-$\varphi$ : Ángulo de giro de las ruedas y del juego de ruedas.
-$\mathrm{x}^{\prime}, \mathrm{y}^{\prime}, \alpha^{\prime}, \varphi^{\prime}$ : Derivadas de los desplazamientos $\mathrm{x}, \mathrm{y}$,
-del ángulo de ataque $\alpha$, y del ángulo de giro $\varphi$.
-$\mathrm{c}_{11}$ : Coeficiente longitudinal de Kalker.
+$$\alpha$$ : Ángulo de ataque del eje de ruedas.
+$$\varphi$$ : Ángulo de giro de las ruedas y del juego de ruedas.
+$$\mathrm{x}^{\prime}, \mathrm{y}^{\prime}, \alpha^{\prime}, \varphi^{\prime}$$ : Derivadas de los desplazamientos $$\mathrm{x}, \mathrm{y}$$,
+del ángulo de ataque $$\alpha$$, y del ángulo de giro $$\varphi$$.
+$$\mathrm{c}_{11}$$ : Coeficiente longitudinal de Kalker.
 c22: Coeficiente transversal de Kalker.
-$\mathrm{c}_{23}, \mathrm{c}_{33}$ : Coeficientes de giro del Kalker.
+$$\mathrm{c}_{23}, \mathrm{c}_{33}$$ : Coeficientes de giro del Kalker.
 
 ##### Circulación en curvas
 
@@ -472,16 +475,18 @@ Aspectos técnicos especializados de las fuerzas de rozamiento:
 
 La siguiente tabla sintetiza el repertorio de fuerzas contacto rueda-carril para distintas tecnologías de ejes ferroviarios (materializadas o propuestas teóricamente) (Frederich, 1985):
 
-| Tecnologia                                                                                | Representación esquemática                              | Sp  | T   | x   | M   |
-| :---------------------------------------------------------------------------------------- | :------------------------------------------------------ | :-- | :-- | :-- | :-- |
-| Ejes convencionales - Ruedas de conicidad variable                                        | ![|231x160]({{ site.baseurl }}/assets/images/283f4d8ef63960e92998372058e20ff8_MD5.webp\|231x160) | Si  | Si  | Si  | Si  |
-| Ejes con ruedas que ruedan de forma independiente Ruedas de conicidad variable            | ![|231x160]({{ site.baseurl }}/assets/images/6d1061e9c933bb25cfb601b674dc9a6f_MD5.webp\|231x160) | Si  | Si  | No  | Si  |
-| Ejes articulados - Ruedas de conicidad variable                                           | ![|231x160]({{ site.baseurl }}/assets/images/3abc6acec24775b2ad21c1671d93fb6f_MD5.webp\|231x160) | Si  | No  | Si  | Si  |
-| Ejes convencionales - Ruedas cilíndricas                                                  | ![|231x160]({{ site.baseurl }}/assets/images/f8a622a0119fa46abdfecd788462ba62_MD5.webp\|231x160) | No  | Si  | Si  | No  |
-| Ejes convencionales - Ruedas de conicidad constante                                       | ![|231x160]({{ site.baseurl }}/assets/images/a2752dbc75aa8b69fbcf206ae041615c_MD5.webp\|231x160) | No  | Si  | Si  | Si  |
-| Ruedas que ruedan de forma independiente - Ruedas de conicidad variable                   | ![|231x160]({{ site.baseurl }}/assets/images/65bc11b78033d22ef0e698f182dd058e_MD5.webp\|231x160) | Si  | No  | No  | Si  |
-| Ejes con ruedas que ruedan de forma independiente Ruedas inclinadas de conicidad variable | ![|231x160]({{ site.baseurl }}/assets/images/c41710082f1172c5cbbc8f6668e0ff48_MD5.webp\|231x160) | Si  | No  | No  | No  |
-| Ejes convencionales - Ruedas inclinadas de conicidad variable                             | ![|231x160]({{ site.baseurl }}/assets/images/3fd7e353fd6b01bb668a598ec0f6e9c1_MD5.webp\|231x160) | Si  | Si  | Si  | No  |
+| Tecnología | Representación esquemática | Sp | T | x | M |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| Ejes convencionales - Ruedas de conicidad variable | ![]({{ site.baseurl }}/assets/images/283f4d8ef63960e92998372058e20ff8_MD5.webp){: width="231" height="160"} | Sí | Sí | Sí | Sí |
+| Ejes con ruedas que ruedan de forma independiente - Ruedas de conicidad variable | ![]({{ site.baseurl }}/assets/images/6d1061e9c933bb25cfb601b674dc9a6f_MD5.webp){: width="231" height="160"} | Sí | Sí | No | Sí |
+| Ejes articulados - Ruedas de conicidad variable | ![]({{ site.baseurl }}/assets/images/3abc6acec24775b2ad21c1671d93fb6f_MD5.webp){: width="231" height="160"} | Sí | No | Sí | Sí |
+| Ejes convencionales - Ruedas cilíndricas | ![]({{ site.baseurl }}/assets/images/f8a622a0119fa46abdfecd788462ba62_MD5.webp){: width="231" height="160"} | No | Sí | Sí | No |
+| Ejes convencionales - Ruedas de conicidad constante | ![]({{ site.baseurl }}/assets/images/a2752dbc75aa8b69fbcf206ae041615c_MD5.webp){: width="231" height="160"} | No | Sí | Sí | Sí |
+| Ruedas que ruedan de forma independiente - Ruedas de conicidad variable | ![]({{ site.baseurl }}/assets/images/65bc11b78033d22ef0e698f182dd058e_MD5.webp){: width="231" height="160"} | Sí | No | No | Sí |
+| Ejes con ruedas que ruedan de forma independiente - Ruedas inclinadas de conicidad variable | ![]({{ site.baseurl }}/assets/images/c41710082f1172c5cbbc8f6668e0ff48_MD5.webp){: width="231" height="160"} | Sí | No | No | No |
+| Ejes convencionales - Ruedas inclinadas de conicidad variable | ![]({{ site.baseurl }}/assets/images/3fd7e353fd6b01bb668a598ec0f6e9c1_MD5.webp){: width="231" height="160"} | Sí | Sí | Sí | No |
+
+
 Frederich, F. 1985, Possibilités inconnues et inutilisées du contact rail-roue, Rail International, Brussels, November 1985 pp. 33-40
 
 Un aspecto tecnológico relevante para reducir los efectos desfavorables de las fuerzas de rozamiento longitudinales consiste en eliminar el acoplamiento rígido que tradicionalmente une las dos ruedas de un mismo eje. Esta modificación permite que cada rueda pueda girar a una velocidad angular independiente, mientras se mantiene la condición cinemática de que ambas ruedas circulen sin deslizamiento relativo respecto a sus respectivas líneas de contacto:
@@ -491,22 +496,22 @@ $$
 $$
 
 donde:
-$\omega_{1}, \omega_{2}$ : Velocidades angulares de las dos ruedas. $r_{1}, r_{2}$ : Sus radios de rodadura.
+$$\omega_{1}, \omega_{2}$$ : Velocidades angulares de las dos ruedas. $$r_{1}, r_{2}$$ : Sus radios de rodadura.
 
 Esto garantiza la rodadura de las dos ruedas sin rozamiento y la eliminación de las fuerzas de rozamiento longitudinales. La tecnología de bogies con ruedas de rotación independiente se basa en esta lógica.
 
 #### I.8.4. Fuerzas de viento transversal
 
-La acción de los vientos atmosféricos constituye una solicitación ambiental de significancia en la operación de sistemas ferroviarios, especialmente en viaductos, zonas montañosas y áreas costeras expuestas. Cuando prevalecen vientos transversales de magnitud considerable, se transmite una fuerza lateral $\boldsymbol{H}_{\boldsymbol{w}}$ a través de la carrocería y estructura del vehículo hacia los ejes de ruedas, y de estos hacia la superficie de rodadura del carril. Esta fuerza se caracteriza como cuasiestática en su naturaleza, adoptando una dirección coincidente con la del viento prevaleciente. El punto de aplicación inicial se ubica en el centro geométrico de la proyección lateral de la carrocería. La expresión de cálculo que cuantifica esta solicitación proviene de la aerodinámica vehicular (Hibino et al., 2010):
-$H_{w}=\frac{1}{2} \cdot \rho \cdot S_{2} \cdot V_{w}^{2} \cdot K_{2}$
+La acción de los vientos atmosféricos constituye una solicitación ambiental de significancia en la operación de sistemas ferroviarios, especialmente en viaductos, zonas montañosas y áreas costeras expuestas. Cuando prevalecen vientos transversales de magnitud considerable, se transmite una **fuerza lateral** $$\boldsymbol{H}_{\boldsymbol{w}}$$ a través de la carrocería y estructura del vehículo hacia los ejes de ruedas, y de estos hacia la superficie de rodadura del carril. Esta fuerza se caracteriza como cuasiestática en su naturaleza, adoptando una dirección coincidente con la del viento prevaleciente. El punto de aplicación inicial se ubica en el centro geométrico de la proyección lateral de la carrocería. La expresión de cálculo que cuantifica esta solicitación proviene de la aerodinámica vehicular (Hibino et al., 2010):
+$$H_{w}=\frac{1}{2} \cdot \rho \cdot S_{2} \cdot V_{w}^{2} \cdot K_{2}$$
 especificándose los parámetros como sigue:
-$\mathrm{H}_{\mathrm{w}}$ : Magnitud de la fuerza transversal ejercida por el viento (expresada en Newtons)
-$\mathrm{V}_{\mathrm{w}}$ : Velocidad del viento (expresada en metros por segundo)
-$\rho$ : Densidad volumétrica del aire (expresada en kilogramos por metro cúbico)
-$\mathrm{S}_{2}$ : Área de la proyección lateral del vehículo perpendicular al flujo de viento (expresada en metros cuadrados)
-$\mathrm{K}_{2}$ : Coeficiente aerodinámico de fuerza lateral (parámetro adimensional dependiente de la geometría externa de la carrocería)
+$$\mathrm{H}_{\mathrm{w}}$$ : Magnitud de la fuerza transversal ejercida por el viento (expresada en Newtons)
+$$\mathrm{V}_{\mathrm{w}}$$ : Velocidad del viento (expresada en metros por segundo)
+$$\rho$$ : Densidad volumétrica del aire (expresada en kilogramos por metro cúbico)
+$$\mathrm{S}_{2}$$ : Área de la proyección lateral del vehículo perpendicular al flujo de viento (expresada en metros cuadrados)
+$$\mathrm{K}_{2}$$ : Coeficiente aerodinámico de fuerza lateral (parámetro adimensional dependiente de la geometría externa de la carrocería)
 
-La fuerza transversal del viento $H_{w}$ representa una solicitación indeseable, generando múltiples efectos perjudiciales: promueve desplazamientos transversales excesivos de los ejes de ruedas hacia el lado de barlovento, incrementa el riesgo de contacto entre las pestañas de las ruedas y los carriles, y fundamentalmente amplifica el potencial de activación del mecanismo de vuelco del vehículo.
+La fuerza transversal del viento $$H_{w}$$ representa una solicitación indeseable, generando múltiples efectos perjudiciales: promueve desplazamientos transversales excesivos de los ejes de ruedas hacia el lado de barlovento, incrementa el riesgo de contacto entre las pestañas de las ruedas y los carriles, y fundamentalmente amplifica el potencial de activación del mecanismo de vuelco del vehículo.
 
 Para contrarrestar los efectos de los vientos transversales intensos, se pueden implementar las siguientes medidas de mitigación:
 
@@ -515,24 +520,24 @@ Para contrarrestar los efectos de los vientos transversales intensos, se pueden 
 
 #### I.8.5. Fuerza Centrifuga no compensada
 
-Cuando un vehículo de masa $\boldsymbol{m}$ circula a una velocidad $\boldsymbol{V}$ en una curva cuyo radio de curvatura es $\boldsymbol{R}$, el centro de gravedad del vehículo genera la fuerza centrífuga $\boldsymbol{F}_{\boldsymbol{c}}$, que empuja el vehículo hacia el lado exterior de la curva (figura):
+Cuando un vehículo de masa $$\boldsymbol{m}$$ circula a una velocidad $$\boldsymbol{V}$$ en una curva cuyo radio de curvatura es $$\boldsymbol{R}$$, el centro de gravedad del vehículo genera la fuerza centrífuga $$\boldsymbol{F}_{\boldsymbol{c}}$$, que empuja el vehículo hacia el lado exterior de la curva (figura):
 
 $$
 F_{c}=m \cdot \alpha_{c}=\frac{m \cdot V^{2}}{R}
 $$
 
-Debido al peralte de la vía $\mathbf{z}_{\boldsymbol{p}}$, actúan simultáneamente la componente transversal del peso (en dirección opuesta) y la la fuerza centrífuga. Siendo: $\quad I=\alpha_{s c} \cdot \frac{a}{g}$
-La diferencia entre estas fuerzas es la fuerza centrífuga no compensada $\boldsymbol{F}_{\boldsymbol{n} \boldsymbol{c}}$. A nivel de los ejes de ruedas y, por consiguiente, de la superficie de rodadura del carril, se aplica lo siguiente:
+Debido al peralte de la vía $$\mathbf{z}_{\boldsymbol{p}}$$, actúan simultáneamente la componente transversal del peso (en dirección opuesta) y la la fuerza centrífuga. Siendo: $$\quad I=\alpha_{s c} \cdot \frac{a}{g}$$
+La diferencia entre estas fuerzas es la fuerza centrífuga no compensada $$\boldsymbol{F}_{\boldsymbol{n} \boldsymbol{c}}$$. A nivel de los ejes de ruedas y, por consiguiente, de la superficie de rodadura del carril, se aplica lo siguiente:
 
 $$
 F_{c, S C}=m \cdot \alpha_{S C}=\frac{Q}{g} \cdot \alpha_{S C}=\frac{Q}{g} \cdot\left(\frac{V^{2}}{R}-\frac{g \cdot z_{p}}{a}\right)=\frac{Q \cdot I}{a}
 $$
 
-El aumento de la velocidad $\boldsymbol{V}$ del vehículo, así como la disminución del radio de curvatura $\boldsymbol{R}$ y la disminución del peralte $\mathbf{z}_{\boldsymbol{p}}$ contribuyen al aumento de la aceleración centrífuga residual.
+El aumento de la velocidad $$\boldsymbol{V}$$ del vehículo, así como la disminución del radio de curvatura $$\boldsymbol{R}$$ y la disminución del peralte $$\mathbf{z}_{\boldsymbol{p}}$$ contribuyen al aumento de la aceleración centrífuga residual.
 
-La $\boldsymbol{F}_{\boldsymbol{c}, \boldsymbol{s} \boldsymbol{c}}$ se considera una fuerza cuasiestática y siempre es indeseable, ya que no sólo provoca el desplazamiento de los ejes de las ruedas (riesgo de contacto de las pestañas), sino también problemas de confort transversal dinámico de los pasajeros. Además, ayuda al mecanismo de descarrilamiento del vehículo. Sin embargo, razones de tráfico como la coexistencia de trenes de baja y alta velocidad en la misma vía y el riesgo de deslizamiento transversal del eje de ruedas hacia el carril interior hacen indispensable la adopción de un peralte inferior al peralte de equilibrio (peralte teórico), lo que provoca la aparición de una aceleración centrífuga residual.
+La $$\boldsymbol{F}_{\boldsymbol{c}, \boldsymbol{s} \boldsymbol{c}}$$ se considera una fuerza cuasiestática y siempre es indeseable, ya que no sólo provoca el desplazamiento de los ejes de las ruedas (riesgo de contacto de las pestañas), sino también problemas de confort transversal dinámico de los pasajeros. Además, ayuda al mecanismo de descarrilamiento del vehículo. Sin embargo, razones de tráfico como la coexistencia de trenes de baja y alta velocidad en la misma vía y el riesgo de deslizamiento transversal del eje de ruedas hacia el carril interior hacen indispensable la adopción de un peralte inferior al peralte de equilibrio (peralte teórico), lo que provoca la aparición de una aceleración centrífuga residual.
 
-Por ejemplo, cuando $Q=18 t, V=150 \mathrm{~km} / \mathrm{h}, R=1.500 \mathrm{~m}, g=9,81 \mathrm{~m} / \mathrm{s}^{2}$, $a= 1,50 m$ y $z_{p}=130 m m$, entonces $F_{c, s c}=5,6 k N$ y $\alpha_{s c}=0,307 m / s^{2}$.
+Por ejemplo, cuando $$Q=18 t, V=150 \mathrm{~km} / \mathrm{h}, R=1.500 \mathrm{~m}, g=9,81 \mathrm{~m} / \mathrm{s}^{2}$$, $$a= 1,50 m$$ y $$z_{p}=130 m m$$, entonces $$F_{c, s c}=5,6 k N$$ y $$\alpha_{s c}=0,307 m / s^{2}$$.
 
 Para reducir la fuerza centrífuga residual, pueden aplicarse las siguientes medidas:
 
@@ -552,18 +557,18 @@ I: Insuficiencia de peralte (en caso de movimiento a lo largo de tramos curvos d
 Q: Carga por eje (en t).
 V: Velocidad de marcha (en km/h).
 a: distancia entre ejes de carriles en mm .
-$a_{i}$ : Coeficiente que indica el reparto desigual de la fuerza centrífuga entre los dos ejes de un bogie (valores 1-1,1) (Montagné, 1975).
+$$a_{i}$$ : Coeficiente que indica el reparto desigual de la fuerza centrífuga entre los dos ejes de un bogie (valores 1-1,1) (Montagné, 1975).
 
 El primer término de la ecuación se refiere a las fuerzas cuasiestáticas y, concretamente, a la fuerza centrífuga residual.
 El segundo término se refiere a las fuerzas dinámicas aleatorias derivadas de las irregularidades de la alineación de la vía y de los movimientos del propio vehículo, o de sus bogies, que provocan inestabilidad por encima de una velocidad crítica (fuerzas debidas a las oscilaciones del vehículo, fuerzas de rozamiento, fuerzas gravitatorias, etc.) (Montagné, 1975).
 
 #### I.8.7. Fuerzas debida a alas oscilaciones del vehículo
 
-Estas cargas dinámicas transversales $P_{\text {dyn, cuyas causas son similares a }}$ las de las cargas dinámicas verticales, confieren aceleraciones transversales suplementarias a las distintas partes del vehículo. Para resolver el problema, es preciso eliminar los defectos de la vía y aplicar el rectificado de carriles.
+Estas cargas dinámicas transversales $$P_{\text {dyn, cuyas causas son similares a }}$$ las de las cargas dinámicas verticales, confieren aceleraciones transversales suplementarias a las distintas partes del vehículo. Para resolver el problema, es preciso eliminar los defectos de la vía y aplicar el rectificado de carriles.
 
 #### I.8.8. Fuerzas de guía
 
-Cuando el desplazamiento transversal de un juego de ruedas de ferrocarril alcanza una magnitud igual a la holgura nominal $\boldsymbol{J}$ disponible entre la pestaña de la rueda y los carriles vecinos, la zona saliente lateral de la pestaña de la rueda entra en contacto directo con la cara interna de los carriles (véanse las figuras esquemáticas de referencia). En el punto de contacto de pestaña-carril, actúan cargas dinámicas transversales de magnitud generalmente considerable. Estas fuerzas se denominan "fuerzas de guía" $\boldsymbol{F}_{\boldsymbol{j}}$ ( $\mathrm{j}=1$ ó 2, en referencia a cada una de las dos ruedas del eje).
+Cuando el desplazamiento transversal de un juego de ruedas de ferrocarril alcanza una magnitud igual a la holgura nominal $$\boldsymbol{J}$$ disponible entre la pestaña de la rueda y los carriles vecinos, la zona saliente lateral de la pestaña de la rueda entra en contacto directo con la cara interna de los carriles (véanse las figuras esquemáticas de referencia). En el punto de contacto de pestaña-carril, actúan cargas dinámicas transversales de magnitud generalmente considerable. Estas fuerzas se denominan "**fuerzas de guía**" $$\boldsymbol{F}_{\boldsymbol{j}}$$ ( $$\mathrm{j}=1$$ ó 2, en referencia a cada una de las dos ruedas del eje).
 
 Las consecuencias operacionales de la existencia de fuerzas de guía constituyen un conjunto de impactos negativos significativos que afectan simultáneamente a pasajeros, material rodante e infraestructura ferroviaria:
 
@@ -580,34 +585,34 @@ Para minimizar y controlar la magnitud de las fuerzas de guía, se pueden adopta
 
 - Selección cuidadosa y racional de los parámetros de diseño fundamentales de los bogies: perfil geométrico específico de la rueda, diámetro nominal de rodadura, rigidez y características de amortiguamiento de la suspensión primaria del bogie, y distancia de separación entre ejes del bogie
 - Adopción de tecnologías modernas y avanzadas de bogies que optimicen el comportamiento dinámico y sea n concordantes con las características operacionales de la red ferroviaria específica
-- Ampliación controlada de la holgura lateral $J$ en segmentos de vía curvada de radio muy pequeño ( $Rc<150-200 \mathrm{~m}$ ), permitiendo mayor libertad transversal antes de contacto
+- Ampliación controlada de la holgura lateral $$J$$ en segmentos de vía curvada de radio muy pequeño ( $$Rc<150-200 \mathrm{~m}$$ ), permitiendo mayor libertad transversal antes de contacto
 - Aplicación de lubricación de alto rendimiento en la cara interior de los carriles en segmentos curvos, reduciendo el rozamiento de la pestaña y las fuerzas laterales transmitidas
 
-Desde una perspectiva analítica y metodológica, la fuerza de guía $F$ presenta características estadísticas (naturaleza estocástica), lo cual implica que su magnitud instantánea varía de forma aleatoria en el tiempo (Profillidis, 2014). La magnitud de esta fuerza depende de numerosos parámetros que interaccionan de forma no lineal. En consecuencia, para la mayoría de aplicaciones prácticas el cálculo preciso de su valor se logra mediante aproximaciones numéricas, predominantemente a través de metodologías de simulación dinámica:
+Desde una perspectiva analítica y metodológica, la fuerza de guía $$F$$ presenta características estadísticas (naturaleza estocástica), lo cual implica que su magnitud instantánea varía de forma aleatoria en el tiempo (Profillidis, 2014). La magnitud de esta fuerza depende de numerosos parámetros que interaccionan de forma no lineal. En consecuencia, para la mayoría de aplicaciones prácticas el cálculo preciso de su valor se logra mediante aproximaciones numéricas, predominantemente a través de metodologías de simulación dinámica:
 
 a) Mediciones in situ a lo largo del carril utilizando dinamómetros especializados montados en las ruedas de vehículos instrumentados
 b) Modelos de simulación computacional, de los cuales existe una variedad en el mercado profesional (SIMPACK, UMLAB, Vampire Pro, Adams/Rail, etc.), ampliamente utilizados tanto por la industria como por la comunidad investigadora.
 
-Las fuerzas de guía $F_{j}$ se derivan como resultado de la combinación algebráica de todas las componentes individuales de fuerza transversal que interactúan en el eje de ruedas (cada componente se obtiene del modelo de simulación):
+Las fuerzas de guía $$F_{j}$$ se derivan como resultado de la combinación algebráica de todas las componentes individuales de fuerza transversal que interactúan en el eje de ruedas (cada componente se obtiene del modelo de simulación):
 
 $$
 F_{j}= \pm\left(T_{1}+T_{2}\right) \pm S_{p} \pm F_{s c} \pm F_{r e s}
 $$
 
 Los términos integrantes de esta relación se definen como sigue:
-$\mathrm{T}_{1}, \mathrm{~T}_{2}$ : Componentes laterales de las fuerzas de rozamiento aplicadas en los puntos de contacto de cada rueda respectivamente
-$\mathrm{S}_{\mathrm{p}}$ : Fuerza gravitatoria (restauradora) total resultante de ambas ruedas
-$\mathrm{F}_{\mathrm{nc}}$ : Fuerza centrífuga no compensada transmitida al eje de ruedas
+$$\mathrm{T}_{1}, \mathrm{~T}_{2}$$ : Componentes laterales de las fuerzas de rozamiento aplicadas en los puntos de contacto de cada rueda respectivamente
+$$\mathrm{S}_{\mathrm{p}}$$ : Fuerza gravitatoria (restauradora) total resultante de ambas ruedas
+$$\mathrm{F}_{\mathrm{nc}}$$ : Fuerza centrífuga no compensada transmitida al eje de ruedas
 Fres: Fuerzas laterales de reacción producidas por los elementos elásticos (muelles) de la suspensión primaria del bogie.
 
-Para el caso particular de descarrilamiento de un eje de ruedas, cuando el ángulo de ataque del juego de ruedas alcanza magnitudes muy significativas ( $\alpha \geq 5$ rad), se aplica la siguiente relación simplificada:
+Para el caso particular de descarrilamiento de un eje de ruedas, cuando el ángulo de ataque del juego de ruedas alcanza magnitudes muy significativas ( $$\alpha \geq 5$$ rad), se aplica la siguiente relación simplificada:
 
 $$
 F_{1}=H+Y_{2}
 $$
 
 donde los parámetros se definen como sigue:
-$F_{1}$ : Fuerza de guía aplicada en el punto de contacto pestaña-carril de la rueda en estado crítico de descarrilamiento
+$$F_{1}$$ : Fuerza de guía aplicada en el punto de contacto pestaña-carril de la rueda en estado crítico de descarrilamiento
 H: La fuerza lateral total transmitida del vehículo al carril (cuantificada a nivel del eje de ruedas)
 
 $$
@@ -615,8 +620,8 @@ Y_{2}=Q_{2} \cdot \tan \left(\gamma_{2}+\rho_{2}\right)
 $$
 
 Q2: Carga vertical estática de la rueda 2
-$\gamma_{2}$ : Ángulo de contacto rueda-carril (i.e., ángulo entre la generatriz de rodadura de la rueda 2 y el plano horizontal)
-$\rho_{2}$ : Ángulo de fricción estática en la interfaz rueda-carril de la rueda 2
+$$\gamma_{2}$$ : Ángulo de contacto rueda-carril (i.e., ángulo entre la generatriz de rodadura de la rueda 2 y el plano horizontal)
+$$\rho_{2}$$ : Ángulo de fricción estática en la interfaz rueda-carril de la rueda 2
 
 La expresión empeírica que relaciona el ángulo de friccción con el radio de curvatura de la vía es (Amans y Sauvage, 1969; Joly, 1983):
 
@@ -624,8 +629,8 @@ $$
 \tan \left(\gamma_{2}+\rho_{2}\right)=\frac{135}{(150+R)}
 $$
 
-El valor numérico de $\tan \rho_{2}$ varía en función de las condiciones climáticas y ambientales prevalentes, adopta ndo típicamente valores en el rango 0,15 a 1,25 (Amans y Sauvage, 1969).
-Para el caso estándar de carriles con inclinación 1:40 se tiene $\gamma_{2}=0,02$ rad.
+El valor numérico de $$\tan \rho_{2}$$ varía en función de las condiciones climáticas y ambientales prevalentes, adopta ndo típicamente valores en el rango 0,15 a 1,25 (Amans y Sauvage, 1969).
+Para el caso estándar de carriles con inclinación 1:40 se tiene $$\gamma_{2}=0,02$$ rad.
 
 Esta relación puede reescribirse aproximadamente como:
 
@@ -633,12 +638,13 @@ $$
 \frac{135}{\left(150+R_{c}\right)} \approx \mu
 $$
 
-donde $\mu$ representa el coeficiente adimensional de adherencia (Joly, 1983).
+donde $$\mu$$ representa el coeficiente adimensional de adherencia (Joly, 1983).
 
 Rc: Radio de alineación horizontal de la curva (expresado en metros).
 
 ## Capítulo II. Descarrilamiento
 
+{: .highlight }
 Concepto fundamenta: El término "descarrilamiento" constituye la descripción de un evento crítico que caracteriza la pérdida irreversible de contacto entre al menos una rueda del vehículo ferroviario y la superficie de trabajo o rodadura de la cabeza del carril, resultando en la salida no intencional del material rodante de su trayectoria designada.
 
 Los descarrilamientos de vehículos ferroviarios pueden originarse y manifestarse como consecuencia de tres mecanismos físicos diferenciados:
@@ -668,8 +674,8 @@ El vuelco puede producirse siguiendo dos trayectorias distintas: hacia el lado e
 
 **Vuelco dirigido hacia el interior de la curva** puede deberse a:
 
-- Fuerzas aerodinámicas generadas por vientos transversales $\mathrm{H}_{\mathrm{w}}$ que se dirigen hacia el lado interior de la curva.
-- Inmovilidad o parada completa del vehículo ( $V=0$ ) ubicado en un segmento de vía curvada con peralte $\mathrm{z}_{\mathrm{p}}$ elevado.
+- Fuerzas aerodinámicas generadas por vientos transversales $$\mathrm{H}_{\mathrm{w}}$$ que se dirigen hacia el lado interior de la curva.
+- Inmovilidad o parada completa del vehículo ( $$V=0$$ ) ubicado en un segmento de vía curvada con peralte $$\mathrm{z}_{\mathrm{p}}$$ elevado.
 - Cargas por eje reducidas o insuficientes.
 - Desplazamiento o migración de la masa vehicular hacia el lado interior de la curva.
 
@@ -684,8 +690,8 @@ El procedimiento de evaluación se basa en el análisis riguroso de los momentos
 $$V_{\text {der }, o v}^{2}=\frac{R \cdot g \cdot\left(\frac{z_{p}}{a}+\frac{a}{2 h_{K B}}\right)}{1-\left(\frac{z_{p}}{a} \cdot \frac{a}{2 h_{K B}}\right)}$$
 
 donde se definen los parámetros:
-$V_{\text {der.ov:}}$ Velocidad crítica a partir de la cual se produce el descarrilamiento por vuelco.
-$h_{\mathrm{kB}}$ : Altura o distancia vertical entre el centro de gravedad de la masa del vehículo y la superficie de contacto del carril.
+$$V_{\text {der.ov:}}$$ Velocidad crítica a partir de la cual se produce el descarrilamiento por vuelco.
+$$h_{\mathrm{kB}}$$ : Altura o distancia vertical entre el centro de gravedad de la masa del vehículo y la superficie de contacto del carril.
 g: Aceleración de la gravedad terrestre.
 a: Distancia transversal entre los ejes verticales de simetría de ambos carriles.
 
@@ -693,12 +699,12 @@ a: Distancia transversal entre los ejes verticales de simetría de ambos carrile
 
 **Utilización de formulaciones empíricas**
 
-Este método de evaluación es aplicable únicamente cuando la altura del centro de gravedad satisface la condición $h_{\mathrm{kB}}>2,25$ m y se restringe exclusivamente a los casos en los cuales el vuelco se orienta hacia el exterior de la infraestructura vial (Amans y Sauvage, 1969).
+Este método de evaluación es aplicable únicamente cuando la altura del centro de gravedad satisface la condición $$h_{\mathrm{kB}}>2,25$$ m y se restringe exclusivamente a los casos en los cuales el vuelco se orienta hacia el exterior de la infraestructura vial (Amans y Sauvage, 1969).
 
 Para que ocurra el fenómeno del descarrilamiento por vuelco debe cumplirse la siguiente condición límite:
 $$\alpha_{s c, \max }>\frac{g}{3}$$
 
-donde: $\alpha_{s c, m a x}$ : Aceleración lateral máxima sin compensar que el vehículo puede soportar.
+donde: $$\alpha_{s c, m a x}$$ : Aceleración lateral máxima sin compensar que el vehículo puede soportar.
 
 Adicionalmente, se aplican las siguientes relaciones matemáticas:
 $$\alpha_{s c}=\frac{V^{2}}{R}-\frac{g \cdot z_{p}}{a} \quad \alpha_{s c}=g \cdot \frac{I}{a} \quad I=\frac{a \cdot V^{2}}{g \cdot R}-z_{p}$$
@@ -724,12 +730,12 @@ $$V_{w}=\sqrt{\frac{M_{t} \cdot g \cdot a}{q_{o}^{*} \cdot \rho \cdot S_{2} \cdo
 
 donde se especifican los significados de los parámetros:
 Mt: Masa total de la estructura y contenido del vehículo ferroviario (expresada en kilogramos).
-$\mathrm{H}_{\mathrm{w}}$ : Magnitud de la fuerza aerodinámica transversal o lateral generada por el viento (expresada en Newtons).
-$\mathrm{V}_{\mathrm{w}}$ : Velocidad del viento atmosférico en m/seg.
-$\rho$ : Densidad volumétrica del aire (kg/m³).
-$\mathrm{S}_{2}$ : Área de proyección lateral del vehículo expuesta a las fuerzas aerodinámicas (expresada en m²).
-$\mathrm{K}_{2}$ : Coeficiente adimensional de resistencia aerodinámica lateral (parámetro dependiente de la geometría de la superficie lateral del vehículo).
-$\mathrm{q}^{*} \circ\left(=1,25 \mathrm{q}_{o}\right)$ : Altura efectiva compensada del punto de aplicación de la fuerza aerodinámica transversal, medida desde la superficie de rodadura de los carriles (expresada en metros).
+$$\mathrm{H}_{\mathrm{w}}$$ : Magnitud de la fuerza aerodinámica transversal o lateral generada por el viento (expresada en Newtons).
+$$\mathrm{V}_{\mathrm{w}}$$ : Velocidad del viento atmosférico en m/seg.
+$$\rho$$ : Densidad volumétrica del aire (kg/m³).
+$$\mathrm{S}_{2}$$ : Área de proyección lateral del vehículo expuesta a las fuerzas aerodinámicas (expresada en m²).
+$$\mathrm{K}_{2}$$ : Coeficiente adimensional de resistencia aerodinámica lateral (parámetro dependiente de la geometría de la superficie lateral del vehículo).
+$$\mathrm{q}^{*} \circ\left(=1,25 \mathrm{q}_{o}\right)$$ : Altura efectiva compensada del punto de aplicación de la fuerza aerodinámica transversal, medida desde la superficie de rodadura de los carriles (expresada en metros).
 
 #### II.0.6. Descarrilamiento por desplazamiento lateral de la vía
 
@@ -740,7 +746,7 @@ $$H>H_{R}$$
 
 donde:
 H: Fuerza lateral total que se transfiere y transmite desde el vehículo hacia el carril.
-$\mathrm{H}_{\mathrm{R}}$ : Capacidad de resistencia lateral de la estructura completa de la vía.
+$$\mathrm{H}_{\mathrm{R}}$$ : Capacidad de resistencia lateral de la estructura completa de la vía.
 
 Este tipo específico de descarrilamiento es atribuible exclusivamente a causas y factores internos del sistema ferroviario, constituyendo el mecanismo de descarrilamiento más frecuentemente observado en la práctica operativa.
 
@@ -749,14 +755,14 @@ $$H=H_{o}+H_{a}=a_{i} \cdot\left(\frac{Q \cdot I}{a}\right)+\left(\frac{Q \cdot 
 
 #### II.0.7. Descarrilamiento por desplazamiento lateral de la vía - Cálculo de resistencia
 
-Respecto al cálculo sistemático de la resistencia lateral de la infraestructura $\mathrm{H}_{\mathrm{R}}$ se han desarrollado y propuesto múltiples formulaciones matemáticas en la literatura especializada (ORE, 1984; Amans y Sauvage, 1969; Prud'homme, 1967). A título de referencia y aplicación práctica, se presentan a continuación las formulaciones más utilizadas (la $\mathrm{H}_{\mathrm{R}}$ se calcula en toneladas):
+Respecto al cálculo sistemático de la resistencia lateral de la infraestructura $$\mathrm{H}_{\mathrm{R}}$$ se han desarrollado y propuesto múltiples formulaciones matemáticas en la literatura especializada (ORE, 1984; Amans y Sauvage, 1969; Prud'homme, 1967). A título de referencia y aplicación práctica, se presentan a continuación las formulaciones más utilizadas (la $$\mathrm{H}_{\mathrm{R}}$$ se calcula en toneladas):
 
 ##### Criterio de resistencia de Prud'homme
 
 $$H_{R}=0,85 \cdot\left(1+\frac{Q}{3}\right)$$
 
 donde:
-$\mathrm{H}_{\mathrm{R}}$ : Capacidad de resistencia lateral de la vía (expresada en toneladas).
+$$\mathrm{H}_{\mathrm{R}}$$ : Capacidad de resistencia lateral de la vía (expresada en toneladas).
 Q: Magnitud de la carga vertical por eje ferroviario (en toneladas).
 
 Esta ecuación (aplicada con el factor corrector 0,85) incorpora de forma implícita el efecto de la alineación horizontal de la vía y las tensiones térmicas que actúan sobre los elementos de carril, aunque asume implícitamente una vía que no ha sido plenamente estabilizada mediante consolidación.
@@ -770,29 +776,29 @@ donde:
 Q: Carga vertical aplicada por eje (en toneladas).
 Tt: Volumen acumulado de tráfico que ha circulado (en toneladas).
 
-Para una vía que ha sido completamente estabilizada mediante tráfico ($\mathrm{T}_{\mathrm{t}}=\infty, e^{\frac{T_{t}}{60.000}}=0$) la ecuación anterior se reduce a:
+Para una vía que ha sido completamente estabilizada mediante tráfico ($$\mathrm{T}_{\mathrm{t}}=\infty, e^{\frac{T_{t}}{60.000}}=0$$) la ecuación anterior se reduce a:
 $$H_{R}=0,6 \cdot Q+3,6$$
 
-Para una vía que aún no ha sido estabilizada ($\mathrm{T}_{\mathrm{t}}=0, e^{\frac{T_{t}}{60.000}}=1$) la ecuación se transforma en:
+Para una vía que aún no ha sido estabilizada ($$\mathrm{T}_{\mathrm{t}}=0, e^{\frac{T_{t}}{60.000}}=1$$) la ecuación se transforma en:
 $$H_{R}=0,36 \cdot Q+2,16$$
 
 **Para infraestructuras con traviesas de madera:**
 $$H_{R}=0,5 \cdot(Q+4) \cdot\left(1-0,4 \cdot e^{\frac{T_{t}}{60.000}}\right)$$
 
-Para vía completamente estabilizada ($\mathrm{T}_{\mathrm{t}}=\infty$):
+Para vía completamente estabilizada ($$\mathrm{T}_{\mathrm{t}}=\infty$$):
 $$H_{R}=0,5 \cdot Q+2$$
 
-Para vía sin estabilizar ($\mathrm{T}_{\mathrm{t}}=0$):
+Para vía sin estabilizar ($$\mathrm{T}_{\mathrm{t}}=0$$):
 $$H_{R}=0,3 \cdot Q+1,2$$
 
 #### II.0.8. Descarrilamiento por desplazamiento lateral de la vía - Aplicación de fórmulas
 
-Si se incorporan las relaciones siguientes en el análisis: $\quad z_{t, \text { max }}(mm)=11,8 \cdot \frac{V_{\text {max }}^{2}(Km/h)}{R(m)} \quad$ e $\quad I=z_{t, \text { max }}-z_{p}$
+Si se incorporan las relaciones siguientes en el análisis: $$\quad z_{t, \text { max }}(mm)=11,8 \cdot \frac{V_{\text {max }}^{2}(Km/h)}{R(m)} \quad$$ e $$\quad I=z_{t, \text { max }}-z_{p}$$
 
 Y considerando las expresiones matemáticas:
 $$H_{R}=0,6 \cdot(Q+6) \cdot\left(1-0,4 \cdot e^{\frac{T_{t}}{60.000}}\right) \quad H_{R}=0,5 \cdot Q+2 \quad H=a_{i} \cdot\left(\frac{Q \cdot I}{a}\right)+\left(\frac{Q \cdot V}{1.000}\right)$$
 
-Junto con la hipótesis de distribución uniforme de fuerzas centrífugas entre los dos ejes del bogie ( $\mathrm{a}_{\mathrm{i}}=1$ y $\mathrm{a}=1500$mm), es posible establecer, basándose en la condición crítica $\mathrm{H}>\mathrm{H}_{\mathrm{R}}$, que la velocidad crítica de descarrilamiento $\mathrm{V}_{\text {der.dis }}$ a partir de la cual ocurre el descarrilamiento por desplazamiento lateral (para traviesas de hormigón o madera en vía plenamente estabilizada) viene dada por las ecuaciones polinómicas:
+Junto con la hipótesis de distribución uniforme de fuerzas centrífugas entre los dos ejes del bogie ( $$\mathrm{a}_{\mathrm{i}}=1$$ y $$\mathrm{a}=1500$$mm), es posible establecer, basándose en la condición crítica $$\mathrm{H}>\mathrm{H}_{\mathrm{R}}$$, que la velocidad crítica de descarrilamiento $$\mathrm{V}_{\text {der.dis }}$$ a partir de la cual ocurre el descarrilamiento por desplazamiento lateral (para traviesas de hormigón o madera en vía plenamente estabilizada) viene dada por las ecuaciones polinómicas:
 
 **Vía con traviesas de hormigón:**
 $$\left(11,8 \cdot \frac{Q}{R}\right) \cdot V_{\text {der,dis }}^{2}+1,5 \cdot Q \cdot V_{\text {der,dis }}-Q \cdot\left(z_{p}+900\right)-5400=0$$
@@ -800,9 +806,9 @@ $$\left(11,8 \cdot \frac{Q}{R}\right) \cdot V_{\text {der,dis }}^{2}+1,5 \cdot Q
 **Vía con traviesas de madera:**
 $$\left(11,8 \cdot \frac{Q}{R}\right) \cdot V_{\text {der,dis }}^{2}+1,5 \cdot Q \cdot V_{\text {der,dis }}-Q \cdot\left(z_{p}+750\right)-3000=0$$
 
-donde: $Q(t), R(m), \mathrm{z}_{\mathrm{p}}(\mathrm{mm})$, y $V_{\text {der.dis }}(\mathrm{km} / \mathrm{h})$
+donde: $$Q(t), R(m), \mathrm{z}_{\mathrm{p}}(\mathrm{mm})$$, y $$V_{\text {der.dis }}(\mathrm{km} / \mathrm{h})$$
 
-En alineaciones horizontales rectas de la vía, donde el peralte es ausente, el parámetro I (que representa insuficiencia de peralte) se asimila al defecto transversal o torsión de la alineación. En condiciones ideales donde el defecto transversal es nulo, teóricamente no existe riesgo de descarrilamiento por desplazamiento lateral. Si igualamos $\mathrm{I}=0$, las ecuaciones anteriores se transforman:
+En alineaciones horizontales rectas de la vía, donde el peralte es ausente, el parámetro I (que representa insuficiencia de peralte) se asimila al defecto transversal o torsión de la alineación. En condiciones ideales donde el defecto transversal es nulo, teóricamente no existe riesgo de descarrilamiento por desplazamiento lateral. Si igualamos $$\mathrm{I}=0$$, las ecuaciones anteriores se transforman:
 
 **Vía con traviesas de hormigón:**
 $$V_{\text {der,dis }}=600+\frac{3600}{Q}$$
@@ -810,19 +816,19 @@ $$V_{\text {der,dis }}=600+\frac{3600}{Q}$$
 **Vía con traviesas de madera:**
 $$V_{\text {der,dis }}=500+\frac{2000}{Q}$$
 
-Para una carga estándar de $Q=22,5$ t, se requiere $V_{\text {der.dis }} \geq 760$ km/h (para traviesas de hormigón) y $V_{\text {der.dis }} \geq 589$ km/h (para traviesas de madera) para que ocurra un descarrilamiento por desplazamiento lateral.
+Para una carga estándar de $$Q=22,5$$ t, se requiere $$V_{\text {der.dis }} \geq 760$$ km/h (para traviesas de hormigón) y $$V_{\text {der.dis }} \geq 589$$ km/h (para traviesas de madera) para que ocurra un descarrilamiento por desplazamiento lateral.
 
 Tomando en consideración el análisis expuesto, para minimizar y reducir efectivamente el riesgo de descarrilamiento por desplazamiento lateral de la vía, deben adoptarse estrategias que apunten a:
 
 A. Reducir la magnitud de la fuerza lateral H que se transfiere desde el vehículo hacia la infraestructura o
-B. Incrementar la capacidad de resistencia transversal de la vía $\mathrm{H}_{\mathrm{R}}$ o
+B. Incrementar la capacidad de resistencia transversal de la vía $$\mathrm{H}_{\mathrm{R}}$$ o
 C. Implementar medidas combinadas que aborden ambos aspectos simultáneamente.
 
 Respecto a la fuerza H, los parámetros que la afectan se derivan de manera directa o indirecta de la ecuación fundamental:
 
 $$H=a_{i} \cdot\left(\frac{Q \cdot I}{a}\right)+\left(\frac{Q \cdot V}{1.000}\right)$$
 
-Con relación a la resistencia transversal $\mathrm{H}_{\mathrm{R}}$, los siguientes parámetros de diseño y construcción incrementan significativamente su valor:
+Con relación a la resistencia transversal $$\mathrm{H}_{\mathrm{R}}$$, los siguientes parámetros de diseño y construcción incrementan significativamente su valor:
 
 - Uso de traviesas de hormigón prefabricado de masa elevada
 - Empleo de carriles soldados continuos de elevada masa por unidad de longitud
@@ -840,9 +846,9 @@ En el caso particular de infraestructuras con balasto:
 
 #### II.0.9. Descarrilamiento por remonte de la pestaña de la rueda
 
-Para que sea posible la ocurrencia de descarrilamiento por remonte de la pestaña es necesario que previamente se haya producido el contacto entre la pestaña y la cara interior del carril, generándose consecuentemente fuerzas de guiado (F) que impulsen el remonte.
+Para que sea posible la ocurrencia de **descarrilamiento por remonte de la pestaña** es necesario que previamente se haya producido el contacto entre la pestaña y la cara interior del carril, generándose consecuentemente fuerzas de guiado (F) que impulsen el remonte.
 
-En el punto de contacto entre la pestaña de la rueda y la cara interior del carril (ver figuras de referencia), la rueda ejerce una fuerza de guiado $F_{1}$ sobre el carril, junto con la carga vertical de la rueda $Q_{1}$. A su vez, el carril reacciona con una fuerza vertical $N_{1}$ y una fuerza de rozamiento lateral $\mathrm{T}_{1}$ (que durante el deslizamiento adquiere el valor de la fuerza de fricción de Coulomb).
+En el punto de contacto entre la pestaña de la rueda y la cara interior del carril (ver figuras de referencia), la rueda ejerce una fuerza de guiado $$F_{1}$$ sobre el carril, junto con la carga vertical de la rueda $$Q_{1}$$. A su vez, el carril reacciona con una fuerza vertical $$N_{1}$$ y una fuerza de rozamiento lateral $$\mathrm{T}_{1}$$ (que durante el deslizamiento adquiere el valor de la fuerza de fricción de Coulomb).
 
 En la práctica operativa, el descarrilamiento por remonte de la pestaña se produce cuando la resultante de todas las proyecciones de fuerzas sobre el eje vertical de acción (eje de la fuerza de descarrilamiento) se orienta hacia arriba, y el tiempo durante el cual actúa esta fuerza resultante es suficientemente prolongado para permitir que la rueda ascienda y supere la altura de la cabeza del carril.
 
@@ -861,33 +867,33 @@ El riesgo de descarrilamiento por remonte de pestaña aumenta significativamente
 - Disminución del ángulo de contacto entre el carril y la pestaña de la rueda
 - Descarga vertical importante de la rueda descarrilada simultáneamente con sobrecarga de la rueda opuesta
 
-Se requiere un tiempo específico durante el cual la rueda descarrilada recorre una cierta distancia sobre la vía, típicamente algunos metros. Esta distancia se denomina "distancia de remonte de pestaña" y se define como la distancia recorrida desde el instante en que actúa el valor total de la fuerza de guiado hasta el momento en que el ángulo de contacto entre la pestaña y el carril alcanza los $26,6°$ (Dos Sandos et al., 2010).
+Se requiere un tiempo específico durante el cual la rueda descarrilada recorre una cierta distancia sobre la vía, típicamente algunos metros. Esta distancia se denomina "distancia de remonte de pestaña" y se define como la distancia recorrida desde el instante en que actúa el valor total de la fuerza de guiado hasta el momento en que el ángulo de contacto entre la pestaña y el carril alcanza los $$26,6°$$ (Dos Sandos et al., 2010).
 
 Para llevar a cabo la verificación y evaluación del riesgo de descarrilamiento por remonte de la pestaña pueden emplearse las siguientes metodologías y criterios técnicos:
 
-**Criterios basados en la evaluación de la relación $F_{1}$ / $Q_{1}$**
+**Criterios basados en la evaluación de la relación $$F_{1}$$ / $$Q_{1}$$**
 
 El descarrilamiento se evita cuando se cumple la siguiente condición fundamental:
 
 $$\frac{F_{1}}{Q_{1}}<K_{d}$$
 
 donde:
-$\mathrm{K}_{\mathrm{d}}$ : Factor crítico de descarrilamiento (relacionado específicamente con el remonte de pestaña).
+$$\mathrm{K}_{\mathrm{d}}$$ : Factor crítico de descarrilamiento (relacionado específicamente con el remonte de pestaña).
 Q1: Carga vertical estática de la rueda que está siendo evaluada bajo riesgo de descarrilamiento (asumiendo la rueda 1).
-$\mathrm{F}_{1}$ : Magnitud de la fuerza de guiado aplicada.
+$$\mathrm{F}_{1}$$ : Magnitud de la fuerza de guiado aplicada.
 
 Los criterios técnicos que evalúan esta relación se encuentran ampliamente documentados en la literatura especializada (FP7, 2011; Iwnicki, 2006; Ishida y Matsuo, 1999; Alias, 1977; Profillidis, 2005) e incluyen de forma no exhaustiva los siguientes:
 
 - Criterio de Nadal (presupone que el ángulo de ataque rueda-carril no es exactamente cero)
 - Criterio de Weinstock
-- Criterio de Chartet (aplicable para ángulos de ataque de $\alpha>1°$)
-- Criterio de descarrilamiento para ángulos de ataque elevados ($\alpha>5$ mrad)
+- Criterio de Chartet (aplicable para ángulos de ataque de $$\alpha>1°$$)
+- Criterio de descarrilamiento para ángulos de ataque elevados ($$\alpha>5$$ mrad)
 
 De conformidad con los datos reportados en la bibliografía especializada (FP7, 2011; Iwnicki, 2006; Ishida y Matsuo, 1999; Umdrucke zur Grundvorlesung, 2002/2003):
 
-- En Japón y Europa Occidental se emplea típicamente $\mathrm{K}_{\mathrm{d}}=0,8$
-- En países sudamericanos se adopta $\mathrm{K}_{\mathrm{d}}=1,0$
-- En China el valor límite se considera $\mathrm{K}_{\mathrm{d}}=1,0$ mientras que el límite de riesgo corresponde a $\mathrm{K}_{\mathrm{d}}=1.2$
+- En Japón y Europa Occidental se emplea típicamente $$\mathrm{K}_{\mathrm{d}}=0,8$$
+- En países sudamericanos se adopta $$\mathrm{K}_{\mathrm{d}}=1,0$$
+- En China el valor límite se considera $$\mathrm{K}_{\mathrm{d}}=1,0$$ mientras que el límite de riesgo corresponde a $$\mathrm{K}_{\mathrm{d}}=1.2$$
 
 **Fórmula empírica para cálculo de velocidad crítica de descarrilamiento por remonte**
 
@@ -898,9 +904,9 @@ Se obtiene la expresión:
 $$V_{\text {der }, wcl}=\sqrt{R \cdot g \cdot\left(\frac{z_{p}}{a}+\frac{1}{4}\right)}$$
 
 donde:
-$V_{\text {der.wcl:}}$ Velocidad crítica a partir de la cual se produce el descarrilamiento por remonte de pestaña.
+$$V_{\text {der.wcl:}}$$ Velocidad crítica a partir de la cual se produce el descarrilamiento por remonte de pestaña.
 
-Las expresiones $F_{c, S c}=\frac{Q}{4}$ y $\mathrm{V}_{\text {der.wcl }}$ fueron propuestas por el Profesor Rivier de la Escuela Politécnica Federal de Lausana, fundamentándose en evidencia experimental pura. Estas expresiones corresponden a las condiciones más desfavorables y críticas para la ocurrencia de descarrilamiento por remonte de pestaña.
+Las expresiones $$F_{c, S c}=\frac{Q}{4}$$ y $$\mathrm{V}_{\text {der.wcl }}$$ fueron propuestas por el Profesor Rivier de la Escuela Politécnica Federal de Lausana, fundamentándose en evidencia experimental pura. Estas expresiones corresponden a las condiciones más desfavorables y críticas para la ocurrencia de descarrilamiento por remonte de pestaña.
 
 #### II.0.10. Descarrilamiento por incremento del ancho de vía o vuelco lateral del carril
 
@@ -915,18 +921,18 @@ donde:
 G: Ancho de vía medido entre las cabezas interiores de los carriles.
 e: Espesor de la pestaña de la rueda.
 B: Distancia entre ruedas (medida entre superficies interiores de ambas ruedas).
-$w_{wh}$ : Anchura de la rueda en su banda de rodadura.
+$$w_{wh}$$ : Anchura de la rueda en su banda de rodadura.
 
 Para la verificación del riesgo de descarrilamiento causado por vuelco de la cabeza del carril se aplica la siguiente formulación (Iwnicki, 2006):
 $$F>Q \cdot \frac{d_{i}}{h_{r}}$$
 
 donde:
-$\mathrm{h}_{\mathrm{r}}$ : Altura total de la sección del carril.
+$$\mathrm{h}_{\mathrm{r}}$$ : Altura total de la sección del carril.
 d: Distancia máxima medida desde el borde del patín (base) del carril hasta el punto de aplicación de la resultante de todas las cargas verticales totales que actúan sobre el carril.
 
 #### II.0.11. Descarrilamiento en desvíos y cambios de vía
 
-En los desvíos rectos y específicamente en la sección circular del desvío, no se proporciona peralte en la alineación de la vía ( $\mathrm{z}_{\mathrm{p}}=0$), ni se implementa sobreancho de vía, ni existen curvas de transición suave.
+En los desvíos rectos y específicamente en la sección circular del desvío, no se proporciona peralte en la alineación de la vía ( $$\mathrm{z}_{\mathrm{p}}=0$$), ni se implementa sobreancho de vía, ni existen curvas de transición suave.
 
 En el evento de que un tren ingresa a un desvío con una velocidad considerablemente superior a la permitida por el radio de curvatura de la alineación horizontal del mismo, el incremento resultante de la fuerza centrífuga puede precipitar un descarrilamiento por remonte de la pestaña.
 
@@ -934,16 +940,16 @@ En los desvíos rectos se aplica la siguiente relación fundamental:
 $$z_{p}=z_{t}-I=0 \quad \text{siendo:} \quad z_{t}=11,8 \cdot \frac{V^{2}}{R}$$
 
 donde:
-$\mathrm{z}_{\mathrm{t}}$ : Peralte teórico o de equilibrio $=11,8 V^2 / R$ (en mm)
+$$\mathrm{z}_{\mathrm{t}}$$ : Peralte teórico o de equilibrio $$=11,8 V^2 / R$$ (en mm)
 I: Insuficiencia de peralte (expresada en mm)
 V: Velocidad de paso del tren a través del desvío (en km/h)
-$\mathrm{Z}_{\mathrm{p}}$ : Peralte real de la vía en el desvío (en mm)
+$$\mathrm{Z}_{\mathrm{p}}$$ : Peralte real de la vía en el desvío (en mm)
 R: Radio de curvatura de la trayectoria del desvío (en metros)
 
 A partir de la sustitución de las dos ecuaciones anteriores se concluye:
 $$V=0,29 \cdot \sqrt{R \cdot I}$$
 
-Sobre la base de lo anterior y asumiendo $\mathrm{Z}_{p}=0$, es posible calcular la velocidad crítica de descarrilamiento para diversos mecanismos de descarrilamiento, transformándose de la siguiente manera:
+Sobre la base de lo anterior y asumiendo $$\mathrm{Z}_{p}=0$$, es posible calcular la velocidad crítica de descarrilamiento para diversos mecanismos de descarrilamiento, transformándose de la siguiente manera:
 
 **Descarrilamiento por vuelco del vehículo:**
 $$V_{der,ov}>\sqrt{R \cdot \frac{g}{3}} \quad V_{der,ov}>\sqrt{\frac{R \cdot g \cdot a}{2 \cdot h_{K B}}}$$
@@ -959,9 +965,34 @@ $$\left(11,8 \cdot \frac{Q}{R}\right) \cdot V_{\text {der,dis }}^{2}+1,5 \cdot Q
 **Descarrilamiento por remonte de pestaña:**
 $$V_{\text {der }, wcl}=\sqrt{\frac{R \cdot g}{4}}$$
 
-Específicamente en contextos de desvíos y cruzamientos, el valor del factor crítico de descarrilamiento $K_{d}>F_{1} / Q_{1}$ debe ser sustancialmente reducido. De conformidad con datos de literatura especializada (Amans y Sauvage, 1969; Profillidis, 1995) debe adoptarse un valor de $K_d = 0,4$. Finalmente, de acuerdo con observaciones y datos experimentales reportados (Franklin, 2018), la evidencia empírica indica que, por consideraciones de seguridad operativa, el cociente $F/Q$ en desvíos y cruzamientos debe limitarse a un valor aproximado de $0,8$.
+Específicamente en contextos de desvíos y cruzamientos, el valor del factor crítico de descarrilamiento $$K_{d}>F_{1} / Q_{1}$$ debe ser sustancialmente reducido. De conformidad con datos de literatura especializada (Amans y Sauvage, 1969; Profillidis, 1995) debe adoptarse un valor de $$K_d = 0,4$$. Finalmente, de acuerdo con observaciones y datos experimentales reportados (Franklin, 2018), la evidencia empírica indica que, por consideraciones de seguridad operativa, el cociente $$F/Q$$ en desvíos y cruzamientos debe limitarse a un valor aproximado de $$0,8$$.
 
-## Capítulo III. Referencias Bibliográficas y Fuentes Consultadas
+## Preguntas de repaso
+
+<div class="flashcard-container">
+{% include flashcard.html
+   question="¿Qué representa físicamente el módulo de la vía K?"
+   answer="Representa la **magnitud de carga** que, al actuar uniforme y continuadamente sobre el carril, genera un desplazamiento vertical unitario."
+%}
+{% include flashcard.html
+   question="¿Cómo se define el Coeficiente de Balasto C según la hipótesis de Winkler?"
+   answer="Es la relación entre la **presión promedio** (P) transmitida sobre la superficie de apoyo y el **asiento** (y) que esta produce ($$C=P/y$$)."
+%}
+{% include flashcard.html
+   question="¿Cuál es la limitación general de la carga por eje para alta velocidad ($$V \geq 250$$ km/h)?"
+   answer="Generalmente, cargas por eje superiores a **16-17 toneladas** se consideran incompatibles con velocidades superiores a 250 km/h."
+%}
+{% include flashcard.html
+   question="¿Qué son las fuerzas de guía y cuándo aparecen?"
+   answer="Son fuerzas transversales que aparecen cuando se agota la holgura en la vía y la **pestaña de la rueda** entra en contacto directo con la cara activa del carril."
+%}
+{% include flashcard.html
+   question="¿Cuál es la condición fundamental para que ocurra un descarrilamiento por desplazamiento lateral de la vía?"
+   answer="Ocurre cuando la **fuerza lateral total** ($$H$$) transmitida por el vehículo supera la **resistencia lateral** ($$H_R$$) de la vía ($$H > H_R$$)."
+%}
+</div>
+
+## Bibliografía
 
 - Pyrgidis, C.N. (2022) *Railway Transportation Systems. Design, Construction and Operation*. Second Edition. CRC Press.
 - Profillidis, V.A. (2022) *Railway Planning Management and Engineering*. Routledge.

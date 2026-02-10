@@ -5,32 +5,33 @@ lang: es          # <--- THIS IS THE KEY PART
 permalink: /es/   # Optional, but ensures it locks to this URL
 nav_order: 1
 ---
-# 👋 Bienvenido a *Rail Apprentice to Expert*
+![]({{ site.baseurl }}/assets/images/Ferrocarriles_de_cero.png)
+# Bienvenido a *Ferrocarriles de cero a Ingeniero*
 
-🌐 Learn from scratch, refresh your experience, and stay up to date with the latest advances in railway engineering.
-
----
-
-## 🚄 What will you find here?
-
-- **Guided course**: structured content in levels from fundamentals to operations optimization and predictive maintenance.
-- **Technical blog**: fresh articles on innovation in signaling, electrification, and railway sustainability.
-- **Active community**: practical exercises, GitHub challenges, and discussions with experienced professionals.
+Esta página tiene el objetivo ambicioso de abarcar la desde la formación inicial hasta los límites del conocimiento sobre la ingeniería de ferrocarriles. La información aqui recogida aspira a servir en primer lugar como apuntes para estudiantes de ingeneiría ferroviaria en sus primeros pasos incluyendo los conceptos generales, el marco regulatorio, una introduccion a las políticas y tendencias, y una parte de diseño donde resoler problemas prácticos.  
 
 ---
 
-## 🚀 Ready to move forward?
+## ¿Qué encontrarás aquí?
 
-1. Review the module index and choose your starting point.
-2. Download roadmaps and templates from the resources section.
-3. Share your progress in the community and request technical feedback.
+- **Curso guiado**: contenido estructurado en niveles desde fundamentos hasta optimización operacional y mantenimiento predictivo.
+- **Blog técnico**: artículos frescos sobre innovación en señalización, electrificación y sostenibilidad ferroviaria.
+- **Comunidad activa**: ejercicios prácticos, desafíos en GitHub y discusiones con profesionales experimentados.
 
-💬 Want to [contribute] to this repository? Comment on [issues], edit, and submit a pull request.
+---
+
+## ¿Listo para avanzar?
+
+1. Revisa el índice de módulos y elige tu punto de partida.
+2. Descarga mapas de ruta y plantillas de la sección de recursos.
+3. Comparte tu progreso en la comunidad y solicita retroalimentación técnica.
+
+¿Quieres [contribuir] en este repositorio? Comenta en [issues], edita y envía un pull request.
 
 ---
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [Jekyll]: https://jekyllrb.com
 [issues]: https://github.com/StructuralWizard/Rail/issues 
-[contribute]:  https://github.com/StructuralWizard/Rail/blob/main/CONTRIBUTING.md
+[contribuir]:  https://github.com/StructuralWizard/Rail/blob/main/CONTRIBUTING.md
 

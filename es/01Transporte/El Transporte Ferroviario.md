@@ -25,7 +25,8 @@ parent: Inicio
 
 ### Definición y concepto fundamental
 
-El ferrocarril constituye un sistema de transporte terrestre de gran escala caracterizado por el desplazamiento de vehículos sobre ruedas guiadas que circulan por carriles paralelos debidamente establecidos. En su configuración tradicional, los vehículos ferroviarios son remolcados por una locomotora, máquina motriz responsable de generar la energía y potencia requerida para el movimiento de la composición completa. Esta configuración ha sido fundamental en la evolución del transporte terrestre a través de los siglos.
+{: .highlight }
+El ferrocarril constituye un sistema de transporte terrestre de gran escala caracterizado por el desplazamiento de vehículos sobre **ruedas guiadas** que circulan por **carriles paralelos** debidamente establecidos. En su configuración tradicional, los vehículos ferroviarios son remolcados por una **locomotora**, máquina motriz responsable de generar la energía y potencia requerida para el movimiento de la composición completa. Esta configuración ha sido fundamental en la evolución del transporte terrestre a través de los siglos.
 
 ### Antecedentes históricos y componentes fundamentales
 
@@ -37,7 +38,7 @@ El surgimiento del ferrocarril como sistema de transporte moderno es el resultad
 
 ### Desarrollo tecnológico durante la industrialización
 
-Durante el siglo XVII, coincidiendo con la demanda creciente generada por la Revolución Industrial y sus requerimientos de transporte masivo de combustibles como el carbón, emergieron dos innovaciones cruciales: la máquina de Watt (máquina de vapor) y las primeras locomotoras capaces de circular por caminos especializados. Sin embargo, es importante destacar que tanto la rueda como el carril preceden al ferrocarril moderno en varios milenios.
+Durante el siglo XVII, coincidiendo con la demanda creciente generada por la **Revolución Industrial** y sus requerimientos de transporte masivo de combustibles como el carbón, emergieron dos innovaciones cruciales: la **máquina de Watt** (máquina de vapor) y las primeras **locomotoras** capaces de circular por caminos especializados. Sin embargo, es importante destacar que tanto la **rueda** como el **carril** preceden al ferrocarril moderno en varios milenios.
 
 Los antecedentes tecnológicos revelan que:
 
@@ -72,11 +73,11 @@ A través de la historia del transporte sobre vías, se han desarrollado diferen
 
 ### Primeros sistemas de guiado por pestaña
 
-El guiado por pestaña, que emerge durante el siglo XVII, representa uno de los primeros sistemas de guiado documentados, aunque sus orígenes exactos permanecen parcialmente oscuros, atribuyéndose generalmente a Inglaterra y Europa Oriental. En sus inicios, estos sistemas utilizaban carriles de madera que posteriormente fueron reemplazados por carriles de hierro, mejorando significativamente la durabilidad y capacidad de carga.
+El **guiado por pestaña**, que emerge durante el siglo XVII, representa uno de los primeros sistemas de guiado documentados, aunque sus orígenes exactos permanecen parcialmente oscuros, atribuyéndose generalmente a Inglaterra y Europa Oriental. En sus inicios, estos sistemas utilizaban **carriles de madera** que posteriormente fueron reemplazados por **carriles de hierro**, mejorando significativamente la durabilidad y capacidad de carga.
 
 ### Antecedentes más antiguos de sistemas de transporte sobre vías
 
-La primera evidencia histórica de un sistema de transporte sobre carriles proviene de la Antigua Grecia y data del siglo VI a.C. Se trata de la línea Diolkos, un camino de transporte situado en el istmo de Corinto que se extendía por aproximadamente 6 kilómetros. Este sistema primitivo fue utilizado para transportar embarcaciones completas sobre plataformas móviles a lo largo del istmo. La característica técnica más notable de este sistema es que empleaba surcos excavados directamente en la piedra, constituyendo quizás el primer ejemplo documentado de guiado mediante vía fija.
+La primera evidencia histórica de un sistema de transporte sobre carriles proviene de la Antigua Grecia y data del siglo VI a.C. Se trata de la **línea Diolkos**, un camino de transporte situado en el istmo de Corinto que se extendía por aproximadamente 6 kilómetros. Este sistema primitivo fue utilizado para transportar embarcaciones completas sobre plataformas móviles a lo largo del istmo. La característica técnica más notable de este sistema es que empleaba **surcos excavados directamente en la piedra**, constituyendo quizás el primer ejemplo documentado de guiado mediante vía fija.
 
 ![4b544f072c4bc467a35d18c90dd47a1f_MD5]({{ site.baseurl }}/assets/images/4b544f072c4bc467a35d18c90dd47a1f_MD5.webp)
 [Estrecho de Corintio](https://es.wikipedia.org/wiki/Istmia)
@@ -88,7 +89,7 @@ La primera evidencia histórica de un sistema de transporte sobre carriles provi
 
 La aparición de ferrocarriles en el territorio europeo se remonta a la época medieval tardía. El primer registro documentado de un ferrocarril en Europa durante este período se encuentra en una vidriera de la Catedral de Friburgo de Brisgovia, que data aproximadamente del año 1350. Esta representación iconográfica constituye una evidencia invaluable del conocimiento y aplicación de sistemas de transporte sobre vías durante la Baja Edad Media.
 
-Una aportación técnica significativa ocurre en el año 1515, cuando el cardenal Matthäus Lang redactó la descripción de un funicular de considerable importancia técnica ubicado en el castillo de Hohensalzburg (Austria), denominado «Reisszug». Este sistema revolucionario utilizaba carriles de madera y operaba mediante una cuerda de cáñamo accionada por fuerza humana o animal. De forma notable, esta línea continúa operativa en la actualidad, habiendo sido completamente modernizada con material contemporáneo, lo que la convierte en una de las líneas ferroviarias más antiguas aún en servicio.
+Una aportación técnica significativa ocurre en el año 1515, cuando el cardenal Matthäus Lang redactó la descripción de un funicular de considerable importancia técnica ubicado en el castillo de Hohensalzburg (Austria), denominado **«Reisszug»**. Este sistema revolucionario utilizaba carriles de madera y operaba mediante una cuerda de cáñamo accionada por fuerza humana o animal. De forma notable, esta línea continúa operativa en la actualidad, habiendo sido completamente modernizada con material contemporáneo, lo que la convierte en una de las líneas ferroviarias más antiguas aún en servicio.
 
 
 ![5d427b211ee1f2bc09a9bfcf776490de_MD5]({{ site.baseurl }}/assets/images/5d427b211ee1f2bc09a9bfcf776490de_MD5.webp)
@@ -104,7 +105,7 @@ Desde el año 1550 en adelante, se produce una expansión significativa de líne
 
 ![3e18b9bec6dca7d1f8ba5a5b5523523e_MD5]({{ site.baseurl }}/assets/images/3e18b9bec6dca7d1f8ba5a5b5523523e_MD5.webp)
 [B&O's first steam locomotives](http://www.nealjconway.com/bando/bando.html)
-Un hito tecnológico crucial ocurre en 1768 con la fabricación del primer carril de hierro, que consistía en un cuerpo de madera revestido con una chapa de hierro. 
+Un hito tecnológico crucial ocurre en 1768 con la fabricación del primer **carril de hierro**, que consistía en un cuerpo de madera revestido con una chapa de hierro. 
 ![1260352383ad6780dbacc204237beb49_MD5]({{ site.baseurl }}/assets/images/1260352383ad6780dbacc204237beb49_MD5.webp)
 [Derby Canal Railway](https://tringlocalhistory.org.uk/Railway/c03_track.htm)
 
@@ -113,60 +114,60 @@ Esta innovación permitió la elaboración de aparatos de vía considerablemente
 ![2a09226481216391f02834b17b1513a3_MD5]({{ site.baseurl }}/assets/images/2a09226481216391f02834b17b1513a3_MD5.webp)
 [Cornish Miners Working at Dolcoath](https://victorianweb.org/art/stainedglass/clayton/16.html)
 
-A partir del año 1790 se introduce el uso de los primeros carriles de acero completo en Reino Unido, eliminando la necesidad de revestimiento y mejorando drásticamente la durabilidad. En 1803, el ingeniero William Jessop marca un hito histórico al inaugurar la línea «Surrey Iron Railway» al sur de Londres, constituyéndose como el primer ferrocarril público tirado por caballos, demostrando la viabilidad comercial de este sistema de transporte.
+A partir del año 1790 se introduce el uso de los primeros **carriles de acero completo** en Reino Unido, eliminando la necesidad de revestimiento y mejorando drásticamente la durabilidad. En 1803, el ingeniero **William Jessop** marca un hito histórico al inaugurar la línea **«Surrey Iron Railway»** al sur de Londres, constituyéndose como el primer ferrocarril público tirado por caballos, demostrando la viabilidad comercial de este sistema de transporte.
 
 ![07e5443012e71a2123a16045cf2f45e4_MD5]({{ site.baseurl }}/assets/images/07e5443012e71a2123a16045cf2f45e4_MD5.webp)
+
 [The Swansea and Mumbles Railway ran the world's first passenger tram service in 1807](https://en.wikipedia.org/wiki/Swansea_and_Mumbles_Railway)
 
 ![7798138a021df166dc0cefbaceb32aaa_MD5]({{ site.baseurl }}/assets/images/7798138a021df166dc0cefbaceb32aaa_MD5.webp)
+
 [London tramways](https://ast.wikipedia.org/wiki/Ficheru:London_Tramways_Horse_tram.jpg)
 
 ### La era del vapor: Revolución de la tracción mecanizada
 
-La industrialización del transporte ferroviario se fundamenta en el desarrollo de la máquina de vapor. Entre 1769 y 1782, el inventor James Watt patenta la máquina de vapor con mejoras significativas, aunque inicialmente estas unidades resultaban demasiado pesadas y operaban a presiones insuficientes para su aplicación directa en locomotoras.
+La industrialización del transporte ferroviario se fundamenta en el desarrollo de la **máquina de vapor**. Entre 1769 y 1782, el inventor **James Watt** patenta la máquina de vapor con mejoras significativas, aunque inicialmente estas unidades resultaban demasiado pesadas y operaban a presiones insuficientes para su aplicación directa en locomotoras.
 
-<iframe width="560" height="315" src="https://youtube.com/embed/0jNAWD-Yk1U?si=PLfNTtbWjiL1AH8w?autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media; accelerometer; clipboard-write;  gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-https://youtube.com/shorts/0jNAWD-Yk1U?si=PLfNTtbWjiL1AH8w
+<iframe width="315" height="560" src="https://youtube.com/embed/0jNAWD-Yk1U?si=PLfNTtbWjiL1AH8w?autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media; accelerometer; clipboard-write;  gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![42f1c36c7c2898c4acb790ad343c483f_MD5]({{ site.baseurl }}/assets/images/42f1c36c7c2898c4acb790ad343c483f_MD5.webp)
 Máquina de vapor de tipo Watt, construida por D. Napier and Son (Londres, 1859)
 
-El primer hito en la tracción mecánica ferroviaria se alcanza en 1804, cuando Richard Trevithick presenta la primera locomotora capaz de arrastrar efectivamente un tren completo en Reino Unido. Realizada en colaboración con Andrew Vivian, esta máquina revolucionaria obtuvo un éxito relativo, si bien su peso excesivo provocó la rotura de los frágiles carriles de chapa de hierro disponibles en ese momento.
+El primer hito en la tracción mecánica ferroviaria se alcanza en 1804, cuando **Richard Trevithick** presenta la primera **locomotora** capaz de arrastrar efectivamente un tren completo en Reino Unido. Realizada en colaboración con Andrew Vivian, esta máquina revolucionaria obtuvo un éxito relativo, si bien su peso excesivo provocó la rotura de los frágiles carriles de chapa de hierro disponibles en ese momento.
 
 ![2beeeaf25137bbc602c6cf378665ce69_MD5]({{ site.baseurl }}/assets/images/2beeeaf25137bbc602c6cf378665ce69_MD5.webp)
 Locomotora de Trevithick (1804)
 
-Siete años más tarde, en 1811, John Blenkinsop diseña la primera locomotora funcionalmente viable, que se presentó públicamente en la línea ferroviaria que conectaba Middleton con Leeds. La locomotora, denominada Salamanca, fue construida en 1812 y representó un avance significativo al incorporar un sistema de cremallera que le permitía superar pendientes más pronunciadas que los sistemas de adherencia convencionales.
+Siete años más tarde, en 1811, **John Blenkinsop** diseña la primera locomotora funcionalmente viable, que se presentó públicamente en la línea ferroviaria que conectaba Middleton con Leeds. La locomotora, denominada **Salamanca**, fue construida en 1812 y representó un avance significativo al incorporar un **sistema de cremallera** que le permitía superar pendientes más pronunciadas que los sistemas de adherencia convencionales.
 
 ![d07d957bd8689419a920c2466d6f6d0c_MD5]({{ site.baseurl }}/assets/images/d07d957bd8689419a920c2466d6f6d0c_MD5.webp)
 Salamanca: Primera locomotora de cremallera de John Blenkinsop
 
-Un avance de capital importancia ocurre en 1825, cuando George Stephenson construye la Locomotion, una máquina de vapor de especificaciones superiores que es utilizada en la línea ferroviaria entre Stockton y Darlington, ubicada en el noreste de Inglaterra. Esta locomotora reviste una importancia histórica fundamental, pues constituye la primera máquina de vapor que ha remolcado efectivamente servicios de transporte público de viajeros y mercancías.
+Un avance de capital importancia ocurre en 1825, cuando **George Stephenson** construye la **Locomotion**, una máquina de vapor de especificaciones superiores que es utilizada en la línea ferroviaria entre **Stockton y Darlington**, ubicada en el noreste de Inglaterra. Esta locomotora reviste una importancia histórica fundamental, pues constituye la primera máquina de vapor que ha remolcado efectivamente servicios de transporte público de viajeros y mercancías.
 
 ![5e52d87901ec9d34839c5d1184776978_MD5]({{ site.baseurl }}/assets/images/5e52d87901ec9d34839c5d1184776978_MD5.webp)
 Locomotion de George Stephenson (1825)
 
 ### Expansión global del ferrocarril de vapor
 
-En 1829, George Stephenson logra un hito tecnológico de importancia suprema al construir la locomotora The Rocket, cuyo éxito operativo consolidó definitivamente la viabilidad técnica de la propulsión mecánica ferroviaria. El reconocimiento de estas capacidades técnicas motivó a Stephenson a establecer la primera compañía manufacturera especializada en la construcción de locomotoras de vapor, cuyos productos fueron ampliamente adoptados en líneas ferroviarias de Europa y Estados Unidos.
+En 1829, **George Stephenson** logra un hito tecnológico de importancia suprema al construir la locomotora **The Rocket**, cuyo éxito operativo consolidó definitivamente la viabilidad técnica de la propulsión mecánica ferroviaria. El reconocimiento de estas capacidades técnicas motivó a Stephenson a establecer la primera compañía manufacturera especializada en la construcción de locomotoras de vapor, cuyos productos fueron ampliamente adoptados en líneas ferroviarias de Europa y Estados Unidos.
 
-El año 1830 marca la inauguración de la primera línea ferroviaria interurbana de importancia comercial, la línea que conecta Liverpool con Manchester. Esta línea adoptó un ancho de vía de 1435 mm, dimensión que actualmente se denomina ancho internacional debido a que aproximadamente el 60% de los ferrocarriles contemporáneos a nivel mundial utilizan esta especificación técnica. El éxito operativo y comercial de estas locomotoras de vapor durante los años subsecuentes propició la proliferación de líneas ferroviarias y máquinas motrices por prácticamente todas las regiones del planeta.
+El año 1830 marca la inauguración de la primera línea ferroviaria interurbana de importancia comercial, la línea que conecta **Liverpool con Manchester**. Esta línea adoptó un **ancho de vía de 1435 mm**, dimensión que actualmente se denomina **ancho internacional** debido a que aproximadamente el 60% de los ferrocarriles contemporáneos a nivel mundial utilizan esta especificación técnica. El éxito operativo y comercial de estas locomotoras de vapor durante los años subsecuentes propició la proliferación de líneas ferroviarias y máquinas motrices por prácticamente todas las regiones del planeta.
 
 ### Electrificación y dieselización: nuevas fuentes de energía
 
 La era de la propulsión eléctrica en ferrocarriles inicia con experimentos pioneros en 1838, cuando Robert Davidson realiza las primeras pruebas exitosas con trenes impulsados por baterías eléctricas, logrando que su carruaje experimental alcanzara velocidades de 6,4 km/h.
 
-Casi cinco décadas después, en 1883, se inaugura el primer ferrocarril con suministro eléctrico por vía: el tranvía que circula entre Portrush y Giant's Causeway, ubicados en el norte de Irlanda, que utiliza un sistema de alimentación mediante un tercer raíl. En 1888, los sistemas de cable de alimentación para ferrocarriles se incorporan en tranvías que hasta ese momento eran remolcados por tracción equina. La primera línea de ferrocarril convencional completamente electrificada corresponde a la línea Roslag en Suecia, que marca un hito en la adopción de sistemas eléctricos.
+Casi cinco décadas después, en 1883, se inaugura el primer ferrocarril con suministro eléctrico por vía: el tranvía que circula entre Portrush y Giant's Causeway, ubicados en el norte de Irlanda, que utiliza un sistema de alimentación mediante un **tercer raíl**. En 1888, los sistemas de cable de alimentación para ferrocarriles se incorporan en tranvías que hasta ese momento eran remolcados por tracción equina. La primera línea de ferrocarril convencional completamente electrificada corresponde a la línea Roslag en Suecia, que marca un hito en la adopción de sistemas eléctricos.
 
-Todas las iniciales instalaciones eléctricas utilizaban corriente continua para su funcionamiento, hasta que en 1904 se introduce en Austria la primera línea que implementa corriente alterna, mejorando significativamente la eficiencia de transmisión energética.
+Todas las iniciales instalaciones eléctricas utilizaban corriente continua para su funcionamiento, hasta que en 1904 se introduce en Austria la primera línea que implementa **corriente alterna**, mejorando significativamente la eficiencia de transmisión energética.
 
 ![2dfe7db4842e7ffa4fb136de35d53637_MD5]({{ site.baseurl }}/assets/images/2dfe7db4842e7ffa4fb136de35d53637_MD5.webp)
 [Siemens electrical locomotive](https://commons.wikimedia.org/wiki/File:Siemens_mining_locomotive_001.jpg)
 
 ### Transición del vapor al diésel y transformación del sector
 
-Las locomotoras de vapor, a pesar de su importancia histórica, requieren procedimientos de mantenimiento considerable para mantener su operatividad. El desarrollo tecnológico de motores de combustión interna, impulsado significativamente por demandas derivadas de conflictos bélicos, permitió la creación de locomotoras diésel más económicas en operación y potencialmente más potentes. Esta situación motivó que múltiples operadores ferroviarios iniciaran programas sistemáticos de conversión de sus flotas, reemplazando progresivamente las máquinas de vapor por unidades diésel en las líneas no electrificadas.
+Las **locomotoras de vapor**, a pesar de su importancia histórica, requieren procedimientos de mantenimiento considerable para mantener su operatividad. El desarrollo tecnológico de **motores de combustión interna**, impulsado significativamente por demandas derivadas de conflictos bélicos, permitió la creación de **locomotoras diésel** más económicas en operación y potencialmente más potentes. Esta situación motivó que múltiples operadores ferroviarios iniciaran programas sistemáticos de conversión de sus flotas, reemplazando progresivamente las máquinas de vapor por unidades diésel en las líneas no electrificadas.
 
 Paralelamente, otros factores tecnológicos y económicos impactaron negativamente en el ferrocarril. La construcción acelerada de redes de autopistas, el fortalecimiento del transporte por carretera mediante autobuses y camiones, y el surgimiento del transporte aéreo comercial provocaron una reducción considerable en los volúmenes de tráfico ferroviario durante los decenios de 1950 a 1970.
 ![94af864f5923509d6e66ea8d342051c2_MD5]({{ site.baseurl }}/assets/images/94af864f5923509d6e66ea8d342051c2_MD5.webp)
@@ -175,7 +176,7 @@ Paralelamente, otros factores tecnológicos y económicos impactaron negativamen
 
 No obstante, la crisis del petróleo de 1973 revierte significativamente esta tendencia descendente. La escasez de combustibles fósiles y el encarecimiento del petróleo restauran la competitividad económica de los tranvías y sistemas ferroviarios que no habían sido desmantelados, permitiendo que muchos de estos servicios continúen operando en los días contemporáneos con rentabilidad comercial renovada.
 
-La invención del tren de alta velocidad en Japón en el año 1964 constituye un cambio fundamental en la modalidad, permitiendo recuperar la demanda de transporte interurbano de viajeros. Este avance tecnológico consolida la vigencia del ferrocarril como alternativa competitiva de transporte.
+La invención del **tren de alta velocidad** en Japón en el año 1964 constituye un cambio fundamental en la modalidad, permitiendo recuperar la demanda de transporte interurbano de viajeros. Este avance tecnológico consolida la vigencia del ferrocarril como alternativa competitiva de transporte.
 ![5a8b426009723493f37958d9fd418154_MD5]({{ site.baseurl }}/assets/images/5a8b426009723493f37958d9fd418154_MD5.webp)
 [Shinkansen 0 en Japon](https://en.wikipedia.org/wiki/0_Series_Shinkansen)
 
@@ -221,11 +222,11 @@ Estas tecnologías representan la evolución hacia sistemas ferroviarios más so
 
 A inicios de la década de 1990, la Comisión Europea identifica problemas económicos estructurales y pérdida significativa de tráfico en el sector ferroviario europeo, particularmente en el subsector de transporte de mercancías. En respuesta a estas problemáticas, la Comisión presenta en 1990 la comunicación titulada "Política Ferroviaria Comunitaria". Este documento representa el primer paso deliberado hacia la separación económica, jurídica y empresarial de las funciones de infraestructura y explotación, iniciando simultáneamente un proceso de liberalización mediante la apertura del mercado a operadores privados.
 
-El desarrollo regulatorio culmina con la aprobación de la Directiva 91/440, que establece los fundamentos jurídicos para la apertura del mercado ferroviario en Europa, constituyendo el marco normativo primario para la transformación del sector.
+El desarrollo regulatorio culmina con la aprobación de la **Directiva 91/440**, que establece los fundamentos jurídicos para la apertura del mercado ferroviario en Europa, constituyendo el marco normativo primario para la transformación del sector.
 
 ### Directiva 91/440: Pilares de la reforma estructural
 
-Hasta la promulgación de esta directiva, todas las empresas ferroviarias europeas de relevancia operaban bajo control estatal nacional con una gestión de carácter monopolístico y fuerte dependencia de los gobiernos. La directiva 91/440 introduce obligaciones fundamentales que transforman estructuralmente el sector:
+Hasta la promulgación de esta directiva, todas las empresas ferroviarias europeas de relevancia operaban bajo control estatal nacional con una gestión de carácter monopolístico y fuerte dependencia de los gobiernos. La **directiva 91/440** introduce obligaciones fundamentales que transforman estructuralmente el sector:
 
 - **Separación funcional**: Establece la obligatoriedad de separar la gestión de infraestructura de las funciones de explotación, asignando la gestión de infraestructura a autoridades estatales y permitiendo que la explotación sea realizada por empresas públicas o privadas. Esta separación es obligatoria desde el punto de vista contable y facultativa desde la perspectiva organizacional de las compañías.
 
@@ -262,7 +263,7 @@ EU Statistical Pocketbook 2017; UIC. [Source](https://op.europa.eu/webpub/eca/sp
 
 ### Primer Paquete Ferroviario (2001)
 
-El Primer Paquete Ferroviario se compone de tres directivas (2001/12, 2001/13, 2001/14) que modifican y amplían significativamente la regulación previa (Directivas 91/440, 95/18 y 95/19). Estas medidas profundizan en la liberalización y mejoran el acceso a infraestructuras, además de establecer la obligatoriedad de crear órganos reguladores de la actividad ferroviaria en cada país. A este conjunto de directivas se añade posteriormente la Directiva 2001/16, que aborda aspectos críticos de interoperabilidad del sistema ferroviario transeuropeo.
+El **Primer Paquete Ferroviario** se compone de tres directivas (2001/12, 2001/13, 2001/14) que modifican y amplían significativamente la regulación previa (Directivas 91/440, 95/18 y 95/19). Estas medidas profundizan en la **liberalización** y mejoran el acceso a infraestructuras, además de establecer la obligatoriedad de crear órganos reguladores de la actividad ferroviaria en cada país. A este conjunto de directivas se añade posteriormente la Directiva 2001/16, que aborda aspectos críticos de **interoperabilidad** del sistema ferroviario transeuropeo.
 
 **Directiva 2001/12 - Modificación de la 91/440**:
 
@@ -338,9 +339,9 @@ Compuesto por seis propuestas legislativas articuladas en cuatro ámbitos fundam
 
 ### Marco legal y estructura general
 
-La Ley del Sector Ferroviario, que surge de la transposición de Directivas Europeas en la legislación española, obliga a que las grandes ferroviarias nacionales europeas gestionen de forma independiente la infraestructura y los trenes que circulan por ella. El objetivo final de esta legislación es permitir a cualquier operadora ferroviaria circular por la red en condiciones de igualdad, promoviendo la libre competencia y mejorando la eficiencia del sistema.
+La **Ley del Sector Ferroviario**, que surge de la transposición de Directivas Europeas en la legislación española, obliga a que las grandes ferroviarias nacionales europeas gestionen de forma independiente la infraestructura y los trenes que circulan por ella. El objetivo final de esta legislación es permitir a cualquier operadora ferroviaria circular por la red en condiciones de igualdad, promoviendo la **libre competencia** y mejorando la eficiencia del sistema.
 
-Según la normativa española derivada de la Ley del Sector Ferroviario, los servicios de pasajeros internos en la red de ADIF podían ser realizados exclusivamente por RENFE OPERADORA hasta la liberalización completa que se produjo en 2017. Actualmente, cualquier operadora que obtenga los permisos pertinentes puede operar servicios de viajeros internacionales o de mercancías de cualquier tipo. Aproximadamente 40 empresas ferroviarias poseen licencia para operar en la red de ADIF, incluyendo 3 con licencia europea y 2 habilitadas pero sin licencia activa.
+Según la normativa española derivada de la Ley del Sector Ferroviario, los servicios de pasajeros internos en la red de **ADIF** podían ser realizados exclusivamente por **RENFE OPERADORA** hasta la liberalización completa que se produjo en 2017. Actualmente, cualquier operadora que obtenga los permisos pertinentes puede operar servicios de viajeros internacionales o de mercancías de cualquier tipo. Aproximadamente 40 empresas ferroviarias poseen licencia para operar en la red de ADIF, incluyendo 3 con licencia europea y 2 habilitadas pero sin licencia activa.
 ![70d04e63bf842595a7ff191e08785c01_MD5]({{ site.baseurl }}/assets/images/70d04e63bf842595a7ff191e08785c01_MD5.webp)
 [link](https://www.transportes.gob.es/ferrocarriles/estructura-del-sector-ferroviario-en-espana/principales-agentes-del-sector-ferroviario)
 ### Acceso a la infraestructura ferroviaria
@@ -368,9 +369,9 @@ Sus objetivos, funciones y competencias incluyen:
 
 La división de RENFE se hizo efectiva el 1 de enero de 2005, separando la gestión en dos entidades empresariales:
 
-- **ADIF (Administrador de Infraestructuras Ferroviarias)**: Propietaria de la infraestructura y encargada de su gestión, que proporciona sus servicios a cualquier operador ferroviario que los solicite en igualdad de condiciones.
+- **ADIF (Administrador de Infraestructuras Ferroviarias)**: Propietaria de la **infraestructura** y encargada de su gestión, que proporciona sus servicios a cualquier operador ferroviario que los solicite en igualdad de condiciones.
 
-- **Renfe Operadora**: Propietaria de los trenes y encargada de su circulación, que trabaja en competencia con otras compañías ferroviarias en el mercado abierto.
+- **Renfe Operadora**: Propietaria de los **trenes** y encargada de su circulación, que trabaja en competencia con otras compañías ferroviarias en el mercado abierto.
 
 Esta división tuvo características particulares derivadas del contexto español:
 
@@ -419,7 +420,7 @@ ADIF desarrolla cuatro actividades operacionales principales:
 
 ### Red Ferroviaria de Interés General (RFIG)
 
-Con la reestructuración de RENFE se creó la Red Ferroviaria de Interés General, que aglutina aquellas líneas que son esenciales para mantener el servicio de ferrocarril en España. Las líneas pertenecientes a la RFIG tienen que ser administradas por el estado central y no pueden ser transferidas a entidades menores. La inclusión y exclusión de líneas en la RFIG la decide el Ministerio de Fomento, previo informe de las comunidades autónomas afectadas. Actualmente, la RFIG se compone de todas las líneas de ADIF y las administradas por la Autoridad Portuaria.
+Con la reestructuración de RENFE se creó la **Red Ferroviaria de Interés General**, que aglutina aquellas líneas que son esenciales para mantener el servicio de ferrocarril en España. Las líneas pertenecientes a la **RFIG** tienen que ser administradas por el estado central y no pueden ser transferidas a entidades menores. La inclusión y exclusión de líneas en la RFIG la decide el Ministerio de Fomento, previo informe de las comunidades autónomas afectadas. Actualmente, la RFIG se compone de todas las líneas de **ADIF** y las administradas por la Autoridad Portuaria.
 
 ![87d9be3d627c3bb87e4da3531f16ba2c_MD5]({{ site.baseurl }}/assets/images/87d9be3d627c3bb87e4da3531f16ba2c_MD5.webp)
 Mapa de red ferroviaria española. [RFIG](https://www.adif.es/sobre-adif/declaracion-red). 
@@ -508,7 +509,7 @@ En junio de 2012, tras la aprobación del Real Decreto-ley 22/2012 de 20 de juli
 
 ## Capítulo IV: Reforma y Modernización del Sector Ferroviario Británico
 
-La red ferroviaria de Gran Bretaña, reconocida históricamente como la cuna del ferrocarril moderno, atraviesa en la actualidad su proceso de reestructuración más profundo desde la era de la privatización iniciada en la década de 1990. Este periodo de transición, definido por el paso de un modelo de franquicias fragmentado hacia una entidad pública unificada denominada Great British Railways (GBR), busca corregir las ineficiencias sistémicas que han afectado la fiabilidad, el coste y la experiencia del usuario durante los últimos treinta años. La implementación del Plan Williams-Shapps para el Ferrocarril y la posterior Ley de Servicios Ferroviarios de Pasajeros (Propiedad Pública) de 2024 constituyen el marco legal y operativo que guía este cambio de paradigma, donde el Estado retoma la dirección estratégica de las operaciones y la infraestructura bajo el concepto de una "mente rectora única".
+La red ferroviaria de Gran Bretaña, reconocida históricamente como la cuna del ferrocarril moderno, atraviesa en la actualidad su proceso de reestructuración más profundo desde la era de la privatización iniciada en la década de 1990. Este periodo de transición, definido por el paso de un modelo de franquicias fragmentado hacia una entidad pública unificada denominada **Great British Railways (GBR)**, busca corregir las ineficiencias sistémicas que han afectado la fiabilidad, el coste y la experiencia del usuario durante los últimos treinta años. La implementación del **Plan Williams-Shapps** para el Ferrocarril y la posterior **Ley de Servicios Ferroviarios de Pasajeros (Propiedad Pública) de 2024** constituyen el marco legal y operativo que guía este cambio de paradigma, donde el Estado retoma la dirección estratégica de las operaciones y la infraestructura bajo el concepto de una "mente rectora única".
 
 ### Evolución histórica y el declive del modelo de franquicias
 
@@ -534,7 +535,7 @@ La Ley de Servicios Ferroviarios de Pasajeros (Propiedad Pública) de 2024, que 
 
 ### Arquitectura de Great British Railways
 
-Great British Railways (GBR) nace con el mandato de ser el único organismo responsable de la planificación, la infraestructura, la recaudación de ingresos y la fijación de tarifas. Al reunir estas funciones, se busca eliminar la cultura del "reparto de culpas" entre las empresas de trenes y el gestor de infraestructuras, incentivando una visión compartida del éxito del sistema.
+**Great British Railways (GBR)** nace con el mandato de ser el único organismo responsable de la planificación, la infraestructura, la recaudación de ingresos y la fijación de tarifas. Al reunir estas funciones, se busca eliminar la cultura del "reparto de culpas" entre las empresas de trenes y el gestor de infraestructuras, incentivando una visión compartida del éxito del sistema.
 
 #### Funciones y objetivos de GBR
 
@@ -573,7 +574,7 @@ El proceso comenzó formalmente en mayo de 2025. Los operadores son transferidos
 A pesar de esta tendencia hacia la nacionalización, los operadores de "acceso abierto" (Open Access) como Lumo, Grand Central y Hull Trains mantienen su rol comercial. El Gobierno ha expresado que estos operadores añaden valor y capacidad donde los servicios públicos no llegan, fomentando la innovación y la competencia en rutas específicas. Sin embargo, la Oficina de Ferrocarriles y Carreteras (ORR) aplica pruebas estrictas de "no abstracción de ingresos" para asegurar que estos servicios privados no perjudiquen financieramente al operador público principal.
 ### Gestión de la infraestructura: Network Rail
 
-Network Rail sigue siendo, hasta su absorción por GBR, el gestor de infraestructuras responsable de 20.000 millas de vías y miles de estaciones, puentes y túneles. Como entidad pública no departamental, su enfoque es la seguridad y la eficiencia en la operación diaria de la red.
+**Network Rail** sigue siendo, hasta su absorción por GBR, el gestor de infraestructuras responsable de 20.000 millas de vías y miles de estaciones, puentes y túneles. Como entidad pública no departamental, su enfoque es la seguridad y la eficiencia en la operación diaria de la red.
 
 ![386c200ac3730fd027e2778eb4dd8362_MD5]({{ site.baseurl }}/assets/images/386c200ac3730fd027e2778eb4dd8362_MD5.webp)
 
@@ -650,7 +651,7 @@ HS1 conecta Londres St Pancras con el Túnel del Canal. Es una infraestructura m
 [link](https://www.hicl.com/portfolio/project/high-speed-1/)
 #### High Speed 2 (HS2)
 
-HS2 es el mayor proyecto de infraestructura ferroviaria de Europa, diseñado para aliviar la congestión en la West Coast Main Line (WCML). Tras años de aumentos de costes y cambios de alcance, el proyecto fue redimensionado en 2023 para centrarse en la ruta entre Londres Euston y Birmingham. En 2025, el proyecto entró en una fase de "reinicio" bajo la dirección de Mark Wild para sincronizar la ingeniería civil y el montaje de sistemas.
+**HS2** es el mayor proyecto de infraestructura ferroviaria de Europa, diseñado para aliviar la **congestión** en la West Coast Main Line (WCML). Tras años de aumentos de costes y cambios de alcance, el proyecto fue redimensionado en 2023 para centrarse en la ruta entre Londres Euston y Birmingham. En 2025, el proyecto entró en una fase de "reinicio" bajo la dirección de Mark Wild para sincronizar la ingeniería civil y el montaje de sistemas.
 
 | Componente de HS2 | Estado de Avance (Enero 2026) | Detalles Técnicos |
 | :---- | :---- | :---- |
@@ -706,7 +707,8 @@ A nivel técnico, la modernización de la flota de mantenimiento y la finalizaci
 
 ### Economía energética e independencia de tracción
 
-El fundamento técnico del ferrocarril tiene su origen en el pequeño coeficiente de rozamiento existente en la rodadura de acero sobre acero. Este coeficiente está cifrado en tres milésimas (0,003), lo que equivale a decir que el esfuerzo necesario para desplazar horizontalmente una tonelada es de 3 kp. En vehículos por carretera, este esfuerzo es muy superior, revelando la ventaja técnica intrínseca del ferrocarril. Este pequeño esfuerzo tractor para remolcar una carga que gravita sobre un vagón constituye la base fundamental sobre la que se estableció la industria ferroviaria moderna.
+{: .highlight }
+El fundamento técnico del ferrocarril tiene su origen en el pequeño **coeficiente de rozamiento** existente en la rodadura de acero sobre acero. Este coeficiente está cifrado en **tres milésimas (0,003)**, lo que equivale a decir que el esfuerzo necesario para desplazar horizontalmente una tonelada es de **3 kp**. En vehículos por carretera, este esfuerzo es muy superior, revelando la ventaja técnica intrínseca del ferrocarril. Este pequeño esfuerzo tractor para remolcar una carga que gravita sobre un vagón constituye la base fundamental sobre la que se estableció la industria ferroviaria moderna.
 
 Para ejemplificar esta ventaja, consideremos un tren de 900 toneladas que deseamos remolcar a una velocidad de 72 km/h. La potencia necesaria será:
 
@@ -736,9 +738,9 @@ Si medimos la inclinación de la rampa en milésimas (i), tenemos:
 
 $$\tan \alpha = \frac{i}{1000} \quad \text{por lo que} \quad R_i = \frac{P \cdot i}{1000}$$
 
-El esfuerzo $$ R_i $$ en kp, por unidad de peso P (en toneladas) en rampas es igual a i en milésimas. Una rampa de 2 milésimas supone 2 kp de esfuerzo tractor más que en horizontal, lo que significa doblar el esfuerzo.
+El esfuerzo $$ R_i $$ en kp, por unidad de peso P (en toneladas) en rampas es igual a i en milésimas. Una **rampa de 2 milésimas** supone 2 kp de esfuerzo tractor más que en horizontal, lo que significa doblar el esfuerzo.
 
-En España, por su orografía montañosa, son numerosas las rampas de 20 milésimas, circunstancia que exige locomotoras muy potentes en los trenes rápidos. Este factor contrasta significativamente con la geografía francesa, donde las rampas máximas son de 7 milésimas. La travesía del puerto de Pajares, sobre la vertiente cantábrica, en el trayecto de Ujo a Busdongo, ejemplifica estas dificultades: de sus 62 km de recorrido, 28 km están en túnel y la mayor parte restante en rampa de 20 milésimas.
+En España, por su orografía montañosa, son numerosas las rampas de **20 milésimas**, circunstancia que exige locomotoras muy potentes en los trenes rápidos. Este factor contrasta significativamente con la geografía francesa, donde las rampas máximas son de 7 milésimas. La travesía del **puerto de Pajares**, sobre la vertiente cantábrica, en el trayecto de Ujo a Busdongo, ejemplifica estas dificultades: de sus 62 km de recorrido, 28 km están en túnel y la mayor parte restante en rampa de 20 milésimas.
 
 ### Seguridad del transporte ferroviario
 
@@ -827,6 +829,33 @@ En el horizonte de este siglo XXI, el ferrocarril es especialmente adecuado para
 
 ---
 
+## Preguntas de repaso
+
+<div class="flashcard-container">
+{% include flashcard.html
+   question="¿Cuáles fueron las tres innovaciones tecnológicas principales que permitieron el surgimiento del ferrocarril moderno?"
+   answer="La rueda (dispositivo de rotación), el carril (estructura de guiado) y la locomotora de vapor (máquina motriz)."
+%}
+{% include flashcard.html
+   question="¿Qué hito tecnológico logró George Stephenson en 1829 y qué consecuencias tuvo?"
+   answer="Construyó la locomotora **The Rocket**, cuyo éxito operativo demostró la viabilidad técnica de la propulsión mecánica."
+%}
+{% include flashcard.html
+   question="¿En qué consiste el \"ancho internacional\" y cuál es su medida?"
+   answer="Es el ancho de vía de **1435 mm**, adoptado originalmente en la línea Liverpool-Manchester (1830)."
+%}
+{% include flashcard.html
+   question="¿Cuál es la diferencia fundamental entre ADIF y Renfe Operadora tras la separación de 2005?"
+   answer="**ADIF** gestiona la infraestructura y **Renfe Operadora** explota los trenes."
+%}
+{% include flashcard.html
+   question="¿Qué establecieron las directivas del Primer Paquete Ferroviario (2001)?"
+   answer="Regularon la adjudicación de capacidad e infraestructura por un organismo independiente para asegurar la libre competencia."
+%}
+</div>
+
+---
+
 ## Fuentes bibliográficas
 
 - [**Prehistoria del ferrocarril. Jesús Moreno**](https://tecnica-vialibre.es/documentos/Libros/PrehistoriaFerrocarril.pdf)
@@ -837,7 +866,7 @@ En el horizonte de este siglo XXI, el ferrocarril es especialmente adecuado para
 - [**Direccion general de ferrocarriles**](https://www.transportes.gob.es/ministerio/organizacion-y-funciones/secretaria-de-transportes-movilidad-sostenible/dg-trasnporte-carretera-ferrocarril)
 - [**Office of Rail and Road**](https://www.orr.gov.uk/)
 -  [**Railways Act 1993 - Legislation.gov.uk**](https://www.legislation.gov.uk/ukpga/1993/43/contents)    The primary legislation that privatised the railways and still forms the legal bedrock for how the industry is structured, licensed, and regulated today. 
--  [**The Williams-Shapps Plan for Rail (Great British Railways White Paper) - GOV.UK**](https://assets.publishing.service.gov.uk/media/60cb29dde90e0743ae8c29c1/gbr-williams-shapps-plan-for-rail.pdf)) The most significant policy shift in decades, outlining the transition toward a "guiding mind" for the network and the creation of Great British Railways (GBR).   
+-  [**The Williams-Shapps Plan for Rail (Great British Railways White Paper) - GOV.UK**](https://assets.publishing.service.gov.uk/media/60cb29dde90e0743ae8c29c1/gbr-williams-shapps-plan-for-rail.pdf) The most significant policy shift in decades, outlining the transition toward a "guiding mind" for the network and the creation of Great British Railways (GBR).   
 -  [**Railways Bill Factsheets (Reform & Funding) - GOV.UK**](https://www.gov.uk/government/publications/railways-bill) These provide the most up-to-date legal and financial details on how the government intends to implement the GBR model and nationalise remaining operators.
 -  [**Who We Are - Network Rail**](https://www.networkrail.co.uk/who-we-are/)Essential for understanding the management of the physical infrastructure (tracks, signals, and major stations) and their transition into the GBR structure.    
 -  [**High Speed 2 (HS2) Project Update - HS2 Ltd**](https://www.hs2.org.uk/what-is-hs2/hs2-project-update/) The primary source for the UK’s largest current infrastructure project, detailing route changes, construction progress, and strategic goals.    
@@ -846,3 +875,4 @@ En el horizonte de este siglo XXI, el ferrocarril es especialmente adecuado para
 -  [**Rail Industry Finance (UK) Annual Statistics - GOV.UK**](https://www.gov.uk/government/statistics/rail-industry-finance-uk-april-2024-to-march-2025) The "source of truth" for the economic health of the railway, including government subsidies, passenger revenue, and operational costs.
 -  [**When will my local train operator be nationalised? - House of Commons Library**](https://commonslibrary.parliament.uk/when-will-my-local-train-operator-be-nationalised/) A practical, frequently updated guide to the "Operator of Last Resort" (OLR) and the timeline for bringing private franchises back into public ownership.
 -  [**Rail Transport in Great Britain - Wikipedia**](https://en.wikipedia.org/wiki/Rail_transport_in_Great_Britain) While a secondary source, this remains the most accessible comprehensive overview of the network's history, geography, and various operating companies.
+

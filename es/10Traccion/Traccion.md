@@ -30,7 +30,7 @@ parent: Inicio
 La dinámica longitudinal constituye un campo fundamental en la ingeniería ferroviaria que se ocupa del análisis y la comprensión de las interacciones entre las diferentes fuerzas que actúan sobre un tren durante su movimiento. Estas fuerzas incluyen el esfuerzo de tracción generado por los motores, las fuerzas de frenado, los efectos gravitatorios causados por la topografía, y las fuerzas de inercia asociadas con cambios en la velocidad. Es importante destacar que este análisis se refiere específicamente al movimiento en la dirección longitudinal del tren, diferenciándose claramente de la dinámica vertical que considera movimientos perpendiculares a la dirección de viaje.
 
 El estudio de la dinámica longitudinal permite identificar y desarrollar tres áreas clave de investigación y aplicación práctica en el transporte ferroviario. En primer lugar, es posible calcular con precisión los perfiles de velocidad y los tiempos de viaje en diferentes tramos de línea, considerando las limitaciones técnicas y de infraestructura. En segundo lugar, permite determinar las cargas máximas que pueden ser remolcadas por una locomotora manteniendo los estándares de seguridad establecidos. Finalmente, proporciona las herramientas necesarias para estimar el consumo de energía requerido en diferentes escenarios operativos.
-![a55ac2cd3867edd5685f2760006cdaa6_MD5]({{ site.baseurl }}/assets/images/a55ac2cd3867edd5685f2760006cdaa6_MD5.webp|591x394)
+![a55ac2cd3867edd5685f2760006cdaa6_MD5]({{ site.baseurl }}/assets/images/a55ac2cd3867edd5685f2760006cdaa6_MD5.webp){: width="591" height="394"}
 ![be8adfad9e1221d31152df6337fb6818_MD5]({{ site.baseurl }}/assets/images/be8adfad9e1221d31152df6337fb6818_MD5.webp)
 
 
@@ -50,8 +50,8 @@ $$
 E-R=\frac{P}{g} \cdot \gamma
 $$
 
-Siendo $P$ el peso de la composición ferroviaria y $\gamma$ la aceleración que el esfuerzo E produciría en la misma.
-![707b4a4bca3b6a1e2cd19ef077161070_MD5]({{ site.baseurl }}/assets/images/707b4a4bca3b6a1e2cd19ef077161070_MD5.webp)
+Siendo $$P$$ el peso de la composición ferroviaria y $$\gamma$$ la aceleración que el esfuerzo E produciría en la misma.
+
 
 ### I.3. Tracción
 
@@ -95,9 +95,9 @@ Para que se mantenga la adherencia, debe cumplirse la siguiente condición:
 
 $$F \leq \phi \cdot P_{a d h}$$
 
-donde $\phi$ es el llamado coeficiente de adherencia y $P_{a d h}$ es el peso adherente, es decir, el peso de los ejes motores de la locomotora.
+donde $$\phi$$ es el llamado coeficiente de adherencia y $$P_{a d h}$$ es el peso adherente, es decir, el peso de los ejes motores de la locomotora.
 
-Si durante la operación se produce la condición $F > \phi \cdot P_{a d h}$, se interrumpe la adherencia y la rueda comienza a deslizar sobre el carril. En esta situación, el coeficiente de fricción disminuye a un valor inferior $\phi' < \phi$, aumentando la aceleración de la rotación del eje y de las masas giratorias asociadas. Este fenómeno se conoce como patinado, y es un evento indeseable en la operación ferroviaria que reduce la eficiencia y puede causar daños.
+Si durante la operación se produce la condición $$F > \phi \cdot P_{a d h}$$, se interrumpe la adherencia y la rueda comienza a deslizar sobre el carril. En esta situación, el coeficiente de fricción disminuye a un valor inferior $$\phi' < \phi$$, aumentando la aceleración de la rotación del eje y de las masas giratorias asociadas. Este fenómeno se conoce como patinado, y es un evento indeseable en la operación ferroviaria que reduce la eficiencia y puede causar daños.
 
 ![a7d43c3292bc2bab2b86a261046e82c6_MD5]({{ site.baseurl }}/assets/images/a7d43c3292bc2bab2b86a261046e82c6_MD5.webp)
 
@@ -115,7 +115,7 @@ $$
 \phi_{v}=\phi_{0} \cdot \frac{1}{1+0.01 \cdot v}
 $$
 
-donde $\phi_{0}$ es la adherencia con el tren parado (condición inicial) y $v$ la velocidad en $\mathrm{km} / \mathrm{h}$.
+donde $$\phi_{0}$$ es la adherencia con el tren parado (condición inicial) y $$v$$ la velocidad en $$\mathrm{km} / \mathrm{h}$$.
 
 El esfuerzo máximo de tracción que puede ejercer una locomotora viene limitado por la adherencia disponible. Esta limitación se calcula como el producto del peso adherente por el coeficiente de adherencia:
 
@@ -149,7 +149,7 @@ La potencia disponible constituye un compromiso entre dos magnitudes físicas fu
 
 **Interacción entre tracción y adherencia**
 
-El coeficiente de adherencia ($\phi$) constituye uno de los factores más relevantes y críticos en la operación de transporte de mercancías, donde generalmente se requieren fuerzas de tracción elevadas para remolcar cargas significativas. Para ilustrar la importancia de este parámetro, considérese un ejemplo comparativo: dos locomotoras con idéntica potencia disponible, pero con masas diferentes, presentarán capacidades de remolque significativamente distintas. Específicamente, una locomotora con una masa de 120 toneladas posee una capacidad de remolque de aproximadamente un 50% superior a otra con una masa de 80 toneladas, a pesar de tener ambas la misma potencia nominal.
+El coeficiente de adherencia ($$\phi$$) constituye uno de los factores más relevantes y críticos en la operación de transporte de mercancías, donde generalmente se requieren fuerzas de tracción elevadas para remolcar cargas significativas. Para ilustrar la importancia de este parámetro, considérese un ejemplo comparativo: dos locomotoras con idéntica potencia disponible, pero con masas diferentes, presentarán capacidades de remolque significativamente distintas. Específicamente, una locomotora con una masa de 120 toneladas posee una capacidad de remolque de aproximadamente un 50% superior a otra con una masa de 80 toneladas, a pesar de tener ambas la misma potencia nominal.
 
 $$
 E_{a d h}=P_{a d h} \cdot \phi_{v}
@@ -202,16 +202,16 @@ $$
 
 | TREN | Masa t | a | b | c |
 | :--- | :--- | :--- | :--- | :--- |
-| Locomotora BB | 80 | 1,25 | 0,01 | $3,75 \cdot 10^{-4}$ |
-| Locomotora CC | 120 | 1,2 | 0,01 | $2,50 \cdot 10^{-4}$ |
-| 2 locomotoras +6 coches | 400 | 1,15 | 0,00975 | $2,87 \cdot 10^{-4}$ |
-| Clásico viajeros | Variable | 1,5-2 | 0 | $2,22 \cdot 10^{-4}$ |
-| Mercancías de bogies | Variable | 1,5-2 | 0 | $2,50 \cdot 10^{-4}$ |
-| Clásico mercancías | Variable | 1,5-2 | 0 | $6,25 \cdot 10^{-4}$ |
-| Alaris | 177 | 1,5-2 | 0 | $6,25 \cdot 10^{-4}$ |
-| TGV SudEst | 418 | 0,562 | 0,00739 | $1,28 \cdot 10^{-4}$ |
-| TGV Duplex | 424 | 0,637 | 0,00755 | $1,26 \cdot 10^{-4}$ |
-| ICE 3 Regional | 231 | 0,735 | 0,00654 | $1,47 \cdot 10^{-4}$ |
+| Locomotora BB | 80 | 1,25 | 0,01 | $$3,75 \cdot 10^{-4}$$ |
+| Locomotora CC | 120 | 1,2 | 0,01 | $$2,50 \cdot 10^{-4}$$ |
+| 2 locomotoras +6 coches | 400 | 1,15 | 0,00975 | $$2,87 \cdot 10^{-4}$$ |
+| Clásico viajeros | Variable | 1,5-2 | 0 | $$2,22 \cdot 10^{-4}$$ |
+| Mercancías de bogies | Variable | 1,5-2 | 0 | $$2,50 \cdot 10^{-4}$$ |
+| Clásico mercancías | Variable | 1,5-2 | 0 | $$6,25 \cdot 10^{-4}$$ |
+| Alaris | 177 | 1,5-2 | 0 | $$6,25 \cdot 10^{-4}$$ |
+| TGV SudEst | 418 | 0,562 | 0,00739 | $$1,28 \cdot 10^{-4}$$ |
+| TGV Duplex | 424 | 0,637 | 0,00755 | $$1,26 \cdot 10^{-4}$$ |
+| ICE 3 Regional | 231 | 0,735 | 0,00654 | $$1,47 \cdot 10^{-4}$$ |
 
 Resistencias al avance
 
@@ -221,14 +221,14 @@ $$
 
 | TREN | Masa t | a | b | c |
 | :--- | :--- | :--- | :--- | :--- |
-| S100 | 421 | 0,603 | $8 \cdot 10^{-3}$ | $1,120 \cdot 10^{-4}$ |
-| S102 | 341 | 0,846 | $10 \cdot 10^{-3}$ | $1,149 \cdot 10^{-4}$ |
-| S103 | 485 | 0,736 | $7 \cdot 10^{-3}$ | $1,112 \cdot 10^{-4}$ |
-| S104 | 245 | 1,337 | $10 \cdot 10^{-3}$ | $1,204 \cdot 10^{-4}$ |
-| S120 | 275 | 0,819 | $3 \cdot 10^{-3}$ | $1,164 \cdot 10^{-4}$ |
-| S130 | 343 | 0,831 | $7 \cdot 10^{-3}$ | $1,161 \cdot 10^{-4}$ |
-| S730 (eléctrico) | 354 | 0,903 | $6 \cdot 10^{-3}$ | $1,553 \cdot 10^{-4}$ |
-| S730 (diésel) | 354 | 0,903 | $1,4 \cdot 10^{-2}$ | $1,508 \cdot 10^{-4}$ |
+| S100 | 421 | 0,603 | $$8 \cdot 10^{-3}$$ | $$1,120 \cdot 10^{-4}$$ |
+| S102 | 341 | 0,846 | $$10 \cdot 10^{-3}$$ | $$1,149 \cdot 10^{-4}$$ |
+| S103 | 485 | 0,736 | $$7 \cdot 10^{-3}$$ | $$1,112 \cdot 10^{-4}$$ |
+| S104 | 245 | 1,337 | $$10 \cdot 10^{-3}$$ | $$1,204 \cdot 10^{-4}$$ |
+| S120 | 275 | 0,819 | $$3 \cdot 10^{-3}$$ | $$1,164 \cdot 10^{-4}$$ |
+| S130 | 343 | 0,831 | $$7 \cdot 10^{-3}$$ | $$1,161 \cdot 10^{-4}$$ |
+| S730 (eléctrico) | 354 | 0,903 | $$6 \cdot 10^{-3}$$ | $$1,553 \cdot 10^{-4}$$ |
+| S730 (diésel) | 354 | 0,903 | $$1,4 \cdot 10^{-2}$$ | $$1,508 \cdot 10^{-4}$$ |
 
 ![f6718f5a309b451b8d29d595de2350fb_MD5]({{ site.baseurl }}/assets/images/f6718f5a309b451b8d29d595de2350fb_MD5.webp)
 
@@ -258,7 +258,7 @@ $$
 
 **Resistencia debida a las rampas:**
 
-Cuando un tren debe circular por un tramo inclinado hacia arriba (rampa), debe realizarse trabajo adicional para incrementar la energía potencial del tren. Considerando el esquema habitual que representa una rampa de pendiente $i=\operatorname{tg}(\alpha)$, es posible deducir analíticamente el esfuerzo suplementario que dicha rampa genera durante la circulación de un vehículo. La deducción de esta resistencia es inmediata a partir de consideraciones de equilibrio de fuerzas:
+Cuando un tren debe circular por un tramo inclinado hacia arriba (rampa), debe realizarse trabajo adicional para incrementar la energía potencial del tren. Considerando el esquema habitual que representa una rampa de pendiente $$i=\operatorname{tg}(\alpha)$$, es posible deducir analíticamente el esfuerzo suplementario que dicha rampa genera durante la circulación de un vehículo. La deducción de esta resistencia es inmediata a partir de consideraciones de equilibrio de fuerzas:
 
 ![1c0b8af13e4ab337660b3fae2561aec5_MD5]({{ site.baseurl }}/assets/images/1c0b8af13e4ab337660b3fae2561aec5_MD5.webp)
 
@@ -275,7 +275,7 @@ Esta formulación simplificada permite realizar análisis unificados de las cara
 Resistencias al avance
 ![bdc27a5c5b7afe202c400d1b98a37715_MD5]({{ site.baseurl }}/assets/images/bdc27a5c5b7afe202c400d1b98a37715_MD5.webp)
 
-| $\mathrm{i}(\mathrm{mm} / \mathrm{m})$ | $\mathrm{r}(\mathrm{daN} / \mathrm{t})$ |
+| $$\mathrm{i}(\mathrm{mm} / \mathrm{m})$$ | $$\mathrm{r}(\mathrm{daN} / \mathrm{t})$$ |
 | :---: | :---: |
 | 2 | 2 |
 | 12 | 12 |
@@ -296,7 +296,7 @@ $$
 
 **Resistencia de inercia:**
 
-La resistencia de inercia constituye una resistencia que se opone a todo cambio de velocidad del tren, independientemente de su sentido (aceleración o deceleración). Esta resistencia presenta una característica fundamental: su magnitud depende directamente de la masa total del tren y de la magnitud de la aceleración (o deceleración) que se intenta lograr. Matemáticamente, si se define $a$ como la aceleración expresada en cm/s², la resistencia específica de inercia se calcula mediante la siguiente relación:
+La resistencia de inercia constituye una resistencia que se opone a todo cambio de velocidad del tren, independientemente de su sentido (aceleración o deceleración). Esta resistencia presenta una característica fundamental: su magnitud depende directamente de la masa total del tren y de la magnitud de la aceleración (o deceleración) que se intenta lograr. Matemáticamente, si se define $$a$$ como la aceleración expresada en cm/s², la resistencia específica de inercia se calcula mediante la siguiente relación:
 
 $$
 \begin{aligned}
@@ -307,9 +307,6 @@ $$
 
 Cuando se integran todos estos efectos resistivos en un diagrama esfuerzo-velocidad que representa el comportamiento del tren bajo diferentes condiciones de operación, se obtiene una representación completa del desempeño dinámico disponible:
 
-![3715f672d179dadfd70b952134fea35a_MD5]({{ site.baseurl }}/assets/images/3715f672d179dadfd70b952134fea35a_MD5.webp)
-
-![955d1123b4ab37a1e75f1ccb6fd00d85_MD5]({{ site.baseurl }}/assets/images/955d1123b4ab37a1e75f1ccb6fd00d85_MD5.webp)
 
 ![17796103acc95061d212f447ea94e53f_MD5]({{ site.baseurl }}/assets/images/17796103acc95061d212f447ea94e53f_MD5.webp)
 
@@ -396,23 +393,23 @@ A través de esta condición es posible calcular la carga máxima remolcable por
 | Datos | Tren de viajeros | Tren de mercancías |
 | Locomotora | BB (corriente continua) | BB (monofísica) |
 |  | de 80 t | de 84 t |
-| Rampa | 8\% | 10\% |
+| Rampa | 8% | 10% |
 | Radio de curva |  | 400 m |
 | Resistencia |  |  |
 | especifica al arranque |  |  |
-|  | 2da N/t | $1,5 \mathrm{da} \mathrm{N} / \mathrm{t}$ |
-| Aceleración | $8 \mathrm{~cm} / \mathrm{seg}^{2}$ | $2 \mathrm{~cm} / \mathrm{seg}^{2}$ |
+|  | 2da N/t | $$1,5 \mathrm{da} \mathrm{N} / \mathrm{t}$$ |
+| Aceleración | $$8 \mathrm{~cm} / \mathrm{seg}^{2}$$ | $$2 \mathrm{~cm} / \mathrm{seg}^{2}$$ |
 | Coeficiente de |  |  |
 | Cálculos |  |  |
-| Esfuerzo máximo al arranque | $80 \mathrm{t} \times 0,2=16.000 \mathrm{daN}$ | $84 \mathrm{t} \times 0,35=29.400 \mathrm{daN}$ |
+| Esfuerzo máximo al arranque | $$80 \mathrm{t} \times 0,2=16.000 \mathrm{daN}$$ | $$84 \mathrm{t} \times 0,35=29.400 \mathrm{daN}$$ |
 |  |  |  |
 | Esfuerzo especifico al arranque <br> t | 2 (arranque) + |  |
-|  |  | $\begin{gathered} 1,5 \text { (arranque) + } \\ 2 \text { (aceleración) + } \\ 10 \text { (rampa) + } 2 \text { (curva) } \\ =15,5 \text { da N/t } \end{gathered}$ |
+|  |  | $$\begin{gathered} 1,5 \text { (arranque) + } \\ 2 \text { (aceleración) + } \\ 10 \text { (rampa) + } 2 \text { (curva) } \\ =15,5 \text { da N/t } \end{gathered}$$ |
 |  |  |  |
-| Carga total al arranque (Q + L) (material remolcado | $(\mathrm{Q}+\mathrm{L})=\frac{16.000}{18} \approx 880 t$ | $(\mathrm{Q}+\mathrm{L})=\frac{29.400}{15,5}=1.896 \mathrm{t}$ |
+| Carga total al arranque (Q + L) (material remolcado | $$(\mathrm{Q}+\mathrm{L})=\frac{16.000}{18} \approx 880 t$$ | $$(\mathrm{Q}+\mathrm{L})=\frac{29.400}{15,5}=1.896 \mathrm{t}$$ |
 | + locomotora) |  |  |
 | Carga arrancable (Q) por la locomotora |  |  |
-|  | $\mathrm{Q}=880-80 \mathrm{t}=800 \mathrm{t}$ | $Q=1.896-84=\sim 1.800 t$ |
+|  | $$\mathrm{Q}=880-80 \mathrm{t}=800 \mathrm{t}$$ | $$Q=1.896-84=\sim 1.800 t$$ |
 
 ### I.10. Esfuerzo en gancho
 
@@ -433,7 +430,7 @@ $$
 
 El dimensionamiento de las composiciones ferroviarias requiere conocer la capacidad de remolque máxima de las locomotoras disponibles. Esta capacidad es función de múltiples variables, incluyendo el tipo de vehículos remolcados, la masa unitaria, la longitud de los mismos y su velocidad máxima permitida. En el contexto del transporte de mercancías, estos parámetros adquieren importancia crítica, especialmente cuando se consideran condiciones de arranque en rampas pronunciadas. Se presentan a continuación las características técnicas de los diferentes tipos de vagones, seguidas de las capacidades de remolque específicas para diferentes locomotoras bajo distintas condiciones de operación (pendiente del 12‰ y del 18‰):
 
-**MERCANCÍAS (12 \%o)**
+**MERCANCÍAS (12 %o)**
 
 | LOCOM. | v. мáх. | PESO | LONG. | MÁX. CARGA REMOLCADA | ABIERTOS | CERRADOS | PLATAFORMAS |  |  | TOLVAS | CISTERNAS |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -445,7 +442,7 @@ El dimensionamiento de las composiciones ferroviarias requiere conocer la capaci
 | 252 | 220 | 90 | 20,40 | 1200 | 214 | 291 | 365 | 741 | 269 | 242 | 229 |
 | 253 | 140 | 87 | 18,90 | 1530 | 271 | 371 | 467 | 956 | 343 | 307 | 291 |
 
-MERCANCÍAS $(18 \%)$
+MERCANCÍAS $$(18 %)$$
 
 | LOCOM. | v. MÁx. | PESO | LONG. | MÁX. CARGA REMOLCADA | ABIERTOS | CERRADOS | PLATAFORMAS |  |  | TOLVAS | CISTERNAS |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -483,9 +480,6 @@ En el diagrama representado es posible identificar los siguientes elementos estr
 8. En el kilómetro 28 existe una restricción especial que limita la velocidad a 80 km/h.
 9. En el diagrama de pendientes se pueden identificar dos tramos de pendiente descendente con inclinaciones de 5 y 8 milésimas respectivamente. Dependiendo de la capacidad de frenado disponible, estas pendientes pueden imponer restricciones adicionales de velocidad.
 10. Existen dos tramos con rampa ascendente de 40 milésimas cada uno.
-
-**Análisis de las fases del movimiento en el diagrama:**
-
 11. En la fase inicial, el tren acelera desde velocidad nula hasta alcanzar el límite de velocidad reglamentario de 100 km/h impuesto por la vía.
 12. Una vez alcanzado el límite, el tren mantiene velocidad constante durante un segmento.
 13. Cuando la limitación de velocidad de la vía se incrementa, el tren vuelve a acelerar hasta el nuevo límite de 140 km/h. Es importante notar que la aceleración comienza después del punto de limitación debido a que este limite se aplica a la totalidad del tren (representado por la cabeza del mismo). El maquinista debe esperar hasta que la cola del tren haya rebasado completamente el punto de cambio de limitación antes de iniciar la aceleración.
@@ -494,7 +488,6 @@ En el diagrama representado es posible identificar los siguientes elementos estr
 16. Se mantiene nuevamente el movimiento a velocidad constante.
 17. En este punto inicia el proceso de frenado. La ubicación exacta de este punto depende de varios factores que se analizan posteriormente.
 18. En el punto de entrada a un tramo donde debe reducirse la velocidad, el tren debe estar circulando a la velocidad requerida para ese nuevo segmento. Para lograrlo, debe calcularse adecuadamente el punto de inicio del frenado mediante la intersección de la curva de deceleración con el perfil de velocidades.
-
 19. El tren continúa a velocidad constante durante este segmento posterior.
 20. El tren ejecuta una deceleración hasta alcanzar velocidad de parada (aquí se debería incluir el tiempo de espera programado en la estación).
 21. Tras la parada, el tren acelera nuevamente a la velocidad de salida autorizada de la estación.
@@ -516,7 +509,7 @@ $$
 M^{\prime}=M \cdot f_{p}
 $$
 
-El factor $f_p$ presenta valores típicos entre 1.10 y 1.30 para material motor (vehículos con propulsión), y entre 1.02 y 1.09 para material remolcado (vehículos pasivos sin propulsión).
+El factor $$f_p$$ presenta valores típicos entre 1.10 y 1.30 para material motor (vehículos con propulsión), y entre 1.02 y 1.09 para material remolcado (vehículos pasivos sin propulsión).
 
 La ecuación fundamental del movimiento, modificada para incorporar la masa ficticia, se expresa como:
 
@@ -536,7 +529,7 @@ $$
 \frac{d t}{d v}=M \cdot f_{p} \cdot \frac{1}{F(v)-R(v)} \quad \frac{d s}{d v}=v \cdot M \cdot f_{p} \cdot \frac{1}{F(v)-R(v)}
 $$
 
-Mediante la integración de estas expresiones diferenciales entre la velocidad inicial $v_0$ y la velocidad final $v_1$, es posible obtener el tiempo y la distancia requeridos para la transición entre estos estados:
+Mediante la integración de estas expresiones diferenciales entre la velocidad inicial $$v_0$$ y la velocidad final $$v_1$$, es posible obtener el tiempo y la distancia requeridos para la transición entre estos estados:
 
 $$
 t=\int_{v_{0}}^{v_{1}} M \cdot f_{p} \cdot \frac{1}{F(v)-R(v)} \mathrm{d} v \quad s=\int_{v_{0}}^{v_{1}} v \cdot M \cdot f_{p} \cdot \frac{1}{F(v)-R(v)} \mathrm{d} v
@@ -556,8 +549,8 @@ Para ilustrar la aplicación de estos conceptos, se considera un caso práctico 
 - Peso de los ejes motores (peso adherente): 207.120 daN
 - Potencia total disponible: 3168 kW (equivalente a 3.168.000 julios por segundo)
 - Rendimiento mecánico en llanta: 90% (considerando pérdidas en la transmisión)
-- Coeficiente de adherencia inicial (tren parado): $\phi_{0}=0.3$
-- Factor de inercia ficticia: $f_{p}=1.07$
+- Coeficiente de adherencia inicial (tren parado): $$\phi_{0}=0.3$$
+- Factor de inercia ficticia: $$f_{p}=1.07$$
 
 La expresión para la resistencia al avance específica para este tipo de material es:
 
@@ -606,7 +599,7 @@ $$
 E_{a d h}=P_{a d h} \cdot \phi_{0} \cdot \frac{1}{1+0.01 \cdot v} = F(daN)=100 \cdot 3.6 \cdot Pot(kW) / v(km/h)
 $$
 
-Resolviendo esta ecuación se obtiene: $v_B = 19.8 \text{ km/h} = 5.5 \text{ m/s}$
+Resolviendo esta ecuación se obtiene: $$v_B = 19.8 \text{ km/h} = 5.5 \text{ m/s}$$
 
 **Discretización numérica del proceso de aceleración (fase de control por adherencia):**
 
@@ -639,7 +632,7 @@ Los cálculos para el intervalo completo desde velocidad cero hasta el punto B s
 
 **Transición a la fase de control por potencia:**
 
-A partir de la velocidad del punto B (5.5 m/s o 19.8 km/h), la limitación cambia desde adherencia a potencia. Para verificar que la velocidad final de 100 km/h es alcanzable, se verifica la condición $F \geq R$:
+A partir de la velocidad del punto B (5.5 m/s o 19.8 km/h), la limitación cambia desde adherencia a potencia. Para verificar que la velocidad final de 100 km/h es alcanzable, se verifica la condición $$F \geq R$$:
 
 $$
 F(daN) = 100 \cdot 3.6 \cdot Pot(kW) / v(km/h) = 100 \cdot 3.6 \cdot 3168 \cdot 0.9 / 100 = 10,263 \text{ daN}
@@ -649,13 +642,13 @@ $$
 R = (1.5+0.01 \cdot 100+3 \cdot 10^{-4} \cdot 100^{2}) \cdot 298.340 \cdot 10 / 9.8 = 1,674.5 \text{ daN}
 $$
 
-Como $F > R$, la velocidad de 100 km/h es alcanzable. Se procede entonces con una nueva tabla reemplazando el esfuerzo limitado por adherencia con el esfuerzo limitado por potencia:
+Como $$F > R$$, la velocidad de 100 km/h es alcanzable. Se procede entonces con una nueva tabla reemplazando el esfuerzo limitado por adherencia con el esfuerzo limitado por potencia:
 
 | Vel. Inicial (m/s) | Vel. Final (m/s) | Vel. Media (m/s) | Vel. Media (km/h) | Esf. Trac. (daN) | Resist. (daN) | Esf. Util. (daN) | Acel. (m/s²) | Tiempo (s) | Distancia (m) | Energía (N·m) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.5 | 10 | 7.75 | 27.9 | 36790 | 612.7 | 36177 | 1.111 | 4.05 | 31.40 | 1,155,252 |
 
-| v0 $\mathrm{m} / \mathrm{s}$ | v1 $\mathrm{m} / \mathrm{s}$ | vmedia $\mathrm{m} / \mathrm{s}$ | vmedia km/h | Ftrac daN | Resist daN | Futil daN | aceleración m/s2 | tiempo s | longitud m | Energía N.m |
+| v0 $$\mathrm{m} / \mathrm{s}$$ | v1 $$\mathrm{m} / \mathrm{s}$$ | vmedia $$\mathrm{m} / \mathrm{s}$$ | vmedia km/h | Ftrac daN | Resist daN | Futil daN | aceleración m/s2 | tiempo s | longitud m | Energía N.m |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 5,5 | 10 | 7,75 | 27,9 | 36790 | 612,7 | 36177 | 1,111 | 4,05 | 31,40 | 1155252 |
 | 10 | 15 | 12,5 | 45 | 22810 | 778,6 | 22031 | 0,676 | 7,39 | 92,41 | 2107814 |
@@ -664,7 +657,7 @@ Como $F > R$, la velocidad de 100 km/h es alcanzable. Se procede entonces con un
 | 25 | 27,78 | 26,39 | 95,004 | 10804 | 1570,2 | 9234 | 0,283 | 9,81 | 258,80 | 2796118 |
 | Total |  |  |  |  |  |  |  | 46,23 | 891,44 | 13182296 |
 
-- Por lo tanto, el tren alcanza los $100 \mathrm{~km} / \mathrm{h}$ en 49 sg y recorre 892 metros.
+- Por lo tanto, el tren alcanza los $$100 \mathrm{~km} / \mathrm{h}$$ en 49 sg y recorre 892 metros.
 
 | v0 m/s | v1 m/s | vmedia m/s | vmedia km/h | Fadh daN | Resist daN | Futil daN | a m/s2 | tiempo s | longitud m |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -677,7 +670,7 @@ Como $F > R$, la velocidad de 100 km/h es alcanzable. Se procede entonces con un
 | 4 | 5,5 | 4,75 | 17,1 | 53062 | 535,4 | 52527 | 1,613 | 0,93 | 4,42 |
 |  |  |  |  |  |  | Total |  | 3,20 | 9,05 |
 
-| v0 $\mathrm{m} / \mathrm{s}$ | v1 $\mathrm{m} / \mathrm{s}$ | vmedia $\mathrm{m} / \mathrm{s}$ | vmedia km/h | Ftrac daN | Resist daN | Futil daN | aceleración m/s2 | tiempo s | longitud m |
+| v0 $$\mathrm{m} / \mathrm{s}$$ | v1 $$\mathrm{m} / \mathrm{s}$$ | vmedia $$\mathrm{m} / \mathrm{s}$$ | vmedia km/h | Ftrac daN | Resist daN | Futil daN | aceleración m/s2 | tiempo s | longitud m |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 5,5 | 10 | 7,75 | 27,9 | 36790 | 612,7 | 36177 | 1,111 | 4,05 | 31,40 |
 | 10 | 15 | 12,5 | 45 | 22810 | 778,6 | 22031 | 0,676 | 7,39 | 92,41 |
@@ -704,17 +697,17 @@ Sin embargo, existen consideraciones prácticas importantes en ciertos escenario
 
 #### II.1.4. Proceso de frenado
 
-En el análisis simplificado del frenado con deceleración constante, se pueden emplear ecuaciones analíticas directas. Bajo la hipótesis de una deceleración $\gamma$ constante durante la maniobra de frenado, la distancia requerida para desacelerar desde una velocidad inicial $v_0$ hasta la parada es:
+En el análisis simplificado del frenado con deceleración constante, se pueden emplear ecuaciones analíticas directas. Bajo la hipótesis de una deceleración $$\gamma$$ constante durante la maniobra de frenado, la distancia requerida para desacelerar desde una velocidad inicial $$v_0$$ hasta la parada es:
 
 $$
 s=\frac{1}{2} \cdot \frac{v_{0}^{2}}{\gamma}
 $$
 
-En la operación ferroviaria práctica, los valores de deceleración $\gamma$ utilizados en los cálculos vienen predeterminados para diferentes tipos de frenado, considerando el confort de los viajeros y la capacidad técnica de los sistemas de frenado disponibles:
+En la operación ferroviaria práctica, los valores de deceleración $$\gamma$$ utilizados en los cálculos vienen predeterminados para diferentes tipos de frenado, considerando el confort de los viajeros y la capacidad técnica de los sistemas de frenado disponibles:
 
-- Trenes suburbanos (frenado estándar): $\gamma = 0.525 \text{ m/s}^2$
-- Trenes de viajeros de largo recorrido (frenado confortable): $\gamma = 0.375 \text{ m/s}^2$
-- Trenes de mercancías (frenado conservador): $\gamma = 0.225 \text{ m/s}^2$
+- Trenes suburbanos (frenado estándar): $$\gamma = 0.525 \text{ m/s}^2$$
+- Trenes de viajeros de largo recorrido (frenado confortable): $$\gamma = 0.375 \text{ m/s}^2$$
+- Trenes de mercancías (frenado conservador): $$\gamma = 0.225 \text{ m/s}^2$$
 
 Para el dimensionamiento correcto de los perfiles de velocidad en un recorrido, es esencial conocer la máxima velocidad permitida en el segmento de línea subsecuente. Esta velocidad futura determina la velocidad máxima de salida permitida en la sección actual, influyendo en las maniobras de frenado requeridas.
 
@@ -726,32 +719,32 @@ $$
 
 **Casos operacionales en el frenado:**
 
-Si la distancia de frenado requerida $s_b$ es inferior a la longitud total de la sección, entonces la sección se puede descomponer en dos partes: una primera parte circulando a velocidad máxima constante, seguida de una segunda parte aplicando la curva de frenado desde $v_{max}$ hasta $v_{exit}$, con longitud exacta de $s_b$.
+Si la distancia de frenado requerida $$s_b$$ es inferior a la longitud total de la sección, entonces la sección se puede descomponer en dos partes: una primera parte circulando a velocidad máxima constante, seguida de una segunda parte aplicando la curva de frenado desde $$v_{max}$$ hasta $$v_{exit}$$, con longitud exacta de $$s_b$$.
 
-Si, por el contrario, la distancia de frenado $s_b$ es igual o superior a la longitud total de la sección $s_{sec}$, entonces no es posible mantener la velocidad máxima durante la sección. En este caso, debe determinarse la velocidad máxima de entrada a la sección $v_{entr}$ que permita alcanzar la velocidad requerida de salida respetando los límites de deceleración:
+Si, por el contrario, la distancia de frenado $$s_b$$ es igual o superior a la longitud total de la sección $$s_{sec}$$, entonces no es posible mantener la velocidad máxima durante la sección. En este caso, debe determinarse la velocidad máxima de entrada a la sección $$v_{entr}$$ que permita alcanzar la velocidad requerida de salida respetando los límites de deceleración:
 
 $$
 v_{entr}=\sqrt{2 \cdot \gamma \cdot s_{sec}+v_{exit}^{2}}
 $$
 
-Es importante destacar que si la velocidad máxima permitida en la sección actual $v_{max}$ resulta ser mayor que la velocidad de entrada calculada $v_{entr}$, entonces la velocidad máxima de salida de la sección anterior debe igualarse a $v_{entr}$. 
+Es importante destacar que si la velocidad máxima permitida en la sección actual $$v_{max}$$ resulta ser mayor que la velocidad de entrada calculada $$v_{entr}$$, entonces la velocidad máxima de salida de la sección anterior debe igualarse a $$v_{entr}$$. 
 
 Debido a estas interdependencias, es práctica estándar en ingeniería ferroviaria determinar los perfiles de frenado trabajando en orden inverso a la dirección de marcha: iniciando desde la última sección del recorrido y avanzando progresivamente hacia atrás. Este enfoque asegura que las restricciones aguas arriba se ajusten correctamente a los requerimientos aguas abajo.
 ![035040f6b896af1ddd06cef2c908bf80_MD5]({{ site.baseurl }}/assets/images/035040f6b896af1ddd06cef2c908bf80_MD5.webp)
 
 **CASO 1: Sección con velocidad máxima constante alcanzada en dicha sección**
 
-En este escenario operacional, la sección de línea considerada es suficientemente larga para que el tren pueda acelerar desde la velocidad de entrada y alcanzar la velocidad máxima permitida, manteniéndola posteriormente durante una porción del segmento. El perfil de velocidades en este caso consta de tres fases: aceleración desde $v_{entrada}$ hasta $v_{max}$, movimiento a velocidad constante $v_{max}$, y finalmente frenado desde $v_{max}$ hasta $v_{salida}$.
+En este escenario operacional, la sección de línea considerada es suficientemente larga para que el tren pueda acelerar desde la velocidad de entrada y alcanzar la velocidad máxima permitida, manteniéndola posteriormente durante una porción del segmento. El perfil de velocidades en este caso consta de tres fases: aceleración desde $$v_{entrada}$$ hasta $$v_{max}$$, movimiento a velocidad constante $$v_{max}$$, y finalmente frenado desde $$v_{max}$$ hasta $$v_{salida}$$.
 
 **CASO 2: Velocidad de salida menor que la máxima; distancia de aceleración superior a la longitud de la sección**
 
-En este caso, la sección de línea no es lo suficientemente larga para permitir que el tren alcance su velocidad máxima. Esto ocurre cuando la distancia requerida para acelerar desde la velocidad de entrada hasta la velocidad máxima excede la longitud total disponible de la sección. Como resultado, el tren acelera continuamente durante toda la sección sin alcanzar la velocidad máxima, llegando a una velocidad intermedia de salida menor que $v_{max}$.
+En este caso, la sección de línea no es lo suficientemente larga para permitir que el tren alcance su velocidad máxima. Esto ocurre cuando la distancia requerida para acelerar desde la velocidad de entrada hasta la velocidad máxima excede la longitud total disponible de la sección. Como resultado, el tren acelera continuamente durante toda la sección sin alcanzar la velocidad máxima, llegando a una velocidad intermedia de salida menor que $$v_{max}$$.
 
 **CASO 3: Sección de frenado con intersección de curvas**
 
 En este escenario, la sección constituye primariamente un segmento de frenado. El tren ingresa a la sección con una cierta velocidad y debe reducir su velocidad para cumplir con los requisitos de velocidad máxima de la siguiente sección. Las curvas de aceleración/deceleración se intersectan dentro de la sección, lo que significa que el tren ejecuta una maniobra de frenado modulada para alcanzar la velocidad requerida exactamente en el punto de transición con la siguiente sección.
 
-![5a66e9b3cca5d6df5cd7bcdac84ef6e5_MD5]({{ site.baseurl }}/assets/images/5a66e9b3cca5d6df5cd7bcdac84ef6e5_MD5.webp)
+![5a66e9b3cca5d6df5cd7bcdac84ef6e5_MD5]({{ site.baseurl }}/assets/images/Gemini_Generated_Image_srktv5srktv5srkt.png)
 
 **Tiempo necesario para acelerar y frenar (minutos)**
 
@@ -796,16 +789,16 @@ El margen suplementario, en contraste, representa un incremento temporal reserva
 
 **A) TRENES DE VIAJEROS NO AUTOMOTORES**
 
-- Un mínimo de 1,5 minutos $/ 100 \mathrm{~km}$ mayorado en base al siguiente criterio
-V. limite $\leq 140 \mathrm{~km} / \mathrm{h} \quad 141-160 \mathrm{~km} / \mathrm{h} \quad 161-200 \mathrm{~km} / \mathrm{h} \quad>200 \mathrm{~km} / \mathrm{h}$ Tonelaje
+- Un mínimo de 1,5 minutos $$/ 100 \mathrm{~km}$$ mayorado en base al siguiente criterio
+V. limite $$\leq 140 \mathrm{~km} / \mathrm{h} \quad 141-160 \mathrm{~km} / \mathrm{h} \quad 161-200 \mathrm{~km} / \mathrm{h} \quad>200 \mathrm{~km} / \mathrm{h}$$ Tonelaje
 
-| $\leq 300 \mathrm{t}$ | 3\% | 3\% | 4\% | 5\% |
+| $$\leq 300 \mathrm{t}$$ | 3% | 3% | 4% | 5% |
 | :--- | :--- | :--- | :--- | :--- |
-| 301-500 t | 4\% | 4\% | 5\% | \% |
-| 501-700 t | 4\% | 5\% | 6\% | \% |
-| $>700 \mathrm{t}$ | 5\% | 5\% | 6\% | 7\% |
+| 301-500 t | 4% | 4% | 5% | % |
+| 501-700 t | 4% | 5% | 6% | % |
+| $$>700 \mathrm{t}$$ | 5% | 5% | 6% | 7% |
 
-- Un mínimo de al menos 3,5 minutos $/ 100 \mathrm{~km}$
+- Un mínimo de al menos 3,5 minutos $$/ 100 \mathrm{~km}$$
 
 **B) TRENES DE VIAJEROS AUTOMOTORES**
 
@@ -837,7 +830,7 @@ El segundo enfoque examina el balance energético integral del tren considerando
 
 Para ilustrar el enfoque instantáneo de cálculo energético, considérese el ejemplo anterior de análisis de aceleración. El consumo de energía se obtiene multiplicando la fuerza de tracción aplicada en cada intervalo por la distancia recorrida durante ese intervalo. Las dos tablas siguientes presentan el desglose detallado del consumo energético durante dos fases distintas de aceleración:
 
-| v0 $\mathrm{m} / \mathrm{s}$ | v1 $\mathrm{m} / \mathrm{s}$ | vmedia $\mathrm{m} / \mathrm{s}$ | vmedia km/h | Fadh daN | Resist daN | Futil daN | a m/s2 | tiempo s | longitud m | Energía $\mathrm{N} \cdot \mathrm{m}$ |
+| v0 $$\mathrm{m} / \mathrm{s}$$ | v1 $$\mathrm{m} / \mathrm{s}$$ | vmedia $$\mathrm{m} / \mathrm{s}$$ | vmedia km/h | Fadh daN | Resist daN | Futil daN | a m/s2 | tiempo s | longitud m | Energía $$\mathrm{N} \cdot \mathrm{m}$$ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0 | 1 | 0,5 | 1,8 | 61037 | 462,4 | 60575 | 1,860 | 0,54 | 0,27 | 164113 |
 | 1 | 2 | 1,5 | 5,4 | 58953 | 475,7 | 58477 | 1,795 | 0,56 | 0,84 | 492583 |
@@ -846,7 +839,7 @@ Para ilustrar el enfoque instantáneo de cálculo energético, considérese el e
 | 4 | 5,5 | 4,75 | 17,1 | 53062 | 535,4 | 52527 | 1,613 | 0,93 | 4,42 | 2344544 |
 | Total |  |  |  |  |  |  |  | 3,20 | 9,05 | 4973377 |
 
-| v0 $\mathrm{m} / \mathrm{s}$ | v1 $\mathrm{m} / \mathrm{s}$ | vmedia $\mathrm{m} / \mathrm{s}$ | vmedia km/h | Ftrac daN | Resist daN | Futil daN | aceleración m/s2 | tiempo s | longitud m | Energía $\mathrm{N} \cdot \mathrm{m}$ |
+| v0 $$\mathrm{m} / \mathrm{s}$$ | v1 $$\mathrm{m} / \mathrm{s}$$ | vmedia $$\mathrm{m} / \mathrm{s}$$ | vmedia km/h | Ftrac daN | Resist daN | Futil daN | aceleración m/s2 | tiempo s | longitud m | Energía $$\mathrm{N} \cdot \mathrm{m}$$ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 5,5 | 10 | 7,75 | 27,9 | 36790 | 612,7 | 36177 | 1,111 | 4,05 | 31,40 | 11552520 |
 | 10 | 15 | 12,5 | 45 | 22810 | 778,6 | 22031 | 0,676 | 7,39 | 92,41 | 21078135 |
@@ -855,23 +848,25 @@ Para ilustrar el enfoque instantáneo de cálculo energético, considérese el e
 | 25 | 27,78 | 26,39 | 95,004 | 10804 | 1570,2 | 9234 | 0,283 | 9,81 | 258,80 | 27961182 |
 | Total |  |  |  |  |  |  |  | 46,23 | 891,44 | 131822956 |
 
-- Según esto, la energía consumida de tracción en el trayecto es de 136,8 •106 $\mathrm{N} \cdot \mathrm{m}$, esto es 38 kWh .
+Según esto, la energía consumida de tracción en el trayecto es de 136,8 •106 $$\mathrm{N} \cdot \mathrm{m}$$, esto es 38 kWh .
 
-- La energía para acelerar el tren puede proceder:
+La energía para acelerar el tren puede proceder:
 - del motor de tracción
 - de la pérdida de energía potencial (al bajar una pendiente).
-- Cuando se reduce la energía cinética (se decelera el tren) la energía puede emplearse:
+
+Cuando se reduce la energía cinética (se decelera el tren) la energía puede emplearse:
 - en vencer la resistencia al avance;
 - en subir una rampa;
 - disiparse en el freno (ésta es la que verdaderamente se pierde).
 
-- Si el tren pudiera almacenar energía sin restricciones, el consumo de energía en llantas sería sólo el necesario para vencer la resistencia al avance, porque:
+Si el tren pudiera almacenar energía sin restricciones, el consumo de energía en llantas sería sólo el necesario para vencer la resistencia al avance, porque:
 - Toda la energía consumida para acelerar el tren se almacenaría al reducir la velocidad.
-- La totalidad de la $E_{\text {pot }}$ recibida en las subidas se podría recuperar en las bajadas: no habría consumo neto de energía exterior por este concepto.
-- Si no se pudiese almacenar, ni aprovechar nada de la $E_{\text {cin }}$ ni de la $E_{\text {pot }}$, el consumo de energía de un tren sería:
-- energía para vencer la resistencia al avance $\left(R_{\text {av }}\right)+$
--     + energía para acelerarlo todas las veces en que deba aumentar su $V+$
--     + energía para subir todas las rampas del recorrido.
+- La totalidad de la $$E_{\text {pot }}$$ recibida en las subidas se podría recuperar en las bajadas: no habría consumo neto de energía exterior por este concepto.
+
+Si no se pudiese almacenar, ni aprovechar nada de la $$E_{\text {cin }}$$ ni de la $$E_{\text {pot }}$$, el consumo de energía de un tren sería:
+- energía para vencer la resistencia al avance $$\left(R_{\text {av }}\right)+$$
+- energía para acelerarlo todas las veces en que deba aumentar su $$V+$$
+- energía para subir todas las rampas del recorrido.
 
 El conocimiento indirecto de la energía que ha entrado en el tren se obtiene mediante la aplicación del principio fundamental de conservación de la energía. La formulación básica establece que la energía entrada en el sistema es equivalente a la suma de la energía que sale del mismo, más la energía que se acumula dentro del tren en forma de potencial gravitatorio o cinético, considerando además las pérdidas inherentes al rendimiento de los sistemas mecánicos y eléctricos.
 
@@ -887,17 +882,17 @@ Para obtener la energía final requerida en el pantógrafo o punto de carga, es 
 
 ### III.6. Energía que sale del tren
 
-- Energía por resistencia mecánica al avance
+**Energía por resistencia mecánica al avance**
 
+- en recta:
 $$
 \begin{aligned}
-& \text { en recta: } \\
 & E_{\text {rAvance } R}(k W h)=A(d a N) \cdot L\left(k m_{\text {linea }}\right) \cdot \frac{1}{360} \\
 & \text { donde: } \quad A(d a N)=\left(M_{\text {carg }}(t) \cdot 0,25\right)+\left(N_{\text {ejes }} \cdot 7\right)
 \end{aligned}
 $$
 
-- Energía por resistencia en curvas de radio R:
+- en curvas de radio R:
 
 $$
 E_{r A v a n c e C u r v}(k W h)=L\left(k m_{l i n e a}\right) \cdot M(t) \cdot a_{c u r} \cdot \frac{1}{360}
@@ -921,23 +916,23 @@ $$
 
 La circulación de aire a través de los sistemas de climatización y ventilación del tren genera una resistencia adicional que debe superarse durante el movimiento. Este consumo energético es proporcional tanto al volumen de aire procesado como a la velocidad de circulación del tren. La energía requerida viene expresada mediante:
 
-$E_{\text{entradaaire}}(kWh)=B(daN/km/h) \cdot V(km/h) \cdot L_{\text{linea}}(km) \cdot \frac{1}{360}$
+$$E_{\text{entradaaire}}(kWh)=B(daN/km/h) \cdot V(km/h) \cdot L_{\text{linea}}(km) \cdot \frac{1}{360}$$
 
 donde el coeficiente B se determina por:
 
-$B(daN/km/h)=Q(m^{3}/s) \cdot \rho \cdot \frac{1}{36} \approx 0,034 \cdot Q(m^{3}/s)$
+$$B(daN/km/h)=Q(m^{3}/s) \cdot \rho \cdot \frac{1}{36} \approx 0,034 \cdot Q(m^{3}/s)$$
 
 **Ejemplo práctico: Tren 103 Madrid-Barcelona**
 
 Considérese el caso de un servicio de tracción de alta velocidad Madrid-Barcelona, que presenta un consumo energético total de aproximadamente 11.561 kWh. En este recorrido, el sistema de entrada de aire (con caudal volumétrico de 99,70 m³/s) supone una energía consumida de:
 
 $$
-3,39 \text{ daN}/(km/h) \times 198 \text{ km/h} \times 620 \text{ km} \times 1/360 = 1.155 \text{ kWh (9,99\%)}
+3,39 \text{ daN}/(km/h) \times 198 \text{ km/h} \times 620 \text{ km} \times 1/360 = 2.264 \text{ kWh (19,58%)}
 $$
 
 Este resultado evidencia que la resistencia aerodinámica por entrada de aire representa aproximadamente el 10% del consumo total en este servicio específico.
 
-Energía **Aerodinámica** que sale del tren.
+**Energía Aerodinámica que sale del tren.**
 
 
 $$
@@ -950,13 +945,13 @@ $$
 C\left(d a N /(k m / h)^{2}\right) \cong c_{p} \cdot S_{f}\left(m^{2}\right)+c_{f} \cdot p_{m o j}(m) \cdot L_{t r e n}(m)
 $$
 
-- Energía para vencer resistencia aerodinámica adicional en túnel:
+**Energía para vencer resistencia aerodinámica adicional en túnel:**
 
 $$
 E_{\text {tunel }}=E_{\text {adbierto }}(k W h) \cdot \frac{L_{\text {tunel }}}{L_{\text {linea }}} \cdot\left(T_{f}-1\right)
 $$
 
-|  | $\mathrm{C}_{\mathrm{p}}$ | $\mathrm{C}_{\mathrm{f}}$ |
+|  | $$\mathrm{C}_{\mathrm{p}}$$ | $$\mathrm{C}_{\mathrm{f}}$$ |
 | :---: | :---: | :---: |
 | AV | 0,00096 | 0,000021 |
 | Convencional | 0,0022 | 0,0003 |
@@ -981,7 +976,7 @@ $$N^{\circ}_{\text{paradas equiv}} = N^{\circ}_{\text{paradas comerciales}} + 1_
 
 Este análisis permite desagregar el consumo total entre estaciones: qué energía se consume en acelerar desde parada, qué energía se disipa en frenados, y qué energía representa la circulación en los tramos de velocidad constante.
 
-Vel. Máx $200 \mathrm{~km} / \mathrm{h}$
+Vel. Máx $$200 \mathrm{~km} / \mathrm{h}$$
 ![74ac02a942602f7211fbb6ab90fc6610_MD5]({{ site.baseurl }}/assets/images/74ac02a942602f7211fbb6ab90fc6610_MD5.webp)
 
 |  | km | Velocidades N (max 300km/h) | Reducciones (max300km/h) |
@@ -1027,10 +1022,10 @@ $$
 - Energía cinética disipada por el freno en pendientes:
 
 
-| ![4df550cf5c02011e77d907b1635a5a41_MD5]({{ site.baseurl }}/assets/images/4df550cf5c02011e77d907b1635a5a41_MD5.webp)| (1) Si $\mathrm{p}<\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Es necesario traccionar para mantener $\mathrm{V}_{\text {max }}$ |
+| ![4df550cf5c02011e77d907b1635a5a41_MD5]({{ site.baseurl }}/assets/images/4df550cf5c02011e77d907b1635a5a41_MD5.webp)| (1) Si $$\mathrm{p}<\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$$ <br> Es necesario traccionar para mantener $$\mathrm{V}_{\text {max }}$$ |
 | :--- | :--- |
-| ![20dd86e1e5548bad8e666b18ab00f89c_MD5]({{ site.baseurl }}/assets/images/20dd86e1e5548bad8e666b18ab00f89c_MD5.webp)| $\text { (2) Si } \mathrm{p}=\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Mantiene $\mathrm{V}_{\text {max }}$ sin traccionar ni frenar |
-| ![e31fba4901d35427f86912fd8537d164_MD5]({{ site.baseurl }}/assets/images/e31fba4901d35427f86912fd8537d164_MD5.webp)| (3) Si $\mathrm{p}>\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$ <br> Es necesario frenar para no rebasar $\mathrm{V}_{\max .} \rightarrow$ Entonces se pierde energía |
+| ![20dd86e1e5548bad8e666b18ab00f89c_MD5]({{ site.baseurl }}/assets/images/20dd86e1e5548bad8e666b18ab00f89c_MD5.webp)| $$\text { (2) Si } \mathrm{p}=\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$$ <br> Mantiene $$\mathrm{V}_{\text {max }}$$ sin traccionar ni frenar |
+| ![e31fba4901d35427f86912fd8537d164_MD5]({{ site.baseurl }}/assets/images/e31fba4901d35427f86912fd8537d164_MD5.webp)| (3) Si $$\mathrm{p}>\mathrm{pe}_{\mathrm{V}_{\text {max }}}=\mathrm{a}+\mathrm{bV}_{\text {max }}+\mathrm{cV}_{\text {max }}^{2}$$ <br> Es necesario frenar para no rebasar $$\mathrm{V}_{\max .} \rightarrow$$ Entonces se pierde energía |
 
 
 
@@ -1039,24 +1034,24 @@ Pendiente de equilibrio -9.875
 
 | km inicio | Valor (mm) |
 | ---: | ---: |
-| 0,000 | $-1,46$ |
-| 0,266 | $-2,99$ |
-| 0,505 | $-0,59$ |
-| 0,556 | $-8,05$ |
-| 0,826 | $-14,02$ |
-| 1,113 | $-9,99$ |
-| 1,388 | $-10,05$ |
-| 1,755 | $-7,71$ |
-| 1,815 | $-10,09$ |
-| 1,920 | $-12,36$ |
-| 1,985 | $-8,83$ |
-| 2,472 | $-9,19$ |
-| 3,823 | $-1,13$ |
-| 4,097 | $-11,99$ |
+| 0,000 | $$-1,46$$ |
+| 0,266 | $$-2,99$$ |
+| 0,505 | $$-0,59$$ |
+| 0,556 | $$-8,05$$ |
+| 0,826 | $$-14,02$$ |
+| 1,113 | $$-9,99$$ |
+| 1,388 | $$-10,05$$ |
+| 1,755 | $$-7,71$$ |
+| 1,815 | $$-10,09$$ |
+| 1,920 | $$-12,36$$ |
+| 1,985 | $$-8,83$$ |
+| 2,472 | $$-9,19$$ |
+| 3,823 | $$-1,13$$ |
+| 4,097 | $$-11,99$$ |
 | 4,546 | 11,7 |
-| 5,075 | $-6,14$ |
+| 5,075 | $$-6,14$$ |
 | 5,756 | 9,17 |
-| 6,122 | $-12,46$ |
+| 6,122 | $$-12,46$$ |
 Exceso de altura (mm/km)|
 
 
@@ -1092,22 +1087,22 @@ Considérese un ejemplo práctico: en un tren de 300 plazas con consumo caracter
 | Longitud | km | 621,00 | 621,00 | 621,00 |
 | Longitud de túneles | km | 47,45 | 47,45 | 47,45 |
 | Factor de túnel (Tf) |  | 1,50 | 1,50 | 1,50 |
-| Tensión de alimentación | kV | $2 \times 25 \mathrm{kV}$ CA | $2 \times 25 \mathrm{kV}$ CA | $2 \times 25 \mathrm{kV}$ CA |
+| Tensión de alimentación | kV | $$2 \times 25 \mathrm{kV}$$ CA | $$2 \times 25 \mathrm{kV}$$ CA | $$2 \times 25 \mathrm{kV}$$ CA |
 | Diferencia del altitud (Hd-Ho) | m | 0,00 | 0,00 | 0,00 |
 | Coeficiente de curvas | daN/t | 0,12 | 0,12 | 0,12 |
-| Exceso específico pendientes | $\mathrm{mm} / \mathrm{km}$ | 1240,97 | 1824,75 | 4510,86 |
+| Exceso específico pendientes | $$\mathrm{mm} / \mathrm{km}$$ | 1240,97 | 1824,75 | 4510,86 |
 | Velocidad media del viento exterior | km/h | 10 | 10 | 10 |
 | Características del servicio |  |  |  |  |
 | Velocidad máxima (sin paradas) | km/h | 300,00 | 250,00 | 120,00 |
 | Tiempo de viaje en el recorrido | min | 158,00 | 189,60 | 395,00 |
 | Velocidad media (sin paradas) | km/h | 235,82 | 196,52 | 94,33 |
-| \% aprovechamiento s/plazas estándar | \% | 0,65 | 0,65 | 0,65 |
+| % aprovechamiento s/plazas estándar | % | 0,65 | 0,65 | 0,65 |
 | Densidad de plazas y servicios |  | 1,00 | 1,00 | 1,00 |
-| Paradas comerciales (sin contar la final) | $N^{\circ}$ | 0,00 | 0,00 | 0,00 |
+| Paradas comerciales (sin contar la final) | $$N^{\circ}$$ | 0,00 | 0,00 | 0,00 |
 | Paradas comerciales equivalentes |  | 1,00 | 1,00 | 1,00 |
-| Paradas técnicas programadas | $N^{\circ}$ | 0,00 | 0,00 | 0,00 |
-| Paradas técnicas no programadas | $N^{\circ}$ | 0,10 | 0,10 | 0,10 |
-| Paradas equivalentes por reducción de | $N^{\circ}$ | 0,10 | 0,00 | 0,00 |
+| Paradas técnicas programadas | $$N^{\circ}$$ | 0,00 | 0,00 | 0,00 |
+| Paradas técnicas no programadas | $$N^{\circ}$$ | 0,10 | 0,10 | 0,10 |
+| Paradas equivalentes por reducción de | $$N^{\circ}$$ | 0,10 | 0,00 | 0,00 |
 | Tiempo medio parada comercial | min | 2,00 | 2,00 | 2,00 |
 | Velocidad origen de las paradas |  | 258,28 | 215,24 | 103,31 |
 
@@ -1115,33 +1110,33 @@ Considérese un ejemplo práctico: en un tren de 300 plazas con consumo caracter
 | :--- | :--- | :--- | :--- | :--- |
 | Velocidad máxima | km/h | 350 | 250 | 120 |
 | Potencia total del tren | kW | 8800 | 4800 | 2200 |
-| Masa en vacío | $t$ | 425 | 312 | 157,3 |
-| Masas rotativas equivalentes | $t$ | 40,05 | 15,41 | 11,01 |
-| Tensión de funcionamiento | kV | $2 \times 25 \mathrm{kV}$ CA | $2 \times 25 \mathrm{kV}$ CA | $2 \times 25 \mathrm{kV}$ CA |
+| Masa en vacío | $$t$$ | 425 | 312 | 157,3 |
+| Masas rotativas equivalentes | $$t$$ | 40,05 | 15,41 | 11,01 |
+| Tensión de funcionamiento | kV | $$2 \times 25 \mathrm{kV}$$ CA | $$2 \times 25 \mathrm{kV}$$ CA | $$2 \times 25 \mathrm{kV}$$ CA |
 | Plazas reales | plazas | 404 | 298 | 997 |
 | Coeficiente A (resistencia mecánica) | daN | 337,0762 | 222,6758 | 126,55 |
 | Coeficiente B (resistencia entrada de aire) | daN/(km/h) | 3,7603 | 2,4039 | 1,5314 |
 | Coeficiente C (resistencia aerodinámica) | daN/(km/h)2 | 0,056361 | 0,0482798 | 0,021696 |
 | Superficie útil bruta | m2 | 525,09 | 359,68 | 254,05 |
 | Tipo de motor | 0 | Asíncrono AC | Asíncrono AC | Asíncrono AC |
-| Potencia de cada motor eléctrico de tracción | $k W$ | 550 | 632 | 320 |
-| Deceleración del freno de servicio | $\mathrm{m} / \mathrm{s} 2$ | 0,54 | 0,6 | 0,6 |
+| Potencia de cada motor eléctrico de tracción | $$k W$$ | 550 | 632 | 320 |
+| Deceleración del freno de servicio | $$\mathrm{m} / \mathrm{s} 2$$ | 0,54 | 0,6 | 0,6 |
 | Rendimiento cadena de tracción | kWhs/kWhe | 0,87 | 0,87 | 0,87 |
 | Rendimiento de auxiliares | kWhs/kWhe | 0,85 | 0,85 | 0,85 |
 | Procedencia de la alimentación de auxiliares |  | Catenaria | Catenaria | Catenaria |
 | Tiene aire acondicionado? | booleano | 1 | 1 | 1 |
-| Coeficiente de transmisión de calor (K) | $\mathrm{W} / \mathrm{m} 2^{\circ} \mathrm{C}$ | 1,6 | 1,6 | 1,6 |
+| Coeficiente de transmisión de calor (K) | $$\mathrm{W} / \mathrm{m} 2^{\circ} \mathrm{C}$$ | 1,6 | 1,6 | 1,6 |
 | Consumo iluminación | kWh/h m2 | 0,05 | 0,05 | 0,05 |
 | Consumo climatización | kWh/h m2 | 0,2 | 0,2 | 0,2 |
-| Potencia auxiliares técnicos | $k W$ | 50 | 50 | 50 |
+| Potencia auxiliares técnicos | $$k W$$ | 50 | 50 | 50 |
 | Masa cargado | toneladas | 446,008 | 327,496 | 209,144 |
 
 |  |  | AVE MPA-BAR 300 | AVE MPA-BAR 250 | AVE MPA-BAR 120 |
 | :--- | :--- | :--- | :--- | :--- |
 | Consumo directo de energía final |  | s103 | s130 | s465 (Civia) |
 | Energía para vencer resistencia mecánica al avance en recta | kWh | 581,46 | 384,12 | 218,30 |
-| Energía para vencer la resistencia adicional al avance en curvas | $k W h$ | 88,94 | 65,31 | 41,71 |
-| Energía para vencer la resistencia de la entrada aire | $k W h$ | 1.529,67 | 814,91 | 249,19 |
+| Energía para vencer la resistencia adicional al avance en curvas | $$k W h$$ | 88,94 | 65,31 | 41,71 |
+| Energía para vencer la resistencia de la entrada aire | $$k W h$$ | 1.529,67 | 814,91 | 249,19 |
 | Energía para vencer la resistencia aerodinámica en cielo abierto | kWh | 6.485,83 | 3.858,24 | 399,47 |
 | Energía adicional para vencer la resistencia aerodinámica en túnel | kWh | 247,78 | 147,40 | 15,26 |
 | Energía adicional para vencer la resistencia aerodinámica debida al viento exterior | kWh | 1,80 | 1,54 | 0,69 |
@@ -1149,11 +1144,11 @@ Considérese un ejemplo práctico: en un tren de 300 plazas con consumo caracter
 | Energía cinética empleada en vencer la resistencia al avance | kWh | 45,41 | 15,35 | 0,73 |
 | Energía cinética disipada en reducciones de velocidad (-empleada resistencia al avance) sin conduccion econonomica | kWh | 370,71 | 171,92 | 26,97 |
 | Energía potencial disipada en el freno en pendientes sin conducción económica | kWh | 936,62 | 1.011,27 | 1.596,48 |
-| Energía potencial consumida por dif. de altitud entre extremos | $k W h$ | 0,00 | 0,00 | 0,00 |
+| Energía potencial consumida por dif. de altitud entre extremos | $$k W h$$ | 0,00 | 0,00 | 0,00 |
 | Energía consumida por los aux. comerciales (iluminación) | kWh | 69,14 | 56,83 | 83,62 |
 | Energía consumida por los aux. comerciales (climatización) | kWh | 276,55 | 227,32 | 334,50 |
-| Energia consumida por los auxiliares técnicos | $k W h$ | 92,17 | 110,60 | 230,42 |
-| Energía (útil) consumida en llantas y auxiliares | $\boldsymbol{k W h}$ | 10.680,65 | 6.849,46 | 3.196,61 |
+| Energia consumida por los auxiliares técnicos | $$k W h$$ | 92,17 | 110,60 | 230,42 |
+| Energía (útil) consumida en llantas y auxiliares | $$\boldsymbol{k W h}$$ | 10.680,65 | 6.849,46 | 3.196,61 |
 | Perdidas en la locomotora tracción (por rendimiento) | kWh | 1.530,53 | 964,50 | 380,75 |
 | Pérdidas en la alimentacion de auxiliares | kWh | 77,27 | 69,66 | 114,45 |
 | Energía (final) importada en pantógrafo (o boca entrada depósito gasóleo) | kWh | 12.288,45 | 7.883,61 | 3.691,80 |
@@ -1215,17 +1210,17 @@ Los espaciamientos típicos de subestaciones en sistemas ferroviarios establecen
 
 ![5632acc7940dcaa506b6f3d496d9b127_MD5]({{ site.baseurl }}/assets/images/5632acc7940dcaa506b6f3d496d9b127_MD5.webp)
 
-Para sistemas de transporte urbano como metros, donde la infraestructura es más compacta y los requisitos de entrega de energía son mayores, los espaciamientos se reducen significativamente hasta valores que oscilan entre $2-7 \mathrm{Km}$.
+Para sistemas de transporte urbano como metros, donde la infraestructura es más compacta y los requisitos de entrega de energía son mayores, los espaciamientos se reducen significativamente hasta valores que oscilan entre $$2-7 \mathrm{Km}$$.
 
 La siguiente tabla presenta una compilación normalizada de los niveles de tensión característicos de los principales sistemas de electrificación ferroviaria a nivel mundial, estableciendo los rangos mínimos y máximos operacionales permitidos:
 
 | Sistema de electrificación | Tensión no permanente minima Umńn.2(V) | Tensión permanente minima Umin. 1 (V) | Tensión nominal Un (V) | Tensión no permanente máxima Umáx1 (V) | Tensión no permanente máxima U máx. 2 (V) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Corriente continua (valores medios) |  | 400 | $600{ }^{1)}$ | 720 | $770{ }^{2)}$ |
-|  |  | 500 | 750 | 900 | $950{ }^{3)}$ |
+| Corriente continua (valores medios) |  | 400 | $$600{ }^{1)}$$ | 720 | $$770{ }^{2)}$$ |
+|  |  | 500 | 750 | 900 | $$950{ }^{3)}$$ |
 |  |  | 1000 | 1500 | 1800 | 1950 |
 |  |  | 2000 | 3000 | 3600 | 3900 |
-| Corriente alterna (valores eficaces) | 11000 | 12000 | 15000 | 17250 | $18000{ }^{\text {4) }}$ |
+| Corriente alterna (valores eficaces) | 11000 | 12000 | 15000 | 17250 | $$18000{ }^{\text {4) }}$$ |
 |  | 17500 | 19000 | 25000 | 27500 | 29000 |
 
 
@@ -1284,18 +1279,42 @@ Múltiples variaciones constructivas de contacto han sido desarrolladas a lo lar
 
 El pantógrafo constituye el componente mecánico e eléctrico crítico que realiza la captura y recepción de corriente desde la línea de alimentación hacia el vehículo ferroviario. Este dispositivo se encuentra firmemente asegurado a la estructura superior de la locomotora o del coche motor, extendiéndose verticalmente hacia arriba en dirección a la catenaria. Un aspecto ingenieril fundamental en el diseño del pantógrafo radica en su aislamiento eléctrico respecto al resto de la estructura metálica del vehículo, lo cual se logra mediante la incorporación de aisladores de porcelana de alta especificación que impiden el flujo no controlado de corriente hacia el chasis del tren.
 
-Desde la perspectiva de la dinámica de contacto, la interacción entre el pantógrafo y el hilo de contacto de la catenaria genera fuerzas mecánicas de considerable magnitud. El pantógrafo ejerce una presión normal sobre la catenaria en el rango de $300-400 \mathrm{~N}$, lo que es necesario para garantizar un contacto eléctrico confiable y de baja resistencia, pero que simultáneamente genera efectos de desgaste en ambas superficies en contacto.
+Desde la perspectiva de la dinámica de contacto, la interacción entre el pantógrafo y el hilo de contacto de la catenaria genera fuerzas mecánicas de considerable magnitud. El pantógrafo ejerce una presión normal sobre la catenaria en el rango de $$300-400 \mathrm{~N}$$, lo que es necesario para garantizar un contacto eléctrico confiable y de baja resistencia, pero que simultáneamente genera efectos de desgaste en ambas superficies en contacto.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EYamtZruCYE?si=2Oe1jbulDX2_wNpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Para mitigar los efectos perjudiciales del desgaste localizado excesivo en los elementos de contacto conocidos como pletinas (superficies de contacto del pantógrafo), se ha adoptado una estrategia de distribución lateral de cargas mediante la implantación de la catenaria según un patrón de zig-zag perpendicular al eje longitudinal de la vía. Esta configuración alternante produce que el pantógrafo, durante su movimiento a lo largo de la línea, realice un contacto secuencial con diferentes posiciones laterales del hilo de contacto, distribuyendo de esta manera el desgaste sobre una superficie más extensa y prolongando significativamente la vida útil de ambos componentes.
 
+## Preguntas de repaso
+
+<div class="flashcard-container">
+{% include flashcard.html
+   question="¿Cuál es la ecuación fundamental del movimiento longitudinal de un tren?"
+   answer="Es $$E-R=\frac{P}{g} \cdot \gamma$$, donde **E** es el esfuerzo de tracción, **R** las resistencias, **P** el peso y **$$\gamma$$** la aceleración."
+%}
+{% include flashcard.html
+   question="¿De qué variables depende principalmente el límite de adherencia para evitar el patinado?"
+   answer="Depende del **peso adherente** ($$P_{adh}$$) y del **coeficiente de adherencia** ($$\phi$$), según la relación $$F \leq \phi \cdot P_{adh}$$."
+%}
+{% include flashcard.html
+   question="¿Cuáles son los tres componentes principales de la resistencia al avance de un tren?"
+   answer="Las **resistencias mecánicas** (rodadura y rozamientos), la resistencia por **entrada de aire** y las **resistencias aerodinámicas** (presión y fricción)."
+%}
+{% include flashcard.html
+   question="¿Qué cuatro elementos fundamentales constituyen el circuito de tracción eléctrica?"
+   answer="La **subestación** (fuente), la **catenaria** (conductor de alimentación), la **locomotora** (consumidor) y el **carril** (conductor de retorno)."
+%}
+{% include flashcard.html
+   question="¿Por qué la catenaria rígida requiere mucha menor distancia entre apoyos (10-12m) que la flexible?"
+   answer="Porque el carril rígido tiene un **peso mucho mayor** que el cable flexible, lo que requiere más puntos de apoyo para evitar deformaciones estructurales."
+%}
+</div>
 
 ## Bibliografía
 
 - Díaz de Villegas, J.M. (2003) Ferrocarriles. Apuntes de clase. E.T.S. Ing. Caminos, Canales y Puertos Santander.
 - García Álvarez, A. (2022) Manual de ferrocarriles. El sistema ferroviario español. Ed. Garceta.
-- M. Melis y F. Gonzalez, Ferrocarriles metropolitanos. Tranvías, metros ligeros y metros convencionales. $3^{\mathrm{a}} \mathrm{Ed}$., Colegio de Ingenieros de Caminos, Canales y Puertos., 2008.
+- M. Melis y F. Gonzalez, Ferrocarriles metropolitanos. Tranvías, metros ligeros y metros convencionales. $$3^{\mathrm{a}} \mathrm{Ed}$$., Colegio de Ingenieros de Caminos, Canales y Puertos., 2008.
 - Proyecto ElecRail. [En línea]. Available: http://www.investigacionffe.es/elecrail_publicaciones.asp.
 - Gonzalez Franco, I. (2021) Apuntes de Dinámica del ferrocarril: Esfuerzos de tracción y resistencias al avance. Modelos de Cálculo de Energía Consumida. Máster en Ingeniería Ferroviaria UC-Mafex.
 - https://www.tool.es/web/SimulaFFCC.html
