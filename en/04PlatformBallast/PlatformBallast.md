@@ -2,7 +2,7 @@
 layout: home   # or 'Inicio', or 'home', whatever your main index uses
 title: 4. Subgrade and Ballast
 lang: en          # <--- THIS IS THE KEY PART
-permalink: /en/04PlatformBallast/   # Fixed to avoid conflict
+permalink: /en/04SubgradeBallast/   # Fixed to avoid conflict
 nav_order: 4
 parent: Start
 ---
@@ -125,9 +125,9 @@ In the graphical representation presented below, the most recurrent pathologies 
 
 ![519cd99da0d451b238c4eb444ef45992_MD5]({{ site.baseurl }}/assets/images/519cd99da0d451b238c4eb444ef45992_MD5.webp)
 
-#### II.2.2. Solutions to Old Platform Problems
+#### II.2.2. Solutions to Old Subgrade Problems
 
-To face the diversity of pathologies affecting these old platforms, specific engineering strategies adapted to each type of identified problem have been developed and applied. The technical procedures usually employed are detailed below:
+To face the diversity of pathologies affecting these old subgrades, specific engineering strategies adapted to each type of identified problem have been developed and applied. The technical procedures usually employed are detailed below:
 
 **A. Landslides in cuts:**
 These problems require a multifaceted approach including:
@@ -152,7 +152,7 @@ Water management requires continuous interventions:
 
 **D and E. Clay pockets and soil decomposition:**
 To restore bearing capacity, the following are implemented:
-1. Installation of drainage systems (drains) under the platform and on its sides.
+1. Installation of drainage systems (drains) under the subgrade and on its sides.
 2. Soil improvements through multiple techniques: removal of incompetent material, contribution of graded aggregates, placement of geotextiles, supply of sands, stabilization with lime, cement injections, etc.
 3. Improvement and integral redesign of ditches.
 4. Lowering of lateral walkways and establishment of specific systems for elimination of accumulated water.
@@ -165,13 +165,13 @@ The solution to these critical problems requires:
 4. Sanitation systems through longitudinal or transverse drainage screens.
 5. Complete recomposition of the embankment through contribution of improved aggregates and elimination of primitive soils.
 
-### II.3. New Construction Platforms
+### II.3. New Construction Subgrades
 
-In the process of design and specification of the most appropriate platform for a new railway line, it is essential to collect and analyze a set of fundamental technical data that will determine the characteristics of the constructive solution:
+In the process of design and specification of the most appropriate subgrade for a new railway line, it is essential to collect and analyze a set of fundamental technical data that will determine the characteristics of the constructive solution:
 
 - **Geotechnical quality of existing natural soil**: Determination through stratigraphic studies of **bearing capacity** and compressibility characteristics of the ground.
 - **Technical category of the line to be built**: Function of the maximum planned operating speed and the expected volume of traffic.
-- **Desired bearing capacity**: The target **CBR (California Bearing Ratio)** index value for the finished platform.
+- **Desired bearing capacity**: The target **CBR (California Bearing Ratio)** index value for the finished subgrade.
 
 **1. Determination of soil quality:**
 
@@ -217,21 +217,21 @@ Where parameters are defined according to:
 
 **3. Choice of bearing capacity:**
 
-According to the bearing capacity desired in the treated soil, the different platform options are classified into three differentiated groups:
+According to the bearing capacity desired in the treated soil, the different subgrade options are classified into three differentiated groups:
 
-- **P1**: Bad platforms, with CBR index $$<5$$ (limited bearing capacity)
-- **P2**: Medium platforms, with CBR index comprised between $$5<\mathrm{CBR}<20$$ (moderate bearing capacity)
-- **P3**: Good platforms, with CBR index $$>20$$ (excellent bearing capacity)
+- **P1**: Bad subgrades, with CBR index $$<5$$ (limited bearing capacity)
+- **P2**: Medium subgrades, with CBR index comprised between $$5<\mathrm{CBR}<20$$ (moderate bearing capacity)
+- **P3**: Good subgrades, with CBR index $$>20$$ (excellent bearing capacity)
 
-The decision matrix presented below develops the design process to obtain the desired platform (P1, P2, or P3) through the construction of the capping layer (upper stratum of the platform) from untreated or previously improved soil (categories QS0, QS1, QS2, or QS3).
+The decision matrix presented below develops the design process to obtain the desired subgrade (P1, P2, or P3) through the construction of the capping layer (upper stratum of the subgrade) from untreated or previously improved soil (categories QS0, QS1, QS2, or QS3).
 
 ### II.4. Formation (Capping) Layer Thickness (UIC 719 R)
 
-The dimensioning of the **capping layer** forming the upper stratum of the platform requires consulting standardized design matrices relating initial soil quality to thickness and characteristics of materials to be used. The following **UIC 719 R** table specifies minimum thicknesses required to obtain different levels of bearing capacity:
+The dimensioning of the **capping layer** forming the upper stratum of the subgrade requires consulting standardized design matrices relating initial soil quality to thickness and characteristics of materials to be used. The following **UIC 719 R** table specifies minimum thicknesses required to obtain different levels of bearing capacity:
 
-**BEARING CAPACITY OF A PLATFORM**
+**BEARING CAPACITY OF A SUBGRADE**
 
-| Support Soil Quality | Capping layer to constitute to obtain a platform with determined bearing capacity |  | Bearing capacity obtained in the platform |
+| Support Soil Quality | Capping layer to constitute to obtain a subgrade with determined bearing capacity |  | Bearing capacity obtained in the subgrade |
 | :--- | :--- | :--- | :--- |
 |  | Soil Quality | Minimum Thickness in m |  |
 | QS1 | QS1 | - | P1 |
@@ -242,7 +242,7 @@ The dimensioning of the **capping layer** forming the upper stratum of the platf
 |  | QS3 | 0.35 | P3 |
 | QS3 | QS3 | - | P3 |
 
-This table should be interpreted as follows: If existing natural soil belongs to category QS1 (bad) and it is desired to obtain a class P3 platform (good), it is necessary to construct a capping layer with QS3 quality material with a minimum thickness of 50 centimeters.
+This table should be interpreted as follows: If existing natural soil belongs to category QS1 (bad) and it is desired to obtain a class P3 subgrade (good), it is necessary to construct a capping layer with QS3 quality material with a minimum thickness of 50 centimeters.
 
 ### II.5. Formation (Capping) Layer Thickness (NRV 3-4-1.0)
 
@@ -250,7 +250,7 @@ The current Spanish regulation established by the railway administration (**Renf
 
 **N.R.V. 3-4-1.0 - CAPPING LAYER THICKNESS ACCORDING TO SOIL QUALITY AND REQUIRED LOAD CLASS**
 
-| SUPPORT SOIL QUALITY | CAPPING LAYER TO OBTAIN THE PLATFORM LOAD CAPACITY CLASS, MARKED BY THIS TABLE |  | PLATFORM LOAD CAPACITY CLASS |
+| SUPPORT SOIL QUALITY | CAPPING LAYER TO OBTAIN THE SUBGRADE LOAD CAPACITY CLASS, MARKED BY THIS TABLE |  | SUBGRADE LOAD CAPACITY CLASS |
 | :--- | :--- | :--- | :--- |
 |  | SOIL QUALITY | MINIMUM THICKNESS IN METERS |  |
 | Q S1 | Q SI | - | P. 1 |
@@ -264,9 +264,9 @@ The current Spanish regulation established by the railway administration (**Renf
 
 Where bearing capacity classifications are defined as:
 
-- **P. 1** : $$\mathrm{CBR} \leq 5$$ (Low bearing capacity platform)
-- **P. 2** : $$5<C B R \leq 20$$ (Medium bearing capacity platform)
-- **P. 3** : $$20<C B R$$ (High bearing capacity platform)
+- **P. 1** : $$\mathrm{CBR} \leq 5$$ (Low bearing capacity subgrade)
+- **P. 2** : $$5<C B R \leq 20$$ (Medium bearing capacity subgrade)
+- **P. 3** : $$20<C B R$$ (High bearing capacity subgrade)
 
 Observing both norms, it is appreciated that the Spanish NRV specification introduces the concept of **"fine soil treated with binders"** as an economizing alternative for thickness when working with deficient soils, allowing thickness reduction through stabilization with cement or lime.
 
@@ -276,7 +276,7 @@ The determination of the optimal thickness that the ballast layer must present c
 
 The **ballast layer thickness** is primarily determined by operational parameters: the total number of trains circulating daily, the maximum load transported by each vehicle axle, and the operating speed of compositions, all of which are synthesized in the concept of line category (recalling that this category is determined through the concept of **fictitious daily traffic Tf** calculated previously).
 
-Additionally, the required thickness depends on soil quality or more precisely on the quality achieved after platform formation. However, once the **P3 type (excellent bearing capacity)** platform configuration has been reached, ballast thickness will depend mainly on the line category, in accordance with the following standardized values:
+Additionally, the required thickness depends on soil quality or more precisely on the quality achieved after subgrade formation. However, once the **P3 type (excellent bearing capacity)** subgrade configuration has been reached, ballast thickness will depend mainly on the line category, in accordance with the following standardized values:
 
 - **Group 1A** (maximum traffic and speed): $$e=45$$ centimeters
 - **Group 1B**: $$e=40$$ centimeters
@@ -291,9 +291,9 @@ The value of ballast and sub-ballast layer thicknesses is established respecting
 - The minimum thickness of the sub-ballast layer must be at least half of the total thickness e indicated in the chart. When ballast thickness must be greater than half of e, sub-ballast thickness will be proportionally increased by the same amount.
 - In high-speed railway lines (exceeding 200 km/h), total thickness e must not descend below 60 centimeters in normal circumstances, although exceptionally the value of 50 centimeters may be adopted in justified cases.
 - Capping layer thickness must correspond to values specified in previous tables.
-- Depending on technical platform quality achieved, specific seating layers indicated in ADIF Standard 2-1-0.1 must be arranged.
+- Depending on technical subgrade quality achieved, specific seating layers indicated in ADIF Standard 2-1-0.1 must be arranged.
 
-To determine these optimal thicknesses in existing track renewals, it is imperative to previously know the bearing capacity of the current platform and improve it when technically feasible, as better results are obtained by improving this bearing capacity than simply providing greater thickness in the ballast layer.
+To determine these optimal thicknesses in existing track renewals, it is imperative to previously know the bearing capacity of the current subgrade and improve it when technically feasible, as better results are obtained by improving this bearing capacity than simply providing greater thickness in the ballast layer.
 
 ![a66cd8b1e7faf33c68111d224638fbc7_MD5]({{ site.baseurl }}/assets/images/a66cd8b1e7faf33c68111d224638fbc7_MD5.webp)
 ![a6d30c9e859c0fae9f14e6042b8956e0_MD5]({{ site.baseurl }}/assets/images/a6d30c9e859c0fae9f14e6042b8956e0_MD5.webp)
@@ -312,22 +312,22 @@ Legend:
 To ensure the railway track optimally develops its functions and maintains service durability, it is necessary to adequately dimension all layers constituting the ballast bed based on operational parameters of each line. N.R.V. 3-4-1.0 regulation provides detailed specifications for seating layer thicknesses:
 
 ![4961e64e23622a23bd2b44fc34aa30d4_MD5]({{ site.baseurl }}/assets/images/4961e64e23622a23bd2b44fc34aa30d4_MD5.webp)
-This matrix allows determining, based on load capacity class achieved in the platform and support soil quality, which railway category groups are compatible with each combination.
+This matrix allows determining, based on load capacity class achieved in the subgrade and support soil quality, which railway category groups are compatible with each combination.
 
 ## Chapter III The Ballast Bed (Banqueta)
 
 The **ballast bed** constitutes the **layer of granular material** that forms the immediate support surface on which the entire structural framework of the track (the set formed by sleepers, rails, and fastening systems joining both elements) is arranged. This layer is typically composed of selected aggregates that envelop the sleepers and keep them embedded, with component materials varying according to regional availability: sands, improved soils, gravel, ballast of distinct characteristics, slag from crushed steel industries, and other aggregates compatible with technical requirements.
 {: .highlight }
 
-Geometrically, the cross-section of the ballast bed presents a characteristic trapezoidal shape, with the larger base resting on the platform and specific dimensions described in subsequent figures (in this context referring specifically to beds constituted by ballast). The capacity of the ballast bed to maintain sleepers in their relative position is achieved primarily through internal friction generated between constituent aggregates, complemented by friction produced between sleepers and these same materials.
+Geometrically, the cross-section of the ballast bed presents a characteristic trapezoidal shape, with the larger base resting on the subgrade and specific dimensions described in subsequent figures (in this context referring specifically to beds constituted by ballast). The capacity of the ballast bed to maintain sleepers in their relative position is achieved primarily through internal friction generated between constituent aggregates, complemented by friction produced between sleepers and these same materials.
 
 The ballast bed must fulfill a series of critical functional missions for safe and efficient operation:
 
 - **Bracing and stability**: Keep sleepers properly braced and by extension rails fastened to them, preventing unwanted longitudinal movements and transverse movements compromising track gauge, constantly maintaining longitudinal leveling and horizontal alignment of the track.
 - **Impact damping**: Damp and dissipate dynamic actions of trains on the track assembly, reducing transmission of impulsive loads.
-- **Load distribution**: Distribute vertical loads applied by sleepers onto the platform gradually and homogeneously.
-- **Drainage and water evacuation**: Facilitate water passage through the aggregate matrix so it is efficiently evacuated from the platform, thus avoiding formation of puddles and potholes that could undo the ballast bed structure.
-- **Platform protection**: Protect the platform from frost effects and decomposition of its upper capping layer.
+- **Load distribution**: Distribute vertical loads applied by sleepers onto the subgrade gradually and homogeneously.
+- **Drainage and water evacuation**: Facilitate water passage through the aggregate matrix so it is efficiently evacuated from the subgrade, thus avoiding formation of puddles and potholes that could undo the ballast bed structure.
+- **Subgrade protection**: Protect the subgrade from frost effects and decomposition of its upper capping layer.
 - **Geometry maintenance**: Allow, through simple and economically viable maintenance works, recovery of track alignment and leveling when these characteristics degrade due to use (tampable beds with vibro-tampers).
 - **Shape recovery**: Allow the ballast bed to recover its initial geometry through simple profiling works so the track continues maintaining its technical characteristics throughout its utilization cycle (profilable beds).
 
@@ -342,7 +342,7 @@ Dimensioning and technical configuration of the ballast bed require clear identi
 Each of these elements is technically defined according to:
 
 - **Top level layer (Capa de enrase)**: The upper surface defining the external profile of ballast volume constituting the bed, situated at specific depth under rail bottom level.
-- **Capping layer (Capa de forma)**: The platform termination stratum located immediately under the ballast bed, constituting the interface between ballast and improved or natural soil.
+- **Capping layer (Capa de forma)**: The subgrade termination stratum located immediately under the ballast bed, constituting the interface between ballast and improved or natural soil.
 - **Ballast shoulder (Hombro)**: The horizontal distance measured between upper edge of the ballast bed and nearest point of track rail (generally outer foot).
 - **Slope (Derrame)**: The inclined lateral surface of the ballast bed, determined by natural angle of repose of aggregate material constituting the bed (natural slope).
 - **Sur-ballast (Sobrebanqueta)**: An additional elevation of ballast material arranged specifically to reinforce and stabilize the lateral shoulder of the bed.
@@ -602,19 +602,19 @@ After test, ballast is classified according to visible damages:
 
 ## Chapter V Sub-ballast
 
-Sub-ballast is denominated as layer of granular material located strategically between ballast bed and platform, being constituted by aggregates presenting significantly lower technical demands compared to those of ballast properly speaking.
+Sub-ballast is denominated as layer of granular material located strategically between ballast bed and subgrade, being constituted by aggregates presenting significantly lower technical demands compared to those of ballast properly speaking.
 
-Historical origin of sub-ballast use comes from economic use of old ballast material resulting from renewals or modernizations of existing railway lines. In these rehabilitation works, procedure consisted of spreading old ballast (already worn and degraded) over new or improved platform, and over this bed of recycled material new virgin ballast bed was arranged. When this procedure demonstrated favorable technical results in terms of drainage, platform protection and load distribution, it consolidated as standard practice including sub-ballast layer even in construction of completely new lines.
+Historical origin of sub-ballast use comes from economic use of old ballast material resulting from renewals or modernizations of existing railway lines. In these rehabilitation works, procedure consisted of spreading old ballast (already worn and degraded) over new or improved subgrade, and over this bed of recycled material new virgin ballast bed was arranged. When this procedure demonstrated favorable technical results in terms of drainage, subgrade protection and load distribution, it consolidated as standard practice including sub-ballast layer even in construction of completely new lines.
 
 ### V.1. Main functions of Sub-ballast
 
 Technical functions of sub-ballast are complementary but distinct to those of upper ballast. Main missions include:
 
-- **Platform protection against erosion**: Constitutes protective shield of platform upper part against erosive damages resulting both from direct punching of upper ballast elements (which, with their sharp edges, tend to penetrate soft materials), and from destructive impact of rainwater flow during intense precipitation episodes.
+- **Subgrade protection against erosion**: Constitutes protective shield of subgrade upper part against erosive damages resulting both from direct punching of upper ballast elements (which, with their sharp edges, tend to penetrate soft materials), and from destructive impact of rainwater flow during intense precipitation episodes.
 
-- **Protection against frost cycles**: Protects platform from detrimental effects of repeated freezing and thawing cycles, which would otherwise cause progressive disintegration of platform material, especially in cold climatic zones.
+- **Protection against frost cycles**: Protects subgrade from detrimental effects of repeated freezing and thawing cycles, which would otherwise cause progressive disintegration of subgrade material, especially in cold climatic zones.
 
-- **Spatial load distribution**: Participates in distribution of loads transmitted from track superstructure, ensuring that in upper part of platform only mechanical stress values technically admissible considering geotechnical bearing capacity of specific soil are reached.
+- **Spatial load distribution**: Participates in distribution of loads transmitted from track superstructure, ensuring that in upper part of subgrade only mechanical stress values technically admissible considering geotechnical bearing capacity of specific soil are reached.
 
 Thickness and characteristics of sub-ballast are conditioned by multiple interdependent factors:
 
@@ -634,16 +634,16 @@ Thickness and characteristics of sub-ballast are conditioned by multiple interde
    answer="The **Public Domain Zone** (8 m), the **Servitude Zone** (Easement) (20 m) and the **Affection Zone** (Vicinity) (50 m), measured from the outer edge of the formation."
 %}
 {% include flashcard.html
-   question="What two main functions must the railway platform fulfill?"
+   question="What two main functions must the railway subgrade fulfill?"
    answer="It must have sufficient **bearing capacity** to support static and dynamic loads, and ensure effective **drainage** of waters."
 %}
 {% include flashcard.html
-   question="What is the CBR index and what is it used for in platform design?"
-   answer="It is the **California Bearing Ratio**, an index measuring soil bearing capacity and serving to classify platform quality (P1, P2, P3)."
+   question="What is the CBR index and what is it used for in subgrade design?"
+   answer="It is the **California Bearing Ratio**, an index measuring soil bearing capacity and serving to classify subgrade quality (P1, P2, P3)."
 %}
 {% include flashcard.html
    question="What is the main function of the sub-ballast layer?"
-   answer="Protect the platform from erosion and frost, besides collaborating in load distribution towards the ground."
+   answer="Protect the subgrade from erosion and frost, besides collaborating in load distribution towards the ground."
 %}
 </div>
 

@@ -2,7 +2,7 @@
 layout: home
 title: 14. Project
 lang: en
-permalink: /en/14Proyecto/
+permalink: /en/14DesignAndConstruction/
 nav_order: 14
 parent: Start
 ---

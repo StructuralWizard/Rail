@@ -79,7 +79,7 @@ This parameter changes notably with the process of tamping (packing) the ballast
 
 ### I.4. ELASTICITY COEFFICIENT
 
-The railway track infrastructure is composed of an integrated system of multiple layers and materials, each of which presents differentiated individual elastic characteristics (support platform, ballast layer, sleepers, rails, fastenings, etc.). For each of these constituent components, it is possible to assign a specific elasticity coefficient denoted as $$\boldsymbol{r}_{\boldsymbol{n}}$$, which is established by definition as follows:
+The railway track infrastructure is composed of an integrated system of multiple layers and materials, each of which presents differentiated individual elastic characteristics (support subgrade, ballast layer, sleepers, rails, fastenings, etc.). For each of these constituent components, it is possible to assign a specific elasticity coefficient denoted as $$\boldsymbol{r}_{\boldsymbol{n}}$$, which is established by definition as follows:
 
 $$
 r_{n}=\frac{R}{y_{n}}
@@ -99,27 +99,27 @@ In accordance with various studies and experimental records obtained in railway 
 | **Concrete sleeper**     | $$1200 - 1500$$      | Significantly stiffer than wood.                  |
 | **Wooden sleeper**       | $$50 - 80$$          | Higher elasticity than concrete.                  |
 | **Tamped ballast**       | $$10 - 30$$          | Increases with thickness and decreases over time. |
-| **Rocky platform**       | $$2 - 8$$            | -                                                 |
-| **Clay platform**        | $$1.5 - 2$$          | -                                                 |
-| **Swampy platform**      | $$0.5 - 1.5$$        | The component with the lowest stiffness.          |
+| **Rocky subgrade**       | $$2 - 8$$            | -                                                 |
+| **Clay subgrade**        | $$1.5 - 2$$          | -                                                 |
+| **Swampy subgrade**      | $$0.5 - 1.5$$        | The component with the lowest stiffness.          |
 
-From a perspective of the global behavior of the track structure, it is precisely the ballast and the support platform that are the elements exerting the most determining influence on the elastic characteristics of the complete railway infrastructure set.
+From a perspective of the global behavior of the track structure, it is precisely the ballast and the support subgrade that are the elements exerting the most determining influence on the elastic characteristics of the complete railway infrastructure set.
 
 $$
 y=\sum_{n} y_{n}=\sum_{n} \frac{R}{r_{n}}=R \cdot \sum_{n} \frac{1}{r_{n}}=\frac{R}{r}
 $$
 
-The consolidated reaction coefficient representing the entire structure can fluctuate within a fairly wide range comprised between $$\mathbf{1.5 - 1 0}$$ t/mm, depend essentially on the characteristics and properties of the ballast material used and the geological nature and composition of the underlying platform. The value most commonly found in conventional railway engineering projects is approximately $$\mathbf{3}$$ t/mm.
+The consolidated reaction coefficient representing the entire structure can fluctuate within a fairly wide range comprised between $$\mathbf{1.5 - 1 0}$$ t/mm, depend essentially on the characteristics and properties of the ballast material used and the geological nature and composition of the underlying subgrade. The value most commonly found in conventional railway engineering projects is approximately $$\mathbf{3}$$ t/mm.
 
 In special contexts, such as structures built on civil works, bridges, or other artworks, notably higher values are obtained within the range $$12-15$$ t/mm, evidencing a significant difference in stiffness properties.
 
-It should be highlighted that the platform is the component presenting the lowest elastic coefficient in the load transmission chain, which is why the specific pressure exerted at the level of this platform becomes the parameter that fundamentally conditions the total track settlement. This pressure on the platform results to be lower the greater the thickness of the ballast layer interposed between it and the upper structure.
+It should be highlighted that the subgrade is the component presenting the lowest elastic coefficient in the load transmission chain, which is why the specific pressure exerted at the level of this subgrade becomes the parameter that fundamentally conditions the total track settlement. This pressure on the subgrade results to be lower the greater the thickness of the ballast layer interposed between it and the upper structure.
 
 ### I.5. Load Classification
 
 Railway infrastructure constitutes a system subjected to a heterogeneous set of mechanical stresses of diverse nature. These loads can be classified according to their direction and sense of application into the following main categories:
 
-**Vertical Loads:** These are applied on the running surface of the rail and are transmitted towards the lower ground layers through the chain of track structural components, including sleepers, ballast, and platform.
+**Vertical Loads:** These are applied on the running surface of the rail and are transmitted towards the lower ground layers through the chain of track structural components, including sleepers, ballast, and subgrade.
 
 **Transverse Loads:** Initially transferred from the wheel-rail contact towards the rails, which can be effected solely through the running surface (when there is no contact of the wheel flanges with the rail) or involving simultaneously the running surface and mainly the wheel flanges (when lateral movement causes flange contact). Subsequently, these loads propagate towards the lower structures through intermediate components such as fastenings, base plates, and sleepers.
 
@@ -302,7 +302,7 @@ $$
 In this expression:
 $$\mathrm{j}=1,2$$ : Subscript indicating each of the two wheels composing a wheelset.
 
-The historical evolution of railway systems has demonstrated that increasingly higher speeds, combined with progressive increases in vehicle weight and greater stiffness of infrastructure components, generate a substantial increase in the magnitude of dynamic effects, resulting in a significant increase in stresses transmitted to the track superstructure, the seating platform, and vehicle components.
+The historical evolution of railway systems has demonstrated that increasingly higher speeds, combined with progressive increases in vehicle weight and greater stiffness of infrastructure components, generate a substantial increase in the magnitude of dynamic effects, resulting in a significant increase in stresses transmitted to the track superstructure, the seating subgrade, and vehicle components.
 
 From a methodological perspective, the precise calculation of dynamic forces continues to be a problem of considerable analytical complexity, frequently intractable by purely analytical methods. In professional practice, most analyses are limited to simplified quasi-static approximations. However, the predominant approach in modern engineering consists of adopting empirical methodologies grounded in experimental measurement data (Giannakos, 2014, 2016).
 
